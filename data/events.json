@@ -1,0 +1,62 @@
+[
+  {
+    "id": "evt-1",
+    "title": "Veranos de la Villa — Open-air concerts",
+    "date": "15 Jul",
+    "day": "15",
+    "month": "JUL",
+    "venue": "Multiple venues",
+    "category": "Music",
+    "free": false
+  },
+  {
+    "id": "evt-2",
+    "title": "Noche de Museos — Free museum night",
+    "date": "17 Jul",
+    "day": "17",
+    "month": "JUL",
+    "venue": "Citywide",
+    "category": "Culture",
+    "free": true
+  },
+  {
+    "id": "evt-3",
+    "title": "San Lorenzo Festival — Lavapiés street party",
+    "date": "18 Jul",
+    "day": "18",
+    "month": "JUL",
+    "venue": "Lavapiés",
+    "category": "Food",
+    "free": true
+  },
+  {
+    "id": "evt-4",
+    "title": "Real Madrid vs. Atlético — LaLiga derby",
+    "date": "20 Jul",
+    "day": "20",
+    "month": "JUL",
+    "venue": "Santiago Bernabéu",
+    "category": "Sport",
+    "free": false
+  },
+  {
+    "id": "evt-5",
+    "title": "Tapas tasting at Mercado de San Miguel",
+    "date": "19 Jul",
+    "day": "19",
+    "month": "JUL",
+    "venue": "Mercado de San Miguel",
+    "category": "Food",
+    "free": false
+  },
+  {
+    "id": "evt-6",
+    "title": "Family Sunday at Retiro Park",
+    "date": "21 Jul",
+    "day": "21",
+    "month": "JUL",
+    "venue": "Retiro Park",
+    "category": "Family",
+    "free": true
+  }
+]

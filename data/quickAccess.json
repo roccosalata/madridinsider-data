@@ -1,0 +1,72 @@
+[
+  {
+    "id": "qa-1",
+    "title": "Madrid Metro Map",
+    "description": "Navigate the 12 lines, 300+ stations.",
+    "emoji": "🚇",
+    "href": "#essentials"
+  },
+  {
+    "id": "qa-2",
+    "title": "Top 10 Tapas Bars",
+    "description": "Where the locals actually go.",
+    "emoji": "🍷",
+    "href": "#do"
+  },
+  {
+    "id": "qa-3",
+    "title": "Free Things to Do",
+    "description": "Best of Madrid at zero cost.",
+    "emoji": "🆓",
+    "href": "#see"
+  },
+  {
+    "id": "qa-4",
+    "title": "Day Trips",
+    "description": "Toledo, Segovia, Ávila, El Escorial.",
+    "emoji": "🚆",
+    "href": "#see"
+  },
+  {
+    "id": "qa-5",
+    "title": "Where to Stay",
+    "description": "Neighborhoods, hotels & short lets.",
+    "emoji": "🏨",
+    "href": "#living"
+  },
+  {
+    "id": "qa-6",
+    "title": "Spanish Survival Phrases",
+    "description": "Speak like a local in 10 minutes.",
+    "emoji": "💬",
+    "href": "#essentials"
+  },
+  {
+    "id": "qa-7",
+    "title": "Football in Madrid",
+    "description": "Real, Atlético, Rayo — fixtures & tickets.",
+    "emoji": "⚽",
+    "href": "#do"
+  },
+  {
+    "id": "qa-8",
+    "title": "Madrid for Families",
+    "description": "Kid-friendly parks, museums & food.",
+    "emoji": "👨‍👩‍👧",
+    "href": "#do"
+  },
+  {
+    "id": "qa-9",
+    "title": "Weather & When to Go",
+    "description": "Month-by-month climate guide.",
+    "emoji": "☀️",
+    "href": "#now"
+  },
+  {
+    "id": "qa-10",
+    "title": "Local Customs & Etiquette",
+    "description": "Don't make these tourist mistakes.",
+    "emoji": "🤝",
+    "href": "#essentials"
+  }
+]

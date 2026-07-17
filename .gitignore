@@ -1,0 +1,5 @@
+# JSON data repo — nothing to ignore by default.
+# (Kept so the file is tracked and any future build artifacts can be excluded.)
+node_modules/
+.DS_Store
+*.log
