@@ -2,71 +2,71 @@
   {
     "id": "essentials",
     "title": "Madrid Essentials",
-    "description": "Everything you need to know before you arrive and during your stay.",
+    "description": "Everything you need before you arrive and during your stay — visas, money, getting around, staying safe.",
     "emoji": "🎒",
     "color": "red",
     "bullets": [
-      "Visa & entry requirements",
-      "Currency, tipping & budgets",
-      "Spanish phrases you actually need",
-      "Getting around: metro, bus, taxi",
-      "Emergency numbers & safety"
+      "Visas & entry — Schengen rules for US/UK/CA/AU; ETIAS launches Q4 2026 (currently not required)",
+      "Money — euros, ATMs, card acceptance, tipping etiquette, daily budgets",
+      "Getting around — Metro (12 lines, 300+ stations), EMT buses, taxi, ride-hailing, e-scooters",
+      "Spanish phrases — the 20 you'll actually use, from ¡hola! to ¿dónde está...?",
+      "Safety & emergencies — 112 emergency line, hospitals, embassies, police, lost passport"
     ]
   },
   {
     "id": "living",
     "title": "Living in Madrid",
-    "description": "Settling in? Long-term tips for expats and digital nomads.",
+    "description": "Settling in? Long-term tips for expats, students, digital nomads, and remote workers.",
     "emoji": "🏡",
     "color": "blue",
     "bullets": [
-      "Finding an apartment & neighborhoods",
-      "Schools, healthcare & paperwork",
-      "Banking, NIE & TIE basics",
-      "Coworking spaces & Wi-Fi",
-      "Making friends & Spanish classes"
+      "Finding a flat — idealista, fotocasa, neighborhood guide (Malasaña, Chamberí, Salamanca, Chueca, Lavapiés)",
+      "NIE, TIE & empadronamiento — the paperwork that unlocks everything else",
+      "Banking & taxes — Spanish bank accounts, NIE for contracts, Modelo 720 for overseas assets",
+      "Healthcare — public (Seguridad Social) vs private (Sanitas, Adeslas), how to register with a GP",
+      "Language, coworking & making friends — exchange nights, academies, meetup groups, hobby clubs"
     ]
   },
   {
     "id": "see",
     "title": "See in Madrid",
-    "description": "Iconic landmarks, world-class museums and hidden corners.",
+    "description": "Iconic landmarks, world-class museums, royal sites, and the green spaces Madrid is famous for.",
     "emoji": "🏛️",
     "color": "green",
     "bullets": [
-      "The Prado, Reina Sofía & Thyssen",
-      "The Royal Palace & Almudena",
-      "Retiro Park & Casa de Campo",
-      "Architecture & plazas",
-      "Day trips: Toledo, Segovia, Ávila"
+      "The Golden Triangle — Museo del Prado, Museo Reina Sofía, Museo Nacional Thyssen-Bornemisza",
+      "Royal Madrid — Palacio Real, Catedral de la Almudena, and the Habsburg old town",
+      "Parks & green spaces — Retiro Park, Casa de Campo, Madrid Río, the Cable Car (Teleférico)",
+      "Architecture & plazas — Puerta del Sol, Plaza Mayor, Gran Vía, Templo de Debod, Barrio de las Letras",
+      "Day trips by train — Toledo (30 min), Segovia (35 min), Ávila (1h 10), El Escorial (1h)"
     ]
   },
   {
     "id": "do",
     "title": "Do in Madrid",
-    "description": "Eat, drink, dance, shop — the city after dark and after siesta.",
+    "description": "Eat, drink, dance, shop, watch, play — what to actually do in the city after dark and after siesta.",
     "emoji": "🎉",
     "color": "purple",
     "bullets": [
-      "Tapas routes & mercado crawls",
-      "Flamenco, jazz & live music",
-      "Nightlife: Malasaña, Chueca, La Latina",
-      "Shopping: Gran Vía to El Rastro",
-      "Sports: fútbol, tennis, basketball"
+      "Tapas & mercados — Mercado de San Miguel, La Latina, Barrio de las Letras, Malasaña crawls",
+      "Flamenco, jazz & live music — Tablao Villa Rosa, Cardamomo, Café Central, Teatro Real",
+      "Nightlife — Malasaña indie bars, Chueca cocktails, La Latina verbenas, Salamanca clubs",
+      "Football — Santiago Bernabéu (Real Madrid), Cívitas Metropolitano (Atlético), Vallecas (Rayo)",
+      "Traditions & shopping — Las Ventas bullfights (Mar–Oct), Sunday El Rastro flea, Gran Vía flagship stores"
     ]
   },
   {
     "id": "now",
     "title": "Madrid Now",
-    "description": "What is happening in the city right now.",
+    "description": "What is happening in the city right now — this week, today, in the next hour.",
     "emoji": "📡",
     "color": "orange",
     "bullets": [
-      "This week's events & festivals",
-      "Local news & city updates",
-      "Weather, time & transit alerts",
-      "Open exhibitions & pop-ups",
-      "Seasonal food & what's in season"
+      "This week's events — Veranos de la Villa (Jul 7 – Aug 30), verbenas de agosto, concerts, matches",
+      "Open exhibitions & pop-ups — what just opened at the Prado, Reina Sofía, Matadero, CaixaForum",
+      "Local news & city updates — strikes, protests, road closures, weather warnings",
+      "Live weather, time & AQI — current Madrid time, °C, air quality, sunset/sunrise",
+      "Transit alerts — Metro line closures (Lines 6, 7, 9B, 10 affected this summer), free shuttle buses"
     ]
   }
 ]
