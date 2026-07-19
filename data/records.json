@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "metro-de-madrid",
+    "title": "Metro de Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "12 lines, 300+ stations, the fastest way around the city. Open 6:00 AM to 1:30 AM.",
+    "content": "Single ticket €1.50–2.00. 10-trip Metrobús €12.20 (works on metro + bus). Airport supplement €4.50. Free for kids under 4. Monthly unlimited pass €54.60. Apps: Metro de Madrid (official) and Moovit for real-time arrivals. Avoid rush hours (8–10 AM, 6–8 PM). Note: summer 2026 has planned closures on Lines 6, 7, 9B, and 10 for renovations — free shuttle buses cover affected sections.",
+    "official_url": "https://www.metromadrid.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "metro",
+      "subway"
+    ],
+    "related_records": [
+      "emt-buses",
+      "madrid-barajas-airport",
+      "atocha-station",
+      "chamartin-station",
+      "left-luggage",
+      "taxis-madrid"
+    ]
+  },
+  {
+    "id": "madrid-barajas-airport",
+    "title": "Adolfo Suárez Madrid-Barajas Airport",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Spain's busiest airport, 12 km northeast of the city. 4 terminals + 1 satellite (T4S).",
+    "content": "Metro Line 8 connects to the city centre (€4.50 supplement + €1.50 metro fare). Express bus 200/203 (€5, 40 min). Taxi €30–35 (30 min, can be longer in traffic). Renfe Cercanías commuter train from T4 to Atocha/Chamartín. Free shuttle between terminals.",
+    "official_url": "https://www.aena.es/en/passengers/madrid-barajas-airport.html",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "airport",
+      "barajas"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "emt-buses",
+      "taxis-madrid",
+      "atocha-station",
+      "left-luggage"
+    ]
+  },
+  {
+    "id": "atocha-station",
+    "title": "Atocha Station",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Madrid's main train station. AVE high-speed to Barcelona (2h 30), Seville (2h 30), Valencia (1h 40).",
+    "content": "Two parts: Atocha Cercanías (commuter trains) and Madrid Puerta de Atocha (long distance + AVE). Metro: Atocha Renfe (Line 1). Adjacent to the Reina Sofía museum. The original 19th-century hall is now a 4,000-plant tropical garden — worth a 10-minute wander even if you're not catching a train.",
+    "official_url": "https://www.adif.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "train",
+      "atocha"
+    ],
+    "related_records": [
+      "chamartin-station",
+      "renfe-trains",
+      "metro-de-madrid",
+      "toledo",
+      "museo-reina-sofia"
+    ]
+  },
+  {
+    "id": "chamartin-station",
+    "title": "Chamartín Station",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Madrid's second major train station, north of centre. AVE to northwest Spain and Portugal.",
+    "content": "Renovated 2022. Metro: Chamartín (Lines 1, 10). Buses to many northern destinations. Less crowded than Atocha.",
+    "official_url": "https://www.adif.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "train",
+      "chamartin"
+    ],
+    "related_records": [
+      "atocha-station",
+      "renfe-trains",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "emt-buses",
+    "title": "EMT Buses",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "City buses run by EMT Madrid. Same ticket as metro.",
+    "content": "200+ lines across the city. Single ride €1.50. Airport Express 200 and 203 to/from Barajas (€5). Night buses ('N' lines, 'búhos') run from 11:30 PM to 6:00 AM. EMT Madrid app has real-time arrivals. Same Metrobús 10-pack works on buses and metro.",
+    "official_url": "https://www.emtmadrid.es/English",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "bus",
+      "emt"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "madrid-barajas-airport",
+      "taxis-madrid"
+    ]
+  },
+  {
+    "id": "taxis-madrid",
+    "title": "Taxis in Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "White with red diagonal stripe. Flag fall €1.70, €1.30/km day, €1.50/km night.",
+    "content": "Available at stands (paradas) or hail from the street when the green 'libre' light is on. Supplements: airport €5.50, train stations €3. Ride-hailing apps FreeNow (formerly myTaxi), Cabify, and Uber all work. Always ask for a receipt ('recibo') if you leave something behind. Tip via app or round up cash.",
+    "official_url": "https://www.taximadrid.org/english",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "taxi"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "madrid-barajas-airport",
+      "emt-buses"
+    ]
+  },
+  {
+    "id": "left-luggage",
+    "title": "Left Luggage (Consignas)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Available at Atocha, Chamartín, and Barajas T2/T4. €4–6 per bag per day.",
+    "content": "Lockers and staffed counters at all three. Atocha has the most options and is open longer. Useful for day trips where you want to drop bags after checkout or before check-in.",
+    "official_url": "https://www.adif.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "luggage"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "madrid-barajas-airport",
+      "atocha-station",
+      "chamartin-station"
+    ]
+  },
+  {
+    "id": "renfe-trains",
+    "title": "Renfe — National Trains",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Spain's national rail. AVE high-speed is the way to day-trip Toledo, Segovia, Barcelona.",
+    "content": "Book on the Renfe app or renfe.com (in English). AVE tickets go on sale 9–11 months ahead; cheap 'Básico' fares often sell out. 'Elige' and 'Premium' fares include seat selection and changes. Day-trip from Madrid: Toledo (33 min), Segovia (35 min), Ávila (1h 10), Cuenca (1h), Córdoba (1h 45), Seville (2h 30).",
+    "official_url": "https://www.renfe.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transport",
+      "train",
+      "renfe"
+    ],
+    "related_records": [
+      "atocha-station",
+      "chamartin-station",
+      "toledo",
+      "segovia",
+      "avila"
+    ]
+  },
+  {
+    "id": "schengen-visa-us",
+    "title": "Schengen Visa — US Citizens",
+    "category": "essentials",
+    "subcategory": "visas",
+    "summary": "US citizens enter Spain visa-free for up to 90 days in any 180-day period.",
+    "content": "Your passport must be valid for at least 3 months beyond your planned departure from the Schengen Area, issued within the last 10 years, and have at least 2 blank pages. Officially, you may be asked for proof of sufficient funds, return ticket, and travel insurance. The US has no ETIAS requirement yet in 2026 — it launches Q4 2026 with a grace period into 2027.",
+    "official_url": "https://www.exteriores.gob.es/en/PoliticaExteriorCooperacion/Consulares/Paginas/Consulares.aspx",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "visa",
+      "schengen",
+      "us"
+    ],
+    "related_records": [
+      "etias-2026",
+      "schengen-visa-uk",
+      "passport-requirements",
+      "embassies"
+    ]
+  },
+  {
+    "id": "etias-2026",
+    "title": "ETIAS — Coming Q4 2026",
+    "category": "essentials",
+    "subcategory": "visas",
+    "summary": "New pre-travel authorisation for visa-exempt visitors to the Schengen Area.",
+    "content": "ETIAS launches in the last quarter of 2026 (likely October/November) with a transitional grace period of approximately 6 months running into April 2027. Cost: €20 per application (free for under-18 and over-70). Validity: 3 years. Required for US, UK, Canadian, Australian, and most other visa-exempt nationals. Apply online at etias.eu — most approvals take minutes.",
+    "official_url": "https://travel-europe.europa.eu/etias",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "etias",
+      "schengen",
+      "2026"
+    ],
+    "related_records": [
+      "schengen-visa-us",
+      "schengen-visa-uk",
+      "passport-requirements"
+    ]
+  },
+  {
+    "id": "schengen-visa-uk",
+    "title": "Schengen Visa — UK Citizens",
+    "category": "essentials",
+    "subcategory": "visas",
+    "summary": "UK citizens enter Spain visa-free for up to 90 days in any 180-day period.",
+    "content": "Same 90/180-day rule as other visa-exempt nationals. Passport must be valid for at least 3 months beyond departure, issued within the last 10 years, and have 2 blank pages. ETIAS will also apply to UK citizens from Q4 2026.",
+    "official_url": "https://www.gov.uk/foreign-travel-advice/spain/entry-requirements",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "visa",
+      "schengen",
+      "uk"
+    ],
+    "related_records": [
+      "schengen-visa-us",
+      "etias-2026",
+      "passport-requirements"
+    ]
+  },
+  {
+    "id": "passport-requirements",
+    "title": "Passport Requirements",
+    "category": "essentials",
+    "subcategory": "visas",
+    "summary": "3 months validity beyond departure, issued within last 10 years, 2 blank pages.",
+    "content": "These are the Schengen-standard rules applied at Spanish border control. If your passport is close to expiry or was issued more than 10 years ago, renew before you travel — the airline may also refuse boarding.",
+    "official_url": "https://www.exteriores.gob.es/en/PoliticaExteriorCooperacion/Consulares/Paginas/Consulares.aspx",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "passport",
+      "entry"
+    ],
+    "related_records": [
+      "schengen-visa-us",
+      "schengen-visa-uk",
+      "etias-2026",
+      "lost-passport",
+      "embassies"
+    ]
+  },
+  {
+    "id": "euros-and-atms",
+    "title": "Euros & ATMs",
+    "category": "essentials",
+    "subcategory": "money",
+    "summary": "Spain uses the Euro. ATMs are everywhere; avoid the Euronet ATMs in tourist traps.",
+    "content": "Withdraw from bank-affiliated ATMs (CaixaBank, BBVA, Santander, Bankinter) for the best rates. Euronet ATMs in tourist areas add heavy fees. Most Spanish banks charge a small fee for non-customer withdrawals — check with your home bank about foreign transaction fees.",
+    "official_url": "https://www.ecb.europa.eu/euro/intro/html/index.en.html",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "money",
+      "euros",
+      "atms"
+    ],
+    "related_records": [
+      "credit-card-acceptance",
+      "tipping-etiquette",
+      "daily-budgets",
+      "spanish-bank-accounts"
+    ]
+  },
+  {
+    "id": "credit-card-acceptance",
+    "title": "Credit Cards & Contactless",
+    "category": "essentials",
+    "subcategory": "money",
+    "summary": "Visa and Mastercard widely accepted. American Express hit-or-miss outside hotels.",
+    "content": "Spain is very card-friendly in cities. Smaller bars, taxis, and market stalls may prefer cash or have a minimum for cards (typically €5–10). Contactless ('contactless sin contacto') works almost everywhere. Notify your bank of travel to avoid fraud blocks.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "money",
+      "credit-card"
+    ],
+    "related_records": [
+      "euros-and-atms",
+      "tipping-etiquette",
+      "spanish-bank-accounts"
+    ],
+    "official_url": "https://www.bankinter.com/en"
+  },
+  {
+    "id": "tipping-etiquette",
+    "title": "Tipping Etiquette",
+    "category": "essentials",
+    "subcategory": "money",
+    "summary": "Not required, but appreciated. Round up or leave 5–10% for good service.",
+    "content": "Service is included by law. Tipping is genuinely optional. Common practice: leave small change from a coffee (€0.20–0.50), 5–10% in sit-down restaurants if service was great, €1 per bag for hotel porters, round up taxi fares. Don't tip at bars counter service.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "money",
+      "tipping"
+    ],
+    "related_records": [
+      "euros-and-atms",
+      "credit-card-acceptance",
+      "daily-budgets"
+    ],
+    "official_url": "https://www.esmadrid.com/en/practical-information"
+  },
+  {
+    "id": "daily-budgets",
+    "title": "Daily Budgets",
+    "category": "essentials",
+    "subcategory": "money",
+    "summary": "Budget €60–100/day mid-range, €150+ for a nicer trip, €40 backpacker-style.",
+    "content": "Mid-range: €100–150 hotel, €25–40 food, €15 transport, €20 attractions = ~€160–225/day. Backpacker: hostel €25–40, supermarket breakfast €5, menu del día €12, public transport €10 = ~€60–80/day. Luxury: €300+ hotels, fine dining €100+ per person.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "money",
+      "budget"
+    ],
+    "related_records": [
+      "euros-and-atms",
+      "tipping-etiquette",
+      "credit-card-acceptance"
+    ],
+    "official_url": "https://www.esmadrid.com/en/practical-information"
+  },
+  {
+    "id": "survival-spanish",
+    "title": "Survival Spanish — 20 Phrases",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Hola, gracias, por favor, ¿dónde está…?, la cuenta, por favor. The basics that get you everywhere.",
+    "content": "Top 20: ¡Hola! / ¿Qué tal? / Buenos días / Buenas tardes / Adiós / Por favor / Gracias / De nada / Sí / No / Perdón / Lo siento / No entiendo / ¿Habla inglés? / ¿Dónde está…? / ¿Cuánto cuesta? / La cuenta, por favor / Una mesa para dos / Con permiso / ¡Salud! (cheers). Spaniards are forgiving and delighted when foreigners try — even a 'buenos días' wins you points.",
+    "status": "evergreen",
+    "english_friendly": false,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "language",
+      "spanish"
+    ],
+    "related_records": [
+      "language-schools",
+      "escuela-oficial-idiomas"
+    ],
+    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm"
+  },
+  {
+    "id": "emergency-numbers",
+    "title": "Emergency Numbers",
+    "category": "essentials",
+    "subcategory": "safety",
+    "summary": "112 is the universal EU emergency line. Police: 091. Ambulance: 061.",
+    "content": "112 works in English, French, German, and Spanish. Free from any phone. Police (Policía Nacional) 091. Local police (Policía Municipal) 092. Ambulance (SUMMA) 061. Fire 080. Civil Guard 062. For non-urgent tourist help, contact the Tourist Attention Service on +34 91 522 00 81.",
+    "official_url": "https://www.112.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "safety",
+      "emergency"
+    ],
+    "related_records": [
+      "hospitals",
+      "embassies",
+      "lost-passport"
+    ]
+  },
+  {
+    "id": "hospitals",
+    "title": "Hospitals & 24h Clinics",
+    "category": "essentials",
+    "subcategory": "safety",
+    "summary": "Hospital La Paz, Hospital Gregorio Marañón, Hospital Ramón y Cajal — all public, all with English-speaking staff.",
+    "content": "Public hospitals (hospitales públicos) provide emergency care to anyone. For non-emergencies, private hospitals (HM Hospitales, Quirónsalud, Sanitas) are faster and many have English-speaking coordinators. EU citizens: use your EHIC/GHIC card for public care. Non-EU: pay upfront or use travel insurance.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "safety",
+      "health",
+      "hospitals"
+    ],
+    "related_records": [
+      "emergency-numbers",
+      "english-speaking-doctors",
+      "pharmacies"
+    ],
+    "official_url": "https://www.comunidad.madrid/servicios/salud/hospitales"
+  },
+  {
+    "id": "embassies",
+    "title": "Embassies & Consulates",
+    "category": "essentials",
+    "subcategory": "safety",
+    "summary": "Your embassy is the right call for lost/stolen passports, arrests, and serious emergencies.",
+    "content": "US Embassy: Calle de Serrano, 75. UK Consulate: Torre Emperador, Paseo de la Castellana. Both take appointments for non-emergency consular services. For a lost passport, file a police report (denuncia) first online or at any police station.",
+    "official_url": "https://es.usembassy.gov",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "safety",
+      "embassy"
+    ],
+    "related_records": [
+      "emergency-numbers",
+      "lost-passport",
+      "passport-requirements"
+    ]
+  },
+  {
+    "id": "lost-passport",
+    "title": "Lost or Stolen Passport",
+    "category": "essentials",
+    "subcategory": "safety",
+    "summary": "File a police report (denuncia) immediately, then contact your embassy for an emergency travel document.",
+    "content": "Online police reports at denuncias.policia.es (works for non-residents). Take the report and your embassy emergency travel document to a Spanish police station for exit clearance. Carry photocopies of your passport separately while travelling.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "safety",
+      "passport"
+    ],
+    "related_records": [
+      "embassies",
+      "emergency-numbers",
+      "passport-requirements"
+    ],
+    "official_url": "https://www.policia.es/_es/colabora_denuncias.php"
+  },
+  {
+    "id": "pharmacies",
+    "title": "Pharmacies (Farmacias)",
+    "category": "essentials",
+    "subcategory": "safety",
+    "summary": "Green cross signs. Most open 9:30 AM to 9:30 PM; rota pharmacy covers every neighbourhood 24h.",
+    "content": "Look for the green cross. Every district has a 'farmacia de guardia' open 24h — schedules are posted on every pharmacy door. Pharmacists can give advice and sell most non-prescription medications that need a prescription elsewhere. For serious issues, go to a hospital.",
+    "official_url": "https://www.farmaceuticos.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "safety",
+      "health",
+      "pharmacies"
+    ],
+    "related_records": [
+      "hospitals",
+      "english-speaking-doctors",
+      "emergency-numbers"
+    ]
+  },
+  {
+    "id": "sim-cards",
+    "title": "SIM Cards & eSIMs",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Buy a Spanish SIM or eSIM on arrival. Major carriers: Movistar, Orange, Vodafone, Yoigo.",
+    "content": "Free tourist SIMs (15–30 days) available at the airport and carrier stores — bring your passport. eSIMs from Airalo, Holafly, and Nomad work before you fly. All major carriers have English apps. Cheapest data-only: €5–10/10GB. Note: Spain does NOT require tourist ID registration for SIMs as of 2026.",
+    "official_url": "https://www.movistar.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "communication",
+      "sim",
+      "esim",
+      "data"
+    ],
+    "related_records": [
+      "public-wifi",
+      "survival-spanish"
+    ]
+  },
+  {
+    "id": "public-wifi",
+    "title": "Public Wi-Fi & Coworking",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Free Wi-Fi at airport, metro stations, libraries, and most cafés. Coworking spaces across the city.",
+    "content": "Free Wi-Fi: AENA airports, Metro Madrid stations, bibliotecas (libraries), major café chains. Coworking: WeWork, Impact Hub, The Valley, Utopicus, Monday — day passes €20–35, monthly €150–300. Most cafés are laptop-friendly mid-morning and mid-afternoon; avoid lunch rush.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "communication",
+      "wifi",
+      "coworking",
+      "remote-work"
+    ],
+    "related_records": [
+      "sim-cards",
+      "english-speaking-doctors"
+    ],
+    "official_url": "https://www.esmadrid.com/en/practical-information"
+  },
+  {
+    "id": "nie-tie",
+    "title": "NIE / TIE — Foreigner ID",
+    "category": "living",
+    "subcategory": "paperwork",
+    "summary": "NIE is the foreigner ID number; TIE is the physical card. Required for everything official.",
+    "content": "NIE (Número de Identidad de Extranjero): apply at any Oficina de Extranjería with passport, EX-15 form, reason for needing it (job, studies, property), €10.80 fee. TIE (Tarjeta de Identidad de Extranjero): physical card for non-EU residents with a permit of 6+ months. Apply at the police station (Comisaría) on Calle Silva or Montera after your residence permit is approved. Both require appointments — book weeks ahead.",
+    "official_url": "https://extranjeros.inclusion.gob.es/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "paperwork",
+      "nie",
+      "tie"
+    ],
+    "related_records": [
+      "empadronamiento",
+      "banking",
+      "healthcare",
+      "housing"
+    ]
+  },
+  {
+    "id": "empadronamiento",
+    "title": "Empadronamiento",
+    "category": "living",
+    "subcategory": "paperwork",
+    "summary": "Register at your local town hall. Unlocks healthcare, school enrolment, and many other services.",
+    "content": "Go to your district's Junta Municipal with passport, NIE (if you have one), and proof of address (rental contract or 'autorización del propietario' + utility bill). Free, same-day, child-friendly. Renew every 2 years (you'll get a postcard). Without the padron you can't register for public healthcare or enrol kids in school.",
+    "status": "evergreen",
+    "english_friendly": false,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "paperwork",
+      "padron",
+      "empadronamiento"
+    ],
+    "related_records": [
+      "nie-tie",
+      "healthcare",
+      "banking",
+      "housing"
+    ],
+    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento"
+  },
+  {
+    "id": "idealista",
+    "title": "Idealista — Apartment Search",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Spain's #1 property portal. Used by everyone from students to expats.",
+    "content": "Available in English and Spanish. Filter by neighborhood, price, size, furnished, pets allowed. Most listings are by agencies — expect 'one month deposit + one month guarantee' (fianza + aval) and agency fees of 1 month's rent. Use the map view to compare locations. Watch out for scams: never transfer money before viewing.",
+    "official_url": "https://www.idealista.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "housing",
+      "rentals",
+      "idealista"
+    ],
+    "related_records": [
+      "fotocasa",
+      "neighborhoods-guide",
+      "rental-contracts",
+      "nie-tie"
+    ]
+  },
+  {
+    "id": "fotocasa",
+    "title": "Fotocasa — Property Portal",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Major alternative to Idealista, with a similar volume of listings.",
+    "content": "Same basic use cases as Idealista. Both portals list overlapping inventory. Worth checking both when apartment hunting.",
+    "official_url": "https://www.fotocasa.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "housing",
+      "rentals",
+      "fotocasa"
+    ],
+    "related_records": [
+      "idealista",
+      "neighborhoods-guide",
+      "rental-contracts"
+    ]
+  },
+  {
+    "id": "neighborhoods-guide",
+    "title": "Madrid Neighborhoods Guide",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Choose your barrio based on vibe: Malasaña for indie, Salamanca for upscale, Chamberí for families, Chueca for LGBT+, Lavapiés for gritty, Retiro for calm.",
+    "content": "Centro: tourist-heavy, walkable, lively. Malasaña: indie shops, bars, students. Chueca: design shops, restaurants, LGBT+. Chamberí: families, traditional, calmer. Salamanca: luxury shopping, business. Retiro: parks, family-friendly. Lavapiés: multicultural, edgy, affordable. La Latina: old-town charm, tapas. Arganzuela: up-and-coming, near Madrid Río.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "housing",
+      "neighborhoods",
+      "barrios"
+    ],
+    "related_records": [
+      "idealista",
+      "rental-contracts",
+      "retiro-park",
+      "gran-via"
+    ],
+    "official_url": "https://www.esmadrid.com/en/areas"
+  },
+  {
+    "id": "rental-contracts",
+    "title": "Rental Contracts & Deposits",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Standard deposit: 1 month. Some landlords want 2 months + 1 month 'aval' bank guarantee.",
+    "content": "Standard is '1 mes de fianza' (1 month deposit) returned within 30 days of moving out. Avoid 'aval bancario' if possible — it's a bank guarantee that ties up your money. Contract length typically 11 months (avoids tourist-license complications for landlord). Always get a written inventory ('inventario').",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "housing",
+      "contracts",
+      "deposits"
+    ],
+    "related_records": [
+      "idealista",
+      "fotocasa",
+      "neighborhoods-guide",
+      "nie-tie"
+    ],
+    "official_url": "https://www.esmadrid.com/en/practical-information"
+  },
+  {
+    "id": "spanish-bank-accounts",
+    "title": "Spanish Bank Accounts",
+    "category": "living",
+    "subcategory": "banking",
+    "summary": "Big 5: CaixaBank, BBVA, Santander, Bankinter, Sabadell. Most expat-friendly: Wise, N26, Revolut.",
+    "content": "To open a Spanish account you'll need: NIE, empadronamiento, employment contract or 'nómina', and sometimes a minimum deposit. Online banks like Wise and N26 work for non-residents and are accepted almost everywhere. Avoid the touristy branches in Centro — appointments take weeks; use suburban branches or app-based banks.",
+    "official_url": "https://www.bankinter.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "banking",
+      "accounts",
+      "money"
+    ],
+    "related_records": [
+      "nie-tie",
+      "empadronamiento",
+      "euros-and-atms",
+      "credit-card-acceptance"
+    ]
+  },
+  {
+    "id": "public-healthcare",
+    "title": "Public Healthcare (Seguridad Social)",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Free or low-cost healthcare for residents. Get a 'tarjeta sanitaria' to access GPs and hospitals.",
+    "content": "After registering on the padron and starting work (or as a 'convenio especial' for €60/month if self-funded), go to your local Centro de Salud with NIE + padron certificate + employment proof to get a tarjeta sanitaria. Assigns you a GP. Emergency care is universal — anyone can walk into a public hospital ER.",
+    "status": "evergreen",
+    "english_friendly": false,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "healthcare",
+      "public",
+      "seguridad-social"
+    ],
+    "related_records": [
+      "empadronamiento",
+      "english-speaking-doctors",
+      "pharmacies",
+      "hospitals"
+    ],
+    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria"
+  },
+  {
+    "id": "english-speaking-doctors",
+    "title": "English-Speaking Doctors",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Madrid has many English-speaking GPs and specialists, mostly in the private system.",
+    "content": "Madrid Healthcare (Centro Médico), Hospital HM Sanchinarro, Centro de Salud Internacional — all have English-speaking staff. Speakeasy Madrid, the American Health Group, and the British-American Clinic are all known to expats. For emergencies, the public system is fine — many doctors speak some English.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "healthcare",
+      "english",
+      "doctors"
+    ],
+    "related_records": [
+      "public-healthcare",
+      "hospitals",
+      "pharmacies",
+      "empadronamiento"
+    ],
+    "official_url": "https://www.esmadrid.com/en/practical-information"
+  },
+  {
+    "id": "teach-english-spain",
+    "title": "Teach English in Spain",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Auxiliares de Conversación is the official program; private academies hire year-round.",
+    "content": "Auxiliares de Conversación: government program placing native English speakers in Spanish schools. €1,000–1,200/month, ~16 hrs/week. Apply January–March for September start. Private academies (British Council, International House, ELA, Británico) hire year-round — TEFL required, €1,200–1,800/month. Get a NIE before starting.",
+    "official_url": "https://www.educacionyfp.gob.es/en/servicios-al-ciudadano/catalogo/general/05/050700/ficha/050700-2024.html",
+    "status": "annual review",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "work",
+      "teaching",
+      "english"
+    ],
+    "related_records": [
+      "nie-tie",
+      "language-schools",
+      "escuela-oficial-idiomas",
+      "au-pair-spain"
+    ]
+  },
+  {
+    "id": "au-pair-spain",
+    "title": "Au Pair in Spain",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Live with a Spanish family, help with childcare, get pocket money + room & board.",
+    "content": "Agencies: Cultural Care Au Pair, AuPairWorld, GreatAuPair. Typical: €80–120/week, own room, 1–2 days off, language course included. Visa is informal for EU citizens; non-EU need a 'visado de au pair' which is a specific work permit.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "work",
+      "au-pair",
+      "childcare"
+    ],
+    "related_records": [
+      "teach-english-spain",
+      "language-schools"
+    ],
+    "official_url": "https://www.aupairworld.es"
+  },
+  {
+    "id": "universities",
+    "title": "Madrid Universities",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "Universidad Complutense (UCM) is Spain's largest. Also: UAM, UPM, UAH, URJC, IE, ESADE, ESERP.",
+    "content": "Public universities (UCM, UAM, UPM) are €1,000–2,500/year for EU students, cheaper than most of Europe. Private business schools (IE, ESADE, IESE, ESERP) charge €20,000–40,000/year but offer international MBAs in English. Admissions through UNED for most public programs.",
+    "official_url": "https://www.ucm.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "education",
+      "university",
+      "degrees"
+    ],
+    "related_records": [
+      "language-schools",
+      "escuela-oficial-idiomas",
+      "nie-tie"
+    ]
+  },
+  {
+    "id": "language-schools",
+    "title": "Spanish Language Schools",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "Tandem Madrid, Don Quijote, Estudio Sampere, AIL Madrid, Españolé.",
+    "content": "€150–350/week for 20 hrs/week group classes. Intensive courses €1,000–2,000/month. Most offer homestay or shared flat accommodation. Cervantes Institute accreditation is the gold standard. Book 2–4 weeks ahead in summer.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "education",
+      "spanish",
+      "language"
+    ],
+    "related_records": [
+      "escuela-oficial-idiomas",
+      "survival-spanish",
+      "teach-english-spain"
+    ],
+    "official_url": "https://www.cervantes.es/en/spanish-schools.htm"
+  },
+  {
+    "id": "escuela-oficial-idiomas",
+    "title": "Escuela Oficial de Idiomas (EOI)",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "Official government language school. Cheap Spanish classes — €100–300/year.",
+    "content": "EOIs teach Spanish as a foreign language (ELE), English, French, German, and more. Subsidised by the Comunidad de Madrid. Admission is by 'prueba de nivelación' (level test) in September. Free or nearly free. Centro: Jesús Maestro (Islas Filipinas metro), Aluche, Getafe, Móstoles.",
+    "official_url": "https://www.eoidiomas.com",
+    "status": "evergreen",
+    "english_friendly": false,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "education",
+      "language",
+      "eoi"
+    ],
+    "related_records": [
+      "language-schools",
+      "survival-spanish"
+    ]
+  },
+  {
+    "id": "museo-del-prado",
+    "title": "Museo del Prado",
+    "category": "see",
+    "subcategory": "museums",
+    "summary": "Spain's #1 museum. Velázquez, Goya, El Greco, Bosch, Rubens, Titian. Free Mon–Sat 6–8 PM and Sundays.",
+    "content": "Over 8,000 paintings. Plan at least 3 hours. The Velázquez, Goya, and El Greco rooms are unmissable. Avoid the free evening hours if you don't like crowds. Skip-the-line tickets €15 general, €7 reduced. Free for under-18 and over-65. Audio guide €5, well worth it.",
+    "official_url": "https://www.museodelprado.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "museums",
+      "prado",
+      "art"
+    ],
+    "related_records": [
+      "museo-reina-sofia",
+      "thyssen-bornemisza",
+      "atocha-station",
+      "puerta-del-sol"
+    ]
+  },
+  {
+    "id": "museo-reina-sofia",
+    "title": "Museo Nacional Centro de Arte Reina Sofía",
+    "category": "see",
+    "subcategory": "museums",
+    "summary": "Spain's modern art museum. Picasso's Guernica, Dalí, Miró. Free Mon, Wed–Sat 7–9 PM, Sun 12:30–2:30 PM.",
+    "content": "Guernica is on the 2nd floor of the Sabatini Building — go straight there if you have limited time. €12 general, free for under-18 and over-65. Combined ticket with the Prado: €22 (no time limit). The Reina Sofía and Atocha station are 5 min apart — combine with the Thyssen (a 10-min walk) for the Golden Triangle in a day.",
+    "official_url": "https://www.museoreinasofia.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "museums",
+      "reina-sofia",
+      "art"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "thyssen-bornemisza",
+      "atocha-station"
+    ]
+  },
+  {
+    "id": "thyssen-bornemisza",
+    "title": "Museo Nacional Thyssen-Bornemisza",
+    "category": "see",
+    "subcategory": "museums",
+    "summary": "The third leg of the Golden Triangle. Italian, Dutch, German, and 20th-century masters. €15 general.",
+    "content": "Caravaggio, Van Eyck, Dürer, Monet, Hopper, Picasso, Pollock. The collection reads like a tour of Western painting from the 13th to 20th century. €15 general, free on Mondays 12–4 PM. Permanent collection is well laid out chronologically — easier to navigate than the Prado.",
+    "official_url": "https://www.museothyssen.org/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "museums",
+      "thyssen",
+      "art"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "gran-via"
+    ]
+  },
+  {
+    "id": "royal-palace",
+    "title": "Royal Palace (Palacio Real)",
+    "category": "see",
+    "subcategory": "royal",
+    "summary": "Spain's official royal residence (the King lives at Zarzuela). 3,418 rooms, 3rd-largest palace in Europe.",
+    "content": "€12 entry, free for EU citizens Mon–Thu 4–6 PM (off-season) — bring passport. Closed for state ceremonies. Highlights: Throne Room, Hall of Mirrors (modeled on Versailles), Royal Chapel, Royal Armoury. Plan 1.5–2 hours. Combined ticket with the Almudena Cathedral €16.",
+    "official_url": "https://www.patrimonionacional.es/en/visita/palacio-real-de-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "royal",
+      "palace",
+      "palacio-real"
+    ],
+    "related_records": [
+      "almudena-cathedral",
+      "plaza-mayor",
+      "puerta-del-sol"
+    ]
+  },
+  {
+    "id": "almudena-cathedral",
+    "title": "Catedral de la Almudena",
+    "category": "see",
+    "subcategory": "royal",
+    "summary": "Madrid's cathedral, finished in 1993 after 400 years of construction. Faces the Royal Palace.",
+    "content": "Free to enter; museum and dome €7. Mix of neoclassical, neo-Gothic, and modern. The crypt is striking. The dome offers 360° views of central Madrid. Mass held daily. Same architect (Fernando Chueca Goitia) as the rest of post-civil-war Madrid.",
+    "official_url": "https://www.catedraldelaalmudena.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "royal",
+      "cathedral",
+      "almudena"
+    ],
+    "related_records": [
+      "royal-palace",
+      "plaza-mayor"
+    ]
+  },
+  {
+    "id": "retiro-park",
+    "title": "Parque del Retiro",
+    "category": "see",
+    "subcategory": "parks",
+    "summary": "350-acre park in the heart of the city. Lake, Crystal Palace, rose garden, puppet shows.",
+    "content": "Free, open daily 6 AM to midnight. The Estanque (lake) has rowboats €6. Crystal Palace hosts temporary art exhibitions. Sundays around the Palacio de Cristal are full of street performers and families. Watch your pockets around the south end (close to Atocha).",
+    "official_url": "https://www.esmadrid.com/en/tourist-information/parque-del-retiro",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "parks",
+      "retiro",
+      "green"
+    ],
+    "related_records": [
+      "casa-de-campo",
+      "madrid-rio",
+      "teleferico",
+      "atocha-station"
+    ]
+  },
+  {
+    "id": "casa-de-campo",
+    "title": "Casa de Campo",
+    "category": "see",
+    "subcategory": "parks",
+    "summary": "1,700 hectares — 5x larger than Hyde Park. Zoo, amusement park, lake, hiking.",
+    "content": "Metro: Lago, Batán. Free entry. The Parque de Atracciones (amusement park) and Zoo are paid but adjacent. The lake has paddle boats. Great for jogging and cycling on weekdays when it's quiet. Avoid the underpasses at night.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "parks",
+      "casa-de-campo"
+    ],
+    "related_records": [
+      "retiro-park",
+      "madrid-rio",
+      "teleferico",
+      "metro-de-madrid"
+    ],
+    "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones"
+  },
+  {
+    "id": "madrid-rio",
+    "title": "Madrid Río",
+    "category": "see",
+    "subcategory": "parks",
+    "summary": "6 km of riverside park along the Manzanares. Bike paths, playgrounds, public art.",
+    "content": "Reclaimed riverbank from a buried motorway. Runs from Puente de los Franceses to Puente de Arganzuela. Connected to Casa de Campo by the Puente de Toledo. Beaches and wading pools in summer. Cycling is the best way to see it all in one go.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "parks",
+      "madrid-rio",
+      "manzanares"
+    ],
+    "related_records": [
+      "casa-de-campo",
+      "retiro-park",
+      "teleferico"
+    ],
+    "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio"
+  },
+  {
+    "id": "teleferico",
+    "title": "Teleférico (Cable Car)",
+    "category": "see",
+    "subcategory": "parks",
+    "summary": "Cable car from the Rosaleda in Retiro Park to Casa de Campo. 11 min, panoramic views.",
+    "content": "€6.50 one-way, €9.20 round-trip. Operates 11 AM to dusk (closed in high winds). Not the most dramatic cable car in the world but a pleasant ride and a fun way to connect the two parks. Combine with Retiro and a picnic in Casa de Campo.",
+    "official_url": "https://www.teleferico.emtmadrid.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "parks",
+      "cable-car",
+      "teleferico"
+    ],
+    "related_records": [
+      "retiro-park",
+      "casa-de-campo",
+      "madrid-rio"
+    ]
+  },
+  {
+    "id": "plaza-mayor",
+    "title": "Plaza Mayor",
+    "category": "see",
+    "subcategory": "architecture",
+    "summary": "17th-century arcaded square in the heart of Habsburg Madrid. Now mostly tourist cafés.",
+    "content": "Built 1619, the social centre of imperial Madrid. The Casa de la Panadería (bakery) is the pink building on the north side. Christmas market and New Year's Eve grape-eating tradition take place here. The arcaded walkways shelter souvenir shops and overpriced restaurants — eat just outside the square instead.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "architecture",
+      "plaza-mayor",
+      "habsburg"
+    ],
+    "related_records": [
+      "puerta-del-sol",
+      "gran-via",
+      "royal-palace",
+      "almudena-cathedral"
+    ],
+    "official_url": "https://www.esmadrid.com/en/tourist-information/plaza-mayor"
+  },
+  {
+    "id": "gran-via",
+    "title": "Gran Vía",
+    "category": "see",
+    "subcategory": "architecture",
+    "summary": "Madrid's main shopping and theatre street. 'The Spanish Broadway.' Built 1910.",
+    "content": "1.3 km from Calle de Alcalá to Plaza de España. Flagship stores (Zara, Primark, H&M), theatres (Lope de Vega, Rialto), cinemas, and the iconic Capitol building with its Schweppes sign. Best walked at sunset when the neon comes on. Lots of rooftop bars on the upper floors of the older buildings.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "architecture",
+      "gran-via",
+      "shopping"
+    ],
+    "related_records": [
+      "plaza-mayor",
+      "puerta-del-sol",
+      "salamanca-district"
+    ],
+    "official_url": "https://www.esmadrid.com/en/shopping/gran-via"
+  },
+  {
+    "id": "puerta-del-sol",
+    "title": "Puerta del Sol",
+    "category": "see",
+    "subcategory": "architecture",
+    "summary": "The kilometre-zero plaza. The Bear and the Strawberry Tree statue. New Year's bell.",
+    "content": "Where Spain's kilometre-zero road marker sits. The 20-tonne bell at Casa de Correos marks midnight on New Year's Eve — eat 12 grapes, one for each chime. Often crowded; best at sunrise or late evening. Surrounding streets are packed with the most expensive retail rents in Spain.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "architecture",
+      "puerta-del-sol"
+    ],
+    "related_records": [
+      "plaza-mayor",
+      "gran-via",
+      "neighborhoods-guide"
+    ],
+    "official_url": "https://www.esmadrid.com/en/tourist-information/puerta-del-sol"
+  },
+  {
+    "id": "templo-de-debod",
+    "title": "Templo de Debod",
+    "category": "see",
+    "subcategory": "architecture",
+    "summary": "A 2,200-year-old Egyptian temple, gifted to Spain in 1968 for saving the Abu Simbel temples.",
+    "content": "Free entry. In the Parque del Oeste, near Príncipe Pío. Open Tue–Sun 10 AM to 8 PM (summer) / 6 PM (winter). Sunset from the temple grounds is one of Madrid's best-kept secrets. The walk up through the park is lovely; couple it with the Cable Car from the Rosaleda.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "architecture",
+      "egyptian",
+      "templo-de-debod"
+    ],
+    "related_records": [
+      "teleferico",
+      "retiro-park",
+      "royal-palace"
+    ],
+    "official_url": "https://www.esmadrid.com/en/tourist-information/templo-de-debod"
+  },
+  {
+    "id": "toledo",
+    "title": "Toledo — Day Trip",
+    "category": "see",
+    "subcategory": "day-trips",
+    "summary": "UNESCO old town, 30 min by AVE. The El Greco, the cathedral, the synagogue quarter, swords.",
+    "content": "AVE from Atocha: 33 min. Bus from Plaza Elíptica: 50 min. The old town is a single hilltop, best walked. Toledo is famous for steelwork and sword-making — the Visigothic-era techniques are still used. The cathedral is one of Spain's finest Gothic buildings. Try the local 'carne de caza' (game meat) and 'mazapán' (marzipan).",
+    "official_url": "https://www.toledo.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "day-trips",
+      "toledo",
+      "unesco"
+    ],
+    "related_records": [
+      "segovia",
+      "avila",
+      "el-escorial",
+      "renfe-trains",
+      "atocha-station"
+    ]
+  },
+  {
+    "id": "segovia",
+    "title": "Segovia — Day Trip",
+    "category": "see",
+    "subcategory": "day-trips",
+    "summary": "Roman aqueduct, Alcázar castle, cathedral. 35 min by AVE.",
+    "content": "AVE from Chamartín: 28 min. The Roman aqueduct (Acueducto) is 2,000 years old, 28m tall, and has 167 arches — still intact. The Alcázar (fairy-tale castle) is said to have inspired Disney. Famous for 'cochinillo asado' (roast suckling pig) — Mesón de Cándido by the aqueduct is the classic. Also: cathedral, Plaza Mayor, Casa de los Picos.",
+    "official_url": "https://www.segovia.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "day-trips",
+      "segovia",
+      "unesco"
+    ],
+    "related_records": [
+      "toledo",
+      "avila",
+      "el-escorial",
+      "renfe-trains",
+      "chamartin-station"
+    ]
+  },
+  {
+    "id": "avila",
+    "title": "Ávila — Day Trip",
+    "category": "see",
+    "subcategory": "day-trips",
+    "summary": "Best-preserved medieval walls in Spain. Saint Teresa's birthplace. 1h 10 by train.",
+    "content": "Train from Chamartín or Príncipe Pío: 1h 10–20. The 11th-century walls (2,500m, 88 towers) encircle the old town — you can walk the parapet. The cathedral is built into the walls. Famous for 'yemas de Santa Teresa' (sweet egg-yolk candies). Quieter than Toledo or Segovia.",
+    "official_url": "https://www.avila.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "day-trips",
+      "avila",
+      "walls"
+    ],
+    "related_records": [
+      "toledo",
+      "segovia",
+      "el-escorial",
+      "renfe-trains"
+    ]
+  },
+  {
+    "id": "el-escorial",
+    "title": "San Lorenzo de El Escorial — Day Trip",
+    "category": "see",
+    "subcategory": "day-trips",
+    "summary": "16th-century monastery-palace, Philip II's massive memorial. 1h by bus/train.",
+    "content": "Cercanías train from Atocha or Chamartín to El Escorial: ~1h. The monastery is austere, vast, and packed with art (El Greco, Titian, Velázquez, Bosch). Includes the basilica, royal pantheon (Spanish kings since Charles I), library, and the famous 'El Greco rooms'. Combine with a walk in the surrounding mountains.",
+    "official_url": "https://www.el-escorial.com",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "day-trips",
+      "el-escorial",
+      "philip-ii"
+    ],
+    "related_records": [
+      "toledo",
+      "segovia",
+      "avila",
+      "renfe-trains"
+    ]
+  },
+  {
+    "id": "mercado-san-miguel",
+    "title": "Mercado de San Miguel",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Glass-walled market next to Plaza Mayor. Tapas stalls, vermut, oysters, jamón.",
+    "content": "Open daily 10 AM to midnight (later on weekends). Touristy but genuinely good. Order at any stall, eat standing up at the shared high-tops. The jamón ibérico and the oyster/Champagne stand are standouts. Expect to pay €15–25/person for a full tapas crawl.",
+    "official_url": "https://www.mercadodesanmiguel.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "food",
+      "mercado",
+      "tapas"
+    ],
+    "related_records": [
+      "plaza-mayor",
+      "tapas-la-latina",
+      "vermouth-madrid",
+      "sangines"
+    ]
+  },
+  {
+    "id": "sangines",
+    "title": "Chocolatería San Ginés",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Madrid's iconic churros-and-chocolate spot, open since 1894. 24/7.",
+    "content": "Pasadizo de San Ginés, 5 (off Calle Arenal, near Puerta del Sol). Order 'churros con chocolate' — six churros €4.20–4.80, hot chocolate thick enough to stand a churro in. Cash and card both. The marble tables and tuxedoed waiters haven't changed in 30 years. No reservations, queue moves fast.",
+    "official_url": "https://chocolateriasangines.com",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "food",
+      "churros",
+      "chocolate",
+      "san-gines"
+    ],
+    "related_records": [
+      "puerta-del-sol",
+      "plaza-mayor",
+      "vermouth-madrid",
+      "mercado-san-miguel"
+    ]
+  },
+  {
+    "id": "tapas-la-latina",
+    "title": "Tapas in La Latina",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Madrid's classic tapa crawl. Calle Cava Baja and the surrounding streets.",
+    "content": "Start at Plaza de la Cebada and walk up Calle Cava Baja. Stops: El Viajero (terrace), Casa Lucas, Taberna Txakolina (Basque), Bodega de la Ardosa (historic, vermouth on tap), Almendro 13 (free tapa with every drink). Sunday El Rastro market spills into the area — arrive before 13:00 to dodge crowds.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "food",
+      "tapas",
+      "la-latina"
+    ],
+    "related_records": [
+      "el-rastro-sunday",
+      "vermouth-madrid",
+      "mercado-san-miguel"
+    ],
+    "official_url": "https://www.esmadrid.com/en/gastronomy"
+  },
+  {
+    "id": "vermouth-madrid",
+    "title": "Vermouth Hour in Madrid",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "12:00–13:00, the traditional 'aperitivo' hour. Vermut on tap with a free tapa.",
+    "content": "A Madrid institution. The classic serve: vermut rojo (red, sweet) on tap, a slice of orange, an olive, a 'puntilla' anchovy, and a small tapa. Best places: Bodega de la Ardosa (Malasaña), Taberna La Concha (Lavapiés), La Venencia (next stop). Order it in Spanish: 'un vermut, por favor.'",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "food",
+      "vermouth",
+      "traditions"
+    ],
+    "related_records": [
+      "tapas-la-latina",
+      "malasana-bars",
+      "traditions-summary"
+    ],
+    "official_url": "https://www.esmadrid.com/en/gastronomy"
+  },
+  {
+    "id": "flamenco",
+    "title": "Flamenco — How to Experience It",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Madrid's tablaos are tourist-friendly but serious. Cardamomo, Corral de la Morería, and smaller peñas are the real thing.",
+    "content": "Tablaos (paid venues): Cardamomo (€35–45 show only, Huertas), Corral de la Morería (€50 show only, La Latina — Michelin-starred kitchen), Torres Bermejas, Las Tablas. Peña flamenca (free or cheap, members + guests): Peña El Flamenco, Peña La Platería, Peña Torres Macarena. Shows run 21:00–23:00. Reserve ahead in summer.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "arts",
+      "flamenco",
+      "music"
+    ],
+    "related_records": [
+      "flamenco-cardamomo",
+      "flamenco-corral-de-la-moreria",
+      "teatro-real",
+      "cafe-central-jazz"
+    ],
+    "official_url": "https://www.esmadrid.com/en/whats-on/flamenco"
+  },
+  {
+    "id": "flamenco-cardamomo",
+    "title": "Flamenco at Cardamomo",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Top tablao in Huertas. Tourist-friendly but the dancers are real.",
+    "content": "Calle de Echegaray, 15. Shows nightly, dinner + show €60–80, show only €35–45. Two drinks minimum. Reserve ahead in summer. The venue is small and the seating is close to the stage — the experience is intense. Not the most authentic flamenco in town (that's Corral de la Morería or a peña), but reliable and high-quality.",
+    "official_url": "https://www.cardamomo.net/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "arts",
+      "flamenco",
+      "cardamomo"
+    ],
+    "related_records": [
+      "flamenco",
+      "flamenco-corral-de-la-moreria",
+      "teatro-real"
+    ]
+  },
+  {
+    "id": "flamenco-corral-de-la-moreria",
+    "title": "Flamenco at Corral de la Morería",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Often called the most authentic tablao in Madrid. Michelin-starred paella + flamenco.",
+    "content": "Calle de la Morería, 17. The only flamenco venue with a Michelin star (for the kitchen). Dinner + show €90–150, show only €50. Respected by dancers as one of the most serious. 10 min from La Latina metro. Open nightly.",
+    "official_url": "https://www.corraldelamoreria.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "arts",
+      "flamenco",
+      "michelin"
+    ],
+    "related_records": [
+      "flamenco",
+      "flamenco-cardamomo",
+      "teatro-real"
+    ]
+  },
+  {
+    "id": "teatro-real",
+    "title": "Teatro Real",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Spain's premier opera house, opposite the Royal Palace. Tour €12 or ticket €30–200.",
+    "content": "Plaza de Isabel II. One of the best acoustics in Europe. Tours in English (45 min) several times daily. Main season Sept–July. Last-minute tickets (€15–30) go on sale 2 hours before each performance — 'Día de la Opera' web page lists them. If opera isn't your thing, do the tour anyway — the building is gorgeous.",
+    "official_url": "https://www.teatroreal.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "arts",
+      "opera",
+      "teatro-real"
+    ],
+    "related_records": [
+      "royal-palace",
+      "almudena-cathedral",
+      "cafe-central-jazz"
+    ]
+  },
+  {
+    "id": "cafe-central-jazz",
+    "title": "Café Central — Jazz",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Madrid's most famous jazz club. 4 nights a week, two sets each night.",
+    "content": "Plaza del Ángel, 10. Cover €10–25 depending on the artist. Two sets nightly at 21:00 and 22:30. Order a drink at the bar (minimum) and stay for the show. Bookings recommended in summer. The acoustics are great — focus is on the music, not the food.",
+    "official_url": "https://www.cafecentralmadrid.com",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "arts",
+      "jazz",
+      "cafe-central"
+    ],
+    "related_records": [
+      "flamenco",
+      "teatro-real",
+      "malasana-bars"
+    ]
+  },
+  {
+    "id": "malasana-bars",
+    "title": "Malasaña Bars",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Indie rock, vinyl bars, dive cocktail joints. Plaza del 2 de Mayo and around.",
+    "content": "Start at Plaza Dos de Mayo and spiral out. Classics: La Vía Láctea (vinyl, indie), Tupperware (cocktails in takeout containers), El Tigre (giant free tapas with every drink), La Musa (calle de las Madres). Late-night food at Casa María (Casa Maderas) or the kebab places on Fuencarral. Most bars don't get going until 23:00.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "nightlife",
+      "malasana",
+      "bars"
+    ],
+    "related_records": [
+      "chueca-cocktails",
+      "vermouth-madrid",
+      "neighborhoods-guide"
+    ],
+    "official_url": "https://www.esmadrid.com/en/nightlife"
+  },
+  {
+    "id": "chueca-cocktails",
+    "title": "Chueca Cocktails",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Design cocktail bars and LGBT+ venues. Plaza de Chueca and Calle Augusto Figueroa.",
+    "content": "Top cocktails: Salmon Guru (twice in the World's 50 Best), Bendito, Le Boutique, Viva Madrid (classic Madrileño vermouth joint). LGBT+ circuit: Black & White, Boite, Why Not? Most cocktail bars €12–18 per drink. Salmon Guru has a no-photos policy and a serious cocktail program.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "nightlife",
+      "chueca",
+      "cocktails"
+    ],
+    "related_records": [
+      "malasana-bars",
+      "la-latina-verbenas",
+      "neighborhoods-guide"
+    ],
+    "official_url": "https://www.esmadrid.com/en/nightlife"
+  },
+  {
+    "id": "la-latina-verbenas",
+    "title": "La Latina Verbenas",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Open-air street parties in August. La Paloma, San Lorenzo, San Cayetano.",
+    "content": "Three consecutive verbenas in neighbouring barrios: San Cayetano (Rastro, Aug 5–8), San Lorenzo (Lavapiés, Aug 9–12), La Paloma (La Latina, Aug 14–17). Free entry, stages on the plazas, chotis dancing, food stalls. Wear a mantón (shawl) if you want to go native. Plan to arrive after 22:00 for the live music.",
+    "status": "annual review",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "nightlife",
+      "verbenas",
+      "traditions"
+    ],
+    "related_records": [
+      "traditions-summary",
+      "august-verbenas",
+      "neighborhoods-guide"
+    ],
+    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid"
+  },
+  {
+    "id": "real-madrid-bernabeu",
+    "title": "Real Madrid — Santiago Bernabéu",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "The Bernabéu stadium tour and match tickets. LaLiga season starts Aug 2026.",
+    "content": "Stadium tour: €30 (includes museum, dressing room, pitch, trophy room). 1.5 hours. Book online. Match tickets: €50–250 for LaLiga, €100–500+ for Champions League. Buy on realmadrid.com (the only official site). The 2026/27 LaLiga season starts the weekend of 22 Aug 2026. Avoid the stadium area on match day — it gets chaotic.",
+    "official_url": "https://www.realmadrid.com/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "sports",
+      "football",
+      "real-madrid",
+      "bernabeu"
+    ],
+    "related_records": [
+      "santiago-bernabeu",
+      "atletico-metropolitano",
+      "rayo-vallecas"
+    ]
+  },
+  {
+    "id": "santiago-bernabeu",
+    "title": "Santiago Bernabéu Stadium",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Real Madrid's home since 1947. 78,000+ capacity. Recently renovated with a retractable pitch and 360° video screen.",
+    "content": "Tour (€30, 1.5 hours): museum, dressing room, presidential box, players' tunnel, pitch-side, panoramic view, trophy room. Match days: arrive 2 hours early, the area around the stadium is hectic. Metro: Santiago Bernabéu (Line 10). The 2026/27 LaLiga opener is the weekend of 22 August 2026.",
+    "official_url": "https://www.realmadrid.com/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "sports",
+      "football",
+      "bernabeu",
+      "stadium"
+    ],
+    "related_records": [
+      "real-madrid-bernabeu",
+      "atletico-metropolitano",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "atletico-metropolitano",
+    "title": "Atlético de Madrid — Cívitas Metropolitano",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Atlético's stadium (since 2017), east of the city. 68,000 capacity.",
+    "content": "Stadium tour: €20. Match tickets €40–200. Metro: Estadio Metropolitano (Line 7). The atmosphere is famously more intense than at the Bernabéu — Atlético fans are known for 'no pasarán' chants. Atlético is more working-class and the stadium experience reflects that. Also hosts concerts in summer.",
+    "official_url": "https://www.atleticodemadrid.com",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "sports",
+      "football",
+      "atletico"
+    ],
+    "related_records": [
+      "real-madrid-bernabeu",
+      "santiago-bernabeu",
+      "rayo-vallecas"
+    ]
+  },
+  {
+    "id": "rayo-vallecas",
+    "title": "Rayo Vallecano",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "The people's club of Vallecas. Tiny stadium, huge atmosphere.",
+    "content": "Estadio de Vallecas, 14,700 capacity. Tickets €15–80. Metro: Portazgo or Buenos Aires. The cheapest authentic football experience in the city. Rayo is known for left-wing fan culture and supporter ownership — banners, flares, working-class pride. Tickets often sold out — buy from the club website on the release date.",
+    "official_url": "https://www.rayovallecano.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "sports",
+      "football",
+      "rayo",
+      "vallecas"
+    ],
+    "related_records": [
+      "real-madrid-bernabeu",
+      "atletico-metropolitano"
+    ]
+  },
+  {
+    "id": "el-rastro-sunday",
+    "title": "El Rastro Sunday Market",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "Europe's biggest flea market. Every Sun + public holidays, 9 AM to 3 PM.",
+    "content": "Calle de la Ribera de Curtidores and surrounding streets. ~3,500 stalls: vintage clothes, antiques, leather, vinyl, knock-offs, handcrafts. Cash only is safest. Arrive before 11:00 to browse, after 13:00 to haggle. Watch your pockets. Adjacent bars fill up — Bar La Concha is a classic stop.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "shopping",
+      "el-rastro",
+      "flea-market"
+    ],
+    "related_records": [
+      "tapas-la-latina",
+      "gran-via",
+      "salamanca-district"
+    ],
+    "official_url": "https://www.esmadrid.com/en/shopping/el-rastro"
+  },
+  {
+    "id": "salamanca-district",
+    "title": "Salamanca District Shopping",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "Madrid's 'Golden Mile.' Calle Serrano, Goya, Velázquez. Luxury flagships.",
+    "content": "Hermès, Louis Vuitton, Loewe, Cartier, Chanel — all on Calle Serrano. Quieter and more elegant than Gran Vía. Combine with a coffee at Café Gijón (a Hemingway haunt). Best for window-shopping even if you don't buy.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "shopping",
+      "salamanca",
+      "luxury"
+    ],
+    "related_records": [
+      "gran-via",
+      "neighborhoods-guide"
+    ],
+    "official_url": "https://www.esmadrid.com/en/shopping"
+  },
+  {
+    "id": "las-ventas-bullfights",
+    "title": "Las Ventas Bullring",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Madrid's 23,000-seat bullring. Season runs March to October. Tiles cover the bull names by season.",
+    "content": "Plaza de Toros de las Ventas, Metro: Ventas. Corridas most Sundays and during the San Isidro Festival (May 15 – June 15). Tickets €20–200, sold at the ring or via entradastorosmadrid.com. The Museo Taurino in the ring is worth a separate visit (€6). Bullfighting is controversial in Spain — the regional ban push is real but Las Ventas is unaffected as of 2026.",
+    "official_url": "https://www.las-ventas.com",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "traditions",
+      "bullfighting",
+      "las-ventas"
+    ],
+    "related_records": [
+      "veranos-de-la-villa",
+      "august-verbenas",
+      "traditions-summary"
+    ]
+  },
+  {
+    "id": "traditions-summary",
+    "title": "Spanish Traditions in Madrid",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Flamenco, bullfighting, verbenas, chotis, mantones, siesta — a guide to what's still real and what's become a tourist show.",
+    "content": "Still real: verbenas (street parties, August especially), Sunday family lunch, late dinners (21:00+), tapas culture, religious processions during Semana Santa. Tourist-fied but still worth seeing: bullfighting at Las Ventas (Mar–Oct), flamenco tablaos (the small peñas are more authentic). Mostly myth now: daily siesta (urban Madrileños don't do this; small shops in some barrios might close 14:00–17:00).",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "traditions",
+      "culture"
+    ],
+    "related_records": [
+      "flamenco",
+      "las-ventas-bullfights",
+      "la-latina-verbenas",
+      "veranos-de-la-villa"
+    ],
+    "official_url": "https://www.esmadrid.com/en/culture"
+  },
+  {
+    "id": "veranos-de-la-villa",
+    "title": "Veranos de la Villa",
+    "category": "now",
+    "subcategory": "events",
+    "summary": "Madrid's biggest summer festival. 2026 edition: 7 July – 30 August, 14 districts, 72 events.",
+    "content": "Concerts, theatre, dance, zarzuela, circus, family programming. Most events €5–25, many free. Spread across the city: Conde Duque, Matadero, Fernán Gómez, Teatro Real (open-air), Plaza de España. Check veranosdelavilla.com for the full programme. Reservations open 2 weeks before each event.",
+    "official_url": "https://www.veranosdelavilla.com",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "events",
+      "summer",
+      "festival"
+    ],
+    "related_records": [
+      "august-verbenas",
+      "traditions-summary",
+      "madrid-pride"
+    ]
+  },
+  {
+    "id": "august-verbenas",
+    "title": "August Verbenas (Street Parties)",
+    "category": "now",
+    "subcategory": "events",
+    "summary": "Three back-to-back street festivals: San Cayetano, San Lorenzo, La Paloma.",
+    "content": "2026 dates: San Cayetano 5–8 Aug (Rastro/Embajadores), San Lorenzo 9–12 Aug (Lavapiés), La Paloma 14–17 Aug (La Latina). All free, with stages on the main plazas, food stalls, and traditional chotis dancing. The biggest is La Paloma. Wear comfortable shoes — the streets are packed from 21:00 onwards.",
+    "status": "annual review",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "events",
+      "verbenas",
+      "august"
+    ],
+    "related_records": [
+      "veranos-de-la-villa",
+      "traditions-summary",
+      "la-latina-verbenas"
+    ],
+    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid"
+  },
+  {
+    "id": "madrid-pride",
+    "title": "Madrid Pride (MADO)",
+    "category": "now",
+    "subcategory": "events",
+    "summary": "Europe's largest Pride. Late June to early July. The parade on Saturday is the main event.",
+    "content": "MADO (Madrid Orgullo) runs 10 days. Plaza de Chueca and surroundings are the centre. Saturday parade floats through Gran Vía to Plaza de Colón. Free to watch, paid tickets for concerts and the closing party. Dates: 28 Jun – 5 Jul 2026 (TBC). The party goes until 6 AM during the week of Pride — book accommodation early.",
+    "official_url": "https://www.madridorgullo.com",
+    "status": "annual review",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "events",
+      "pride",
+      "lgbt",
+      "july"
+    ],
+    "related_records": [
+      "veranos-de-la-villa",
+      "chueca-cocktails",
+      "neighborhoods-guide"
+    ]
+  },
+  {
+    "id": "madrid-time",
+    "title": "Live Madrid Time",
+    "category": "now",
+    "subcategory": "live",
+    "summary": "Europe/Madrid (CEST UTC+2 summer, CET UTC+1 winter). Same time as Paris and Berlin.",
+    "content": "Spain uses Central European Time. No daylight saving confusion in 2026 — the EU voted to scrap the time change but implementation is delayed. Lunch is typically 14:00–16:00, dinner starts 21:00. Most shops don't open before 10:00. Siesta is largely a myth for urban Madrileños, but many smaller shops close 14:00–17:00.",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "live",
+      "time",
+      "timezone"
+    ],
+    "related_records": [
+      "madrid-weather",
+      "madrid-aqi"
+    ],
+    "official_url": "https://www.time.is/Madrid"
+  },
+  {
+    "id": "madrid-weather",
+    "title": "Madrid Weather",
+    "category": "now",
+    "subcategory": "live",
+    "summary": "Hot dry summers (30–38°C Jul–Aug), cold winters (0–10°C Dec–Feb). Spring and autumn are mild.",
+    "content": "Summer: 14h daylight, intense midday sun, cool evenings. Bring sunscreen, water, light layers. Winter: short days (sunset ~17:30), occasional snow but rare. Best months: April, May, September, October. Madrid is dry year-round — humidity rarely above 60%. AEMET (the national met service) has the most accurate forecast.",
+    "official_url": "https://www.aemet.es/en/portada",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "live",
+      "weather",
+      "climate"
+    ],
+    "related_records": [
+      "madrid-time",
+      "madrid-aqi"
+    ]
+  },
+  {
+    "id": "madrid-aqi",
+    "title": "Madrid Air Quality",
+    "category": "now",
+    "subcategory": "live",
+    "summary": "Generally good. Ozone spikes in summer afternoons. Winter NO2 from traffic and heating.",
+    "content": "Real-time AQI: consultaq.opendata.es. Stations: Plaza de España, Cuatro Caminos, Retiro. Madrid has a 'Madrid 360' plan to ban polluting cars from the city centre by 2025 — check the 'Madrid Central' / 'Madrid 360' rules if you're driving. The Manzanares river corridor is the cleanest area; the M-30 ring road the worst.",
+    "official_url": "https://consultaq.opendata.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "live",
+      "aqi",
+      "environment"
+    ],
+    "related_records": [
+      "madrid-time",
+      "madrid-weather"
+    ]
+  },
+  {
+    "id": "metro-closures",
+    "title": "Metro Closures",
+    "category": "now",
+    "subcategory": "transit",
+    "summary": "Summer 2026: planned closures on Lines 6, 7, 9B, 10. Free shuttle buses cover affected sections.",
+    "content": "The Comunidad de Madrid does major track and station work in August when ridership drops. Summer 2026 affected: Line 9B (TFM) Arganda-Rivas closed 25 Jul – 13 Aug. Line 6 Argüelles-Ciudad Universitaria closed 1 Aug – 2 Sep (Moncloa station work). Line 7 Gregorio Marañón-Pitis closed 2–28 Aug. Line 10 Plaza Castilla-Nuevos Ministerios extended to 21 Aug (Bernabéu renovation). All affected sections have free EMT shuttle buses.",
+    "official_url": "https://www.crtm.es/comunicacion/actualidad-del-servicio/avisos/avisos-metro/",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "transit",
+      "metro",
+      "closures"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "emt-buses",
+      "madrid-barajas-airport"
+    ]
+  },
+  {
+    "id": "prado-current",
+    "title": "Prado — Current Exhibitions",
+    "category": "now",
+    "subcategory": "exhibitions",
+    "summary": "Rotating exhibitions in the Jerónimos building. Check the official site for what's showing now.",
+    "content": "The Prado's temporary exhibitions are world-class and usually have an English-language audio guide. Timed entry required. Many sell out 2–3 weeks ahead. Combine with the permanent collection for a full day. EU students under 25 free with ID.",
+    "official_url": "https://www.museodelprado.es/en/whats-on/exhibitions",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "exhibitions",
+      "prado"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "reina-sofia-current",
+      "thyssen-current"
+    ]
+  },
+  {
+    "id": "reina-sofia-current",
+    "title": "Reina Sofía — Current Exhibitions",
+    "category": "now",
+    "subcategory": "exhibitions",
+    "summary": "Modern and contemporary art. Recent retrospectives have included Dalí, Picasso, and feminist art movements.",
+    "content": "Two main temporary slots per year. Sabatini Building is the main venue. Combine a visit with the current 'Colección' (which rotates selections from the permanent collection) to see less-crowded Picasso, Miró, and Dalí works.",
+    "official_url": "https://www.museoreinasofia.es/en/exhibitions",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "exhibitions",
+      "reina-sofia"
+    ],
+    "related_records": [
+      "museo-reina-sofia",
+      "prado-current",
+      "thyssen-current"
+    ]
+  },
+  {
+    "id": "thyssen-current",
+    "title": "Thyssen — Current Exhibitions",
+    "category": "now",
+    "subcategory": "exhibitions",
+    "summary": "Temporary shows often focus on a single artist or movement, in the ground-floor Villahermosa wing.",
+    "content": "The Thyssen's temporary programming is more focused than the Prado's. Recent examples: Edward Hopper, Van Gogh, Bauhaus, Russian avant-garde. Audio guide in English. Plan 2–3 hours including the permanent collection.",
+    "official_url": "https://www.museothyssen.org/en/exhibitions",
+    "status": "dynamic",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "exhibitions",
+      "thyssen"
+    ],
+    "related_records": [
+      "thyssen-bornemisza",
+      "prado-current",
+      "reina-sofia-current"
+    ]
+  },
+  {
+    "id": "el-pais-english",
+    "title": "El País (English edition)",
+    "category": "now",
+    "subcategory": "news",
+    "summary": "Spain's largest newspaper, daily English edition. The best source for current Madrid news.",
+    "content": "The English edition is selected translations of the Spanish front pages. Free tier covers most news. Has a dedicated 'Madrid' section. Useful for finding out about protests, strikes, and city updates that affect your plans.",
+    "official_url": "https://english.elpais.es",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "news",
+      "english",
+      "el-pais"
+    ],
+    "related_records": [
+      "madrid-daily-english",
+      "metro-closures"
+    ]
+  },
+  {
+    "id": "madrid-daily-english",
+    "title": "Madrid Daily in English",
+    "category": "now",
+    "subcategory": "news",
+    "summary": "English-language expat news, events, and classifieds. Founded 2002.",
+    "content": "MadridDaily.com (independent) and The Local Spain (thelocal.es) are both long-running. Expat-oriented content, jobs, rentals, events. Less authoritative than El País but better for day-to-day practical questions.",
+    "official_url": "https://www.thelocal.es/spain/madrid/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "news",
+      "expat",
+      "english"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "idealista",
+      "teach-english-spain"
+    ]
+  },
+  {
+    "id": "housing",
+    "title": "Housing in Madrid",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Apartments, neighborhoods, contracts, and deposits. Everything you need to find and keep a flat in Madrid.",
+    "content": "Search portals: Idealista and Fotocasa are the two main property sites. Pick a barrio first — Malasaña (indie, lively), Chamberí (traditional, families), Salamanca (upscale, business), Retiro (parks, family), Chueca (design, LGBT+), Lavapiés (multicultural, edgy, cheaper), La Latina (old-town tapas), Arganzuela (up-and-coming, near Madrid Río). Deposits: 1 month standard ('fianza'), plus often a 1-month 'aval' bank guarantee. Contracts are usually 11 months. Get a written 'inventario' (inventory) at move-in. Avoid paying anything before viewing in person — scams are common. For short stays: look at Spotahome, Badi, or local Facebook groups.",
+    "official_url": "https://www.esmadrid.com/en/areas",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "housing",
+      "rental",
+      "overview"
+    ],
+    "related_records": [
+      "idealista",
+      "fotocasa",
+      "neighborhoods-guide",
+      "rental-contracts",
+      "nie-tie",
+      "empadronamiento"
+    ]
+  },
+  {
+    "id": "healthcare",
+    "title": "Healthcare in Madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Public (Seguridad Social), private (Sanitas/Adeslas), and English-speaking options. Plus pharmacies.",
+    "content": "Three systems: (1) Public — Seguridad Social, free or low-cost, requires being on the padron and either working or paying the 'convenio especial' (~€60/month). Get a 'tarjeta sanitaria' at your local Centro de Salud. (2) Private — Sanitas, Adeslas, DKV, IMQ. €50–200/month. Faster, English-speaking, more choice. (3) Tourist — pay upfront or use travel insurance. For emergencies, any public hospital ER treats you regardless. Pharmacies (green cross) are everywhere; every district has a 'farmacia de guardia' open 24h. English-speaking clinics: Madrid Healthcare, Hospital HM Sanchinarro, British-American Clinic.",
+    "official_url": "https://www.comunidad.madrid/servicios/salud",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "healthcare",
+      "overview",
+      "insurance"
+    ],
+    "related_records": [
+      "public-healthcare",
+      "english-speaking-doctors",
+      "pharmacies",
+      "hospitals",
+      "empadronamiento",
+      "nie-tie"
+    ]
+  },
+  {
+    "id": "banking",
+    "title": "Banking in Madrid",
+    "category": "living",
+    "subcategory": "banking",
+    "summary": "Spanish bank accounts, transfers, cards, ATMs, and the NIE-paperwork connection.",
+    "content": "Big 5 banks: CaixaBank, BBVA, Santander, Bankinter, Sabadell. To open a Spanish account you need: NIE, empadronamiento certificate, employment contract or self-employed status, sometimes a minimum deposit. Online-friendly options: Wise, N26, Revolut — work for non-residents and accepted most places. ATM tip: avoid Euronet machines in tourist areas; use bank-affiliated ATMs. Card acceptance: Visa/Mastercard everywhere, Amex only in hotels and big chains. For non-EU residents, opening a Spanish account is essential for paying rent, utilities, and receiving salary. Cash still common in small bars, taxis, and market stalls.",
+    "official_url": "https://www.bankinter.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "last_updated": "2026-07-17",
+    "tags": [
+      "banking",
+      "accounts",
+      "overview"
+    ],
+    "related_records": [
+      "spanish-bank-accounts",
+      "euros-and-atms",
+      "credit-card-acceptance",
+      "nie-tie",
+      "empadronamiento"
+    ]
+  }
+]

@@ -5,12 +5,12 @@
     "description": "Everything you need before you arrive and during your stay — visas, money, getting around, staying safe.",
     "emoji": "🎒",
     "color": "red",
-    "bullets": [
-      "Visas & entry — Schengen rules for US/UK/CA/AU; ETIAS launches Q4 2026 (currently not required)",
-      "Money — euros, ATMs, card acceptance, tipping etiquette, daily budgets",
-      "Getting around — Metro (12 lines, 300+ stations), EMT buses, taxi, ride-hailing, e-scooters",
-      "Spanish phrases — the 20 you'll actually use, from ¡hola! to ¿dónde está...?",
-      "Safety & emergencies — 112 emergency line, hospitals, embassies, police, lost passport"
+    "subcategories": [
+      { "id": "visas",          "slug": "visas",          "title": "Visas & Entry",       "icon": "📋", "summary": "Schengen rules, ETIAS, passport requirements." },
+      { "id": "money",          "slug": "money",          "title": "Money & Budgets",     "icon": "💶", "summary": "Euros, ATMs, cards, tipping, daily spend." },
+      { "id": "transportation", "slug": "transportation", "title": "Getting Around",      "icon": "🚇", "summary": "Metro, buses, taxis, airport, trains, left luggage." },
+      { "id": "communication",  "slug": "communication",  "title": "Spanish Phrases",     "icon": "💬", "summary": "The 20 lines that get you through any situation." },
+      { "id": "safety",         "slug": "safety",         "title": "Safety & Emergencies","icon": "🛟", "summary": "112, hospitals, embassies, lost passport, police." }
     ]
   },
   {
@@ -19,12 +19,13 @@
     "description": "Settling in? Long-term tips for expats, students, digital nomads, and remote workers.",
     "emoji": "🏡",
     "color": "blue",
-    "bullets": [
-      "Finding a flat — idealista, fotocasa, neighborhood guide (Malasaña, Chamberí, Salamanca, Chueca, Lavapiés)",
-      "NIE, TIE & empadronamiento — the paperwork that unlocks everything else",
-      "Banking & taxes — Spanish bank accounts, NIE for contracts, Modelo 720 for overseas assets",
-      "Healthcare — public (Seguridad Social) vs private (Sanitas, Adeslas), how to register with a GP",
-      "Language, coworking & making friends — exchange nights, academies, meetup groups, hobby clubs"
+    "subcategories": [
+      { "id": "housing",    "slug": "housing",    "title": "Housing",    "icon": "🏠", "summary": "Apartments, neighborhoods, contracts, deposits." },
+      { "id": "paperwork",  "slug": "paperwork",  "title": "Paperwork",  "icon": "📑", "summary": "NIE, TIE, empadronamiento, Modelo 720." },
+      { "id": "banking",    "slug": "banking",    "title": "Banking",    "icon": "🏦", "summary": "Spanish bank accounts, NIE for contracts, transfers." },
+      { "id": "healthcare", "slug": "healthcare", "title": "Healthcare", "icon": "🩺", "summary": "Public vs private, English-speaking doctors, dentists, pharmacies." },
+      { "id": "work",       "slug": "work",       "title": "Work",       "icon": "💼", "summary": "Teach English, au pair, internships, journalism." },
+      { "id": "education",  "slug": "education",  "title": "Education",  "icon": "🎓", "summary": "Universities, bilingual schools, language schools." }
     ]
   },
   {
@@ -33,12 +34,12 @@
     "description": "Iconic landmarks, world-class museums, royal sites, and the green spaces Madrid is famous for.",
     "emoji": "🏛️",
     "color": "green",
-    "bullets": [
-      "The Golden Triangle — Museo del Prado, Museo Reina Sofía, Museo Nacional Thyssen-Bornemisza",
-      "Royal Madrid — Palacio Real, Catedral de la Almudena, and the Habsburg old town",
-      "Parks & green spaces — Retiro Park, Casa de Campo, Madrid Río, the Cable Car (Teleférico)",
-      "Architecture & plazas — Puerta del Sol, Plaza Mayor, Gran Vía, Templo de Debod, Barrio de las Letras",
-      "Day trips by train — Toledo (30 min), Segovia (35 min), Ávila (1h 10), El Escorial (1h)"
+    "subcategories": [
+      { "id": "museums",      "slug": "museums",      "title": "Museums",               "icon": "🖼️", "summary": "The Golden Triangle and other world-class collections." },
+      { "id": "royal",        "slug": "royal",        "title": "Royal Madrid",          "icon": "👑", "summary": "The Royal Palace, Almudena Cathedral, and Habsburg old town." },
+      { "id": "parks",        "slug": "parks",        "title": "Parks & Green Spaces",  "icon": "🌳", "summary": "Retiro, Casa de Campo, Madrid Río, the cable car." },
+      { "id": "architecture", "slug": "architecture", "title": "Architecture & Plazas", "icon": "🏛️", "summary": "Puerta del Sol, Plaza Mayor, Gran Vía, hidden corners." },
+      { "id": "day-trips",    "slug": "day-trips",    "title": "Day Trips",             "icon": "🚆", "summary": "Toledo, Segovia, Ávila, El Escorial, Chinchón, Aranjuez." }
     ]
   },
   {
@@ -47,12 +48,13 @@
     "description": "Eat, drink, dance, shop, watch, play — what to actually do in the city after dark and after siesta.",
     "emoji": "🎉",
     "color": "purple",
-    "bullets": [
-      "Tapas & mercados — Mercado de San Miguel, La Latina, Barrio de las Letras, Malasaña crawls",
-      "Flamenco, jazz & live music — Tablao Villa Rosa, Cardamomo, Café Central, Teatro Real",
-      "Nightlife — Malasaña indie bars, Chueca cocktails, La Latina verbenas, Salamanca clubs",
-      "Football — Santiago Bernabéu (Real Madrid), Cívitas Metropolitano (Atlético), Vallecas (Rayo)",
-      "Traditions & shopping — Las Ventas bullfights (Mar–Oct), Sunday El Rastro flea, Gran Vía flagship stores"
+    "subcategories": [
+      { "id": "food",       "slug": "food",       "title": "Food & Tapas",     "icon": "🍷", "summary": "Mercados, tapas routes, vermouth, regional Spanish food." },
+      { "id": "arts",       "slug": "arts",       "title": "Performing Arts",  "icon": "🎭", "summary": "Flamenco, theatre, jazz, comedy." },
+      { "id": "nightlife",  "slug": "nightlife",  "title": "Nightlife",        "icon": "🌙", "summary": "Malasaña bars, Chueca cocktails, La Latina verbenas." },
+      { "id": "sports",     "slug": "sports",     "title": "Sports",           "icon": "⚽", "summary": "Real Madrid, Atlético, Rayo, basketball, tennis." },
+      { "id": "shopping",   "slug": "shopping",   "title": "Shopping",         "icon": "🛍️", "summary": "Gran Vía flagships, El Rastro flea, Salamanca luxury." },
+      { "id": "traditions", "slug": "traditions", "title": "Traditions",       "icon": "🎊", "summary": "Bullfights, verbenas, chotis, mantones." }
     ]
   },
   {
@@ -61,12 +63,12 @@
     "description": "What is happening in the city right now — this week, today, in the next hour.",
     "emoji": "📡",
     "color": "orange",
-    "bullets": [
-      "This week's events — Veranos de la Villa (Jul 7 – Aug 30), verbenas de agosto, concerts, matches",
-      "Open exhibitions & pop-ups — what just opened at the Prado, Reina Sofía, Matadero, CaixaForum",
-      "Local news & city updates — strikes, protests, road closures, weather warnings",
-      "Live weather, time & AQI — current Madrid time, °C, air quality, sunset/sunrise",
-      "Transit alerts — Metro line closures (Lines 6, 7, 9B, 10 affected this summer), free shuttle buses"
+    "subcategories": [
+      { "id": "events",      "slug": "events",      "title": "This Week's Events", "icon": "🎟️", "summary": "Veranos de la Villa, verbenas, Pride, San Isidro." },
+      { "id": "exhibitions", "slug": "exhibitions", "title": "Open Exhibitions",   "icon": "🖼️", "summary": "What's showing now at the Prado, Reina Sofía, Thyssen, Matadero." },
+      { "id": "news",        "slug": "news",        "title": "News & Updates",     "icon": "📰", "summary": "English-language Madrid news, city updates, alerts." },
+      { "id": "live",        "slug": "live",        "title": "Live Info",          "icon": "🕒", "summary": "Current Madrid time, weather, AQI, sunset/sunrise." },
+      { "id": "transit",     "slug": "transit",     "title": "Transit Alerts",     "icon": "🚧", "summary": "Metro closures, bus detours, train delays." }
     ]
   }
 ]
