@@ -2,7 +2,7 @@
   {
     "id": "essentials",
     "title": "Madrid Essentials",
-    "description": "Everything you need before you arrive and during your stay — visas, money, getting around, staying safe.",
+    "description": "What you need before you arrive and during your stay — visas, money, transport, language, safety, connectivity.",
     "emoji": "🎒",
     "color": "red",
     "subcategories": [
@@ -22,17 +22,17 @@
       },
       {
         "id": "transportation",
-        "slug": "transportation",
-        "title": "Getting Around",
+        "slug": "transport",
+        "title": "Transport",
         "icon": "🚇",
         "summary": "Metro, buses, taxis, airport, trains, left luggage."
       },
       {
         "id": "communication",
-        "slug": "communication",
-        "title": "Spanish Phrases",
+        "slug": "language",
+        "title": "Spanish Language",
         "icon": "💬",
-        "summary": "The 20 lines that get you through any situation."
+        "summary": "Key phrases, learning resources, intercambios."
       },
       {
         "id": "safety",
@@ -40,13 +40,20 @@
         "title": "Safety & Emergencies",
         "icon": "🛟",
         "summary": "112, hospitals, embassies, lost passport, police."
+      },
+      {
+        "id": "connectivity",
+        "slug": "connectivity",
+        "title": "Connectivity",
+        "icon": "📶",
+        "summary": "SIM cards, eSIMs, public Wi-Fi, coworking, internet cafés."
       }
     ]
   },
   {
     "id": "living",
     "title": "Living in Madrid",
-    "description": "Settling in? Long-term tips for expats, students, digital nomads, and remote workers.",
+    "description": "Long-term tips for expats, students, digital nomads, and remote workers settling in Madrid.",
     "emoji": "🏡",
     "color": "blue",
     "subcategories": [
@@ -55,21 +62,21 @@
         "slug": "housing",
         "title": "Housing",
         "icon": "🏠",
-        "summary": "Apartments, neighborhoods, contracts, deposits."
+        "summary": "Apartments, neighborhoods, contracts, deposits, flatmates."
       },
       {
         "id": "bureaucracy",
         "slug": "bureaucracy",
         "title": "Bureaucracy",
         "icon": "📑",
-        "summary": "NIE, TIE, empadronamiento, Modelo 720."
+        "summary": "NIE, TIE, empadronamiento, Modelo 720, residencia."
       },
       {
         "id": "banking",
         "slug": "banking",
         "title": "Banking",
         "icon": "🏦",
-        "summary": "Spanish bank accounts, NIE for contracts, transfers."
+        "summary": "Spanish bank accounts, NIE for contracts, transfers, fintech."
       },
       {
         "id": "healthcare",
@@ -83,21 +90,28 @@
         "slug": "work",
         "title": "Work",
         "icon": "💼",
-        "summary": "Teach English, au pair, internships, journalism."
+        "summary": "Teach English, au pair, internships, freelancing, work permits."
       },
       {
         "id": "education",
         "slug": "education",
         "title": "Education",
         "icon": "🎓",
-        "summary": "Universities, bilingual schools, language schools."
+        "summary": "Universities, bilingual schools, language schools, Escuela Oficial."
+      },
+      {
+        "id": "services",
+        "slug": "services",
+        "title": "Everyday Services",
+        "icon": "🛠️",
+        "summary": "Post office, launderettes, locksmiths, moving, translating, barbers."
       }
     ]
   },
   {
     "id": "see",
     "title": "See in Madrid",
-    "description": "Iconic landmarks, world-class museums, royal sites, and the green spaces Madrid is famous for.",
+    "description": "Iconic landmarks, world-class museums, royal sites, neighborhoods, and the green spaces Madrid is famous for.",
     "emoji": "🏛️",
     "color": "green",
     "subcategories": [
@@ -118,16 +132,23 @@
       {
         "id": "parks",
         "slug": "parks",
-        "title": "Parks & Green Spaces",
+        "title": "Parks & Gardens",
         "icon": "🌳",
-        "summary": "Retiro, Casa de Campo, Madrid Río, the cable car."
+        "summary": "Retiro, Casa de Campo, Madrid Río, Juan Carlos I."
       },
       {
         "id": "architecture",
-        "slug": "architecture",
-        "title": "Architecture & Plazas",
+        "slug": "landmarks",
+        "title": "Plazas & Landmarks",
         "icon": "🏛️",
-        "summary": "Puerta del Sol, Plaza Mayor, Gran Vía, hidden corners."
+        "summary": "Puerta del Sol, Plaza Mayor, Gran Vía, Puerta de Alcalá."
+      },
+      {
+        "id": "neighborhoods",
+        "slug": "neighborhoods",
+        "title": "Neighborhoods",
+        "icon": "🗺️",
+        "summary": "Sol, Malasaña, Chueca, Salamanca, La Latina, Lavapiés, Chamberí."
       },
       {
         "id": "day-trips",
@@ -135,6 +156,13 @@
         "title": "Day Trips",
         "icon": "🚆",
         "summary": "Toledo, Segovia, Ávila, El Escorial, Chinchón, Aranjuez."
+      },
+      {
+        "id": "tours",
+        "slug": "tours",
+        "title": "Tours",
+        "icon": "🚶",
+        "summary": "Bus tours, walking tours, SEG tours, food tours, day tours."
       }
     ]
   },
@@ -171,28 +199,35 @@
         "slug": "sports",
         "title": "Sports",
         "icon": "⚽",
-        "summary": "Real Madrid, Atlético, Rayo, basketball, tennis."
+        "summary": "Real Madrid, Atlético, Rayo, basketball, tennis, golf."
       },
       {
         "id": "shopping",
         "slug": "shopping",
         "title": "Shopping",
         "icon": "🛍️",
-        "summary": "Gran Vía flagships, El Rastro flea, Salamanca luxury."
+        "summary": "Gran Vía flagships, El Rastro flea, Salamanca luxury, markets."
       },
       {
         "id": "traditions",
         "slug": "traditions",
-        "title": "Traditions",
+        "title": "Customs & Traditions",
         "icon": "🎊",
-        "summary": "Bullfights, verbenas, chotis, mantones."
+        "summary": "Bullfights, verbenas, chotis, mantones, San Isidro."
+      },
+      {
+        "id": "family",
+        "slug": "family",
+        "title": "Family & Kids",
+        "icon": "🎡",
+        "summary": "Theme parks, water parks, zoo, aquarium, IMAX, planetarium."
       }
     ]
   },
   {
     "id": "now",
     "title": "Madrid Now",
-    "description": "What is happening in the city right now — this week, today, in the next hour.",
+    "description": "What is happening in the city right now — this week, today, in the next hour. Also featured on the homepage.",
     "emoji": "📡",
     "color": "orange",
     "subcategories": [

@@ -9,11 +9,12 @@
     "official_url": "https://www.metromadrid.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "metro",
-      "subway"
+      "subway",
+      "salvage-pilot"
     ],
     "related_records": [
       "emt-buses",
@@ -22,7 +23,171 @@
       "chamartin-station",
       "left-luggage",
       "taxis-madrid"
-    ]
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Operating Hours",
+            "value": "6:00 AM – 1:30 AM (2:30 AM Fri/Sat)"
+          },
+          {
+            "label": "Network",
+            "value": "12 metro lines + 3 light rail"
+          },
+          {
+            "label": "Single Ticket",
+            "value": "€1.50 – €2.00 (zone dependent)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Tickets & Prices",
+        "columns": [
+          "Ticket",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Zone A (City Center)",
+            "€1.50",
+            "Most central stations"
+          ],
+          [
+            "Zone B1 (Airport)",
+            "€4.50",
+            "Includes airport supplement"
+          ],
+          [
+            "Zone B2 (Outer areas)",
+            "€2.00",
+            "Outskirts and suburbs"
+          ],
+          [
+            "10-Journey Card (Metrobús)",
+            "€12.20",
+            "Works on metro + EMT buses"
+          ],
+          [
+            "Monthly Pass (Abono)",
+            "€54.60",
+            "Unlimited travel, zone A"
+          ],
+          [
+            "Tourist Pass (1 day)",
+            "€8.40",
+            "Unlimited for 24 hours"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Money-Saving Tip",
+        "body": "The 10-journey Metrobús card works on both metro and buses, saving you money if you're staying more than a few days. The card itself costs €2.50 (deposit) and is reusable.",
+        "tone": "info"
+      },
+      {
+        "type": "steps",
+        "heading": "How to Use the Metro",
+        "items": [
+          {
+            "title": "Buy Your Ticket",
+            "body": "Purchase tickets at machines (available in multiple languages) or ticket offices. You'll need a rechargeable card (€2.50 deposit)."
+          },
+          {
+            "title": "Enter the Station",
+            "body": "Tap your card on the reader at the turnstiles. Keep your ticket until you exit — you may need it for inspections."
+          },
+          {
+            "title": "Find Your Platform",
+            "body": "Follow signs for your line and direction. Platforms are clearly marked with the final destination of each direction."
+          },
+          {
+            "title": "Board & Travel",
+            "body": "Let passengers exit first, then board. Announcements are in Spanish, but station names are clearly displayed."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Key Stations for Tourists",
+        "items": [
+          {
+            "title": "Sol",
+            "body": "Puerta del Sol, shopping",
+            "meta": [
+              "Lines 1, 2, 3"
+            ]
+          },
+          {
+            "title": "Opera",
+            "body": "Royal Palace, Teatro Real",
+            "meta": [
+              "Lines 2, 5, R"
+            ]
+          },
+          {
+            "title": "Atocha",
+            "body": "Prado Museum, train station",
+            "meta": [
+              "Line 1"
+            ]
+          },
+          {
+            "title": "Retiro",
+            "body": "Retiro Park, Crystal Palace",
+            "meta": [
+              "Line 2"
+            ]
+          },
+          {
+            "title": "Gran Vía",
+            "body": "Shopping, theaters, nightlife",
+            "meta": [
+              "Lines 1, 5"
+            ]
+          },
+          {
+            "title": "Chueca",
+            "body": "Trendy neighborhood, restaurants",
+            "meta": [
+              "Line 5"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Metro Tips & Etiquette",
+        "do": [
+          "Stand right on escalators",
+          "Let passengers exit before boarding",
+          "Offer seats to elderly, pregnant, or disabled",
+          "Keep your ticket until you exit",
+          "Move to the center of the car",
+          "Keep backpacks in front during rush hour"
+        ],
+        "dont": [
+          "Block doors when they're closing",
+          "Eat messy foods on the train",
+          "Play music without headphones",
+          "Put feet on seats",
+          "Rush onto trains during peak hours",
+          "Forget to validate your ticket"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Summer 2026 Closures",
+        "body": "Planned closures on Lines 6, 7, 9B, and 10 for renovations. Free shuttle buses cover affected sections. Check the official Metro de Madrid app before traveling.",
+        "tone": "warning"
+      }
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "madrid-barajas-airport",
@@ -34,11 +199,12 @@
     "official_url": "https://www.aena.es/en/passengers/madrid-barajas-airport.html",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "airport",
-      "barajas"
+      "barajas",
+      "salvage-pilot"
     ],
     "related_records": [
       "metro-de-madrid",
@@ -46,7 +212,114 @@
       "taxis-madrid",
       "atocha-station",
       "left-luggage"
-    ]
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Airport to City Center — Transport Options",
+        "items": [
+          {
+            "title": "Metro (Line 8)",
+            "body": "Connects directly to Nuevos Ministerios hub. Cheapest option but transfers may be needed for the historic center.",
+            "meta": [
+              "Cost: €4.50–€5 (airport supplement + metro fare)",
+              "Duration: 15–20 min to Nuevos Ministerios"
+            ]
+          },
+          {
+            "title": "Airport Express Bus (203)",
+            "body": "24/7 service to Atocha Station, Cibeles, and O'Donnell. Comfortable with luggage.",
+            "meta": [
+              "Cost: €5",
+              "Duration: 30–40 min to Atocha"
+            ]
+          },
+          {
+            "title": "Taxi",
+            "body": "Fixed fare to central Madrid (inside the M-30 ring). Convenient for groups or lots of luggage.",
+            "meta": [
+              "Cost: €30 (fixed fare)",
+              "Duration: 20–30 min (traffic dependent)"
+            ]
+          },
+          {
+            "title": "Ride-Sharing (Uber / Cabify)",
+            "body": "Similar to taxis but booked via app. Prices can vary with demand. Pick-up points are signed at each terminal.",
+            "meta": [
+              "Cost: €20–€35 (variable)",
+              "Duration: 20–30 min"
+            ]
+          },
+          {
+            "title": "Renfe Cercanías",
+            "body": "Commuter train from T4 to Atocha / Chamartín. Cheap but only useful if arriving at T4.",
+            "meta": [
+              "Cost: €2.60",
+              "Duration: 25 min to Atocha"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Terminal Shuttle",
+        "body": "Free shuttle buses run between all four terminals (T1, T2, T3, T4) and the satellite T4S every 5–10 minutes. Allow 20 minutes if you need to transfer between T4 and T1/T2/T3.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Airport Facilities",
+        "items": [
+          {
+            "title": "Free WiFi",
+            "body": "Available throughout the airport (AENA WiFi). 30 minutes free, then paid options."
+          },
+          {
+            "title": "ATMs & Currency Exchange",
+            "body": "Located in all terminals. ATMs dispense up to €500 per transaction."
+          },
+          {
+            "title": "Car Rental",
+            "body": "Major companies (Avis, Hertz, Europcar, Enterprise) available at T1, T2, T4."
+          },
+          {
+            "title": "Duty-Free Shops",
+            "body": "Extensive shopping options airside at all terminals."
+          },
+          {
+            "title": "Left Luggage",
+            "body": "T1 and T4. €3.90–€5.50 per piece per day depending on size."
+          },
+          {
+            "title": "VIP Lounges",
+            "body": "Passengers can pay for access to AENA's VIP lounges regardless of airline or class."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Smooth Arrival Tips",
+        "items": [
+          {
+            "title": "Pre-book Transfers",
+            "body": "Especially if arriving late or with lots of luggage, a pre-booked private transfer can save hassle."
+          },
+          {
+            "title": "Customs & Immigration",
+            "body": "Have your passport and any necessary visa documents ready. EU citizens can use automated e-gates."
+          },
+          {
+            "title": "Luggage Strategy",
+            "body": "Consider packing light if using public transport. Metro can be tricky with large suitcases during rush hour."
+          },
+          {
+            "title": "SIM Cards",
+            "body": "Vodafone, Movistar, and Orange kiosks at every terminal. eSIM options also available."
+          }
+        ]
+      }
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "atocha-station",
@@ -58,7 +331,7 @@
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "train",
@@ -70,7 +343,8 @@
       "metro-de-madrid",
       "toledo",
       "museo-reina-sofia"
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "chamartin-station",
@@ -82,7 +356,7 @@
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "train",
@@ -92,7 +366,8 @@
       "atocha-station",
       "renfe-trains",
       "metro-de-madrid"
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "emt-buses",
@@ -169,7 +444,7 @@
     "official_url": "https://www.renfe.com/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "train",
@@ -181,7 +456,8 @@
       "toledo",
       "segovia",
       "avila"
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "schengen-visa-us",
@@ -367,8 +643,8 @@
     "summary": "Hola, gracias, por favor, ¿dónde está…?, la cuenta, por favor. The basics that get you everywhere.",
     "content": "Top 20: ¡Hola! / ¿Qué tal? / Buenos días / Buenas tardes / Adiós / Por favor / Gracias / De nada / Sí / No / Perdón / Lo siento / No entiendo / ¿Habla inglés? / ¿Dónde está…? / ¿Cuánto cuesta? / La cuenta, por favor / Una mesa para dos / Con permiso / ¡Salud! (cheers). Spaniards are forgiving and delighted when foreigners try — even a 'buenos días' wins you points.",
     "status": "evergreen",
-    "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "english_friendly": true,
+    "last_updated": "2026-07-20",
     "tags": [
       "language",
       "spanish"
@@ -377,7 +653,8 @@
       "language-schools",
       "escuela-oficial-idiomas"
     ],
-    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm"
+    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm",
+    "english_level": "english-available"
   },
   {
     "id": "emergency-numbers",
@@ -540,18 +817,186 @@
     "official_url": "https://extranjeros.inclusion.gob.es/",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "paperwork",
       "nie",
-      "tie"
+      "tie",
+      "salvage-pilot"
     ],
     "related_records": [
       "empadronamiento",
       "banking",
       "healthcare",
       "housing"
-    ]
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "What is a NIE Number?",
+        "body": "The NIE (Número de Identificación de Extranjero) is a unique identification number assigned to all foreigners in Spain. It's required for almost everything: opening bank accounts, signing rental contracts, working, buying property, and more. You cannot live or work legally in Spain without one — it should be your first priority upon arrival.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€9.64 ( Modelo 790 tax fee)"
+          },
+          {
+            "label": "Processing Time",
+            "value": "Same day, if approved"
+          },
+          {
+            "label": "Validity",
+            "value": "Permanent (lifetime)"
+          },
+          {
+            "label": "Form Required",
+            "value": "EX-15"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "Required Documents",
+        "items": [
+          {
+            "title": "EX-15 Form (completed and signed)",
+            "body": "Download from the Spanish government website or pick up at the police station."
+          },
+          {
+            "title": "Original Passport + Photocopy",
+            "body": "All pages including stamps and visas."
+          },
+          {
+            "title": "Reason for NIE (justification)",
+            "body": "Work contract, university enrollment, property purchase, etc."
+          },
+          {
+            "title": "Tax Payment Receipt (Modelo 790)",
+            "body": "Pay €9.64 at any Spanish bank before your appointment."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Step-by-Step Process",
+        "items": [
+          {
+            "title": "Book an Appointment",
+            "body": "Visit the Spanish government appointment website (sede.administracionespublicas.gob.es) and book an appointment for 'NIE' at your local police station.",
+            "tip": "Appointments fill up quickly. Check daily at 9 AM when new slots are released."
+          },
+          {
+            "title": "Prepare Documents",
+            "body": "Download and complete the EX-15 form. Gather all required documents and make photocopies. Have your reason for needing the NIE clearly documented."
+          },
+          {
+            "title": "Pay the Fee",
+            "body": "Pay €9.64 at any Spanish bank using the Modelo 790 form. Keep the stamped receipt as proof of payment — you will need to show it at your appointment."
+          },
+          {
+            "title": "Attend Your Appointment",
+            "body": "Arrive 15 minutes early with all documents. The process usually takes 30–60 minutes if everything is in order."
+          },
+          {
+            "title": "Receive Your NIE",
+            "body": "If approved, you'll receive your NIE certificate immediately. Make several photocopies — you'll need them for everything."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Police Stations in Madrid (NIE Applications)",
+        "items": [
+          {
+            "title": "Comisaría de Distrito Centro",
+            "body": "Calle de la Luna, 29, 28004 Madrid",
+            "meta": [
+              "Metro: Callao (Lines 3, 5)",
+              "Mon–Fri: 9:00–14:00"
+            ]
+          },
+          {
+            "title": "Comisaría de Distrito Salamanca",
+            "body": "Calle de Núñez de Balboa, 114, 28006 Madrid",
+            "meta": [
+              "Metro: Núñez de Balboa (Lines 5, 9)",
+              "Mon–Fri: 9:00–14:00"
+            ]
+          },
+          {
+            "title": "Comisaría de Distrito Chamberí",
+            "body": "Calle de Santa Engracia, 87, 28010 Madrid",
+            "meta": [
+              "Metro: Ríos Rosas (Line 1)",
+              "Mon–Fri: 9:00–14:00"
+            ]
+          },
+          {
+            "title": "Comisaría de Distrito Retiro",
+            "body": "Calle del Doctor Esquerdo, 131, 28007 Madrid",
+            "meta": [
+              "Metro: Sainz de Baranda (Lines 6, 9)",
+              "Mon–Fri: 9:00–14:00"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Common Issues & Solutions",
+        "items": [
+          {
+            "title": "Application Rejected",
+            "body": "Usually due to insufficient justification. Make sure your reason for needing the NIE is clear and well-documented.",
+            "meta": [
+              "Severity: High"
+            ]
+          },
+          {
+            "title": "No Appointments Available",
+            "body": "Check the website daily at 9 AM. Consider using appointment booking services (€50–100) if desperate.",
+            "meta": [
+              "Severity: Medium"
+            ]
+          },
+          {
+            "title": "Documents Not Accepted",
+            "body": "Ensure all documents are recent (less than 3 months old) and properly translated if not in Spanish.",
+            "meta": [
+              "Severity: Low"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "What to Do After Getting Your NIE",
+        "items": [
+          {
+            "title": "Open a bank account",
+            "body": "Required for almost everything: rent, utilities, salary."
+          },
+          {
+            "title": "Register your address (Empadronamiento)",
+            "body": "Required for healthcare access and local services."
+          },
+          {
+            "title": "Apply for a Social Security number",
+            "body": "Required if you'll be working or self-employed."
+          },
+          {
+            "title": "Make multiple photocopies",
+            "body": "Store digital copies in cloud storage. Never give the original to anyone. Memorize your NIE number."
+          }
+        ]
+      }
+    ],
+    "english_level": "spanish-only"
   },
   {
     "id": "empadronamiento",
@@ -562,7 +1007,7 @@
     "content": "Go to your district's Junta Municipal with passport, NIE (if you have one), and proof of address (rental contract or 'autorización del propietario' + utility bill). Free, same-day, child-friendly. Renew every 2 years (you'll get a postcard). Without the padron you can't register for public healthcare or enrol kids in school.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "paperwork",
       "padron",
@@ -574,7 +1019,8 @@
       "banking",
       "housing"
     ],
-    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento"
+    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento",
+    "english_level": "spanish-only"
   },
   {
     "id": "idealista",
@@ -699,7 +1145,7 @@
     "content": "After registering on the padron and starting work (or as a 'convenio especial' for €60/month if self-funded), go to your local Centro de Salud with NIE + padron certificate + employment proof to get a tarjeta sanitaria. Assigns you a GP. Emergency care is universal — anyone can walk into a public hospital ER.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "healthcare",
       "public",
@@ -711,7 +1157,8 @@
       "pharmacies",
       "hospitals"
     ],
-    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria"
+    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria",
+    "english_level": "spanish-only"
   },
   {
     "id": "english-speaking-doctors",
@@ -722,7 +1169,7 @@
     "content": "Madrid Healthcare (Centro Médico), Hospital HM Sanchinarro, Centro de Salud Internacional — all have English-speaking staff. Speakeasy Madrid, the American Health Group, and the British-American Clinic are all known to expats. For emergencies, the public system is fine — many doctors speak some English.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "healthcare",
       "english",
@@ -734,7 +1181,8 @@
       "pharmacies",
       "empadronamiento"
     ],
-    "official_url": "https://www.esmadrid.com/en/practical-information"
+    "official_url": "https://www.esmadrid.com/en/practical-information",
+    "english_level": "english-primary"
   },
   {
     "id": "teach-english-spain",
@@ -834,7 +1282,7 @@
     "official_url": "https://www.eoidiomas.com",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "education",
       "language",
@@ -843,7 +1291,8 @@
     "related_records": [
       "language-schools",
       "survival-spanish"
-    ]
+    ],
+    "english_level": "spanish-only"
   },
   {
     "id": "museo-del-prado",
@@ -855,18 +1304,179 @@
     "official_url": "https://www.museodelprado.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "museums",
       "prado",
-      "art"
+      "art",
+      "salvage-pilot"
     ],
     "related_records": [
       "museo-reina-sofia",
       "thyssen-bornemisza",
       "atocha-station",
       "puerta-del-sol"
-    ]
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "At a Glance",
+        "items": [
+          {
+            "label": "General Admission",
+            "value": "€15"
+          },
+          {
+            "label": "Free Entry",
+            "value": "Mon–Sat 6–8 PM, Sun 5–7 PM"
+          },
+          {
+            "label": "Recommended Visit",
+            "value": "2–4 hours"
+          },
+          {
+            "label": "Collection Size",
+            "value": "8,000+ paintings"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Free Entry Hack",
+        "body": "Monday–Saturday 6–8 PM and Sunday 5–7 PM = FREE. But you still need to book online first — walk-ups are not accepted during the free slot. Reserve your free ticket on the official Prado website up to 1 hour before the free window starts.",
+        "tone": "success"
+      },
+      {
+        "type": "list",
+        "heading": "The Big 3: Must-See Masterpieces",
+        "items": [
+          {
+            "title": "Las Meninas — Diego Velázquez (1656)",
+            "body": "The most enigmatic painting in art history — a mirror within a mirror. The little princess is actually looking at YOU through the canvas.",
+            "meta": [
+              "Room 12",
+              "Crowd level: Very High",
+              "Best time: Early morning or late afternoon"
+            ]
+          },
+          {
+            "title": "The Third of May 1808 — Francisco Goya (1814)",
+            "body": "Goya's powerful depiction of war's brutality. This painting inspired Picasso's Guernica 100+ years later.",
+            "meta": [
+              "Room 64",
+              "Crowd level: Moderate",
+              "Best time: Mid-morning"
+            ]
+          },
+          {
+            "title": "The Garden of Earthly Delights — Hieronymus Bosch (c. 1515)",
+            "body": "A surreal triptych that's like Medieval Netflix. Spot the giant strawberries, musical instruments, and... other things.",
+            "meta": [
+              "Room 56A",
+              "Crowd level: High",
+              "Best time: Wednesday evenings"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Opening Hours",
+        "columns": [
+          "Day",
+          "Hours"
+        ],
+        "rows": [
+          [
+            "Monday – Saturday",
+            "10:00 AM – 8:00 PM"
+          ],
+          [
+            "Sunday & Holidays",
+            "10:00 AM – 7:00 PM"
+          ],
+          [
+            "Free entry (Mon–Sat)",
+            "6:00 PM – 8:00 PM"
+          ],
+          [
+            "Free entry (Sun)",
+            "5:00 PM – 7:00 PM"
+          ],
+          [
+            "Closed",
+            "Jan 1, May 1, Dec 25"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Ticket Prices",
+        "columns": [
+          "Ticket",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "General",
+            "€15",
+            "Skip-the-line recommended"
+          ],
+          [
+            "Reduced",
+            "€7.50",
+            "Students 18–25, over 65"
+          ],
+          [
+            "Free",
+            "€0",
+            "Under 18, unemployed, large families"
+          ],
+          [
+            "Audio Guide",
+            "€5",
+            "Or use the free Prado app"
+          ],
+          [
+            "Two-day pass",
+            "€22",
+            "Visit over two consecutive days"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Insider Tips",
+        "items": [
+          {
+            "title": "Best Times to Visit",
+            "body": "Tuesday–Thursday 10 AM or after 4 PM. Avoid weekend mornings like the plague."
+          },
+          {
+            "title": "Skip the Audio Guide",
+            "body": "Download the free Prado app instead. It's updated more frequently and has more content than the paid audio guide."
+          },
+          {
+            "title": "Wear Comfy Shoes",
+            "body": "You'll walk 2–3 km inside the museum. Your feet will thank you later."
+          },
+          {
+            "title": "Photography Rules",
+            "body": "Photos allowed (no flash), but crowds gather around the famous works. Be patient."
+          },
+          {
+            "title": "Food Strategy",
+            "body": "Museum café is overpriced. Eat at nearby Taberna El Sur or any of the Calle de Huertas spots before/after your visit."
+          },
+          {
+            "title": "Accessibility",
+            "body": "Fully wheelchair accessible. Audio guides, Braille information, and sign language tours available."
+          }
+        ]
+      }
+    ],
+    "english_level": "english-primary"
   },
   {
     "id": "museo-reina-sofia",
@@ -878,7 +1488,7 @@
     "official_url": "https://www.museoreinasofia.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "museums",
       "reina-sofia",
@@ -888,7 +1498,8 @@
       "museo-del-prado",
       "thyssen-bornemisza",
       "atocha-station"
-    ]
+    ],
+    "english_level": "english-primary"
   },
   {
     "id": "thyssen-bornemisza",
@@ -900,7 +1511,7 @@
     "official_url": "https://www.museothyssen.org/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "museums",
       "thyssen",
@@ -910,7 +1521,8 @@
       "museo-del-prado",
       "museo-reina-sofia",
       "gran-via"
-    ]
+    ],
+    "english_level": "english-primary"
   },
   {
     "id": "royal-palace",
