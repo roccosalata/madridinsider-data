@@ -2470,5 +2470,1479 @@
     "related_records": [
       "driving-madrid"
     ]
+  },
+  {
+    "id": "sim-cards-madrid",
+    "title": "SIM Cards & Mobile Plans",
+    "category": "essentials",
+    "subcategory": "connectivity",
+    "summary": "Orange, Vodafone, Movistar, and Digi are the main carriers. Prepaid SIMs from €10, monthly plans from €20.",
+    "content": "Spain has four major mobile carriers: Movistar (largest coverage), Vodafone, Orange, and Digi (budget). All sell prepaid SIM cards (€10-20 with credit) and monthly plans (€20-35 for unlimited data + calls). SIM cards are available at carrier stores (found in every shopping center), phone shops (Phone House), and tobacco shops (estancos). You'll need your passport to buy a SIM. 5G is widely available in Madrid. For short visits, consider an eSIM (Airalo, Holafly) — no need to find a store, download and activate before you land. EU roaming: if you have an EU SIM, you can use it in Spain at no extra charge (fair use limits apply).",
+    "official_url": "https://www.vodafone.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "connectivity",
+      "sim",
+      "mobile",
+      "phone"
+    ],
+    "related_records": [
+      "esim-madrid",
+      "public-wifi-madrid",
+      "coworking-madrid"
+    ]
+  },
+  {
+    "id": "esim-madrid",
+    "title": "eSIMs for Spain Travel",
+    "category": "essentials",
+    "subcategory": "connectivity",
+    "summary": "Airalo, Holafly, and Maya Mobile offer Spain eSIMs from $5. No physical SIM needed — activate before you land.",
+    "content": "eSIMs are the easiest way to get mobile data in Spain without finding a store. Buy online, scan a QR code, and you're connected before your plane lands. Three popular providers: Airalo (Spain plan from $5 for 1GB / 7 days, $15 for 5GB / 30 days), Holafly (unlimited data €19 for 5 days, €47 for 15 days), and Maya Mobile (€5 for 1GB / 7 days). All three work on the Movistar and Orange networks. eSIMs are DATA ONLY — no Spanish phone number, no SMS. If you need to receive SMS (for banking 2FA etc.), keep your home SIM active. eSIMs work on iPhone XS and later, and most recent Android phones. Check compatibility before buying.",
+    "official_url": "https://airalo.com/spain-esim",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "connectivity",
+      "esim",
+      "mobile",
+      "data"
+    ],
+    "related_records": [
+      "sim-cards-madrid",
+      "public-wifi-madrid"
+    ]
+  },
+  {
+    "id": "public-wifi-madrid",
+    "title": "Public Wi-Fi in Madrid",
+    "category": "essentials",
+    "subcategory": "connectivity",
+    "summary": "Madrid Free WiFi network covers the center (600+ hotspots). Cafés, libraries, and Metro stations also have free Wi-Fi.",
+    "content": "Madrid has a municipal free Wi-Fi network ('Madrid WiFi') with 600+ hotspots across the city center, in parks, libraries, sports centers, and public buildings. Connect to the 'Madrid_Free_WiFi' network and accept the terms in your browser. Speed is decent (10-20 Mbps) and there's a 2-hour session limit (reconnect after). Most cafés (Starbucks, McDonald's, Costa) have free Wi-Fi with purchase. The Madrid Metro offers free 'WiFiMetromadrid' at major stations (Sol, Atocha, Chamartín, Gran Vía, etc.). Public libraries (Bibliotecas Públicas Municipales) have free Wi-Fi and free public computers (1-hour sessions with a library card or passport). For remote work, coworking spaces offer the most reliable connections.",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Telecommunications/WiFi",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "connectivity",
+      "wifi",
+      "internet",
+      "free"
+    ],
+    "related_records": [
+      "sim-cards-madrid",
+      "esim-madrid",
+      "coworking-madrid",
+      "internet-cafes-madrid"
+    ]
+  },
+  {
+    "id": "coworking-madrid",
+    "title": "Coworking Spaces in Madrid",
+    "category": "essentials",
+    "subcategory": "connectivity",
+    "summary": "Impact Hub, WeWork, Toni Mora, and others across Madrid. Day passes €20-30, monthly from €120.",
+    "content": "Madrid has a thriving coworking scene, popular with digital nomads and remote workers. Major chains: WeWork (3 locations: Velázquez, Caleido, Castellana), Impact Hub Madrid (best for social entrepreneurs), and Atenasia. Local favorites: TNT Coworking (Malasaña), Utopic_US (Lavapiés), and Betahaus (Cuatro Caminos). Day passes cost €20-30 (free coffee, fast WiFi, printer access). Monthly dedicated desks from €120-250, private offices from €400. Most spaces offer a free trial day — book ahead. The Malasaña and Salesas neighborhoods have the highest concentration of coworking spaces. For a quieter alternative, the municipal libraries (Biblioteca Pública) offer free Wi-Fi and desks, but no coffee or talking.",
+    "official_url": "https://www.wework.com/buildings/madrid-spain",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "connectivity",
+      "coworking",
+      "remote-work",
+      "digital-nomad"
+    ],
+    "related_records": [
+      "public-wifi-madrid",
+      "internet-cafes-madrid"
+    ]
+  },
+  {
+    "id": "internet-cafes-madrid",
+    "title": "Internet Cafés in Madrid",
+    "category": "essentials",
+    "subcategory": "connectivity",
+    "summary": "Becoming rare due to smartphones and free Wi-Fi. Best bet: Locutorios (call shops) in Lavapiés and Cuatro Caminos.",
+    "content": "Internet cafés (cibercafés) are increasingly rare in Madrid since most people have smartphones and free public Wi-Fi is widespread. The few that remain are usually combined with locutorios (call shops) in immigrant neighborhoods like Lavapiés, Cuatro Caminos, and Tetuán. They offer computer rental (€1-2/hour), international calling, and printing/scanning services. For printing documents, the chain Point 7 (multiple locations) is reliable. For longer computer sessions, public libraries offer free computer use (1-hour sessions). If you just need Wi-Fi, any café or McDonald's will do. If you need a quiet space to work, see the Coworking Spaces record.",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio",
+    "status": "legacy",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "connectivity",
+      "internet",
+      "cafe",
+      "locutorio"
+    ],
+    "related_records": [
+      "coworking-madrid",
+      "public-wifi-madrid"
+    ]
+  },
+  {
+    "id": "phone-calling-cards",
+    "title": "International Calling Cards",
+    "category": "essentials",
+    "subcategory": "connectivity",
+    "summary": "Largely obsolete due to WhatsApp and VoIP. Locutorios in Lavapiés still sell them for cheap international calls.",
+    "content": "International calling cards (tarjetas telefónicas) are mostly obsolete now thanks to WhatsApp, Skype, and affordable mobile data. They're still sold in locutorios (call shops) in immigrant neighborhoods like Lavapiés, Cueto Caminos, and Tetuán — mostly for older residents calling family in Latin America, Africa, and Eastern Europe. Cards cost €5-10 and offer 100-300 minutes of international calling. For visitors, the better option is to use WhatsApp (free with any data plan), Skype (€0.02/min to most countries), or your home country's VoIP service. If you must call a Spanish landline from abroad, the country code is +34. Spanish mobile numbers start with 6 or 7 (9 digits), landlines start with 8 or 9 (9 digits).",
+    "official_url": "https://www.esmadrid.com/en",
+    "status": "legacy",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "connectivity",
+      "calling",
+      "phone",
+      "international"
+    ],
+    "related_records": [
+      "sim-cards-madrid",
+      "esim-madrid",
+      "internet-cafes-madrid"
+    ]
+  },
+  {
+    "id": "post-office-madrid",
+    "title": "Post Office (Correos)",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Correos is Spain's national postal service. Yellow post boxes everywhere, main offices open Mon-Fri 8:30-20:30.",
+    "content": "Correos is Spain's national postal service, identifiable by its yellow color and blue crown logo. Yellow post boxes (buzones) for mail are on most streets. Main post offices (oficinas principales) are open Mon-Fri 8:30-20:30 and Sat 9:30-14:00. Smaller offices close for lunch (14:00-16:00). The historic main post office is the Palacio de Comunicaciones at Plaza de Cibeles — now the City Hall, but there's still a Correos counter inside. Domestic mail: standard letter €0.55, takes 1-3 days. International letter: €1.35 to Europe, €1.80 elsewhere, takes 5-10 days. For packages, use Correos or private couriers (DHL, UPS, FedEx) — Correos is cheaper but slower. Poste restante (lista de correos) is available at main offices if you don't have a fixed address.",
+    "official_url": "https://www.correos.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "services",
+      "post-office",
+      "mail",
+      "correos"
+    ],
+    "related_records": [
+      "moving-shipping-madrid",
+      "translating-services-madrid"
+    ]
+  },
+  {
+    "id": "launderettes-madrid",
+    "title": "Launderettes & Dry Cleaners",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Self-service launderettes (lavanderías) €5-8 per load. Dry cleaners (tintorerías) on every corner.",
+    "content": "Self-service launderettes (lavanderías autoservicio) are common in central Madrid, especially in tourist and student areas (Malasaña, Lavapiés, Chamberí). Expect €5-8 for a wash (30-40 min cycle), €3-5 extra for dryer (15-20 min). Most take coins; some have an app. Wash & fold service (lavandería con servicio) costs €10-15 per load — drop off in the morning, pick up in the evening. Dry cleaners (tintorerías) are everywhere — Speedy and Tinto are common chains. Dry cleaning a shirt costs €4-6, a suit €12-18. Most hotels offer laundry service but it's expensive (€5-10 per item). For longer stays, consider using a wash & fold service near your accommodation.",
+    "official_url": "https://www.speedy.es/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "services",
+      "laundry",
+      "dry-cleaning"
+    ],
+    "related_records": []
+  },
+  {
+    "id": "locksmiths-madrid",
+    "title": "Locksmiths (Cerrajeros)",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "24/7 emergency locksmiths (cerrajeros 24 horas). Be careful — some quote low then charge €200+ for 'extra work'.",
+    "content": "Locksmiths (cerrajeros) are easy to find in Madrid — Google 'cerrajero 24 horas [your neighborhood]' for an emergency callout. However, this is one of Madrid's most notorious scam industries. Common tactic: quote €50-70 on the phone, then charge €200-400 'because the lock was harder than expected' or 'we had to drill it'. To avoid this: (1) get a firm quote in writing before they start, (2) ask if the quote includes all labor and parts, (3) refuse to pay more than the quoted price, (4) if they refuse to leave without more money, call the police (091). For non-emergencies, ask your building's portero (doorman) or a local hardware store (ferretería) for a recommendation — they usually know reliable cerrajeros. Lockouts during business hours: try your building's portero first, who often has a master key.",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "services",
+      "locksmith",
+      "emergency",
+      "scam"
+    ],
+    "related_records": [
+      "safety-emergencies-madrid"
+    ]
+  },
+  {
+    "id": "moving-shipping-madrid",
+    "title": "Moving & Shipping Services",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Local movers €300-600 for a 1-bedroom apartment. International shipping: SeptembertoMove, Glovo Express for boxes.",
+    "content": "For local moves within Madrid, expect €300-600 for a 1-bedroom apartment (3-4 hours, 2 movers, van). Reliable companies include Mudanzas Madrid, Movingbox, and Fuenmov. Book 2-3 weeks ahead, especially at end-of-month (most leases end on the 30th). Most buildings require you to reserve the service elevator (montacargas) and book a time slot — your building's portero arranges this. For international shipping, SeptembertoMove and Crown Relocations specialize in expat moves. For sending boxes (books, clothes, etc.) within Spain or internationally, the cheapest options are Correos Paq Standard (€15-30 for 5kg within Spain) or Seur (€25-40). For sending furniture, use Tictactrip or Glovo Express. Self-storage (trasteros) costs €50-150/month depending on size — Accessa and City Trastero are common chains.",
+    "official_url": "https://www.mudanzasmadrid.com",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "services",
+      "moving",
+      "shipping",
+      "storage"
+    ],
+    "related_records": [
+      "post-office-madrid",
+      "housing-madrid"
+    ]
+  },
+  {
+    "id": "translating-services-madrid",
+    "title": "Translating & Interpreting Services",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Sworn translators (traductores jurados) for official documents €30-60/page. Interpreters €30-50/hour.",
+    "content": "For official documents (birth certificates, marriage certificates, contracts), you need a 'traductor jurado' (sworn translator) certified by the Spanish Ministry of Foreign Affairs. Their translations are legally valid. Rates: €30-60 per page for English-Spanish, more for less common languages. Find one at exteriores.gob.es (the official list of sworn translators). For non-official translation (websites, emails, casual documents), standard translators charge €0.08-0.12 per word. For in-person interpreting (doctors appointments, legal meetings, real estate viewings), expect €30-50/hour with a 2-hour minimum. For informal help (visas, paperwork), intercambios (language exchanges) are a good place to find bilingual Spanish/English speakers who can help informally. The Madrid American Women's Club and other expat groups often have translation recommendations.",
+    "official_url": "https://www.exteriores.gob.es/en/Embajadas/MADRID/es/Servicios/Paginas/Traductores.aspx",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "services",
+      "translation",
+      "interpreting",
+      "sworn"
+    ],
+    "related_records": [
+      "nie-tie",
+      "empadronamiento",
+      "post-office-madrid"
+    ]
+  },
+  {
+    "id": "barbers-hairdressers-madrid",
+    "title": "Barbers & Hairdressers",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Men's haircut €15-25, women's €30-60. Look for 'Peluquería' (unisex/women) or 'Barbería' (men).",
+    "content": "Madrid has thousands of hair salons (peluquerías) and barbers (barberías). For men, traditional barbers (barbería) charge €15-25 for a haircut and shave, often with a beer included. Good chains: Barbería Madrid, The Old Barber, and L3B. For women, expect €30-60 at a mid-range peluquería and €80-150 at a high-end one. Common mid-range chains: Peluquería Kameleon, Marco Aldany. For budget options, the 'Low Cost' chain charges €12-15 for women's cuts. Most salons take walk-ins but booking ahead is recommended on weekends. Tipping is not expected (but appreciated — round up to the nearest €5). For Black hair care, Madrid has a small but growing number of specialist salons in the Cuatro Caminos and Tetuán neighborhoods. For English-speaking stylists, ask in expat Facebook groups — there are several British and American stylists working in Salamanca and Chamberí.",
+    "official_url": "https://www.esmadrid.com/en",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "services",
+      "barber",
+      "hair",
+      "salon"
+    ],
+    "related_records": []
+  },
+  {
+    "id": "sol-gran-via-neighborhood",
+    "title": "Sol & Gran Vía (City Center)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Madrid's tourist heart. Puerta del Sol, Plaza Mayor, Gran Vía shopping street, Royal Palace. Busy day and night.",
+    "content": "Sol-Gran Vía is Madrid's tourist and commercial center. Puerta del Sol is the city's kilometer zero and the busiest square in Spain. From here, walk 5 minutes west to Plaza Mayor (17th-century arcaded square), 10 minutes to the Royal Palace, or north up Gran Vía (Madrid's Broadway — theaters, cinemas, shopping, and the famous Telefonica building). The neighborhood is packed with tourists by day and clubbers by night. It's well-connected: Sol Metro (Lines 1, 2, 3 + Renfe Cercanías), Gran Vía Metro (Lines 1, 5), and Ópera Metro (Lines 2, 5 + Ramal). Best for: first-time visitors, shopping, theater, sightseeing. Avoid: budget accommodation (overpriced and noisy), tapas chains (overpriced and bad). Eat at Calle de la Cruz or Calle de las Infantas instead.",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/sol-gran-via",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "sol",
+      "gran-via",
+      "center"
+    ],
+    "related_records": [
+      "puerta-del-sol",
+      "plaza-mayor",
+      "gran-via",
+      "royal-palace",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "malasana-neighborhood",
+    "title": "Malasaña (Alternative & Hipster)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Madrid's hipster heart. Vintage shops, craft beer, indie cafés, alternative nightlife. Birthplace of La Movida.",
+    "content": "Malasaña is Madrid's alternative and hipster neighborhood, located just north of Gran Vía. It was the epicenter of La Movida Madrileña (the cultural explosion after Franco's death in the 1980s) and still has a rebellious, creative spirit. Calle Fuencarral is the main shopping street (pedestrianized, mostly chain stores). For independent shops, explore Calle del Pez, Calle del Espíritu Santo, and Plaza del Dos de Mayo (the neighborhood's main square, with a statue of local hero Daoíz). Best for: vintage shopping, craft beer, specialty coffee, vegetarian food, indie bookstores, alternative nightlife (rock, indie, electro). Avoid: weekends after midnight — gets very crowded and noisy. Metro: Bilbao (L1, L4), San Bernardo (L2, L4), Noviciado (L2).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/malasana",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "malasana",
+      "hipster",
+      "alternative"
+    ],
+    "related_records": [
+      "chueca-neighborhood",
+      "sol-gran-via-neighborhood",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "chueca-neighborhood",
+    "title": "Chueca (LGBTQ+ & Chic)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Madrid's LGBTQ+ neighborhood. Chic boutiques, cocktail bars, San Antón market. Pride (MADO) is the big annual event.",
+    "content": "Chueca is Madrid's LGBTQ+ neighborhood, located between Gran Vía and Malasaña. Named after Federico Chueca (the 19th-century composer), it became the center of gay life in the 1980s and is now one of the most open and welcoming neighborhoods in Europe. The main square is Plaza de Chueca, surrounded by café terraces. Calle Hortaleza and Calle Fuencarral are the main shopping streets (boutiques, design stores, the Mercado de San Antón food market). Best for: chic shopping, cocktail bars, brunch, drag shows, LGBTQ+ nightlife (especially Calle Pelayo and Calle Libertad). Madrid Pride (MADO) at the end of June / early July is one of the largest Pride celebrations in Europe — the neighborhood is the epicenter. Metro: Chueca (L5), Gran Vía (L1, L5).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/chueca",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "chueca",
+      "lgbtq",
+      "shopping"
+    ],
+    "related_records": [
+      "malasana-neighborhood",
+      "sol-gran-via-neighborhood",
+      "madrid-pride"
+    ]
+  },
+  {
+    "id": "salamanca-neighborhood",
+    "title": "Salamanca (Upscale & Luxury)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Madrid's wealthiest neighborhood. Golden Mile luxury shopping (Calle Serrano), embassies, fine dining, calm residential streets.",
+    "content": "Salamanca is Madrid's most exclusive neighborhood, developed in the 19th century by the Marquis of Salamanca. Wide tree-lined streets, modernist buildings, and the city's most expensive real estate. Calle Serrano (the 'Golden Mile') has luxury flagships: Loewe, Hermès, Prada, Gucci, Louis Vuitton. Calle Jorge Juan and Calle Ayala have independent boutiques and gourmet food shops. The neighborhood is home to many embassies (US, UK, Germany, France), the National Archaeological Museum, and the Lázaro Galdiano Museum. Best for: luxury shopping, fine dining, calm walks, business travelers (many hotels). Avoid: if you're on a budget — this is the most expensive part of Madrid. Metro: Serrano (L4), Velázquez (L4), República Argentina (L6).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/barrio-de-salamanca",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "salamanca",
+      "luxury",
+      "upscale"
+    ],
+    "related_records": [
+      "sol-gran-via-neighborhood",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "la-latina-neighborhood",
+    "title": "La Latina (Tapas & Tradition)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Madrid's oldest neighborhood. Tapas bars on Cava Baja, El Rastro flea market on Sundays, traditional vermouth culture.",
+    "content": "La Latina is one of Madrid's oldest neighborhoods, founded in the medieval period. It's the spiritual home of Madrid tapas culture. Calle Cava Baja and Calle Cava Alta are lined with tapas bars — go on a Saturday afternoon and bar-hop your way through. The Sunday flea market El Rastro (9am-3pm) spreads through the streets around Plaza de Cascorro — Madrid's largest open-air market. La Latina is also where you'll find the city's best traditional vermouth (vermut de grifo) at places like Casa La Latina and La Concha. Best for: tapas, Sunday Rastro, traditional Madrid atmosphere, nightlife that starts at lunch. Avoid: Sunday afternoon if you hate crowds. Metro: La Latina (L5), Tirso de Molina (L1).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/la-latina",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "la-latina",
+      "tapas",
+      "rastro",
+      "traditional"
+    ],
+    "related_records": [
+      "el-rastro-flea-market",
+      "mercado-san-miguel",
+      "sol-gran-via-neighborhood",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "lavapies-neighborhood",
+    "title": "Lavapiés (Multicultural & Bohemian)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Madrid's most diverse neighborhood. Indian curry, Senegalese music, flamenco caves, alternative theaters, street art.",
+    "content": "Lavapiés is Madrid's most multicultural neighborhood, located south of the center. It has the highest concentration of foreign-born residents in Madrid — Indian, Pakistani, Senegalese, Moroccan, Chinese, and Filipino communities all coexist here. The result is one of Europe's most exciting food scenes: Calle Lavapiés has Indian curry houses, the south side has Senegalese and West African restaurants, and there are excellent Middle Eastern and Asian options. It's also a bohemian neighborhood with alternative theaters (Teatro del Barrio, Sala Cuarta Pared), street art, and flamenco venues (Casa Patas, Cardamomo). Best for: international food, alternative culture, affordable accommodation, photography. Avoid: late at night alone — the neighborhood has a reputation (often overstated) for petty crime. Metro: Lavapiés (L3), Tirso de Molina (L1).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/lavapies",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "lavapies",
+      "multicultural",
+      "bohemian"
+    ],
+    "related_records": [
+      "la-latina-neighborhood",
+      "sol-gran-via-neighborhood",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "chamberi-neighborhood",
+    "title": "Chamberí (Authentic Local)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Authentic residential neighborhood. Local tapas, the Andén 0 Metro museum, calm tree-lined streets. Less touristy than center.",
+    "content": "Chamberí is an authentic residential neighborhood just north of Malasaña, popular with middle-class madrileños. It's a great base for visitors who want to experience 'real Madrid' without giving up central convenience. The main drag is Calle Fuencarral (which runs from Gran Vía all the way up to Chamberí). The neighborhood has excellent tapas around Plaza de Olavide and Calle Cardenal Cisneros. The Andén 0 museum (free) is a preserved 1919 Metro station — you can see the old tilework and a train. Other attractions: the Sorolla Museum (the painter's house and garden), the Santa Rita church, and the Mercado de Chamberí (covered market). Best for: a quieter base, local tapas, family-friendly accommodation. Metro: Bilbao (L1, L4), Alonso Martínez (L1, L4, L5, L10), Chamberí (L1, L2).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/chamberi",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "chamberi",
+      "local",
+      "residential"
+    ],
+    "related_records": [
+      "malasana-neighborhood",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "retiro-neighborhood",
+    "title": "Retiro (Parks & Museums)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Upscale residential around Retiro Park. Prado, Reina Sofía, Thyssen museums. Calm, family-friendly, near the center.",
+    "content": "The Retiro neighborhood (Jerónimos) is the upscale residential area around Retiro Park, east of Paseo del Prado. It's home to the 'Golden Triangle of Art' — the Prado, Reina Sofía, and Thyssen-Bornemisza museums. The 118-hectare Retiro Park itself is the neighborhood's heart: rowing lake, Crystal Palace, Rose Garden, thousands of trees. The neighborhood has elegant 19th-century architecture, the Puerta de Alcalá, the National Library, and the Madrid Stock Exchange. Best for: museum visits, park days, family accommodation, jogging, quiet sophistication. Avoid: budget travelers — accommodation and restaurants are expensive here. Calle Moratín has the best tapas in the area. Metro: Retiro (L2), Banco de España (L2), Atocha (L1, R + Renfe).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/retiro",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "retiro",
+      "parks",
+      "museums"
+    ],
+    "related_records": [
+      "retiro-park",
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "thyssen-bornemisza",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "arguelles-moncloa-neighborhood",
+    "title": "Argüelles & Moncloa (Students & Parks)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Student-heavy neighborhood near Parque del Oeste and Temple of Debod. Best sunset views in Madrid.",
+    "content": "Argüelles and Moncloa are adjacent neighborhoods in western central Madrid, popular with students (the Complutense University is nearby) and known for parks. Parque del Oeste has rose gardens, an old cable car (Teleférico) to Casa de Campo, and the Temple of Debod — an ancient Egyptian temple gifted to Spain, with the best sunset views in Madrid. The Teleférico cable car runs from here to Casa de Campo (€6 one-way, €11 round trip). Moncloa is also the main transport hub for buses to El Escorial, Ávila, and Segovia (the Moncloa bus station is here). Best for: sunset at Temple of Debod, students, budget accommodation, day trips. Metro: Argüelles (L3, L4, L6), Moncloa (L3, L6), Ventura Rodríguez (L3).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/arguelles-moncloa",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "arguelles",
+      "moncloa",
+      "students",
+      "parks"
+    ],
+    "related_records": [
+      "retiro-neighborhood",
+      "teleferico-cable-car",
+      "metro-de-madrid",
+      "bus-stations-madrid"
+    ]
+  },
+  {
+    "id": "tetuan-cuatro-caminos-neighborhood",
+    "title": "Tetuán & Cuatro Caminos (Diverse & Local)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "summary": "Diverse working-class neighborhood north of center. African markets, authentic tapas, cheaper rent.",
+    "content": "Tetuán and Cuatro Caminos are diverse working-class neighborhoods north of Chamberí. They have a large immigrant population (especially West African, Latin American, and Filipino) and a strong local character. The Mercado de Maravillas on Calle Bravo Murillo is one of Madrid's largest covered markets — three floors of fresh produce, fish, meat, and tapas bars. Calle Orense (just west of the Paseo de la Castellana) is one of Madrid's main shopping streets, less touristy than Gran Vía. The neighborhoods are more affordable than central areas — accommodation and restaurants are 20-30% cheaper. Best for: budget travelers, authentic local life, food markets, African hair salons and shops. Avoid: alone at night in poorly-lit side streets. Metro: Cuatro Caminos (L1, L2, L6), Tetuán (L1), Estrecho (L1).",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods/tetuan",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "neighborhood",
+      "tetuan",
+      "cuatro-caminos",
+      "diverse",
+      "budget"
+    ],
+    "related_records": [
+      "chamberi-neighborhood",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "bus-tours-madrid",
+    "title": "Hop-On Hop-Off Bus Tours",
+    "category": "see",
+    "subcategory": "tours",
+    "summary": "Madrid City Tour and Madrid Tour official hop-on-off-off buses. €22/24h, 2 routes, audio in 14 languages.",
+    "content": "Madrid has two hop-on hop-off tourist buses. The official Madrid City Tour (red buses) has 2 routes: Historical Madrid (17 stops, includes Sol, Royal Palace, Prado) and Modern Madrid (10 stops, includes Castellana, AZCA, Las Ventas). One ticket covers both routes. €22 for 24 hours, €26 for 48 hours. Audio guide in 14 languages including English. Buses run every 10-15 minutes in summer, every 20-25 in winter. The competitor Madrid Tour (yellow buses) is similar in price and route. Tip: in summer, the open-top buses get very hot — sit on the lower deck or wait until evening. For the best value, combine the bus with a Madrid Card (which includes the bus + free entry to 50+ museums). Buy tickets on the bus or online (slight discount).",
+    "official_url": "https://madridcitytour.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tour",
+      "bus",
+      "hop-on-hop-off",
+      "tourist"
+    ],
+    "related_records": [
+      "walking-tours-madrid",
+      "seg-tours-madrid",
+      "sol-gran-via-neighborhood"
+    ]
+  },
+  {
+    "id": "walking-tours-madrid",
+    "title": "Walking Tours (Free & Paid)",
+    "category": "see",
+    "subcategory": "tours",
+    "summary": "Free tip-based walking tours (€5-10 tip) and specialty tours (tapas, flamenco, Jewish Madrid) from €20.",
+    "content": "Madrid has a thriving walking tour scene. The free (tip-based) tours run twice daily (11am and 4pm) from Puerta del Sol — look for guides with red umbrellas (the main companies are Madrid Free Tours, OgoTours, and Cool Tours). Tour lasts 2.5-3 hours and covers Sol, Plaza Mayor, Royal Palace, Mercado de San Miguel, and the Habsburg old town. Tip €5-10 per person. Specialty tours cost €20-40: tapas tours (4-5 bars, food included, €35-50), flamenco tours (show + dinner, €50-70), Jewish Madrid history (€25), Civil War Madrid (€25), ghost tours (€20, evening). For an English-speaking guide for a private tour, expect €100-150 for 3 hours. Madrid has several specialized tour operators: Madrid Food Tour, Devour Tours, and Madrid Urban Adventures all have good reputations.",
+    "official_url": "https://www.esmadrid.com/en/tours-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tour",
+      "walking",
+      "free",
+      "tapas"
+    ],
+    "related_records": [
+      "bus-tours-madrid",
+      "food-tours-madrid",
+      "sol-gran-via-neighborhood",
+      "la-latina-neighborhood"
+    ]
+  },
+  {
+    "id": "seg-tours-madrid",
+    "title": "Segway Tours",
+    "category": "see",
+    "subcategory": "tours",
+    "summary": "Segway tours of Madrid from €35 for 90 min. Popular for Retiro Park and the historic center. Age 12+.",
+    "content": "Segway tours are a fun way to cover more ground than walking, especially for Retiro Park (which is large). Tours start at €35 for 90 minutes (Retiro Park) up to €65 for 3 hours (full city). Most tours include a 10-minute training session at the start. Weight limit: 45-117 kg. Age limit: usually 12+ (children under 16 must be accompanied by an adult). Helmet provided. The main operators are Madrid Segway Tour, Segway Trip Madrid, and Roll Madrid. All have English-speaking guides. Tours run year-round, with more frequent departures in spring and fall (summer afternoons are too hot for Segway). Tip: book the first tour of the day (9am) for fewer crowds and cooler weather. Retiro Park in the morning is particularly beautiful — the Segway lets you see all of it in 90 minutes.",
+    "official_url": "https://www.madridsegwaytour.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tour",
+      "segway",
+      "retiro"
+    ],
+    "related_records": [
+      "walking-tours-madrid",
+      "bus-tours-madrid",
+      "retiro-park",
+      "retiro-neighborhood"
+    ]
+  },
+  {
+    "id": "food-tours-madrid",
+    "title": "Food & Tapas Tours",
+    "category": "see",
+    "subcategory": "tours",
+    "summary": "Guided tapas crawls in La Latina, Malasaña, and San Miguel. €35-65, includes 4-5 stops with food and drinks.",
+    "content": "Food tours are one of the best ways to experience Madrid's tapas culture, especially if you don't speak Spanish (the guide translates and helps you order). Tours run €35-65 per person for 3-4 hours, visiting 4-5 bars with 10+ tastings and 3-4 drinks (beer, wine, vermouth). Main operators: Madrid Food Tour (high-end, €65, 4 stops), Devour Madrid (mid-range, €55, 5 stops), and Tapas Taverns Tour (budget, €35, 4 stops). Most popular tours are in La Latina (traditional tapas), Malasaña (modern and creative), and around San Miguel market (tourist-friendly). Vegetarian options available on most tours — book ahead. For wine lovers, specialized sherry and Rioja tours are available (€50-70). Tip: don't eat lunch before a tapas tour — you'll be full by the end.",
+    "official_url": "https://madridfoodtour.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tour",
+      "food",
+      "tapas",
+      "vermouth"
+    ],
+    "related_records": [
+      "walking-tours-madrid",
+      "mercado-san-miguel",
+      "la-latina-neighborhood",
+      "malasana-neighborhood"
+    ]
+  },
+  {
+    "id": "bike-tours-madrid",
+    "title": "Bicycle Tours",
+    "category": "see",
+    "subcategory": "tours",
+    "summary": "Bike tours of Madrid center and Retiro Park. €25-35 for 3 hours. Electric bikes (e-bikes) available for €40-50.",
+    "content": "Madrid is mostly flat in the center, making it ideal for bike tours. Tours run €25-35 for 3 hours on a regular bike, €40-50 for an electric bike (recommended in summer when it's hot). Most tours start near Plaza de España or Sol and cover the historic center, Retiro Park, and Madrid Río. The main operators are Bravo Bike (oldest, English-speaking guides), Madrid Bike Tours, and Trixi. All include bike rental and helmet (optional). Weight limit: 120 kg. Children's seats and tag-along bikes available. Best time: spring and fall (10am or 4pm departures). Summer: book the 9am departure to avoid the heat. Madrid Río park has dedicated bike lanes and is especially bike-friendly.",
+    "official_url": "https://bravobike.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tour",
+      "bike",
+      "cycling",
+      "ebike"
+    ],
+    "related_records": [
+      "walking-tours-madrid",
+      "seg-tours-madrid",
+      "bicimad",
+      "retiro-park"
+    ]
+  },
+  {
+    "id": "day-tours-from-madrid",
+    "title": "Day Tours from Madrid (Toledo, Segovia, El Escorial)",
+    "category": "see",
+    "subcategory": "tours",
+    "summary": "Organized day trips to Toledo, Segovia, El Escorial, Ávila. €50-100 with transport + guide.",
+    "content": "If you don't want to organize a day trip yourself, several companies offer guided day tours from Madrid. The most popular destinations are Toledo (medieval capital, €50-70), Segovia (Roman aqueduct, €60-80), El Escorial (royal monastery, €50-70), and Ávila (medieval walls, €70-90). Tours include luxury bus transport, English-speaking guide, and sometimes museum tickets and lunch. Duration: 8-11 hours (full day). Main operators: Viator (largest selection), GetYourGuide (good for last-minute), Madrid Day Tours, and local specialists like Naturanda and Walking Tours Madrid. For a budget option, take the public bus or train yourself (see our Transport records) and explore independently — you'll save €30-50 and have more flexibility. Group tours have 15-50 people; private tours cost €200-400 but you set the pace.",
+    "official_url": "https://www.viator.com/Madrid-tours/Day-Trips",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tour",
+      "day-trip",
+      "toledo",
+      "segovia",
+      "el-escorial"
+    ],
+    "related_records": [
+      "ave-high-speed-trains",
+      "intercity-buses",
+      "bus-stations-madrid",
+      "toledo-day-trip"
+    ]
+  },
+  {
+    "id": "parque-de-atracciones-madrid",
+    "title": "Parque de Atracciones (Theme Park)",
+    "category": "do",
+    "subcategory": "family",
+    "summary": "Madrid's main amusement park in Casa de Campo. Roller coasters, water rides, family attractions. €35 adult, €28 child.",
+    "content": "Parque de Atracciones de Madrid is the city's main amusement park, located in the Casa de Campo park (Metro: Batán, L10). It opened in 1969 and has 4 themed zones: Maquinismo (machinery/thrill rides), Gran Avenida (family rides), Naturaleza (nature-themed), and Nickelodeon Land (for younger kids). Top roller coasters: Abismo (2008, vertical drop), Tarántula (spinning coaster), and Tornado (2005, suspended). The park has 40+ rides total. Admission: €35 adult, €28 child (3-7), under 3 free. Discounts for booking online 7+ days ahead (€25 adult). Open daily June-August, weekends only rest of year. Fast Pass €15 extra (skip-the-line on 8 popular rides). Bring water and sunscreen — little shade in summer. Food inside is overpriced (€12-18 for a meal). Tip: arrive at opening (11am) and hit the big coasters first while lines are short.",
+    "official_url": "https://www.parquedeatracciones.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "family",
+      "theme-park",
+      "rollercoaster",
+      "kids"
+    ],
+    "related_records": [
+      "aquopolis-water-park",
+      "zoo-aquarium-madrid",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "aquopolis-water-park",
+    "title": "Aquópolis Water Parks",
+    "category": "do",
+    "subcategory": "family",
+    "summary": "Two water parks in Madrid area (Villanueva and San Fernando). Wave pools, water slides, kids' areas. €28 adult, €19 child.",
+    "content": "Aquópolis is the largest water park chain in Spain, with 2 locations in the Madrid area: Aquópolis Villanueva de la Cañada (west of Madrid, 30 min by car) and Aquópolis San Fernando de Henares (east, 25 min). Both have wave pools, water slides (some up to 20m high), lazy rivers, kids' areas, and sunbathing zones. Highlights: the Black Hole (enclosed slide), Zig Zag (multiple drop slides), and the wave pool. Admission: €28 adult, €19 child (under 10), under 3 free. Online discount: €22 adult if booked 7+ days ahead. Open mid-May to mid-September only. Getting there without a car: take Metro L12 to Puerta del Sur, then bus 529 to Villanueva; or Metro L7 to Henares, then bus 251 to San Fernando. Bring your own food (food inside is overpriced) and a waterproof phone pouch.",
+    "official_url": "https://www.aquopolis.es/en/",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "family",
+      "water-park",
+      "summer",
+      "kids"
+    ],
+    "related_records": [
+      "parque-de-atracciones-madrid",
+      "zoo-aquarium-madrid"
+    ]
+  },
+  {
+    "id": "zoo-aquarium-madrid",
+    "title": "Zoo Aquarium de Madrid",
+    "category": "do",
+    "subcategory": "family",
+    "summary": "Madrid's main zoo in Casa de Campo. 6,000+ animals, dolphin show, aquarium, panda bears. €26 adult, €20 child.",
+    "content": "Zoo Aquarium de Madrid is in Casa de Campo (Metro: Casa de Campo L5 or Batán L10 + 15 min walk). It's one of the oldest zoos in Europe (founded 1770) and houses 6,000+ animals across 130 species. Highlights: giant pandas (one of only 4 zoos in Europe with them), koalas, gorillas, tigers, and the aquarium (sharks, penguins, jellyfish). The dolphin show (extra €3) runs 2-3 times daily. New in 2023: the Asia zone with red pandas and snow leopards. Admission: €26 adult, €20 child (3-7), under 3 free. Online discount: €22 adult. Open daily 11am-7pm (extended in summer). Plan 3-4 hours for a full visit. Tip: bring a picnic (food inside is overpriced) and rent a stroller at the entrance if you have small kids (€6, the zoo is large).",
+    "official_url": "https://www.zoomadrid.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "family",
+      "zoo",
+      "animals",
+      "kids"
+    ],
+    "related_records": [
+      "parque-de-atracciones-madrid",
+      "aquopolis-water-park",
+      "retiro-park"
+    ]
+  },
+  {
+    "id": "imax-planetarium-madrid",
+    "title": "IMAX & Planetarium (Pablo VI Cultural Center)",
+    "category": "do",
+    "subcategory": "family",
+    "summary": "Giant screen IMAX cinema + planetarium in Tierno Galván park. €8 adult, €6 child. Spanish narration mostly.",
+    "content": "The Pablo VI Cultural Center in Parque Tierno Galván (south Madrid) houses an IMAX giant-screen cinema and the Madrid Planetarium. The IMAX shows nature, science, and space documentaries (45-60 min) on a 600m² screen — most are in Spanish, some have English audio via headset (ask at the ticket counter). The planetarium has 3-4 shows daily (45 min) on astronomy and space exploration, also in Spanish. Admission: €8 adult, €6 child per show, or €12 combined. The cultural center also has a small science museum (free). Getting there: Metro Méndez Álvaro (L6) + 10 min walk, or bus 8, 102, 148. Best for: rainy days, families with kids 6+, astronomy enthusiasts. Check the program ahead — Spanish-only narration can be frustrating if you don't speak Spanish. The IMAX screen itself is impressive regardless of language.",
+    "official_url": "https://www.madrid.es/planetario",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "family",
+      "imax",
+      "planetarium",
+      "science",
+      "rainy-day"
+    ],
+    "related_records": [
+      "parque-de-atracciones-madrid",
+      "zoo-aquarium-madrid"
+    ]
+  },
+  {
+    "id": "warner-park-madrid",
+    "title": "Parque Warner (Theme Park)",
+    "category": "do",
+    "subcategory": "family",
+    "summary": "Warner Bros theme park south of Madrid. Batman, Superman, Looney Tunes themed. €45 adult, €35 child.",
+    "content": "Parque Warner Madrid is a Warner Bros-themed amusement park in San Martín de la Vega, 30km south of Madrid. It's larger and more thrill-oriented than Parque de Atracciones. Five themed zones: Hollywood Boulevard, Movie World Studios, Old West Territory, DC Super Heroes World, and Cartoon Village. Top rides: Superman La Aventura (hypercoaster, 55m drop), Batman La Fuga (suspended looping coaster), Stunt Fall (giant pendulum), and La Aventura de Scooby-Doo (family dark ride). Live shows: Batman Live stunt show, Looney Tunes parade, Police Academy action show. Admission: €45 adult, €35 child (3-11), under 3 free. Online discount: €32 adult if booked 7+ days ahead. Open weekends April-May and Sept-Oct, daily June-August. Getting there: shuttle bus from Méndez Álvaro Metro (€5 round trip, 30 min). Plan a full day (10am-8pm).",
+    "official_url": "https://www.parquewarner.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "family",
+      "theme-park",
+      "warner",
+      "kids"
+    ],
+    "related_records": [
+      "parque-de-atracciones-madrid",
+      "aquopolis-water-park"
+    ]
+  },
+  {
+    "id": "madrid-kids-museums",
+    "title": "Museums for Kids (Ciencia, Wax, Tren)",
+    "category": "do",
+    "subcategory": "family",
+    "summary": "Three kid-friendly museums: Science Museum (CosmoCaixa), Wax Museum, Railway Museum. €3-6 each, good rainy-day options.",
+    "content": "Madrid has several museums geared toward children, perfect for rainy days. The CosmoCaixa Science Museum (Alcobendas, north Madrid) has interactive exhibits on physics, biology, and technology — kids can touch everything, do experiments, see a planetarium show. €6 adult, €4 child. Closed Mondays. The Wax Museum (Museo de Cera) on Paseo de Recoletos has 450+ wax figures (Spanish royalty, celebrities, sports stars, historical figures). €18 adult, €13 child. Slightly overpriced but kids love it. The Railway Museum (Museo del Ferrocarril) in Delicias has steam locomotives, vintage train cars, and a model railway. €6 adult, free for kids under 7. Sunday morning has a kids' train ride. Other options: the Museo Nacional de Ciencias Naturales (dinosaurs, animals) and the Andén 0 (old Metro station museum, free). All have Spanish signage — CosmoCaixa has some English, the others have English audio guides available.",
+    "official_url": "https://www.cosmocaixa.org/es/madrid",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "family",
+      "museum",
+      "science",
+      "wax",
+      "trains",
+      "rainy-day"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "museo-reina-sofia"
+    ]
+  },
+  {
+    "id": "social-security-number-spain",
+    "title": "Social Security Number (Número SS)",
+    "category": "living",
+    "subcategory": "bureaucracy",
+    "summary": "Required to work legally in Spain. Free, fast (instant). Apply online or at any Social Security office.",
+    "content": "The Spanish Social Security number (Número de la Seguridad Social) is required for anyone working in Spain — employed, self-employed (autónomo), or doing an internship. Your employer applies for you, or you can apply yourself. The process is FREE and almost instant. Apply online at seg-social.es (need digital certificate or Cl@ve) or in person at a Social Security office (Oficina de la Tesorería General de la Seguridad Social) — bring passport, NIE, and a job offer letter or work contract. The number is permanent and never changes. Once you have it, your employer registers you and starts paying contributions (covers healthcare, pension, unemployment, maternity/paternity). Self-employed people (autónomos) pay a monthly fee (€290-450 depending on income) directly. The Social Security website is Spanish-only — bring a Spanish-speaking friend or use Google Translate.",
+    "official_url": "https://www.seg-social.es/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "bureaucracy",
+      "social-security",
+      "work",
+      "number"
+    ],
+    "related_records": [
+      "nie-tie",
+      "empadronamiento",
+      "teach-english-spain",
+      "freelancing-spain"
+    ]
+  },
+  {
+    "id": "residencia-permit-spain",
+    "title": "Residencia (Residence Permit)",
+    "category": "living",
+    "subcategory": "bureaucracy",
+    "summary": "TIE card for non-EU residents staying 6+ months. €15.60, takes 30-45 days. Renewable.",
+    "content": "The Residencia (officially 'Tarjeta de Identidad de Extranjero' or TIE) is the physical residence permit card for non-EU citizens living in Spain for more than 6 months. It's separate from the NIE (which is just a number) — the TIE is the card that proves you have legal residence. EU citizens don't need a TIE but can get a 'Certificado de Registro' instead. To get a TIE: (1) get your NIE first, (2) apply for a residence visa at a Spanish consulate in your home country, (3) once approved, you have 30 days to apply for the TIE at the immigration office (Oficina de Extranjería). Required documents: passport, NIE certificate, visa, 2 passport photos, proof of address (empadronamiento), proof of financial means, payment of €15.60 fee (Modelo 790-012). The TIE card is valid for 5 years, then renewable. It has your photo, NIE, and address.",
+    "official_url": "https://extranjeros.inclusion.gob.es/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "bureaucracy",
+      "residencia",
+      "tie",
+      "residence-permit"
+    ],
+    "related_records": [
+      "nie-tie",
+      "empadronamiento",
+      "social-security-number-spain"
+    ]
+  },
+  {
+    "id": "modelo-720",
+    "title": "Modelo 720 (Foreign Asset Declaration)",
+    "category": "living",
+    "subcategory": "bureaucracy",
+    "summary": "Annual declaration of foreign assets over €50,000. Required for tax residents of Spain. Filing deadline March 31.",
+    "content": "Modelo 720 is an annual information return that Spanish tax residents must file if they own assets abroad worth more than €50,000 in any category (bank accounts, stocks, real estate, life insurance). It's not a tax — it's an information declaration. The threshold is per category: €50,000 in foreign bank accounts, €50,000 in foreign stocks, €50,000 in foreign real estate. If you're under the threshold in a category, you don't declare it. Filing deadline: March 31 for the previous year. Filed online at agenciatributaria.es (need digital certificate). Failure to file or under-reporting carries steep fines: €5,000 per data point omitted, minimum €10,000. You become a Spanish tax resident if you spend 183+ days in Spain in a calendar year, or if your spouse/minor children live in Spain. If you're on a short-term assignment (under 183 days) or are a non-lucrative visa holder with no Spanish income, you may not need to file. Consult a Spanish tax advisor (gestoría) — getting this wrong is expensive.",
+    "official_url": "https://www.agenciatributaria.es/AEAT.internet/en/Inicio.shtml",
+    "status": "annual review",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "bureaucracy",
+      "taxes",
+      "modelo-720",
+      "foreign-assets"
+    ],
+    "related_records": [
+      "nie-tie",
+      "banking-spain",
+      "residencia-permit-spain"
+    ]
+  },
+  {
+    "id": "padron-empadronamiento",
+    "title": "Padrón Municipal (Local Registration)",
+    "category": "living",
+    "subcategory": "bureaucracy",
+    "summary": "Required local registration for ALL Madrid residents (Spanish and foreign). Free. Needed for healthcare, schools, voting.",
+    "content": "The Padrón Municipal (also called empadronamiento) is the local register of residents maintained by each Spanish municipality. It's mandatory for EVERYONE living in Madrid — Spanish citizens, EU foreigners, non-EU foreigners, tourists staying long-term, everyone. It's free and easy to register: bring passport (and NIE if you have one), proof of address (rental contract or utility bill in your name, or a signed letter from the person you live with + their ID), to any Oficina de Atención al Ciudadano (citizen service office) or the Citaprevia online system. Takes 10-15 minutes, certificate issued immediately. Why it matters: (1) Required to access public healthcare, (2) Required to register children in school, (3) Required to vote in municipal elections (EU citizens) or get on the padron for non-EU after 5 years, (4) Required for many social services (subsidized housing, school meal programs). Update it when you move — old padrons are eventually purged.",
+    "official_url": "https://sede.madrid.es/portal/site/tramites/menuitem.1fdc0bf0c84c2d5891f0a371a4a01dvg/?vgnextoid=3a2e7b2b5e8c6510VgnVCM2000001f4a900aRCRD",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "bureaucracy",
+      "padron",
+      "empadronamiento",
+      "registration"
+    ],
+    "related_records": [
+      "empadronamiento",
+      "nie-tie",
+      "healthcare-spain",
+      "social-security-number-spain"
+    ]
+  },
+  {
+    "id": "banking-spain",
+    "title": "Opening a Spanish Bank Account",
+    "category": "living",
+    "subcategory": "banking",
+    "summary": "Major banks: BBVA, Santander, CaixaBank, Bankinter. Non-resident accounts available with passport only.",
+    "content": "Opening a bank account in Spain is straightforward. The four major banks are BBVA, Santander, CaixaBank, and Bankinter — all have branches across Madrid. For non-residents (no NIE yet), you can open a 'cuenta no residente' with just your passport — bring it to any branch and ask. Most banks charge €15-30/quarter account maintenance fee, but you can usually get this waived if you deposit €600+/month or have your salary paid in. Online-only banks (N26, Revolut, Bunq) are popular with expats — no fees, English apps, but no Spanish IBAN. To open: passport (and NIE if you have one), proof of address (utility bill or rental contract), and proof of income/employment (optional but helps). The account comes with a debit card (free) and access to online banking. Credit cards are harder to get as a non-resident — usually require 6+ months of account history.",
+    "official_url": "https://www.bbva.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "banking",
+      "bank-account",
+      "bbva",
+      "santander"
+    ],
+    "related_records": [
+      "nie-tie",
+      "transfers-spain",
+      "fintech-banking-spain"
+    ]
+  },
+  {
+    "id": "transfers-spain",
+    "title": "Money Transfers (Wise, Remitly, Western Union)",
+    "category": "living",
+    "subcategory": "banking",
+    "summary": "Wise (best rates, 0.35% fee), Remitly (fast), Western Union (cash pickup). Avoid bank wires — expensive.",
+    "content": "For international money transfers to/from Spain, traditional bank wires are expensive (€25-40 fee + 3-5% markup on the exchange rate). Better options: Wise (formerly TransferWise) — mid-market exchange rate + 0.35-0.5% fee, transfers in 1-2 business days, English app. Wise also offers a multi-currency account with a Spanish IBAN. Remitly — slightly higher fees but faster (instant to some countries, popular with Latin American expats). Western Union — €5-25 fee depending on amount and speed, agent locations everywhere, good for cash pickup in countries without banking. Revolut — multi-currency account with instant transfers between Revolut users, no fee on weekdays. PayPal — works but expensive (4%+ on international transfers). Tips: (1) always compare the total cost (fee + exchange rate), (2) send in the destination currency if possible (avoids double conversion), (3) for large transfers (€10,000+), Wise and currency brokers like Currencies Direct offer better rates.",
+    "official_url": "https://wise.com/es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "banking",
+      "transfers",
+      "wise",
+      "remitly",
+      "western-union"
+    ],
+    "related_records": [
+      "banking-spain",
+      "fintech-banking-spain"
+    ]
+  },
+  {
+    "id": "fintech-banking-spain",
+    "title": "Fintech Banks (N26, Revolut, Bunq)",
+    "category": "living",
+    "subcategory": "banking",
+    "summary": "Digital banks popular with expats. N26 and Revolut have Spanish IBANs. Free basic accounts, English apps.",
+    "content": "Fintech (digital-only) banks are very popular with expats in Spain — they offer free accounts, English-language apps, multi-currency support, and no foreign transaction fees (on premium tiers). The main options: N26 (German bank, has Spanish IBAN, free account with Mastercard debit, English/Spanish app, 3 free ATM withdrawals/month, free transfers in euros). Revolut (UK-based, Spanish IBAN available, free account with Mastercard/VISA, multi-currency with mid-market exchange rate on weekdays, free international transfers to other Revolut users, premium tiers €8-15/month with more features). Bunq (Dutch, premium-only from €3/month, eco-friendly, Spanish IBAN, supports multiple sub-accounts). All three work in Spain and accept Spanish residents. Drawbacks vs traditional banks: no physical branches, no cash deposits, harder to get credit cards or mortgages. Best for: digital nomads, freelancers, expats who travel, anyone under 40. Worst for: people who need to deposit cash, get a mortgage, or visit a branch in person.",
+    "official_url": "https://n26.com/en-es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "banking",
+      "fintech",
+      "n26",
+      "revolut",
+      "digital"
+    ],
+    "related_records": [
+      "banking-spain",
+      "transfers-spain"
+    ]
+  },
+  {
+    "id": "spanish-iban-explained",
+    "title": "Spanish IBAN & SEPA Transfers",
+    "category": "living",
+    "subcategory": "banking",
+    "summary": "Spanish IBANs start with ES + 22 digits. SEPA transfers free within eurozone, arrive same day or next business day.",
+    "content": "A Spanish IBAN (International Bank Account Number) has 24 characters: ES (country code) + 22 digits (2 check digits + 20-digit domestic account number). Format: ES12 3456 7890 1234 5678 9012. Spanish bank BIC/SWIFT codes start with the bank's 4-letter code (e.g., BBVAESMM, BSCHESMM for Santander). SEPA (Single Euro Payments Area) transfers between Spanish banks and other eurozone banks are FREE and arrive within 1 business day (often same day if sent before 14:00). To send a SEPA transfer, you need the recipient's IBAN and name — that's it. Spanish banks are required by law to ask for the source of funds for transfers over €10,000 (anti-money laundering). For recurring payments (rent, utilities, subscriptions), you set up a 'domiciliación bancaria' (direct debit) by giving the recipient your IBAN — they then debit your account automatically. Never give out your full IBAN publicly — it's safe to give for legitimate payments but can be used for fraudulent direct debits (which you can reverse within 8 weeks).",
+    "official_url": "https://www.bde.es/wbe/en/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "banking",
+      "iban",
+      "sepa",
+      "transfer"
+    ],
+    "related_records": [
+      "banking-spain",
+      "transfers-spain",
+      "fintech-banking-spain"
+    ]
+  },
+  {
+    "id": "aupair-spain",
+    "title": "Au Pair in Spain",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Live with a Spanish family, care for kids, €70-100/week + room/board. 6-12 month placements typical.",
+    "content": "Being an au pair in Spain is a popular way for young people (18-30) to experience Spanish life. You live with a host family, care for their children (30-40 hours/week), and receive free room and board plus €70-100/week pocket money. Most placements are 6-12 months, typically September-June (school year). Host families pay for your language classes (up to €100/month). Requirements: 18-30 years old, native or fluent English, childcare experience (formal or informal), clean criminal record, non-smoker preferred, no specific education requirements. Visas: EU citizens don't need a visa. Non-EU citizens need a student visa (you're technically studying Spanish) — the host family helps with paperwork. Apply through au pair agencies (AuPairWorld, Cultural Care, EurAupair) — fees €300-600 for placement. Direct arrangements via Facebook groups ('Au Pair Madrid', 'Au Pair Spain') save the agency fee but with less protection if things go wrong.",
+    "official_url": "https://www.aupairworld.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "work",
+      "aupair",
+      "childcare",
+      "young"
+    ],
+    "related_records": [
+      "teach-english-spain",
+      "social-security-number-spain"
+    ]
+  },
+  {
+    "id": "internships-spain",
+    "title": "Internships in Spain",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Erasmus+ for EU students (€400-600/month grant). Non-EU: student visa internship. Usually unpaid or €300-600/month.",
+    "content": "Spain, especially Madrid and Barcelona, is a popular internship destination. Two main paths: (1) Erasmus+ internships — for EU university students or recent graduates (within 12 months of graduation). Apply through your university's international office. Grant: €400-600/month (varies by country). Most internships are 3-6 months. (2) Non-EU internships — need a student visa (the internship must be related to your studies). Apply directly to companies. Spanish companies are increasingly offering internships to international students, especially in tech, marketing, and hospitality. Pay: most internships are unpaid (becario sin remunerar) or €300-600/month. Spanish law requires paid interns to have a Social Security number (employer pays 25% of normal rate). Quality varies wildly — some internships are genuine learning experiences, others are glorified coffee-fetching. Always get the role description in writing before starting. Good resources: IAESTE (engineering/STEM), Erasmus Intern, LinkedIn, and the Spain Internship portal.",
+    "official_url": "https://www.erasmusintern.org/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "work",
+      "internship",
+      "erasmus",
+      "student"
+    ],
+    "related_records": [
+      "teach-english-spain",
+      "social-security-number-spain",
+      "spanish-visas"
+    ]
+  },
+  {
+    "id": "freelancing-spain",
+    "title": "Freelancing in Spain (Autónomo)",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Self-employment (autónomo) costs €290-450/month in social security + 19-47% income tax. VAT (IVA) 21%.",
+    "content": "Working as a freelancer (autónomo) in Spain is bureaucratic but doable. You must register with the Tax Agency (Hacienda) and Social Security. Monthly costs: (1) Social Security 'cuota' — €290-450/month (depends on income under the new tiered system, was flat €294 until 2023). New freelancers get a flat €80/month for the first 12 months, then gradually rises. (2) Income tax (IRPF) — 19% on income up to €12,450, scaling up to 47% over €60,000. (3) VAT (IVA) — 21% on most services, must be charged to clients and remitted to Hacienda quarterly. You file quarterly VAT returns (Modelos 303, 130) and an annual income tax return (Modelo 100) by June 30. Most freelancers use a 'gestoría' (accountant) — €30-60/month handles all paperwork. Invoicing software: Anfix, Quipu, Holded (all Spanish-specific). For EU clients over €10,000/year, register for the EU VAT MOSS system. Digital nomads: Spain's new 'Ley de Startups' (2023) offers a special 24% flat tax rate for 5 years for remote workers who move to Spain.",
+    "official_url": "https://www.agenciatributaria.es/AEAT.internet/en/Inicio.shtml",
+    "status": "annual review",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "work",
+      "freelance",
+      "autonomo",
+      "digital-nomad"
+    ],
+    "related_records": [
+      "social-security-number-spain",
+      "modelo-720",
+      "nie-tie"
+    ]
+  },
+  {
+    "id": "el-escorial-monastery",
+    "title": "El Escorial (Royal Monastery)",
+    "category": "see",
+    "subcategory": "royal",
+    "summary": "Philip II's monumental monastery-palace 45km NW of Madrid. 16th century, royal tombs, library, art collection. €12 entry.",
+    "content": "The Monasterio de San Lorenzo de El Escorial is one of Spain's most impressive royal sites, a vast monastery-palace built by Philip II between 1563 and 1584. UNESCO World Heritage Site. Located 45km northwest of Madrid in the Guadarrama mountains. The complex includes: the royal palace (where Philip II lived and died), the monastery (home to Augustinian monks since 1885), the Basilica (with stunning altarpiece), the Pantheon of Kings (where most Spanish kings since Charles I are buried), the Library (40,000+ volumes, magnificent ceiling frescoes), the Chapter Rooms (with paintings by Titian, Velázquez, El Greco, Veronese), and the Gardens. Allow 3-4 hours for a full visit. Admission: €12 adult, €6 reduced (includes guided tour of the palace). Free entry Wednesday-Thursday after 3pm (limited capacity, arrive early). Open Tue-Sun 10am-6pm (Oct-Mar), 10am-7pm (Apr-Sep). Closed Dec 25, Jan 1, Jan 6. Getting there: Cercanías C8 train from Atocha/Chamartín to El Escorial (45 min, €5.60 one-way), then 15 min walk. Or bus 661/662 from Moncloa.",
+    "official_url": "https://www.patrimonionacional.es/en/visit/royal-monastery-san-lorenzo-el-escorial",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "royal",
+      "monastery",
+      "unesco",
+      "philip-ii",
+      "el-escorial"
+    ],
+    "related_records": [
+      "royal-palace",
+      "day-tours-from-madrid",
+      "ave-high-speed-trains"
+    ]
+  },
+  {
+    "id": "sabatini-gardens",
+    "title": "Sabatini Gardens (Jardines de Sabatini)",
+    "category": "see",
+    "subcategory": "royal",
+    "summary": "Neoclassical gardens next to the Royal Palace. Free entry. Symmetrical hedges, statues of Spanish kings, fountains.",
+    "content": "The Jardines de Sabatini are formal neoclassical gardens on the north side of the Royal Palace, named after the Italian architect Francesco Sabatini who designed the palace's stables that originally stood here. The current gardens were laid out in the 1930s during the Second Republic. They're free to enter and open daily 9am-sunset. Highlights: the symmetrical geometric hedges (yew and cypress), the central pond with fountains, the statues of Spanish kings (originally intended for the palace roof, now lining the paths), and the spectacular view of the Royal Palace's north façade. The gardens are best in late afternoon for photography — the warm light on the palace is stunning. Free outdoor cinema screenings in summer (July-August, weekends). The gardens are part of the 'Royal Mile' walking route: from the Royal Palace → Sabatini Gardens → Plaza de Oriente → Almudena Cathedral → Calle Mayor → Plaza Mayor.",
+    "official_url": "https://www.patrimonionacional.es/en/visit/royal-palace-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "royal",
+      "garden",
+      "free",
+      "palace"
+    ],
+    "related_records": [
+      "royal-palace",
+      "plaza-de-oriente",
+      "almudena-cathedral"
+    ]
+  },
+  {
+    "id": "plaza-de-oriente",
+    "title": "Plaza de Oriente",
+    "category": "see",
+    "subcategory": "royal",
+    "summary": "Formal square between Royal Palace and Royal Theater. Statues of Spanish kings, central garden, cafés. Free.",
+    "content": "Plaza de Oriente is the formal square between the Royal Palace (east side) and the Royal Theater (Teatro Real, west side). Designed in the 1840s during the reign of Isabella II. The square has three sections: the Central Gardens (formal landscaping with statues of 20 medieval Spanish kings, originally carved for the palace roof but removed due to weight concerns), the Cabo Noval Gardens (north, more informal), and the Lepanto Gardens (south). At the center is an equestrian statue of Philip IV (1640, by Pietro Tacca — based on a Velázquez portrait and verified by Galileo Galilei for the horse's center of gravity). The square is surrounded by historic cafés (Café de Oriente is the most famous, perfect for a coffee with palace views). Free to walk through, open 24/7. Best views: at sunset from the café terraces, or at night when the palace is illuminated. The plaza connects the Royal Palace, Almudena Cathedral, Sabatini Gardens, and Teatro Real — making it the heart of 'Royal Madrid'.",
+    "official_url": "https://www.esmadrid.com/en/plaza-de-oriente",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "royal",
+      "plaza",
+      "square",
+      "palace",
+      "free"
+    ],
+    "related_records": [
+      "royal-palace",
+      "sabatini-gardens",
+      "almudena-cathedral",
+      "sol-gran-via-neighborhood"
+    ]
+  },
+  {
+    "id": "el-rastro-flea-market",
+    "title": "El Rastro (Flea Market)",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "Madrid's famous Sunday flea market in La Latina. 9am-3pm. Antiques, clothes, books, art, vintage everything.",
+    "content": "El Rastro is Madrid's famous open-air flea market, held every Sunday (and some public holidays) from 9am to 3pm in the La Latina neighborhood. It's been running since 1740 and is one of the oldest markets in Europe. The market spreads through the streets around Plaza de Cascorro (Metro La Latina L5), along Calle Ribera de Curtidores and the side streets. Stalls sell: antiques, vintage clothes, secondhand books (Spanish and some English), vinyl records, art, jewelry, furniture, electronics, novelty items, and a lot of junk. Best finds: vintage Spanish posters, old photographs, antique fans (abanicos), and religious art. Tips: (1) Go early (9-10am) for the best finds, (2) Bring cash (most stalls don't take cards), (3) Bargaining is expected on items over €20, (4) Watch your wallet — pickpockets love crowds, (5) Stop for tapas at Cava Baja afterward (the market shuts down at 3pm and the bars fill up).",
+    "official_url": "https://www.esmadrid.com/en/el-rastro",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "shopping",
+      "flea-market",
+      "el-rastro",
+      "sunday",
+      "vintage"
+    ],
+    "related_records": [
+      "la-latina-neighborhood",
+      "mercado-san-miguel"
+    ]
+  },
+  {
+    "id": "salamanca-luxury-shopping",
+    "title": "Salamanca Luxury Shopping (Calle Serrano)",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "Madrid's Golden Mile: Calle Serrano, Ortega y Gasset, Jorge Juan. Loewe, Hermès, Prada, Gucci, Louis Vuitton.",
+    "content": "The Salamanca neighborhood is Madrid's luxury shopping district, anchored by Calle Serrano (the 'Golden Mile'). Serrano runs north-south through Salamanca and has all the major luxury flagships: Loewe (Spanish luxury brand, founded 1846, flagship at Serrano 26), Hermès, Prada, Gucci, Louis Vuitton, Cartier, Bulgari, Tiffany, Valentino, and Chanel. Cross streets Calle Ortega y Gasset and Calle Jorge Juan have additional boutiques (Bottega Veneta, Dolce & Gabbana, Versace, Dior) and high-end Spanish designers (Loewe, Balenciaga, Adolfo Domínguez, Purificación García). Spanish luxury tax refund (Tax Free): non-EU residents can claim back 15-21% VAT on purchases over €90.15 from a single store. Ask for the 'tax-free form' at checkout, get it stamped at the airport customs desk before check-in, then mail it back. Allow 2-3 weeks for refund. For high-end Spanish department store, El Corte Inglés Castellana (Castellana 52) has 7 floors of fashion, accessories, cosmetics, and gourmet food — they process tax refunds in-store.",
+    "official_url": "https://www.esmadrid.com/en/shopping-madrid/calle-de-serrano",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "shopping",
+      "luxury",
+      "serrano",
+      "salamanca",
+      "designer"
+    ],
+    "related_records": [
+      "salamanca-neighborhood",
+      "gran-via-shopping"
+    ]
+  },
+  {
+    "id": "mercados-madrid",
+    "title": "Food Markets of Madrid",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "Beyond San Miguel: Mercado de San Antón (Chueca), Mercado de Chamberí, Mercado de Maravillas (Tetuán). Each has its own character.",
+    "content": "Madrid has dozens of covered food markets, each with its own character. The most famous, Mercado de San Miguel (next to Plaza Mayor), is now more tourist attraction than local market — beautiful 1919 iron-and-glass building, expensive tapas bars, but worth a visit. Beyond San Miguel: (1) Mercado de San Antón (Chueca) — modernized market with upscale food stalls and a rooftop restaurant. (2) Mercado de Chamberí (Calle Alonso Martínez) — beautifully restored 19th-century market, less touristy, great for fresh produce and tapas. (3) Mercado de Maravillas (Tetuán, Bravo Murillo 122) — Madrid's largest covered market, 3 floors, very local, cheap fresh produce, fish, meat. (4) Mercado de la Cebada (La Latina) — locals' market with a great rooftop bar (La Cebada beer garden). (5) Mercado de Vallehermoso (Chamberí) — recently renovated, gourmet focus, weekend brunch spot. (6) Mercado de San Fernando (Lavapiés) — multicultural market with international food stalls, tapas bars, and community events. Most markets are closed Sunday afternoon and Monday.",
+    "official_url": "https://www.esmadrid.com/en/markets",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "shopping",
+      "market",
+      "food",
+      "mercado"
+    ],
+    "related_records": [
+      "mercado-san-miguel",
+      "la-latina-neighborhood",
+      "chueca-neighborhood",
+      "chamberi-neighborhood",
+      "lavapies-neighborhood",
+      "tetuan-cuatro-caminos-neighborhood"
+    ]
+  },
+  {
+    "id": "bookstores-madrid",
+    "title": "English & Foreign Language Bookstores",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "J&J Books (English used), Coffee & Books (English+coffee), FNAC (mainstream). Also Librería Extranjera for textbooks.",
+    "content": "Madrid has several bookstores with English-language books. J&J Books and Coffee (Espíritu Santo 47, Malasaña) — English-language used bookstore with a café, popular with English-speaking expats, hosts book clubs and language exchanges. Coffee & Books (León 12, Huertas) — small but well-stocked English bookstore with coffee and pastries, very cozy. La Central de Callao (Postigo de San Martín 8) — large general bookstore with a Spanish literature section, English fiction section, and café. FNAC (Marqués de Casa Riera 4 / Castellana 28) — chain store with decent English-language section (mostly bestsellers, classics, and children's books). Casa del Libro (Gran Vía 29) — large Spanish chain, English section on the second floor. For textbooks and academic books: Librería Extranjera (Cruz 17) and the bookstores at the Complutense University campus. For Spanish language learning materials: the SG and SG bookstore chain (Calle Isaac Peral 32). For secondhand Spanish books: the Feria del Libro de Madrid (Retiro Park, late May-early June) and El Rastro (Sundays).",
+    "official_url": "https://www.jandjbooksandcoffee.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "shopping",
+      "books",
+      "english",
+      "bookstore"
+    ],
+    "related_records": [
+      "malasana-neighborhood",
+      "sol-gran-via-neighborhood",
+      "el-rastro-flea-market"
+    ]
+  },
+  {
+    "id": "bullfights-madrid",
+    "title": "Bullfighting (Las Ventas)",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Madrid's Las Ventas bullring — the 'cathedral of bullfighting'. Season March-October, Sundays at 7pm. €25-150.",
+    "content": "Las Ventas is Madrid's main bullring and the most important venue in Spain for bullfighting (corrida de toros). Built in 1931 in Neo-Mudéjar style, it seats 23,798 spectators and is considered the 'cathedral of bullfighting'. The bullfighting season runs March-October, with the main events on Sundays at 7pm (earlier in autumn). Special fairs: San Isidro (May-June, daily events), Feria de Otoño (October). Tickets €25-150 depending on seat location — sombra (shade) is more expensive than sol (sun). Buy at the Las Ventas box office (Calle Alcalá 237, Metro Las Ventas L2/L5) or at taurotop.com. Each corrida has 3 matadors who each fight 2 bulls, lasting 2-3 hours total. Bullfighting is controversial — animal rights activists have succeeded in banning it in Catalonia and the Canary Islands, but it remains legal and culturally important in Madrid and Andalusia. If you do attend, you'll see a spectacle that has inspired Spanish artists from Goya to Picasso to Hemingway.",
+    "official_url": "https://www.las-ventas.com/",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "traditions",
+      "bullfight",
+      "bullfighting",
+      "las-ventas"
+    ],
+    "related_records": [
+      "san-isidro-festival",
+      "spanish-culture-madrid"
+    ]
+  },
+  {
+    "id": "verbenas-festivals",
+    "title": "Verbenas (Street Festivals)",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Each Madrid neighborhood has its annual verbena — street party with music, food, decorations. San Isidro, San Cayetano, San Lorenzo, La Paloma.",
+    "content": "Verbenas are traditional Madrid street festivals, each dedicated to a neighborhood's patron saint. The 4 main verbenas of summer: (1) San Isidro (May 15) — Madrid's biggest festival, honoring the city's patron saint. 9 days of events at the San Isidro meadow (Pradera de San Isidro) and across the city. (2) San Cayetano (August 2-5) — in the Cascorro/Rastro area (La Latina). Streets decorated with paper lanterns, free concerts, traditional food. (3) San Lorenzo (August 8-11) — in Lavapiés. Smaller and more intimate than San Cayetano. (4) La Paloma (August 12-15) — in La Latina, the most popular of the August verbenas. Up to 1 million people over 4 days. Streets decorated with lights, live music stages, traditional chotis dancing, and bars serving horchata, lemonade, and tapas. All verbenas are FREE to attend. Best approach: start at one end of the decorated street, walk slowly, stop for drinks and tapas at the street bars. Most activity is 8pm-2am. Wear comfortable shoes and watch your belongings — verbenas are crowded and pickpockets love them.",
+    "official_url": "https://www.esmadrid.com/en/festivals",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "traditions",
+      "verbena",
+      "festival",
+      "street-party",
+      "summer"
+    ],
+    "related_records": [
+      "la-latina-neighborhood",
+      "lavapies-neighborhood",
+      "san-isidro-festival",
+      "chotis-madrid"
+    ]
+  },
+  {
+    "id": "chotis-madrid",
+    "title": "Chotis (Traditional Madrid Dance)",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Madrid's traditional dance, slow and graceful. Danced at verbenas and San Isidro. Originated in Prague (1838).",
+    "content": "The chotis (also spelled chotis or schottisch) is Madrid's traditional dance, brought from Prague in 1838 and adapted by the city's working class (chulapos and chulapas). It's a slow, graceful couples dance, traditionally danced on the street during verbenas and festivals. The man typically wears a checkered cap (parpusa) tilted to the right, a white shirt, a black vest, and a carnation in the buttonhole. The woman wears a fitted dress with polka dots, a Manila shawl (mantón de Manila), and a flower in her hair. The dance is slow and dignified — the man places his hands behind his back, the woman holds his arms, and they pivot slowly around each other. Best places to see chotis: at the San Isidro festival (May 15), at the August verbenas (San Cayetano, San Lorenzo, La Paloma), or at traditional Madrid restaurants like Las Cuevas de Luis Candelas or Casa Mingo. Free chotis lessons are sometimes offered at community centers (centros culturales) before festivals.",
+    "official_url": "https://www.esmadrid.com/en/festivals/san-isidro",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "traditions",
+      "chotis",
+      "dance",
+      "chulapos"
+    ],
+    "related_records": [
+      "verbenas-festivals",
+      "san-isidro-festival"
+    ]
+  },
+  {
+    "id": "san-isidro-festival",
+    "title": "San Isidro Festival (May)",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Madrid's biggest festival, May 11-15. Honors the city's patron saint. Bullfights, concerts, traditional dress, free events.",
+    "content": "San Isidro Labrador is Madrid's patron saint, a 12th-century farmworker known for his miracles. His feast day (May 15) is the highlight of Madrid's festival calendar. The festival runs May 11-15 with 9 days of events across the city. Highlights: (1) Opening ceremony at Plaza Mayor (May 11 evening). (2) Bullfights at Las Ventas (May 12-15, daily) — the most prestigious bullfighting event of the year. (3) Traditional costume (chulapo/chulapa) parade through the center. (4) Free concerts at multiple stages (Las Ventas, Plaza Mayor, Pradera de San Isidro). (5) Pilgrimage to the San Isidro chapel and meadow (Pradera de San Isidro), where families gather for picnics and drink from the saint's miraculous spring. (6) Traditional food: barquillos (wafer rolls), rosquillas (donuts — listas, tontas, and Santa Clara varieties), and lemonade with wine. (7) Final concert at the Pradera de San Isidro (May 15 evening, free). Free to attend most events — bullfights and some concerts are ticketed. Accommodation in Madrid fills up 6 months in advance for San Isidro.",
+    "official_url": "https://www.esmadrid.com/en/festivals/san-isidro",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "traditions",
+      "festival",
+      "san-isidro",
+      "patron-saint"
+    ],
+    "related_records": [
+      "bullfights-madrid",
+      "verbenas-festivals",
+      "chotis-madrid"
+    ]
+  },
+  {
+    "id": "metro-closures-summer-2026",
+    "title": "Metro Closures — Summer 2026",
+    "category": "now",
+    "subcategory": "transit",
+    "summary": "Planned closures on Lines 6, 7, 9B, and 10 for renovations. Free shuttle buses cover affected sections.",
+    "content": "Metro de Madrid has scheduled track and signal renovations during summer 2026 (June 15 - September 15) on multiple lines. Affected: Line 6 (circular) — closed between Méndez Álvaro and Argüelles on weekends, shuttles every 5 min. Line 7 — closed between Pitis and Arroyofresno (no shuttle — take bus 89). Line 9B — closed between Puerta de Arganda and Arganda del Rey (shuttle bus available). Line 10 — closed between Tres Olivos and Hospital Infanta Sofía on weekday nights 11pm-6am. Free shuttle buses replace metro service on closed sections — follow signs to 'Autobús Sustitutivo'. Plan extra 15-30 minutes for affected routes. Check the official Metro de Madrid app (English) or @metromadrid on Twitter for real-time updates. Stations close to home/work? Identify alternative lines and bus routes in advance. The Cercanías commuter rail (Lines C1-C10) is unaffected and is often faster than Metro for cross-city trips during closures.",
+    "official_url": "https://www.metromadrid.es/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "now",
+      "transit",
+      "metro",
+      "closure",
+      "alert"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "emt-buses"
+    ]
+  },
+  {
+    "id": "emt-bus-detours",
+    "title": "EMT Bus Detours — Current",
+    "category": "now",
+    "subcategory": "transit",
+    "summary": "Bus routes altered for construction and events. Check EMT app or Twitter for current detours.",
+    "content": "EMT Madrid buses frequently have temporary detours due to construction, demonstrations, sports events, and street markets. Current major detours (always verify with the EMT app or @EMTMadrid on Twitter for the latest): (1) Lines 1, 2, 46 — detoured during demonstrations at Puerta del Sol (typically Saturday evenings). (2) Lines 27, 34, 45 — detoured during football matches at the Bernabéu (Real Madrid home games, mainly Sun evenings). (3) Lines 23, 35, 116 — detoured for El Rastro flea market (every Sunday 9am-3pm, expect delays in La Latina). (4) Various lines detoured during the San Isidro festival (May 11-15) and Madrid Pride (June 28-July 7). The EMT Madrid app (English available) shows real-time bus locations and current detours. Twitter @EMTMadrid posts major detours 24-48 hours in advance. For demonstrations and large events, expect delays of 15-45 minutes and consider Metro alternatives. For the most accurate predictions, use Google Maps or Citymapper with real-time data.",
+    "official_url": "https://www.emtmadrid.es/English",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "now",
+      "transit",
+      "bus",
+      "detour",
+      "alert"
+    ],
+    "related_records": [
+      "emt-buses",
+      "metro-closures-summer-2026",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "cercanias-delays",
+    "title": "Cercanías (Commuter Rail) Delays",
+    "category": "now",
+    "subcategory": "transit",
+    "summary": "Renfe Cercanías occasional delays due to signal issues and infrastructure work. Check @CercaniasMadrid for real-time updates.",
+    "content": "Renfe Cercanías Madrid is the commuter rail network (10 lines, C1-C10) serving Madrid and its suburbs. Generally reliable, but delays do occur — especially during morning rush (7:30-9:30am) and evening rush (5-7pm). Common causes: signal failures (especially on C1, C2, C7, C10), infrastructure work (weekend and nighttime), train breakdowns, and strikes (rare but possible — French-style labor actions). For real-time updates: @CercaniasMadrid on Twitter, the Renfe Cercanías app (Spanish only), or the screens at each station. Major delays (>15 min) are announced on station PA systems (Spanish only — learn 'retraso' = delay, 'cancelado' = cancelled, 'sin servicio' = no service). The Cercanías network is critical for: airport to Atocha/Chamartín (C1), Atocha to Chamartín (C1, C2, C7, C8, C10 — 8 min), day trips to El Escorial (C8), Alcalá de Henares (C2, C7), and Segovia connection (C8 to Cercedilla, then C9 to Segovia). If you commute daily, sign up for Renfe alerts (free, Spanish).",
+    "official_url": "https://www.renfe.com/en/en/travel/destination/products/cercanias",
+    "status": "dynamic",
+    "english_friendly": false,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "now",
+      "transit",
+      "cercanias",
+      "renfe",
+      "delay",
+      "alert"
+    ],
+    "related_records": [
+      "renfe-trains",
+      "atocha-station",
+      "chamartin-station",
+      "metro-closures-summer-2026"
+    ]
+  },
+  {
+    "id": "taxi-strikes-madrid",
+    "title": "Taxi & Ride-Share Disruptions",
+    "category": "now",
+    "subcategory": "transit",
+    "summary": "Taxi strikes occasionally affect Madrid (last major strike 2018 vs ride-sharing). Watch for strike dates — use Metro during strikes.",
+    "content": "Madrid's taxi drivers have occasionally gone on strike — most notably the January 2018 strike against ride-sharing (Uber, Cabify) that lasted 8 days. Smaller protests and 24-hour strikes happen every few years. When strikes occur: (1) Licensed taxis become scarce — expect 1-2 hour wait times for street hails, longer for dispatch. (2) Ride-sharing apps (Uber, Cabify) see surge pricing — sometimes 3-4x normal rates. (3) Metro and EMT buses are unaffected and are the best alternatives. (4) Airport to city: use Metro L8 (Pink) — €4.50 + €1.50 metro fare, takes 30 min. (5) Long-distance: Renfe trains are unaffected. Strike announcements: taxi strikes are typically announced 7-10 days in advance via the major taxi associations (Federación Profesional del Taxi de Madrid, @TaxiMad on Twitter). For specific strike dates and affected services, follow local English news: El País English edition (elpais.com/english), The Local Spain (thelocal.es). Plan ahead — last-minute transit during strikes is a nightmare.",
+    "official_url": "https://www.taximadrid.org/english",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "now",
+      "transit",
+      "taxi",
+      "strike",
+      "alert"
+    ],
+    "related_records": [
+      "taxis-madrid",
+      "ride-sharing-madrid",
+      "metro-de-madrid",
+      "emt-buses"
+    ]
+  },
+  {
+    "id": "airport-delays-madrid",
+    "title": "Airport Delays & Strikes (Barajas)",
+    "category": "now",
+    "subcategory": "transit",
+    "summary": "AENA ground staff and air traffic control occasionally strike. Check AENA app for current airport status.",
+    "content": "Madrid-Barajas Airport (MAD) experiences occasional disruptions from strikes, weather, and air traffic control issues. Strike types: (1) AENA ground staff strikes (handling, cleaning, retail) — periodically affect Barajas, last major was February 2023. (2) Iberia ground staff strikes — affects Iberia and partner airlines. (3) Air traffic control (ATC) strikes — usually nationwide Spanish ATC strikes, sometimes coordinated with French ATC. (4) Airline-specific strikes (Ryanair, Vueling pilot/cabin crew strikes — frequent). During strikes: expect cancellations and delays of 2-12 hours. Check your airline's app/email for flight status. Passenger rights: under EU261/2004, if your flight is cancelled or delayed 3+ hours, you may be entitled to compensation (€250-600) and meals/hotel. EU261 applies to flights from EU airports and to EU airports on EU carriers. Real-time airport status: AENA app (English), @Aena on Twitter, or the airport website aena.es. For specific strike dates, check the US Embassy Spain travel page or El País English edition.",
+    "official_url": "https://www.aena.es/en/passengers/madrid-barajas-airport.html",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "now",
+      "transit",
+      "airport",
+      "strike",
+      "delay",
+      "alert"
+    ],
+    "related_records": [
+      "madrid-barajas-airport",
+      "major-airlines-madrid",
+      "airport-express-bus-203"
+    ]
   }
 ]
