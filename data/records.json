@@ -1487,53 +1487,6 @@
       "bernabeu"
     ],
     "related_records": [
-      "santiago-bernabeu",
-      "atletico-metropolitano",
-      "rayo-vallecas"
-    ]
-  },
-  {
-    "id": "santiago-bernabeu",
-    "title": "Santiago Bernabéu Stadium",
-    "category": "do",
-    "subcategory": "sports",
-    "summary": "Real Madrid's home since 1947. 78,000+ capacity. Recently renovated with a retractable pitch and 360° video screen.",
-    "content": "Tour (€30, 1.5 hours): museum, dressing room, presidential box, players' tunnel, pitch-side, panoramic view, trophy room. Match days: arrive 2 hours early, the area around the stadium is hectic. Metro: Santiago Bernabéu (Line 10). The 2026/27 LaLiga opener is the weekend of 22 August 2026.",
-    "official_url": "https://www.realmadrid.com/en",
-    "status": "dynamic",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "sports",
-      "football",
-      "bernabeu",
-      "stadium"
-    ],
-    "related_records": [
-      "real-madrid-bernabeu",
-      "atletico-metropolitano",
-      "metro-de-madrid"
-    ]
-  },
-  {
-    "id": "atletico-metropolitano",
-    "title": "Atlético de Madrid — Cívitas Metropolitano",
-    "category": "do",
-    "subcategory": "sports",
-    "summary": "Atlético's stadium (since 2017), east of the city. 68,000 capacity.",
-    "content": "Stadium tour: €20. Match tickets €40–200. Metro: Estadio Metropolitano (Line 7). The atmosphere is famously more intense than at the Bernabéu — Atlético fans are known for 'no pasarán' chants. Atlético is more working-class and the stadium experience reflects that. Also hosts concerts in summer.",
-    "official_url": "https://www.atleticodemadrid.com",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "sports",
-      "football",
-      "atletico"
-    ],
-    "related_records": [
-      "real-madrid-bernabeu",
-      "santiago-bernabeu",
       "rayo-vallecas"
     ]
   },
@@ -1555,8 +1508,7 @@
       "vallecas"
     ],
     "related_records": [
-      "real-madrid-bernabeu",
-      "atletico-metropolitano"
+      "real-madrid-bernabeu"
     ]
   },
   {
@@ -3431,29 +3383,6 @@
     ]
   },
   {
-    "id": "aupair-spain",
-    "title": "Au Pair in Spain",
-    "category": "living",
-    "subcategory": "work",
-    "summary": "Live with a Spanish family, care for kids, €70-100/week + room/board. 6-12 month placements typical.",
-    "content": "Being an au pair in Spain is a popular way for young people (18-30) to experience Spanish life. You live with a host family, care for their children (30-40 hours/week), and receive free room and board plus €70-100/week pocket money. Most placements are 6-12 months, typically September-June (school year). Host families pay for your language classes (up to €100/month). Requirements: 18-30 years old, native or fluent English, childcare experience (formal or informal), clean criminal record, non-smoker preferred, no specific education requirements. Visas: EU citizens don't need a visa. Non-EU citizens need a student visa (you're technically studying Spanish) — the host family helps with paperwork. Apply through au pair agencies (AuPairWorld, Cultural Care, EurAupair) — fees €300-600 for placement. Direct arrangements via Facebook groups ('Au Pair Madrid', 'Au Pair Spain') save the agency fee but with less protection if things go wrong.",
-    "official_url": "https://www.aupairworld.com/en",
-    "status": "evergreen",
-    "english_friendly": true,
-    "english_level": "english-primary",
-    "last_updated": "2026-07-20",
-    "tags": [
-      "work",
-      "aupair",
-      "childcare",
-      "young"
-    ],
-    "related_records": [
-      "teach-english-spain",
-      "social-security-number-spain"
-    ]
-  },
-  {
     "id": "internships-spain",
     "title": "Internships in Spain",
     "category": "living",
@@ -4796,6 +4725,566 @@
       "el-pais-english",
       "the-local-spain",
       "madrid-tourist-offices"
+    ]
+  },
+  {
+    "id": "restaurant-spanish",
+    "title": "Restaurant Spanish — Ordering & Menu",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Key Spanish phrases for restaurants: ordering, dietary needs, paying. Print this and carry it.",
+    "content": "Essential Spanish for restaurants. Greeting: 'Hola, buenas' (Hello). Getting a table: 'Una mesa para dos, por favor' (A table for two, please). Ordering: 'Para mí...' (For me...) or 'Quiero...' (I want...). Asking for the menu: 'La carta, por favor'. Bill: 'La cuenta, por favor'. Dietary: 'Soy vegetariano/a' (vegetarian), 'Soy vegano/a' (vegan), 'Soy celíaco/a' (celiac), 'Sin gluten' (gluten-free), 'Sin lactosa' (lactose-free), 'Alérgico a los frutos secos' (allergic to nuts). Useful: '¿Qué nos recomienda?' (What do you recommend?), '¿Está picante?' (Is it spicy?), 'Agua sin gas' (still water), 'Agua con gas' (sparkling water), 'Pan' (bread), 'Servilletas' (napkins). Numbers: uno, dos, tres, cuatro, cinco (1-5). Tipping is optional — round up or 5-10%. Most restaurants include IVA (VAT) in the menu price. 'Menú del día' is the lunch special (3 courses, €10-15, weekdays only). Tip: download Google Translate offline Spanish pack and use camera mode to translate menus.",
+    "official_url": "https://www.esmadrid.com/en/eating-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "language",
+      "spanish",
+      "restaurant",
+      "food",
+      "phrases"
+    ],
+    "related_records": [
+      "survival-spanish",
+      "emergency-spanish"
+    ]
+  },
+  {
+    "id": "emergency-spanish",
+    "title": "Emergency Spanish — Medical & Police",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Critical Spanish for emergencies: medical, police, pharmacy. Save this to your phone.",
+    "content": "Emergency Spanish you must know. EMERGENCY NUMBER: 112 (free, multilingual — they speak English). If 112 doesn't work: Police 091, Ambulance 061, Fire 080. Phrases: '¡Ayuda!' (Help!), 'Necesito un médico' (I need a doctor), 'Llame a una ambulancia' (Call an ambulance), 'Estoy enfermo/a' (I'm sick), 'Estoy herido/a' (I'm injured), '¿Dónde está el hospital?' (Where is the hospital?), '¿Dónde está la farmacia?' (Where is the pharmacy?). Medical: 'Dolor' (pain), 'Fiebre' (fever), 'Náuseas' (nausea), 'Alergia' (allergy), 'Receta' (prescription), 'Pastillas' (pills), 'Análisis de sangre' (blood test). At the pharmacy: 'Necesito algo para...' (I need something for...), 'el dolor de cabeza' (headache), 'el dolor de estómago' (stomachache), 'la gripe' (flu), 'la diarrea' (diarrhea). Police: 'Me han robado' (I've been robbed), 'He perdido mi pasaporte' (I've lost my passport), '¿Dónde está la embajada?' (Where is the embassy?). At the police station: 'Quiero poner una denuncia' (I want to file a report). Tip: save this page offline. Most pharmacists speak some English. The 112 operators all speak English — call them first in an emergency.",
+    "official_url": "https://www.esmadrid.com/en/emergency",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "language",
+      "spanish",
+      "emergency",
+      "medical",
+      "police",
+      "phrases"
+    ],
+    "related_records": [
+      "survival-spanish",
+      "restaurant-spanish",
+      "emergency-numbers"
+    ]
+  },
+  {
+    "id": "shared-housing-flatmates-madrid",
+    "title": "Shared Housing & Flatmates",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Flatshare (piso compartido) is the cheapest option for newcomers. €350-600/month for a room. Use Idealista, Badi, Spotahome.",
+    "content": "Flatsharing (pisos compartidos) is the most affordable way to live in Madrid, especially for students and young expats. A room in a shared flat costs €350-600/month depending on neighborhood (Malasaña and Chamberí are pricier, Cuatro Caminos and Carabanchel are cheaper). Where to find: (1) Idealista (idealista.com) — largest portal, filter by 'habitación' (room). (2) Badi (badi.com) — room-sharing app, matches you with flatmates. (3) Spotahome (spotahome.com) — verified listings, can book without visiting. (4) Facebook groups: 'Pisos compartidos Madrid', 'Habitaciones Madrid Alquiler', 'Erasmus Madrid Housing'. (5) Walk around target neighborhoods and look for 'Se alquila habitación' signs. Tips: (1) Always visit before paying — scam listings exist. (2) Never wire money before signing a contract. (3) Ask about bills (luz, agua, internet) — usually €30-50/month extra. (4) Ask about the deposit (fianza) — usually 1 month's rent. (5) Get everything in writing. (6) Meet the flatmates — you'll live with them. (7) Ask about the building's portero (doorman) — they're helpful for packages and lockouts. Erasmus students: book a temporary room (1-2 months) before finding something long-term — gives you time to visit flats in person.",
+    "official_url": "https://www.idealista.com/en/habitaciones-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "housing",
+      "flatshare",
+      "roommate",
+      "rent",
+      "budget"
+    ],
+    "related_records": [
+      "idealista",
+      "fotocasa",
+      "rental-contracts",
+      "neighborhoods-guide"
+    ]
+  },
+  {
+    "id": "job-search-spain",
+    "title": "Job Search in Spain",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Top job sites: InfoJobs, LinkedIn, Indeed Spain, Monster.es. English-speaking jobs at multinationals.",
+    "content": "Job hunting in Spain. Top job portals: (1) InfoJobs (infojobs.net) — Spain's largest job site, 100,000+ listings, Spanish interface. (2) LinkedIn — increasingly important in Spain, especially for professional roles. Set your location to Madrid. (3) Indeed Spain (indeed.es) — aggregator. (4) Monster.es — smaller but useful. (5) Trendy Talents (talenberry.com) — for tech and digital. (6) English-language specific: Just Landed (justlanded.com), English jobs in Spain. (7) Multinational companies — search company career pages directly (Google Madrid, Amazon Madrid, McKinsey Madrid, etc.). Recruitment agencies: Hays, Michael Page, Adecco, Randstad. Tips: (1) Spanish CVs include a photo and date of birth (legal in Spain, unlike US/UK). (2) Write a 'carta de presentación' (cover letter) in Spanish. (3) Spanish interviews are formal — use 'usted' until invited to use 'tú'. (4) Networking matters — join LinkedIn groups, attend industry meetups. (5) Spanish job market is tough — unemployment is ~12% nationally, higher for young people. (6) Knowing Spanish is essential for most non-tech jobs. (7) For EU citizens, no work permit needed. For non-EU, you need a work visa before applying (the employer sponsors you). Salary expectations: €18,000-25,000 entry-level, €30,000-50,000 mid-career, €60,000+ senior tech/finance. Madrid salaries are 10-20% higher than the Spanish average.",
+    "official_url": "https://www.infojobs.net/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "work",
+      "jobs",
+      "search",
+      "career",
+      "infojobs"
+    ],
+    "related_records": [
+      "teach-english-spain",
+      "freelancing-spain",
+      "spanish-cv-interview"
+    ]
+  },
+  {
+    "id": "spanish-cv-interview",
+    "title": "Spanish CV & Interview Tips",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Spanish CV format: photo, date of birth, DNI/NIE. 1-2 pages. Cover letter (carta de presentación) essential.",
+    "content": "Spanish job applications differ from US/UK in several ways. CV (currículum vitae) format: (1) Header with full name, photo (professional headshot — common in Spain, legal under Spanish law), date of birth, nationality, DNI/NIE (or passport for non-residents), phone, email, LinkedIn. (2) Educación — degrees, university, year, relevant coursework. (3) Experiencia profesional — reverse chronological, with dates, employer, role, key achievements. (4) Idiomas — languages with level (C1, B2, etc.). (5) Informática — IT skills (Office, specific software). (6) Otros datos de interés — volunteer work, hobbies, availability. Length: 1-2 pages (2 is acceptable in Spain). Cover letter (carta de presentación): always required, 1 page, addressed to the hiring manager by name if possible. Interview: (1) Dress formally — suit and tie for men, business attire for women. (2) Arrive 10 minutes early. (3) Use 'usted' (formal you) until invited to use 'tú'. (4) Shake hands with everyone. (5) Spanish interviews often include personal questions about family, hobbies — these are normal small talk, not discrimination. (6) Salary negotiation happens late in the process — don't bring it up first. (7) Send a thank-you email within 24 hours. Reference letters (cartas de recomendación) are common — bring them to the interview. Probation period: usually 3-6 months. After that, Spanish labor law is very protective of employees.",
+    "official_url": "https://www.sepe.es/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "work",
+      "cv",
+      "resume",
+      "interview",
+      "career"
+    ],
+    "related_records": [
+      "job-search-spain",
+      "teach-english-spain"
+    ]
+  },
+  {
+    "id": "plaza-de-la-villa",
+    "title": "Plaza de la Villa (Medieval Square)",
+    "category": "see",
+    "subcategory": "royal",
+    "summary": "Madrid's medieval civic center. 15th-century Casa de la Villa (old City Hall), Lujanes Tower, Cisneros House. Free.",
+    "content": "Plaza de la Villa is a small medieval square in the heart of Madrid's old town, 3 minutes' walk west of Puerta del Sol. It was Madrid's civic center from the 15th to 19th centuries. Three historic buildings surround the square: (1) Casa de la Villa (1640-1696) — Madrid's City Hall from 1693 to 2007 (when the city government moved to Cibeles Palace). Beautiful baroque facade. Free guided tours on Mondays at 11am and 1pm (Spanish only). (2) Torre de los Lujanes (15th century) — the oldest building in Madrid, a brick Gothic tower. Emperor Charles V stayed here in 1525. Look for the bust of Don Álvaro de Luján above the door. (3) Casa de Cisneros (1537) — Plateresque palace built by the nephew of Cardinal Cisneros. Now connects to Casa de la Villa. (4) Casa de los Sevenuelas (16th century) — now a small library. The statue in the center is of Álvaro de Bazán, the 16th-century Spanish naval hero who planned the Spanish Armada. The square is small and easy to miss — enter from Calle Mayor or Calle de Sacramento. Free to walk through, open 24/7. Combine with the Almudena Cathedral and Royal Palace (5 min walk west).",
+    "official_url": "https://www.esmadrid.com/en/plaza-de-la-villa",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "royal",
+      "historic",
+      "medieval",
+      "plaza",
+      "free",
+      "city-hall"
+    ],
+    "related_records": [
+      "royal-palace",
+      "plaza-de-oriente",
+      "almudena-cathedral",
+      "sol-gran-via-neighborhood"
+    ]
+  },
+  {
+    "id": "quinta-de-los-molinos",
+    "title": "Quinta de los Molinos (Cherry Blossom Park)",
+    "category": "see",
+    "subcategory": "parks",
+    "summary": "25-hectare park famous for cherry blossoms (almendros) in February-March. Free. Metro El Sardinero (L5).",
+    "content": "Quinta de los Molinos is a 25-hectare park in the San Blas district (east Madrid, Metro El Sardinero L5 or Suanzes L5). It was a private estate until 1980, when the city bought it. The park is famous for its 1,500+ almond trees (almendros) that bloom in late February to mid-March — a 2-3 week window when the park is transformed into a pink-and-white wonderland. This is Madrid's equivalent of Japan's cherry blossom season, and locals flock here for photos. Best time to visit: a sunny weekend in early March (mid-morning for best light, before crowds). Even outside bloom season, the park is a lovely green escape with: olive groves, pine woods, a historic farmhouse (Casa de los Molinos), and walking paths. Less crowded than Retiro, more local. Free entry, open 6:30am-10pm (until 11pm in summer). Facilities: small playground, drinking fountains, but no café — bring a picnic. Getting there: Metro El Sardinero (L5) — 30 min from Sol. Or bus 38, 48, 146. Tip: check the bloom status on Twitter (@quintamolinos or #quintadelosmolinos) before going — timing varies year to year based on weather.",
+    "official_url": "https://www.madrid.es/quintadelosmolinos",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "parks",
+      "cherry-blossom",
+      "almond",
+      "spring",
+      "free",
+      "local"
+    ],
+    "related_records": [
+      "retiro-park",
+      "madrid-rio",
+      "casa-de-campo"
+    ]
+  },
+  {
+    "id": "parque-juan-carlos-i",
+    "title": "Parque Juan Carlos I (Modern Park)",
+    "category": "see",
+    "subcategory": "parks",
+    "summary": "160-hectare modern park in IFEMA area. Olive garden, sculptures, lake with rowboats, free concerts. Metro Campo de las Naciones.",
+    "content": "Parque Juan Carlos I is Madrid's second-largest park (160 hectares), opened in 1992 for Madrid's European Capital of Culture year. Located in the northeast (near the IFEMA fairgrounds and Barajas Airport), it's a modernist park with wide open spaces, sculptures, and a large lake. Highlights: (1) The olive garden (olivar) — 1,900 olive trees arranged in a grid, beautiful in spring when they bloom. (2) The Sculpture Garden — 20+ abstract sculptures by international artists scattered through the park. (3) Lake with rowboats (€6/30 min) — popular with families. (4) Auditorio Municipal — outdoor concert venue, free concerts in summer. (5) The 'Estrella Fugaz' (shooting star) sculpture — iconic modern Madrid landmark. (6) Cycling paths — 7km of bike paths, BiciMAD station at the entrance. Less touristy than Retiro, more local. Best for: jogging, cycling, picnics, escaping the crowds. Free entry, open 6am-midnight. Getting there: Metro Campo de las Naciones (L8) — 25 min from Mar de Cristal. Or bus 122, 112. Tip: combine with a visit to IFEMA (if there's a fair or expo on) or the nearby Aquópolis San Fernando water park in summer.",
+    "official_url": "https://www.madrid.es/parquejuancarlosi",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "parks",
+      "modern",
+      "sculpture",
+      "lake",
+      "cycling",
+      "free"
+    ],
+    "related_records": [
+      "retiro-park",
+      "casa-de-campo",
+      "bicimad"
+    ]
+  },
+  {
+    "id": "spanish-wines-madrid",
+    "title": "Spanish Wines — A Quick Guide",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Spain's top wine regions: Rioja, Ribera del Duero, Priorat, Rías Baixas. Madrid has great wine bars. €3-8/glass.",
+    "content": "Spain is the world's third-largest wine producer and has more land under vine than any country. Top regions to know: (1) Rioja (north-central) — Spain's most famous reds, Tempranillo grape. Crianza (1 year oak), Reserva (2 year), Gran Reserva (5 year). Good Rioja from €8/bottle. (2) Ribera del Duero (north-central) — bold reds, also Tempranillo but bolder than Rioja. Vega Sicilia is Spain's most famous winery. (3) Priorat (Catalonia) — powerful reds from Garnacha and Cariñena. Small production, premium prices. (4) Rías Baixas (Galicia) — crisp white Albariño, perfect with seafood. (5) Rueda (Castilla y León) — fresh white Verdejo, great value. (6) Cava (Catalonia) — Spanish sparkling wine, made like Champagne but cheaper. Good Cava from €7. (7) Sherry (Jerez) — fortified wine from Andalusia, dry (Fino, Manzanilla) to sweet (Pedro Ximénez). Best wine bars in Madrid: (1) Vinoteca Moratín (Calle Moratín 37) — 100+ wines by the glass, €3-8. (2) Bodegas Loise (Calle Loise 16) — small plates + wine. (3) Taberna Laredo (Calle Cava Baja 18) — classic. (4) Vinissima (Mercado de San Miguel) — wine bar in the market. Tips: 'Rioja' is a region, not a grape. 'Crianza/Reserva/Gran Reserva' refers to aging. 'Tinto' = red, 'Blanco' = white, 'Rosado' = rosé. Madrid restaurants mark up wine 2-3x retail — for serious wine, go to a vinoteca (wine bar) instead of a restaurant. By the glass: €3-5 normal, €5-10 premium, €10-20 for special wines.",
+    "official_url": "https://www.esmadrid.com/en/wine-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "food",
+      "wine",
+      "rioja",
+      "spanish",
+      "vinoteca"
+    ],
+    "related_records": [
+      "vermouth-madrid",
+      "mercado-san-miguel",
+      "cocido-madrileno"
+    ]
+  },
+  {
+    "id": "madrid-open-tennis",
+    "title": "Madrid Open Tennis (Mutua Madrid Open)",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "ATP/WTA 1000 tournament in late April/early May. Caja Mágica stadium. Tickets €20-200. See Alcaraz, Nadal, Świątek.",
+    "content": "The Mutua Madrid Open is one of tennis's biggest tournaments — an ATP Masters 1000 and WTA 1000 event held in late April/early May. Top players (Alcaraz, Nadal, Djokovic, Świątek, Sabalenka) all compete. Venue: La Caja Mágica (Magic Box) — a modern stadium complex with 3 retractable-roof courts in San Fermín park (Metro San Fermín-Orcasur L12). Capacity: 12,500 on Manolo Santana Stadium (center court). Tickets: €20-60 for early rounds, €80-200 for quarterfinals, €150-400 for semifinals/finals. Buy at mutuamadridopen.com. The tournament runs 2 weeks — first week has more matches and cheaper tickets, second week has the top players but is more expensive. Tips: (1) Grounds passes (€20-30) let you watch matches on outer courts up close — great value. (2) Bring sunscreen and a hat — the sun is strong in late April. (3) Evening sessions (7pm+) are cooler and the roof closes if it rains. (4) Food is overpriced — eat before or bring snacks. (5) The player practice courts are free to watch — you can see top players warm up from 10 feet away. The tournament also has a food court, shopping, and live music. Best tennis atmosphere in Spain.",
+    "official_url": "https://www.mutuamadridopen.com/en",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "sports",
+      "tennis",
+      "madrid-open",
+      "atp",
+      "wta",
+      "alcaraz"
+    ],
+    "related_records": [
+      "real-madrid-bernabeu",
+      "atletico-madrid-wanda-metropolitano"
+    ]
+  },
+  {
+    "id": "basketball-madrid",
+    "title": "Basketball in Madrid (ACB League)",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Real Madrid Baloncesto and Movistar Estudiantes. Top European basketball. Tickets €15-60. WiZink Center.",
+    "content": "Madrid has two top-flight basketball teams in Spain's ACB league (one of Europe's strongest). (1) Real Madrid Baloncesto — the most successful basketball club in Europe (10 EuroLeague titles). Plays at WiZink Center (Calle Jorge Juan 99, Metro Goya L2/L4). Capacity 15,000. Tickets €20-60. Season: October-June. Star players include Sergio Rodríguez and Edy Tavares. (2) Movistar Estudiantes — historic Madrid club (founded 1948), currently in LEB Oro (second division). Smaller, more intimate atmosphere. Plays at Polideportivo Antonio Magariños (Calle Serrano 37). Tickets €10-25. Tickets: buy at wiZinkcenter.com or at the venue. Real Madrid EuroLeague home games are the most exciting — top European clubs like Barcelona, CSKA Moscow, Olympiacos visit. Tips: (1) Spanish basketball is fast-paced and high-scoring. (2) Real Madrid fans are passionate but less intimidating than football crowds. (3) The WiZink Center is also used for big concerts — check the schedule. (4) Spanish NBA players: the Gasol brothers (Pau and Marc), Ricky Rubio, Serge Ibaka all came through Spanish basketball. Pau Gasol is a Real Madrid legend. Spain's national team has won 2 FIBA World Cups and 3 EuroBaskets.",
+    "official_url": "https://www.realmadrid.com/en/basketball",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "sports",
+      "basketball",
+      "real-madrid",
+      "acb",
+      "euroleague"
+    ],
+    "related_records": [
+      "real-madrid-bernabeu",
+      "madrid-open-tennis"
+    ]
+  },
+  {
+    "id": "running-madrid",
+    "title": "Running in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Madrid is a runner's city: Retiro Park, Madrid Río, Casa de Campo. San Silvestre Vallecana race on Dec 31.",
+    "content": "Madrid is a great city for running, with parks, wide boulevards, and a strong running community. Best routes: (1) Retiro Park — 4.5km perimeter loop, flat, well-lit, water fountains. Popular with runners morning and evening. (2) Madrid Río — 10km linear park along the river, connects to Casa de Campo. Great for long runs. (3) Casa de Campo — 1,535 hectares of trails, hilly, trail running paradise. (4) Parque Juan Carlos I — 7km of bike/running paths, modern, less crowded. (5) Paseo de la Castellana — 6km north-south boulevard with wide sidewalks. Major races: (1) San Silvestre Vallecana (Dec 31) — 10km New Year's Eve race, 40,000 runners, world's second-biggest 10K. Registration opens in October, sells out in days. (2) Rock 'n' Roll Madrid Marathon (April) — marathon, half, 10K. 15,000 runners. (3) Media Maratón Villa de Madrid (April) — half marathon. (4) Carrera de la Mujer (October) — women's 5K/10K. Running shops: Madrid Sports (Calle Fuencarral), Decathlon (multiple), Running Company (Calle Hermanos García Noblejas). Running clubs: Madrid Hash House Harriers, Madrid Running Club, Madrid Trail Running. Tips: summer in Madrid is hot — run before 9am or after 9pm. Winter mornings can be near freezing. Bring water on long runs — fountains aren't everywhere.",
+    "official_url": "https://www.sansilvestrevallecana.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "sports",
+      "running",
+      "marathon",
+      "san-silvestre",
+      "parks"
+    ],
+    "related_records": [
+      "retiro-park",
+      "madrid-rio",
+      "casa-de-campo"
+    ]
+  },
+  {
+    "id": "photoespana-festival",
+    "title": "PhotoEspaña (Photography Festival)",
+    "category": "now",
+    "subcategory": "events",
+    "summary": "Major international photography festival, June-July. 70+ exhibitions across Madrid. Many free.",
+    "content": "PhotoEspaña is one of the world's top photography festivals, held annually in Madrid from early June to late August. Founded in 1998, it features 70+ exhibitions across 60+ venues (museums, galleries, cultural centers, public spaces). The festival has 3 sections: (1) Festival — curated exhibitions at major venues (Reina Sofía, Mapfre Foundation, Circulo de Bellas Artes, Telefonica Foundation). (2) Off Festival — independent galleries and artist-run spaces. (3) PHE Discoveries — platform for emerging photographers. Theme changes yearly (2024: 'Lugares' / 'Places'). Many exhibitions are FREE — especially the Off Festival shows. Ticketed venues: €3-8 each, or buy the Festival Pass (€25) for entry to all major exhibitions. Highlights: (1) The open-air exhibition at Plaza de España or Reina Sofía park — large-format photos, free, accessible 24/7. (2) Portfolio reviews and artist talks (some in English). (3) Photography workshops (€30-100). (4) Photobook fair (mid-June, free). Tips: (1) The official program (€8) is essential — available at any exhibition venue. (2) Plan 2-3 venues per day, grouped by neighborhood. (3) Many exhibitions are walking distance from each other in the center. (4) Weekday mornings are quietest. PhotoEspaña attracts 600,000+ visitors annually — one of Madrid's biggest cultural events.",
+    "official_url": "https://www.phe.es/en/",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "events",
+      "festival",
+      "photography",
+      "photoespana",
+      "summer",
+      "culture"
+    ],
+    "related_records": [
+      "veranos-de-la-villa",
+      "madrid-pride",
+      "prado-current"
+    ]
+  },
+  {
+    "id": "madrid-fashion-week",
+    "title": "Madrid Fashion Week (MBFWMadrid)",
+    "category": "now",
+    "subcategory": "events",
+    "summary": "Mercedes-Benz Fashion Week Madrid, twice yearly (Feb & Sep). Runway shows at IFEMA. Tickets €30-100.",
+    "content": "Mercedes-Benz Fashion Week Madrid (MBFWMadrid) is Spain's top fashion event, held twice yearly in February and September. Spanish designers (Agatha Ruiz de la Prada, Devota & Lomba, Delpozo, María Escoté) show their upcoming collections. Venue: IFEMA Feria de Madrid (Campo de las Naciones, Metro Campo de las Naciones L8). Runway shows over 5 days, plus a fashion marketplace (El Ego) for emerging designers. Tickets: (1) Runway shows — €30-100 per show, by invitation or limited public sale. (2) El Ego (emerging designers) — €20-40 per show. (3) MBFWMadrid Village — free, open to the public, shopping and pop-ups. Buy at ifema.es. For non-industry attendees, the best experience is the Village (free) plus one or two El Ego shows. Tips: (1) Dress up — Madrid fashion week is stylish. (2) The vibe is less formal than Milan or Paris — more accessible. (3) Spanish fashion emphasizes color and craftsmanship. (4) Many Spanish celebrities attend (actors, models, influencers). (5) The September edition shows spring/summer collections; February shows autumn/winter. Spanish fashion to know: Loewe (luxury, founded 1846), Balenciaga (founded by Cristóbal Balenciaga, now French-owned), Mango (high-street), Zara (high-street, founded in Galicia). Madrid also has a thriving independent designer scene in the Malasaña and Salesas neighborhoods.",
+    "official_url": "https://www.mbfwmadrid.com/en/",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "events",
+      "fashion",
+      "runway",
+      "mbfwm",
+      "designer"
+    ],
+    "related_records": [
+      "salamanca-luxury-shopping",
+      "photoespana-festival"
+    ]
+  },
+  {
+    "id": "gastrofestival-madrid",
+    "title": "Gastrofestival Madrid (Food Festival)",
+    "category": "now",
+    "subcategory": "events",
+    "summary": "Two-week food festival in late January. Set menus at top restaurants €25-40. Cooking classes, tastings.",
+    "content": "Gastrofestival Madrid is the city's biggest food festival, running for 2 weeks in late January (typically the last 2 weeks of January). Founded in 2010, it's organized by Madrid Fusión (Spain's top gastronomy conference). The festival has several programs: (1) Menús Gastrofestival — set lunch and dinner menus at 100+ restaurants, priced €25-40 for lunch (menú de día) and €40-70 for dinner. Many Michelin-starred restaurants participate — DiverXO (3 stars), DStage (2 stars), La Tasquita de Enfrente (1 star) offer special menus. (2) Gastrobar — tapas and small plates menus at casual spots, €15-25. (3) Sabor a Madrid — traditional Madrid dishes at historic restaurants. (4) Gastrocultura — food and art exhibitions, food photography, films about food. (5) Gastroshop — food-related shopping (kitchenware, gourmet products). (6) Cocktailfestival — special cocktail menus at top cocktail bars. Tips: (1) Book restaurants early — top places sell out 2 weeks ahead. (2) Look for the Michelin-starred set menus — they're a bargain at €40-70 (normally €150-300). (3) Many non-restaurant events (cooking classes, tastings, market tours) are free or €10-30. (4) The full program is at gastrofestivalmadrid.com (Spanish only — use Google Translate). Madrid's food scene has exploded since 2010 — the city now has 25+ Michelin-starred restaurants, up from 8 in 2010. Gastrofestival is the best time to try them.",
+    "official_url": "https://www.gastrofestivalmadrid.com/",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "events",
+      "food",
+      "festival",
+      "gastronomy",
+      "michelin",
+      "winter"
+    ],
+    "related_records": [
+      "vermouth-madrid",
+      "cocido-madrileno",
+      "mercado-san-miguel",
+      "food-tours-madrid"
+    ]
+  },
+  {
+    "id": "matadero-current-exhibitions",
+    "title": "Matadero Madrid — Current Exhibitions",
+    "category": "now",
+    "subcategory": "exhibitions",
+    "summary": "Contemporary art at Matadero Madrid (former slaughterhouse, now cultural center). Always free. Metro Legazpi.",
+    "content": "Matadero Madrid is the city's premier contemporary art center, housed in a former slaughterhouse (matadero) built in 1911. Located at Plaza de Legazpi (Metro Legazpi L3, 15 min south of Sol). Opened as a cultural center in 2007, it hosts 20+ exhibitions per year — all FREE. Current exhibitions (always changing, check mataderomadrid.org): (1) 'Intermediae' — experimental art and digital culture. (2) 'Abierto x Obras' — large-scale installations in the former cold storage rooms. (3) 'Casa del Lector' — exhibitions about reading and literature. (4) 'Cineteca' — independent cinema and documentary screenings. (5) 'Teatro del Canal' — performing arts. Matadero also has: a design market (Mercado de Diseño, weekends), a craft beer festival (Madrid Beer Week, September), and food trucks (Cocina Abierta). The building itself is worth seeing — industrial brick architecture, huge open spaces, the river of cows that once walked through here. Tips: (1) Most exhibitions are in Spanish — but contemporary art is visual, language is less critical. (2) Plan 2-3 hours. (3) Combine with Madrid Río park (right next door) for a full day. (4) The cantina (café) is excellent for lunch. (5) Open Tue-Fri 4-9pm, Sat-Sun 11am-9pm. Closed Mondays. Free. Check the website for current shows before visiting.",
+    "official_url": "https://www.mataderomadrid.org/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "exhibitions",
+      "contemporary",
+      "matadero",
+      "art",
+      "free"
+    ],
+    "related_records": [
+      "prado-current",
+      "reina-sofia-current",
+      "thyssen-current",
+      "madrid-rio"
+    ]
+  },
+  {
+    "id": "mapfre-current-exhibitions",
+    "title": "Mapfre Foundation — Current Exhibitions",
+    "category": "now",
+    "subcategory": "exhibitions",
+    "summary": "Excellent photography and art exhibitions at Mapfre Foundation. €3, free Mon. Sala Recoletos.",
+    "content": "The Fundación Mapfre (Mapfre Foundation) runs two exhibition spaces in Madrid, both with consistently excellent shows. The main venue is Sala Mapfre Recoletos (Paseo de Recoletos 23, Metro Banco de España L2). The exhibitions rotate every 3-4 months, focusing on: (1) Photography — major retrospectives (Sally Mann, Diane Arbus, Robert Capa, Henri Cartier-Bresson, Steve McCurry). Mapfre has one of Spain's best photography programs. (2) Art — historical and modern painting (Sorolla, Tàpies, Miró, Impressionists, pre-Raphaelites). (3) Architecture and design. Current and upcoming exhibitions: check fundacionmapfre.org (English version available). Admission: €3, free on Mondays. Open Tue-Sat 10am-8pm, Sun 11am-7pm. Closed Mondays (except free entry hours). Tips: (1) The exhibitions are always well-curated and worth seeing. (2) Free Monday entry is popular — arrive early. (3) Audio guide €2 (English available). (4) The gift shop has excellent photography books. (5) Allow 1-2 hours. The second venue, Sala Mapfre Alcalá (Calle Bárbara de Braganza 6), focuses on archaeology and decorative arts. Both venues are within 10 min walk of each other. Combine with a stroll down Paseo de Recoletos to Plaza de Cibeles.",
+    "official_url": "https://www.fundacionmapfre.org/en/art-and-culture/exhibitions/",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "exhibitions",
+      "photography",
+      "mapfre",
+      "art",
+      "free"
+    ],
+    "related_records": [
+      "prado-current",
+      "reina-sofia-current",
+      "thyssen-current",
+      "photoespana-festival"
+    ]
+  },
+  {
+    "id": "caixaforum-current-exhibitions",
+    "title": "CaixaForum Madrid — Current Exhibitions",
+    "category": "now",
+    "subcategory": "exhibitions",
+    "summary": "Rotating art, science, and culture exhibitions at CaixaForum. €6, free if you have a La Caixa account. Paseo del Prado.",
+    "content": "CaixaForum Madrid is a striking modern cultural center on Paseo del Prado 36 (Metro Atocha L1, Banco de España L2). The building (designed by Herzog & de Meuron, opened 2008) is famous for its vertical garden (jardín vertical) — a 24m-tall green wall with 15,000 plants of 250 species. The interior has 4 floors of exhibition space, plus a café, auditorium, and bookstore. Exhibitions rotate every 3-4 months, covering: (1) Art — ancient to contemporary (recent: Tintoretto, Roni Horn, David Hockney, Chinese imperial art). (2) Science and natural history. (3) Cultural history. (4) Photography. Current and upcoming: check caixaforum.org/en/madrid. The exhibitions are consistently high quality — CaixaForum is one of Madrid's most reliable cultural venues. Admission: €6, or free with a 'la Caixa' bank account (show your card). Open daily 10am-8pm. Tips: (1) Don't miss the vertical garden on the exterior — best photo from across the street. (2) The café (Café Ándele) is excellent — good lunch option. (3) Allow 1.5-2 hours. (4) The bookstore is one of Madrid's best for art books. (5) Combine with the Reina Sofía (5 min walk) or Prado (5 min walk) for a full museum day. The Medialab Prado (digital culture) is also nearby.",
+    "official_url": "https://caixaforum.org/en/madrid",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "exhibitions",
+      "caixaforum",
+      "art",
+      "culture",
+      "vertical-garden"
+    ],
+    "related_records": [
+      "prado-current",
+      "reina-sofia-current",
+      "thyssen-current",
+      "matadero-current-exhibitions"
+    ]
+  },
+  {
+    "id": "spanish-politics-explained",
+    "title": "Spanish Politics — A Quick Guide for Expats",
+    "category": "now",
+    "subcategory": "news",
+    "summary": "Spain is a parliamentary constitutional monarchy. King Felipe VI is head of state. PM Pedro Sánchez (PSOE) since 2018.",
+    "content": "Spain is a parliamentary constitutional monarchy — like the UK, but younger (1978 constitution after Franco's death). Head of State: King Felipe VI (since 2014, when his father Juan Carlos I abdicated). The king is mostly ceremonial — he doesn't make policy. Head of Government: Prime Minister (Presidente del Gobierno) — currently Pedro Sánchez of the Spanish Socialist Workers' Party (PSOE), since 2018. The PM is chosen by the Congress of Deputies (lower house, 350 members) after each election. Parliament (Cortes Generales): two houses — Congress of Deputies (350 members, elected by proportional representation) and Senate (266 members, mostly elected with some appointed). Elections: every 4 years, or earlier if the PM calls a snap election (common in Spain — there have been 5 elections since 2015). Main political parties: (1) PSOE (Socialist) — center-left, currently in government. (2) PP (Popular Party) — center-right, currently main opposition. (3) Vox — far-right, anti-immigration, formed 2018. (4) Sumar — left-wing coalition formed 2023. (5) Ciudadanos — center, declined recently. (6) Regional parties: ERC (Catalan Republican Left), JxCat (Together for Catalonia), Bildu (Basque), BNG (Galician). Key issues: Catalonia independence (ongoing since 2017), immigration, housing crisis (rents are very high in Madrid and Barcelona), gender violence laws, historical memory (Franco era). Spain is a member of the EU (since 1986) and uses the euro. Madrid is the capital — all government buildings are here (Moncloa Palace = PM's residence, Congress on Carrera de San Jerónimo, Senate on Plaza de la Marina Española).",
+    "official_url": "https://www.lamoncloa.gob.es/lang/en/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "news",
+      "politics",
+      "government",
+      "explanation",
+      "expat"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "the-local-spain"
+    ]
+  },
+  {
+    "id": "madrid-sunrise-sunset",
+    "title": "Sunrise & Sunset Times in Madrid",
+    "category": "now",
+    "subcategory": "live",
+    "summary": "Madrid sunrise/sunset varies from 6:50am/9:50pm (Jun) to 8:30am/5:50pm (Dec). Best sunset: Temple of Debod.",
+    "content": "Madrid's latitude (40.4°N) gives it long summer days and short winter days. Approximate sunrise/sunset: January 8:30am/5:50pm, February 8:15am/6:35pm, March 7:30am/7:15pm, April 7:35am/8:50pm, May 7:00am/9:20pm, June 6:50am/9:50pm, July 7:00am/9:50pm, August 7:30am/9:20pm, September 7:55am/8:35pm, October 8:25am/7:45pm, November 7:55am/5:55pm, December 8:30am/5:50pm. Madrid observes Central European Time (CET = UTC+1) in winter and Central European Summer Time (CEST = UTC+2) in summer. Daylight saving: last Sunday in March (spring forward) to last Sunday in October (fall back). Best sunset spots: (1) Temple of Debod (Parque del Oeste) — the famous one, arrive 30-45 min early, bring wine. (2) Cerro del Tío Pío (Vallecas) — local favorite, 7 hills park, panoramic city views. (3) Riu Plaza España Hotel rooftop bar (Gran Vía 137) — cocktail + sunset over the city. (4) Círculo de Bellas Artes rooftop (Calle Alcalá 42) — €4, 360° views. (5) Hotel Riu Plaza España rooftop — €10, highest viewpoint in Madrid. Sunrise spots: Retiro Park (empty and peaceful at 7am), Casa de Campo (for photographers), Gran Vía (for empty-street photos).",
+    "official_url": "https://www.timeanddate.com/sun/spain/madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "live",
+      "sunrise",
+      "sunset",
+      "time",
+      "sunset-spots"
+    ],
+    "related_records": [
+      "madrid-time",
+      "madrid-weather",
+      "temple-debod",
+      "retiro-park"
+    ]
+  },
+  {
+    "id": "madrid-uv-index",
+    "title": "UV Index & Sun Protection in Madrid",
+    "category": "now",
+    "subcategory": "live",
+    "summary": "Madrid UV Index reaches 10+ in summer (extreme). Sunscreen essential May-September. Heat: 35°C+ July-August.",
+    "content": "Madrid's high altitude (667m / 2,188ft above sea level) and southern European latitude make the sun intense. UV Index by month (typical midday): Jan 2 (low), Feb 3, Mar 5, Apr 7, May 8, Jun 10, Jul 10, Aug 9, Sep 7, Oct 4, Nov 2, Dec 1. UV Index 8+ requires sunscreen, hat, and shade — that's May through September in Madrid. Summer heat: July and August regularly hit 35-40°C (95-104°F). August 2021 hit 41°C. Tips: (1) Apply SPF 30+ sunscreen every 2 hours when outside May-September. (2) Wear a hat and sunglasses. (3) Stay indoors 2-5pm (hottest hours) — this is when Spaniards take their siesta, and tourists should too. (4) Drink water constantly — heat stroke is common in tourists who underestimate Madrid's heat. (5) Many museums and shops have AC — use them as cooling stops. (6) Madrid's air is dry (low humidity), which makes heat more tolerable than coastal cities but also dehydrates you faster. Heat waves: when temperatures exceed 38°C for 3+ days, the city activates 'Protocolo de Temperaturas' — opens air-conditioned public buildings as cooling centers, increases park opening hours. Sunburn risk: even on cloudy summer days, UV is high. Spain has one of Europe's highest skin cancer rates — take sun protection seriously.",
+    "official_url": "https://www.aemet.es/en/eltiempo/prediccion/uv",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "live",
+      "uv",
+      "sun",
+      "heat",
+      "protection",
+      "summer"
+    ],
+    "related_records": [
+      "madrid-weather",
+      "madrid-aqi",
+      "madrid-time"
+    ]
+  },
+  {
+    "id": "madrid-pollen-allergies",
+    "title": "Pollen Count & Allergies in Madrid",
+    "category": "now",
+    "subcategory": "live",
+    "summary": "Madrid pollen: olive (May-June), grass (May-July), cypress (Feb-March). Check daily count at SEAIC.",
+    "content": "Madrid's high altitude and surrounding plains make it one of Spain's worst cities for pollen allergies. The main allergens by season: (1) Cypress (Feb-March) — affects 30% of allergy sufferers. (2) Plane tree (Plátano, March-May) — common in central Madrid, causes itching and conjunctivitis. (3) Olive (May-June) — Madrid's worst allergen, affects 40% of sufferers. The Castilian plains south of Madrid are full of olive groves, and the wind carries pollen into the city. (4) Grass (May-July) — second-worst after olive. (5) Parietaria (wall pellitory, March-October) — weed that grows in cracks and walls. (6) Ragweed (Aug-October) — autumn allergies. Daily pollen count: published by SEAIC (sociedad de alergologia.com) — count of 1-50 = low, 50-200 = moderate, 200-400 = high, 400+ = very high. Tips for sufferers: (1) Take antihistamines daily during high-pollen months — Spanish pharmacies sell Aerius, Zyrtec, and generic cetirizine without prescription (€3-8). (2) Check the pollen forecast each morning. (3) Keep windows closed 5am-10am and 7pm-10pm (peak pollen times). (4) Shower and wash hair before bed. (5) Wear sunglasses outdoors. (6) Spanish pharmacists are well-trained — ask for 'pastillas para la alergia' (allergy pills). Allergy shots (immunotherapy) are available through Spanish Social Security if you're registered.",
+    "official_url": "https://www.sociedaddealergologia.com/",
+    "status": "dynamic",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "live",
+      "pollen",
+      "allergies",
+      "health",
+      "seasonal"
+    ],
+    "related_records": [
+      "madrid-weather",
+      "madrid-aqi",
+      "madrid-uv-index",
+      "pharmacies"
     ]
   }
 ]

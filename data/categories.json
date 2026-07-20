@@ -109,7 +109,7 @@
       {
         "id": "services",
         "slug": "services",
-        "title": "Everyday Services",
+        "title": "Practical Services",
         "icon": "🛠️",
         "summary": "Post office, launderettes, locksmiths, moving, translating, barbers."
       }
@@ -132,14 +132,14 @@
       {
         "id": "royal",
         "slug": "royal",
-        "title": "Royal Madrid",
+        "title": "Royal & Historic",
         "icon": "👑",
         "summary": "The Royal Palace, Almudena Cathedral, and Habsburg old town."
       },
       {
         "id": "parks",
         "slug": "parks",
-        "title": "Parks & Gardens",
+        "title": "Parks & Outdoors",
         "icon": "🌳",
         "summary": "Retiro, Casa de Campo, Madrid Río, Juan Carlos I."
       },
@@ -218,7 +218,7 @@
       {
         "id": "traditions",
         "slug": "traditions",
-        "title": "Customs & Traditions",
+        "title": "Madrid Culture",
         "icon": "🎊",
         "summary": "Bullfights, verbenas, chotis, mantones, San Isidro."
       },
@@ -241,35 +241,35 @@
       {
         "id": "events",
         "slug": "events",
-        "title": "This Week's Events",
+        "title": "Events",
         "icon": "🎟️",
         "summary": "Veranos de la Villa, verbenas, Pride, San Isidro."
       },
       {
         "id": "exhibitions",
         "slug": "exhibitions",
-        "title": "Open Exhibitions",
+        "title": "Exhibitions",
         "icon": "🖼️",
         "summary": "What's showing now at the Prado, Reina Sofía, Thyssen, Matadero."
       },
       {
         "id": "news",
         "slug": "news",
-        "title": "News & Updates",
+        "title": "News",
         "icon": "📰",
         "summary": "English-language Madrid news, city updates, alerts."
       },
       {
         "id": "live",
         "slug": "live",
-        "title": "Live Info",
+        "title": "Right Now",
         "icon": "🕒",
         "summary": "Current Madrid time, weather, AQI, sunset/sunrise."
       },
       {
         "id": "transit",
         "slug": "transit",
-        "title": "Transit Alerts",
+        "title": "Transit",
         "icon": "🚧",
         "summary": "Metro closures, bus detours, train delays."
       }
