@@ -13,181 +13,21 @@
     "tags": [
       "transport",
       "metro",
-      "subway",
-      "salvage-pilot"
+      "subway"
     ],
     "related_records": [
-      "emt-buses",
-      "madrid-barajas-airport",
       "atocha-station",
+      "bicimad",
+      "bus-stations-madrid",
       "chamartin-station",
+      "electric-scooters-madrid",
+      "emt-buses",
       "left-luggage",
-      "taxis-madrid"
-    ],
-    "sections": [
-      {
-        "type": "stats",
-        "heading": "Quick Facts",
-        "items": [
-          {
-            "label": "Operating Hours",
-            "value": "6:00 AM – 1:30 AM (2:30 AM Fri/Sat)"
-          },
-          {
-            "label": "Network",
-            "value": "12 metro lines + 3 light rail"
-          },
-          {
-            "label": "Single Ticket",
-            "value": "€1.50 – €2.00 (zone dependent)"
-          }
-        ]
-      },
-      {
-        "type": "table",
-        "heading": "Tickets & Prices",
-        "columns": [
-          "Ticket",
-          "Price",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "Zone A (City Center)",
-            "€1.50",
-            "Most central stations"
-          ],
-          [
-            "Zone B1 (Airport)",
-            "€4.50",
-            "Includes airport supplement"
-          ],
-          [
-            "Zone B2 (Outer areas)",
-            "€2.00",
-            "Outskirts and suburbs"
-          ],
-          [
-            "10-Journey Card (Metrobús)",
-            "€12.20",
-            "Works on metro + EMT buses"
-          ],
-          [
-            "Monthly Pass (Abono)",
-            "€54.60",
-            "Unlimited travel, zone A"
-          ],
-          [
-            "Tourist Pass (1 day)",
-            "€8.40",
-            "Unlimited for 24 hours"
-          ]
-        ]
-      },
-      {
-        "type": "callout",
-        "heading": "Money-Saving Tip",
-        "body": "The 10-journey Metrobús card works on both metro and buses, saving you money if you're staying more than a few days. The card itself costs €2.50 (deposit) and is reusable.",
-        "tone": "info"
-      },
-      {
-        "type": "steps",
-        "heading": "How to Use the Metro",
-        "items": [
-          {
-            "title": "Buy Your Ticket",
-            "body": "Purchase tickets at machines (available in multiple languages) or ticket offices. You'll need a rechargeable card (€2.50 deposit)."
-          },
-          {
-            "title": "Enter the Station",
-            "body": "Tap your card on the reader at the turnstiles. Keep your ticket until you exit — you may need it for inspections."
-          },
-          {
-            "title": "Find Your Platform",
-            "body": "Follow signs for your line and direction. Platforms are clearly marked with the final destination of each direction."
-          },
-          {
-            "title": "Board & Travel",
-            "body": "Let passengers exit first, then board. Announcements are in Spanish, but station names are clearly displayed."
-          }
-        ]
-      },
-      {
-        "type": "list",
-        "heading": "Key Stations for Tourists",
-        "items": [
-          {
-            "title": "Sol",
-            "body": "Puerta del Sol, shopping",
-            "meta": [
-              "Lines 1, 2, 3"
-            ]
-          },
-          {
-            "title": "Opera",
-            "body": "Royal Palace, Teatro Real",
-            "meta": [
-              "Lines 2, 5, R"
-            ]
-          },
-          {
-            "title": "Atocha",
-            "body": "Prado Museum, train station",
-            "meta": [
-              "Line 1"
-            ]
-          },
-          {
-            "title": "Retiro",
-            "body": "Retiro Park, Crystal Palace",
-            "meta": [
-              "Line 2"
-            ]
-          },
-          {
-            "title": "Gran Vía",
-            "body": "Shopping, theaters, nightlife",
-            "meta": [
-              "Lines 1, 5"
-            ]
-          },
-          {
-            "title": "Chueca",
-            "body": "Trendy neighborhood, restaurants",
-            "meta": [
-              "Line 5"
-            ]
-          }
-        ]
-      },
-      {
-        "type": "do_dont",
-        "heading": "Metro Tips & Etiquette",
-        "do": [
-          "Stand right on escalators",
-          "Let passengers exit before boarding",
-          "Offer seats to elderly, pregnant, or disabled",
-          "Keep your ticket until you exit",
-          "Move to the center of the car",
-          "Keep backpacks in front during rush hour"
-        ],
-        "dont": [
-          "Block doors when they're closing",
-          "Eat messy foods on the train",
-          "Play music without headphones",
-          "Put feet on seats",
-          "Rush onto trains during peak hours",
-          "Forget to validate your ticket"
-        ]
-      },
-      {
-        "type": "callout",
-        "heading": "Summer 2026 Closures",
-        "body": "Planned closures on Lines 6, 7, 9B, and 10 for renovations. Free shuttle buses cover affected sections. Check the official Metro de Madrid app before traveling.",
-        "tone": "warning"
-      }
-    ],
-    "english_level": "english-available"
+      "madrid-barajas-airport",
+      "ride-sharing-madrid",
+      "taxis-madrid",
+      "walking-madrid"
+    ]
   },
   {
     "id": "madrid-barajas-airport",
@@ -203,123 +43,19 @@
     "tags": [
       "transport",
       "airport",
-      "barajas",
-      "salvage-pilot"
+      "barajas"
     ],
     "related_records": [
-      "metro-de-madrid",
-      "emt-buses",
-      "taxis-madrid",
+      "airport-express-bus-203",
+      "airport-transfers-private",
       "atocha-station",
-      "left-luggage"
-    ],
-    "sections": [
-      {
-        "type": "list",
-        "heading": "Airport to City Center — Transport Options",
-        "items": [
-          {
-            "title": "Metro (Line 8)",
-            "body": "Connects directly to Nuevos Ministerios hub. Cheapest option but transfers may be needed for the historic center.",
-            "meta": [
-              "Cost: €4.50–€5 (airport supplement + metro fare)",
-              "Duration: 15–20 min to Nuevos Ministerios"
-            ]
-          },
-          {
-            "title": "Airport Express Bus (203)",
-            "body": "24/7 service to Atocha Station, Cibeles, and O'Donnell. Comfortable with luggage.",
-            "meta": [
-              "Cost: €5",
-              "Duration: 30–40 min to Atocha"
-            ]
-          },
-          {
-            "title": "Taxi",
-            "body": "Fixed fare to central Madrid (inside the M-30 ring). Convenient for groups or lots of luggage.",
-            "meta": [
-              "Cost: €30 (fixed fare)",
-              "Duration: 20–30 min (traffic dependent)"
-            ]
-          },
-          {
-            "title": "Ride-Sharing (Uber / Cabify)",
-            "body": "Similar to taxis but booked via app. Prices can vary with demand. Pick-up points are signed at each terminal.",
-            "meta": [
-              "Cost: €20–€35 (variable)",
-              "Duration: 20–30 min"
-            ]
-          },
-          {
-            "title": "Renfe Cercanías",
-            "body": "Commuter train from T4 to Atocha / Chamartín. Cheap but only useful if arriving at T4.",
-            "meta": [
-              "Cost: €2.60",
-              "Duration: 25 min to Atocha"
-            ]
-          }
-        ]
-      },
-      {
-        "type": "callout",
-        "heading": "Terminal Shuttle",
-        "body": "Free shuttle buses run between all four terminals (T1, T2, T3, T4) and the satellite T4S every 5–10 minutes. Allow 20 minutes if you need to transfer between T4 and T1/T2/T3.",
-        "tone": "info"
-      },
-      {
-        "type": "list",
-        "heading": "Airport Facilities",
-        "items": [
-          {
-            "title": "Free WiFi",
-            "body": "Available throughout the airport (AENA WiFi). 30 minutes free, then paid options."
-          },
-          {
-            "title": "ATMs & Currency Exchange",
-            "body": "Located in all terminals. ATMs dispense up to €500 per transaction."
-          },
-          {
-            "title": "Car Rental",
-            "body": "Major companies (Avis, Hertz, Europcar, Enterprise) available at T1, T2, T4."
-          },
-          {
-            "title": "Duty-Free Shops",
-            "body": "Extensive shopping options airside at all terminals."
-          },
-          {
-            "title": "Left Luggage",
-            "body": "T1 and T4. €3.90–€5.50 per piece per day depending on size."
-          },
-          {
-            "title": "VIP Lounges",
-            "body": "Passengers can pay for access to AENA's VIP lounges regardless of airline or class."
-          }
-        ]
-      },
-      {
-        "type": "list",
-        "heading": "Smooth Arrival Tips",
-        "items": [
-          {
-            "title": "Pre-book Transfers",
-            "body": "Especially if arriving late or with lots of luggage, a pre-booked private transfer can save hassle."
-          },
-          {
-            "title": "Customs & Immigration",
-            "body": "Have your passport and any necessary visa documents ready. EU citizens can use automated e-gates."
-          },
-          {
-            "title": "Luggage Strategy",
-            "body": "Consider packing light if using public transport. Metro can be tricky with large suitcases during rush hour."
-          },
-          {
-            "title": "SIM Cards",
-            "body": "Vodafone, Movistar, and Orange kiosks at every terminal. eSIM options also available."
-          }
-        ]
-      }
-    ],
-    "english_level": "english-available"
+      "emt-buses",
+      "left-luggage",
+      "major-airlines-madrid",
+      "metro-de-madrid",
+      "ride-sharing-madrid",
+      "taxis-madrid"
+    ]
   },
   {
     "id": "atocha-station",
@@ -338,13 +74,15 @@
       "atocha"
     ],
     "related_records": [
+      "ave-high-speed-trains",
       "chamartin-station",
-      "renfe-trains",
+      "intercity-buses",
+      "left-luggage",
       "metro-de-madrid",
-      "toledo",
-      "museo-reina-sofia"
-    ],
-    "english_level": "english-available"
+      "museo-reina-sofia",
+      "renfe-trains",
+      "toledo"
+    ]
   },
   {
     "id": "chamartin-station",
@@ -364,10 +102,10 @@
     ],
     "related_records": [
       "atocha-station",
-      "renfe-trains",
-      "metro-de-madrid"
-    ],
-    "english_level": "english-available"
+      "ave-high-speed-trains",
+      "metro-de-madrid",
+      "renfe-trains"
+    ]
   },
   {
     "id": "emt-buses",
@@ -379,15 +117,17 @@
     "official_url": "https://www.emtmadrid.es/English",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "bus",
       "emt"
     ],
     "related_records": [
-      "metro-de-madrid",
+      "airport-express-bus-203",
+      "bicimad",
       "madrid-barajas-airport",
+      "metro-de-madrid",
       "taxis-madrid"
     ]
   },
@@ -401,15 +141,17 @@
     "official_url": "https://www.taximadrid.org/english",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "taxi"
     ],
     "related_records": [
-      "metro-de-madrid",
+      "airport-transfers-private",
+      "emt-buses",
       "madrid-barajas-airport",
-      "emt-buses"
+      "metro-de-madrid",
+      "ride-sharing-madrid"
     ]
   },
   {
@@ -422,16 +164,16 @@
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "tags": [
       "transport",
       "luggage"
     ],
     "related_records": [
-      "metro-de-madrid",
-      "madrid-barajas-airport",
       "atocha-station",
-      "chamartin-station"
+      "chamartin-station",
+      "madrid-barajas-airport",
+      "metro-de-madrid"
     ]
   },
   {
@@ -452,12 +194,13 @@
     ],
     "related_records": [
       "atocha-station",
+      "ave-high-speed-trains",
+      "avila",
       "chamartin-station",
-      "toledo",
+      "eurail-interrail-passes",
       "segovia",
-      "avila"
-    ],
-    "english_level": "english-available"
+      "toledo"
+    ]
   },
   {
     "id": "schengen-visa-us",
@@ -643,8 +386,8 @@
     "summary": "Hola, gracias, por favor, ¿dónde está…?, la cuenta, por favor. The basics that get you everywhere.",
     "content": "Top 20: ¡Hola! / ¿Qué tal? / Buenos días / Buenas tardes / Adiós / Por favor / Gracias / De nada / Sí / No / Perdón / Lo siento / No entiendo / ¿Habla inglés? / ¿Dónde está…? / ¿Cuánto cuesta? / La cuenta, por favor / Una mesa para dos / Con permiso / ¡Salud! (cheers). Spaniards are forgiving and delighted when foreigners try — even a 'buenos días' wins you points.",
     "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "english_friendly": false,
+    "last_updated": "2026-07-17",
     "tags": [
       "language",
       "spanish"
@@ -653,8 +396,7 @@
       "language-schools",
       "escuela-oficial-idiomas"
     ],
-    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm",
-    "english_level": "english-available"
+    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm"
   },
   {
     "id": "emergency-numbers",
@@ -817,186 +559,18 @@
     "official_url": "https://extranjeros.inclusion.gob.es/",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "paperwork",
       "nie",
-      "tie",
-      "salvage-pilot"
+      "tie"
     ],
     "related_records": [
       "empadronamiento",
       "banking",
       "healthcare",
       "housing"
-    ],
-    "sections": [
-      {
-        "type": "callout",
-        "heading": "What is a NIE Number?",
-        "body": "The NIE (Número de Identificación de Extranjero) is a unique identification number assigned to all foreigners in Spain. It's required for almost everything: opening bank accounts, signing rental contracts, working, buying property, and more. You cannot live or work legally in Spain without one — it should be your first priority upon arrival.",
-        "tone": "warning"
-      },
-      {
-        "type": "stats",
-        "heading": "Quick Facts",
-        "items": [
-          {
-            "label": "Cost",
-            "value": "€9.64 ( Modelo 790 tax fee)"
-          },
-          {
-            "label": "Processing Time",
-            "value": "Same day, if approved"
-          },
-          {
-            "label": "Validity",
-            "value": "Permanent (lifetime)"
-          },
-          {
-            "label": "Form Required",
-            "value": "EX-15"
-          }
-        ]
-      },
-      {
-        "type": "checklist",
-        "heading": "Required Documents",
-        "items": [
-          {
-            "title": "EX-15 Form (completed and signed)",
-            "body": "Download from the Spanish government website or pick up at the police station."
-          },
-          {
-            "title": "Original Passport + Photocopy",
-            "body": "All pages including stamps and visas."
-          },
-          {
-            "title": "Reason for NIE (justification)",
-            "body": "Work contract, university enrollment, property purchase, etc."
-          },
-          {
-            "title": "Tax Payment Receipt (Modelo 790)",
-            "body": "Pay €9.64 at any Spanish bank before your appointment."
-          }
-        ]
-      },
-      {
-        "type": "steps",
-        "heading": "Step-by-Step Process",
-        "items": [
-          {
-            "title": "Book an Appointment",
-            "body": "Visit the Spanish government appointment website (sede.administracionespublicas.gob.es) and book an appointment for 'NIE' at your local police station.",
-            "tip": "Appointments fill up quickly. Check daily at 9 AM when new slots are released."
-          },
-          {
-            "title": "Prepare Documents",
-            "body": "Download and complete the EX-15 form. Gather all required documents and make photocopies. Have your reason for needing the NIE clearly documented."
-          },
-          {
-            "title": "Pay the Fee",
-            "body": "Pay €9.64 at any Spanish bank using the Modelo 790 form. Keep the stamped receipt as proof of payment — you will need to show it at your appointment."
-          },
-          {
-            "title": "Attend Your Appointment",
-            "body": "Arrive 15 minutes early with all documents. The process usually takes 30–60 minutes if everything is in order."
-          },
-          {
-            "title": "Receive Your NIE",
-            "body": "If approved, you'll receive your NIE certificate immediately. Make several photocopies — you'll need them for everything."
-          }
-        ]
-      },
-      {
-        "type": "list",
-        "heading": "Police Stations in Madrid (NIE Applications)",
-        "items": [
-          {
-            "title": "Comisaría de Distrito Centro",
-            "body": "Calle de la Luna, 29, 28004 Madrid",
-            "meta": [
-              "Metro: Callao (Lines 3, 5)",
-              "Mon–Fri: 9:00–14:00"
-            ]
-          },
-          {
-            "title": "Comisaría de Distrito Salamanca",
-            "body": "Calle de Núñez de Balboa, 114, 28006 Madrid",
-            "meta": [
-              "Metro: Núñez de Balboa (Lines 5, 9)",
-              "Mon–Fri: 9:00–14:00"
-            ]
-          },
-          {
-            "title": "Comisaría de Distrito Chamberí",
-            "body": "Calle de Santa Engracia, 87, 28010 Madrid",
-            "meta": [
-              "Metro: Ríos Rosas (Line 1)",
-              "Mon–Fri: 9:00–14:00"
-            ]
-          },
-          {
-            "title": "Comisaría de Distrito Retiro",
-            "body": "Calle del Doctor Esquerdo, 131, 28007 Madrid",
-            "meta": [
-              "Metro: Sainz de Baranda (Lines 6, 9)",
-              "Mon–Fri: 9:00–14:00"
-            ]
-          }
-        ]
-      },
-      {
-        "type": "list",
-        "heading": "Common Issues & Solutions",
-        "items": [
-          {
-            "title": "Application Rejected",
-            "body": "Usually due to insufficient justification. Make sure your reason for needing the NIE is clear and well-documented.",
-            "meta": [
-              "Severity: High"
-            ]
-          },
-          {
-            "title": "No Appointments Available",
-            "body": "Check the website daily at 9 AM. Consider using appointment booking services (€50–100) if desperate.",
-            "meta": [
-              "Severity: Medium"
-            ]
-          },
-          {
-            "title": "Documents Not Accepted",
-            "body": "Ensure all documents are recent (less than 3 months old) and properly translated if not in Spanish.",
-            "meta": [
-              "Severity: Low"
-            ]
-          }
-        ]
-      },
-      {
-        "type": "checklist",
-        "heading": "What to Do After Getting Your NIE",
-        "items": [
-          {
-            "title": "Open a bank account",
-            "body": "Required for almost everything: rent, utilities, salary."
-          },
-          {
-            "title": "Register your address (Empadronamiento)",
-            "body": "Required for healthcare access and local services."
-          },
-          {
-            "title": "Apply for a Social Security number",
-            "body": "Required if you'll be working or self-employed."
-          },
-          {
-            "title": "Make multiple photocopies",
-            "body": "Store digital copies in cloud storage. Never give the original to anyone. Memorize your NIE number."
-          }
-        ]
-      }
-    ],
-    "english_level": "spanish-only"
+    ]
   },
   {
     "id": "empadronamiento",
@@ -1007,7 +581,7 @@
     "content": "Go to your district's Junta Municipal with passport, NIE (if you have one), and proof of address (rental contract or 'autorización del propietario' + utility bill). Free, same-day, child-friendly. Renew every 2 years (you'll get a postcard). Without the padron you can't register for public healthcare or enrol kids in school.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "paperwork",
       "padron",
@@ -1019,8 +593,7 @@
       "banking",
       "housing"
     ],
-    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento",
-    "english_level": "spanish-only"
+    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento"
   },
   {
     "id": "idealista",
@@ -1145,7 +718,7 @@
     "content": "After registering on the padron and starting work (or as a 'convenio especial' for €60/month if self-funded), go to your local Centro de Salud with NIE + padron certificate + employment proof to get a tarjeta sanitaria. Assigns you a GP. Emergency care is universal — anyone can walk into a public hospital ER.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "healthcare",
       "public",
@@ -1157,8 +730,7 @@
       "pharmacies",
       "hospitals"
     ],
-    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria",
-    "english_level": "spanish-only"
+    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria"
   },
   {
     "id": "english-speaking-doctors",
@@ -1169,7 +741,7 @@
     "content": "Madrid Healthcare (Centro Médico), Hospital HM Sanchinarro, Centro de Salud Internacional — all have English-speaking staff. Speakeasy Madrid, the American Health Group, and the British-American Clinic are all known to expats. For emergencies, the public system is fine — many doctors speak some English.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "healthcare",
       "english",
@@ -1181,8 +753,7 @@
       "pharmacies",
       "empadronamiento"
     ],
-    "official_url": "https://www.esmadrid.com/en/practical-information",
-    "english_level": "english-primary"
+    "official_url": "https://www.esmadrid.com/en/practical-information"
   },
   {
     "id": "teach-english-spain",
@@ -1282,7 +853,7 @@
     "official_url": "https://www.eoidiomas.com",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "education",
       "language",
@@ -1291,8 +862,7 @@
     "related_records": [
       "language-schools",
       "survival-spanish"
-    ],
-    "english_level": "spanish-only"
+    ]
   },
   {
     "id": "museo-del-prado",
@@ -1304,179 +874,18 @@
     "official_url": "https://www.museodelprado.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "museums",
       "prado",
-      "art",
-      "salvage-pilot"
+      "art"
     ],
     "related_records": [
       "museo-reina-sofia",
       "thyssen-bornemisza",
       "atocha-station",
       "puerta-del-sol"
-    ],
-    "sections": [
-      {
-        "type": "stats",
-        "heading": "At a Glance",
-        "items": [
-          {
-            "label": "General Admission",
-            "value": "€15"
-          },
-          {
-            "label": "Free Entry",
-            "value": "Mon–Sat 6–8 PM, Sun 5–7 PM"
-          },
-          {
-            "label": "Recommended Visit",
-            "value": "2–4 hours"
-          },
-          {
-            "label": "Collection Size",
-            "value": "8,000+ paintings"
-          }
-        ]
-      },
-      {
-        "type": "callout",
-        "heading": "Free Entry Hack",
-        "body": "Monday–Saturday 6–8 PM and Sunday 5–7 PM = FREE. But you still need to book online first — walk-ups are not accepted during the free slot. Reserve your free ticket on the official Prado website up to 1 hour before the free window starts.",
-        "tone": "success"
-      },
-      {
-        "type": "list",
-        "heading": "The Big 3: Must-See Masterpieces",
-        "items": [
-          {
-            "title": "Las Meninas — Diego Velázquez (1656)",
-            "body": "The most enigmatic painting in art history — a mirror within a mirror. The little princess is actually looking at YOU through the canvas.",
-            "meta": [
-              "Room 12",
-              "Crowd level: Very High",
-              "Best time: Early morning or late afternoon"
-            ]
-          },
-          {
-            "title": "The Third of May 1808 — Francisco Goya (1814)",
-            "body": "Goya's powerful depiction of war's brutality. This painting inspired Picasso's Guernica 100+ years later.",
-            "meta": [
-              "Room 64",
-              "Crowd level: Moderate",
-              "Best time: Mid-morning"
-            ]
-          },
-          {
-            "title": "The Garden of Earthly Delights — Hieronymus Bosch (c. 1515)",
-            "body": "A surreal triptych that's like Medieval Netflix. Spot the giant strawberries, musical instruments, and... other things.",
-            "meta": [
-              "Room 56A",
-              "Crowd level: High",
-              "Best time: Wednesday evenings"
-            ]
-          }
-        ]
-      },
-      {
-        "type": "table",
-        "heading": "Opening Hours",
-        "columns": [
-          "Day",
-          "Hours"
-        ],
-        "rows": [
-          [
-            "Monday – Saturday",
-            "10:00 AM – 8:00 PM"
-          ],
-          [
-            "Sunday & Holidays",
-            "10:00 AM – 7:00 PM"
-          ],
-          [
-            "Free entry (Mon–Sat)",
-            "6:00 PM – 8:00 PM"
-          ],
-          [
-            "Free entry (Sun)",
-            "5:00 PM – 7:00 PM"
-          ],
-          [
-            "Closed",
-            "Jan 1, May 1, Dec 25"
-          ]
-        ]
-      },
-      {
-        "type": "table",
-        "heading": "Ticket Prices",
-        "columns": [
-          "Ticket",
-          "Price",
-          "Notes"
-        ],
-        "rows": [
-          [
-            "General",
-            "€15",
-            "Skip-the-line recommended"
-          ],
-          [
-            "Reduced",
-            "€7.50",
-            "Students 18–25, over 65"
-          ],
-          [
-            "Free",
-            "€0",
-            "Under 18, unemployed, large families"
-          ],
-          [
-            "Audio Guide",
-            "€5",
-            "Or use the free Prado app"
-          ],
-          [
-            "Two-day pass",
-            "€22",
-            "Visit over two consecutive days"
-          ]
-        ]
-      },
-      {
-        "type": "list",
-        "heading": "Insider Tips",
-        "items": [
-          {
-            "title": "Best Times to Visit",
-            "body": "Tuesday–Thursday 10 AM or after 4 PM. Avoid weekend mornings like the plague."
-          },
-          {
-            "title": "Skip the Audio Guide",
-            "body": "Download the free Prado app instead. It's updated more frequently and has more content than the paid audio guide."
-          },
-          {
-            "title": "Wear Comfy Shoes",
-            "body": "You'll walk 2–3 km inside the museum. Your feet will thank you later."
-          },
-          {
-            "title": "Photography Rules",
-            "body": "Photos allowed (no flash), but crowds gather around the famous works. Be patient."
-          },
-          {
-            "title": "Food Strategy",
-            "body": "Museum café is overpriced. Eat at nearby Taberna El Sur or any of the Calle de Huertas spots before/after your visit."
-          },
-          {
-            "title": "Accessibility",
-            "body": "Fully wheelchair accessible. Audio guides, Braille information, and sign language tours available."
-          }
-        ]
-      }
-    ],
-    "english_level": "english-primary"
+    ]
   },
   {
     "id": "museo-reina-sofia",
@@ -1488,7 +897,7 @@
     "official_url": "https://www.museoreinasofia.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "museums",
       "reina-sofia",
@@ -1498,8 +907,7 @@
       "museo-del-prado",
       "thyssen-bornemisza",
       "atocha-station"
-    ],
-    "english_level": "english-primary"
+    ]
   },
   {
     "id": "thyssen-bornemisza",
@@ -1511,7 +919,7 @@
     "official_url": "https://www.museothyssen.org/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-17",
     "tags": [
       "museums",
       "thyssen",
@@ -1521,8 +929,7 @@
       "museo-del-prado",
       "museo-reina-sofia",
       "gran-via"
-    ],
-    "english_level": "english-primary"
+    ]
   },
   {
     "id": "royal-palace",
@@ -2613,6 +2020,455 @@
       "credit-card-acceptance",
       "nie-tie",
       "empadronamiento"
+    ]
+  },
+  {
+    "id": "ride-sharing-madrid",
+    "title": "Ride-Sharing (Uber & Cabify)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Uber and Cabify both operate in Madrid. Cabify (Spanish company) is often cheaper and more popular with locals.",
+    "content": "Both Uber and Cabify operate legally in Madrid. Cabify is a Spanish company and tends to be the preferred choice for locals — often slightly cheaper than Uber and with better Spanish-language support. Both apps work in English. Pick-up points at the airport are signed (follow 'VCN' or 'Ride App' signs). Surge pricing applies during peak hours and rainy days. Payment is cashless via the app. Licensed Madrid taxis can also be booked via the PideTaxi or FreeNow apps.",
+    "official_url": "https://cabify.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "rideshare",
+      "uber",
+      "cabify"
+    ],
+    "related_records": [
+      "taxis-madrid",
+      "madrid-barajas-airport",
+      "metro-de-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Operators",
+            "value": "Uber, Cabify, FreeNow (taxis)"
+          },
+          {
+            "label": "Base fare",
+            "value": "€5–7 typical city ride"
+          },
+          {
+            "label": "Airport to center",
+            "value": "€25–35 (variable)"
+          },
+          {
+            "label": "Payment",
+            "value": "Cashless via app"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Apps to download",
+        "items": [
+          {
+            "title": "Cabify",
+            "body": "Spanish company, popular with locals. Often cheaper. English app."
+          },
+          {
+            "title": "Uber",
+            "body": "Available but slightly more expensive. English app."
+          },
+          {
+            "title": "FreeNow",
+            "body": "Books licensed Madrid taxis (white with red diagonal stripe). Useful when surge pricing hits Uber/Cabify."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Airport pick-up",
+        "body": "At Barajas, follow signs to 'Ride App' or 'VCN' (VTC) pick-up zones. Each terminal has a designated pick-up point — check your app for the exact zone letter. Taxis have a fixed €30 fare to central Madrid (inside the M-30), which is often cheaper than ride-sharing for airport runs.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "bicimad",
+    "title": "BiciMAD — Electric Bike Sharing",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Madrid's electric bike-share system. 6,000+ e-bikes across 250+ stations. Great for short trips in the flat center.",
+    "content": "BiciMAD is Madrid's municipal electric bike-sharing system, operated by EMT (the same company that runs the buses). There are over 6,000 electric bikes at 250+ stations across the city. The center of Madrid is mostly flat and very bikeable, though some outer areas are hilly. The bikes have pedal-assist so hills are manageable. You need the BiciMAD app (English available) to unlock bikes — no magnetic card needed anymore. Annual membership is €25/year for residents, or pay-per-use at €0.10/min. Helmets are not required by law in Spanish cities but recommended.",
+    "official_url": "https://www.bicimad.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "bike",
+      "bicimad",
+      "cycling"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "emt-buses"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Bikes",
+            "value": "6,000+ electric"
+          },
+          {
+            "label": "Stations",
+            "value": "250+ across Madrid"
+          },
+          {
+            "label": "Annual pass",
+            "value": "€25/year (residents)"
+          },
+          {
+            "label": "Pay-per-use",
+            "value": "€0.10/min + €0.50 unlock"
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "How to use BiciMAD",
+        "items": [
+          {
+            "title": "Download the app",
+            "body": "Get the BiciMAD app (English available). Create an account with your phone number."
+          },
+          {
+            "title": "Add credit or a pass",
+            "body": "Pay-per-use needs a credit card on file. Annual pass is €25 for residents, €50 for non-residents."
+          },
+          {
+            "title": "Find a bike",
+            "body": "Use the app map to find a station with available bikes. Tap 'Unlock' in the app and scan the QR code on the bike."
+          },
+          {
+            "title": "Return the bike",
+            "body": "Dock at any BiciMAD station. The app confirms return and charges your account."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Best for short trips",
+        "body": "BiciMAD is ideal for trips under 3 km in the center — Retiro Park, Madrid Río, the historic core, and between museums. Avoid the Gran Vía during rush hour (heavy traffic and tram tracks). The Madrid Río park has dedicated bike lanes and is a lovely ride.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "electric-scooters-madrid",
+    "title": "Electric Scooters (Lime, Dott, Tier)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Shared e-scooters from Lime, Dott, and Tier operate in central Madrid. €1 to unlock + €0.15/min.",
+    "content": "Three e-scooter operators are licensed in the Madrid city center: Lime, Dott, and Tier. They're convenient for short trips but the city has strict rules: no riding on sidewalks (€200 fine), no riding in Retiro Park or historic pedestrian zones, and you must park in designated areas shown in the app. Helmets are recommended but not required. The scooters are geofenced to disable outside the service area. Best for the 1-3 km trips that are too long to walk but too short to bother with the metro.",
+    "official_url": "https://www.li.me/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "scooter",
+      "lime",
+      "dott",
+      "tier"
+    ],
+    "related_records": [
+      "bicimad",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "walking-madrid",
+    "title": "Walking in Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Madrid's compact center is one of Europe's most walkable cities. Most sights within 20-30 min walk of Puerta del Sol.",
+    "content": "Madrid's historic center is extremely walkable — most major sights are within a 20-30 minute walk of Puerta del Sol (the city's kilometer zero). The center is mostly flat, with wide pedestrianized streets (Calles Mayor, Arenal, Preciados) and numerous parks. Walking is the best way to discover the city's hidden plazas, tapas bars, and street art. Avoid walking alone in poorly-lit areas late at night (Lavapiés and Cuatro Caminos after midnight). The official Madrid tourism site has 7 self-guided walking routes (1-3 hours each) covering the Habsburg city, the Bourbons, literary Madrid, and more.",
+    "official_url": "https://www.esmadrid.com/en/walking-routes-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "walking",
+      "pedestrian"
+    ],
+    "related_records": [
+      "metro-de-madrid",
+      "bicimad"
+    ]
+  },
+  {
+    "id": "airport-express-bus-203",
+    "title": "Airport Express Bus (Line 203)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "24/7 bus between Barajas Airport and Atocha/Cibeles. €5, 30-40 min. Best for late-night arrivals when Metro is closed.",
+    "content": "EMT line 203 (the Airport Express) runs 24/7 between Barajas Airport and central Madrid, terminating at Atocha station (with stops at Cibeles and O'Donnell along the way). It's the only public transport option between 1:30 AM (when Metro closes) and 6 AM. Buses run every 15-20 minutes during the day, every 35 minutes at night. The bus stops at all four airport terminals (T1, T2, T3, T4) — check the sign for your terminal. Luggage goes under the bus (free). Pay the driver with cash (exact change appreciated) or use a Metrobús card. The bus is wheelchair accessible.",
+    "official_url": "https://www.emtmadrid.es/en/bus/lines-and-times/line-details/index.html?line=203",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "airport",
+      "bus",
+      "shuttle"
+    ],
+    "related_records": [
+      "madrid-barajas-airport",
+      "emt-buses",
+      "atocha-station"
+    ]
+  },
+  {
+    "id": "airport-transfers-private",
+    "title": "Private Airport Transfer Services",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Pre-booked private transfers from Barajas to your hotel. €35-60. Best for groups, families, or arrivals with lots of luggage.",
+    "content": "If you don't want to deal with public transport after a long flight, several companies offer pre-booked private transfers from Barajas Airport to your Madrid accommodation. The driver meets you at arrivals with a name sign. Prices are flat-rate (€35-60 for a sedan, €70-100 for a van) and include all taxes, tolls, and tips. Booking in advance is required — they don't cruise the airport like taxis. Trip time is 20-30 minutes to the center (traffic dependent). Popular companies include Madrid Airport Transfer, Suntransfers, and Welcome Pickups. For comparison, a licensed Madrid taxi costs a flat €30 to central Madrid (inside the M-30), and Uber/Cabify costs €25-35.",
+    "official_url": "https://www.esmadrid.com/en/getting-madrid-barajas-airport",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "airport",
+      "transfer",
+      "private"
+    ],
+    "related_records": [
+      "madrid-barajas-airport",
+      "taxis-madrid",
+      "ride-sharing-madrid"
+    ]
+  },
+  {
+    "id": "major-airlines-madrid",
+    "title": "Airlines Serving Madrid-Barajas",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Iberia (hub), Air Europa, Vueling, Ryanair. Direct flights to 80+ international destinations.",
+    "content": "Madrid-Barajas is a major European hub with direct flights to over 80 international destinations. Iberia is the flag carrier and uses Barajas as its hub (Terminals 4 and 4S). Air Europa is the second-largest Spanish carrier. Low-cost carriers Vueling, Ryanair, and EasyJet serve European routes from Terminals 1 and 2. Long-haul flights to the Americas are concentrated at T4S (satellite terminal — take the underground train from T4). For the best fares, book 6-8 weeks ahead for European flights, 2-3 months for long-haul. Iberia and Air Europa are part of the Oneworld and SkyTeam alliances respectively, so you can earn miles on partner airlines.",
+    "official_url": "https://www.iberia.com/us/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "airlines",
+      "airport",
+      "iberia"
+    ],
+    "related_records": [
+      "madrid-barajas-airport"
+    ]
+  },
+  {
+    "id": "ave-high-speed-trains",
+    "title": "AVE High-Speed Trains",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Europe's largest high-speed rail network. Madrid to Barcelona 2h30, Seville 2h30, Valencia 1h40. From €20 one-way.",
+    "content": "Spain has the largest high-speed rail network in Europe and the second-largest in the world (after China). The AVE (Alta Velocidad Española) connects Madrid to major Spanish cities at up to 310 km/h. Trains depart from Atocha station (Puerta de Atocha) for most destinations, and from Chamartín for Galicia and Asturias. Fares start at €20 one-way if booked in advance (up to 60 days ahead) but rise to €150+ for last-minute bookings. The cheapest fares are non-refundable 'Promo' tickets. Renfe's competing low-cost brand 'Ouigo' (French operator) and 'Iryo' (private Spanish operator) offer even cheaper fares on the Madrid-Barcelona and Madrid-Valencia routes. Trains are comfortable, with power outlets, WiFi (spotty), and a café car.",
+    "official_url": "https://www.renfe.com/en/en/travel/destination/products/ave",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "train",
+      "ave",
+      "high-speed"
+    ],
+    "related_records": [
+      "renfe-trains",
+      "atocha-station",
+      "chamartin-station"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Popular AVE routes from Madrid",
+        "columns": [
+          "Destination",
+          "Travel time",
+          "From"
+        ],
+        "rows": [
+          [
+            "Barcelona",
+            "2h 30m",
+            "€25"
+          ],
+          [
+            "Seville",
+            "2h 30m",
+            "€20"
+          ],
+          [
+            "Valencia",
+            "1h 40m",
+            "€18"
+          ],
+          [
+            "Málaga",
+            "2h 30m",
+            "€25"
+          ],
+          [
+            "Zaragoza",
+            "1h 15m",
+            "€15"
+          ],
+          [
+            "Córdoba",
+            "1h 45m",
+            "€18"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Cheaper alternatives",
+        "body": "Ouigo (ouigo.com) and Iryo (iryo.eu) compete with Renfe on the Madrid-Barcelona and Madrid-Valencia routes. Fares start at €9 one-way. Slightly less legroom and luggage allowance than AVE, but the same travel time.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "intercity-buses",
+    "title": "Intercity Buses (Madrid to other cities)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Cheaper than trains for intercity travel. Madrid to Granada 5h (€25), Lisbon 8h (€45), Bilbao 4h30 (€22).",
+    "content": "Intercity buses are the budget alternative to trains for travel within Spain and to neighboring countries. They're slower but often half the price of the AVE. The main operator is ALSA (owned by National Express), with routes to every major Spanish city and international destinations including Portugal, France, and Morocco (via ferry). Other operators include Avanza (Castilla y León, Extremadura routes) and Daibus (Andalusia). Buses depart from Estación Sur (Méndez Álvaro) for most ALSA routes, and from Moncloa for Avanza routes. Book at alsa.es for the best fares — English site available. Buses are modern, air-conditioned, with WiFi (when it works) and onboard toilets.",
+    "official_url": "https://www.alsa.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "bus",
+      "intercity",
+      "alsa"
+    ],
+    "related_records": [
+      "bus-stations-madrid",
+      "ave-high-speed-trains"
+    ]
+  },
+  {
+    "id": "bus-stations-madrid",
+    "title": "Bus Stations in Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Estación Sur (Méndez Álvaro) for ALSA intercity. Moncloa for Castilla y León. Plaza Elíptica for south routes.",
+    "content": "Madrid has several bus stations serving different regions. Estación Sur (also called Méndez Álvaro) is the main intercity station — ALSA routes to Barcelona, Valencia, Andalusia, Portugal, and France all depart from here. Moncloa station serves Castilla y León (Segovia, Ávila, Salamanca) and Galicia routes. Plaza Elíptica handles some southern routes (Toledo, Cuenca). Each station is on a Metro line: Estación Sur on Line 6 (Méndez Álvaro), Moncloa on Lines 3 and 6, Plaza Elíptica on Lines 6 and 11. Arrive 20-30 minutes before departure to find your platform — large stations like Estación Sur have 50+ platforms. Buy tickets in advance online or at station ticket windows.",
+    "official_url": "https://www.estacionautobusesmadrid.com",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "bus",
+      "station"
+    ],
+    "related_records": [
+      "intercity-buses",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "eurail-interrail-passes",
+    "title": "Eurail / Interrail Passes",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Multi-country train passes for non-European (Eurail) and European (Interrail) residents. Spain is one pass country.",
+    "content": "Eurail (for non-European residents) and Interrail (for European residents) passes offer flexible train travel across multiple European countries. A 'Global Pass' covers 33 countries including Spain. A 'One Country Pass' for Spain is also available. Passes give you a set number of travel days within a period (e.g., 3 days within 1 month, 7 days within 1 month, or continuous travel for up to 3 months). High-speed AVE trains in Spain require a seat reservation (€10-20 additional per trip) even with a pass — book these in advance at renfe.com or at Atocha station. The pass is best for travelers visiting 3+ countries or 4+ Spanish cities. For just Madrid + 1-2 other cities, point-to-point tickets booked in advance are usually cheaper.",
+    "official_url": "https://www.eurail.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "train",
+      "eurail",
+      "interrail",
+      "pass"
+    ],
+    "related_records": [
+      "ave-high-speed-trains",
+      "renfe-trains"
+    ]
+  },
+  {
+    "id": "driving-madrid",
+    "title": "Driving & Car Rental in Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "Don't drive in central Madrid (LEZ restrictions, expensive parking). Rent a car only for day trips outside the city.",
+    "content": "Driving in central Madrid is not recommended for visitors. The city has a Low Emission Zone (ZBE — Zona de Bajas Emisiones) that restricts older vehicles, and parking is expensive (€2-4/hour on-street, €25-40/day in lots) with limited spaces. The historic center has narrow one-way streets and pedestrian zones. Traffic is heavy and Spanish drivers are aggressive. That said, renting a car for day trips OUTSIDE Madrid is worthwhile — destinations like Toledo, Segovia, El Escorial, and the Castilian countryside are easy drives (1 hour each way) and not all are reachable by train. Major rental companies (Avis, Hertz, Europcar, Enterprise) have offices at Barajas Airport and Atocha station. An International Driving Permit is recommended for non-EU licenses. Drive on the right. Speed limits: 50 km/h city, 90 km/h highway, 120 km/h motorway.",
+    "official_url": "https://www.dgt.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "driving",
+      "car-rental"
+    ],
+    "related_records": [
+      "parking-madrid",
+      "metro-de-madrid",
+      "madrid-barajas-airport"
+    ]
+  },
+  {
+    "id": "parking-madrid",
+    "title": "Parking in Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "summary": "On-street parking is regulated (SER zones) and expensive. Public lots cost €25-40/day. Most central hotels don't include parking.",
+    "content": "Parking in central Madrid is challenging and expensive. On-street parking in the SER (Servicio de Estacionamiento Regulado) zones costs €1.05-3.00/hour depending on the zone (blue zones are cheaper, green zones are resident-only). Maximum stay is usually 2 hours. Pay at the meter with a credit card or via the ElParking app. Most central hotels do NOT include parking — expect to pay €25-40/day extra. The cheapest public lots are around Gran Vía (Parking Gran Vía, €28/day) and Plaza Mayor (Parking Plaza Mayor, €30/day). Free parking is virtually nonexistent in the center. If you're staying outside the center, look for hotels near Metro stations with free parking, then take the Metro in. The M-30 ring road has park-and-ride lots at some Metro stations (€3-5/day including Metro tickets for all passengers).",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Mobility-and-transport/Parking",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "transport",
+      "parking",
+      "car"
+    ],
+    "related_records": [
+      "driving-madrid"
     ]
   }
 ]
