@@ -6,11 +6,41 @@
     "emoji": "🎒",
     "color": "red",
     "subcategories": [
-      { "id": "visas",          "slug": "visas",          "title": "Visas & Entry",       "icon": "📋", "summary": "Schengen rules, ETIAS, passport requirements." },
-      { "id": "money",          "slug": "money",          "title": "Money & Budgets",     "icon": "💶", "summary": "Euros, ATMs, cards, tipping, daily spend." },
-      { "id": "transportation", "slug": "transportation", "title": "Getting Around",      "icon": "🚇", "summary": "Metro, buses, taxis, airport, trains, left luggage." },
-      { "id": "communication",  "slug": "communication",  "title": "Spanish Phrases",     "icon": "💬", "summary": "The 20 lines that get you through any situation." },
-      { "id": "safety",         "slug": "safety",         "title": "Safety & Emergencies","icon": "🛟", "summary": "112, hospitals, embassies, lost passport, police." }
+      {
+        "id": "visas",
+        "slug": "visas",
+        "title": "Visas & Entry",
+        "icon": "📋",
+        "summary": "Schengen rules, ETIAS, passport requirements."
+      },
+      {
+        "id": "money",
+        "slug": "money",
+        "title": "Money & Budgets",
+        "icon": "💶",
+        "summary": "Euros, ATMs, cards, tipping, daily spend."
+      },
+      {
+        "id": "transportation",
+        "slug": "transportation",
+        "title": "Getting Around",
+        "icon": "🚇",
+        "summary": "Metro, buses, taxis, airport, trains, left luggage."
+      },
+      {
+        "id": "communication",
+        "slug": "communication",
+        "title": "Spanish Phrases",
+        "icon": "💬",
+        "summary": "The 20 lines that get you through any situation."
+      },
+      {
+        "id": "safety",
+        "slug": "safety",
+        "title": "Safety & Emergencies",
+        "icon": "🛟",
+        "summary": "112, hospitals, embassies, lost passport, police."
+      }
     ]
   },
   {
@@ -20,12 +50,48 @@
     "emoji": "🏡",
     "color": "blue",
     "subcategories": [
-      { "id": "housing",    "slug": "housing",    "title": "Housing",    "icon": "🏠", "summary": "Apartments, neighborhoods, contracts, deposits." },
-      { "id": "paperwork",  "slug": "paperwork",  "title": "Paperwork",  "icon": "📑", "summary": "NIE, TIE, empadronamiento, Modelo 720." },
-      { "id": "banking",    "slug": "banking",    "title": "Banking",    "icon": "🏦", "summary": "Spanish bank accounts, NIE for contracts, transfers." },
-      { "id": "healthcare", "slug": "healthcare", "title": "Healthcare", "icon": "🩺", "summary": "Public vs private, English-speaking doctors, dentists, pharmacies." },
-      { "id": "work",       "slug": "work",       "title": "Work",       "icon": "💼", "summary": "Teach English, au pair, internships, journalism." },
-      { "id": "education",  "slug": "education",  "title": "Education",  "icon": "🎓", "summary": "Universities, bilingual schools, language schools." }
+      {
+        "id": "housing",
+        "slug": "housing",
+        "title": "Housing",
+        "icon": "🏠",
+        "summary": "Apartments, neighborhoods, contracts, deposits."
+      },
+      {
+        "id": "bureaucracy",
+        "slug": "bureaucracy",
+        "title": "Bureaucracy",
+        "icon": "📑",
+        "summary": "NIE, TIE, empadronamiento, Modelo 720."
+      },
+      {
+        "id": "banking",
+        "slug": "banking",
+        "title": "Banking",
+        "icon": "🏦",
+        "summary": "Spanish bank accounts, NIE for contracts, transfers."
+      },
+      {
+        "id": "healthcare",
+        "slug": "healthcare",
+        "title": "Healthcare",
+        "icon": "🩺",
+        "summary": "Public vs private, English-speaking doctors, dentists, pharmacies."
+      },
+      {
+        "id": "work",
+        "slug": "work",
+        "title": "Work",
+        "icon": "💼",
+        "summary": "Teach English, au pair, internships, journalism."
+      },
+      {
+        "id": "education",
+        "slug": "education",
+        "title": "Education",
+        "icon": "🎓",
+        "summary": "Universities, bilingual schools, language schools."
+      }
     ]
   },
   {
@@ -35,11 +101,41 @@
     "emoji": "🏛️",
     "color": "green",
     "subcategories": [
-      { "id": "museums",      "slug": "museums",      "title": "Museums",               "icon": "🖼️", "summary": "The Golden Triangle and other world-class collections." },
-      { "id": "royal",        "slug": "royal",        "title": "Royal Madrid",          "icon": "👑", "summary": "The Royal Palace, Almudena Cathedral, and Habsburg old town." },
-      { "id": "parks",        "slug": "parks",        "title": "Parks & Green Spaces",  "icon": "🌳", "summary": "Retiro, Casa de Campo, Madrid Río, the cable car." },
-      { "id": "architecture", "slug": "architecture", "title": "Architecture & Plazas", "icon": "🏛️", "summary": "Puerta del Sol, Plaza Mayor, Gran Vía, hidden corners." },
-      { "id": "day-trips",    "slug": "day-trips",    "title": "Day Trips",             "icon": "🚆", "summary": "Toledo, Segovia, Ávila, El Escorial, Chinchón, Aranjuez." }
+      {
+        "id": "museums",
+        "slug": "museums",
+        "title": "Museums",
+        "icon": "🖼️",
+        "summary": "The Golden Triangle and other world-class collections."
+      },
+      {
+        "id": "royal",
+        "slug": "royal",
+        "title": "Royal Madrid",
+        "icon": "👑",
+        "summary": "The Royal Palace, Almudena Cathedral, and Habsburg old town."
+      },
+      {
+        "id": "parks",
+        "slug": "parks",
+        "title": "Parks & Green Spaces",
+        "icon": "🌳",
+        "summary": "Retiro, Casa de Campo, Madrid Río, the cable car."
+      },
+      {
+        "id": "architecture",
+        "slug": "architecture",
+        "title": "Architecture & Plazas",
+        "icon": "🏛️",
+        "summary": "Puerta del Sol, Plaza Mayor, Gran Vía, hidden corners."
+      },
+      {
+        "id": "day-trips",
+        "slug": "day-trips",
+        "title": "Day Trips",
+        "icon": "🚆",
+        "summary": "Toledo, Segovia, Ávila, El Escorial, Chinchón, Aranjuez."
+      }
     ]
   },
   {
@@ -49,12 +145,48 @@
     "emoji": "🎉",
     "color": "purple",
     "subcategories": [
-      { "id": "food",       "slug": "food",       "title": "Food & Tapas",     "icon": "🍷", "summary": "Mercados, tapas routes, vermouth, regional Spanish food." },
-      { "id": "arts",       "slug": "arts",       "title": "Performing Arts",  "icon": "🎭", "summary": "Flamenco, theatre, jazz, comedy." },
-      { "id": "nightlife",  "slug": "nightlife",  "title": "Nightlife",        "icon": "🌙", "summary": "Malasaña bars, Chueca cocktails, La Latina verbenas." },
-      { "id": "sports",     "slug": "sports",     "title": "Sports",           "icon": "⚽", "summary": "Real Madrid, Atlético, Rayo, basketball, tennis." },
-      { "id": "shopping",   "slug": "shopping",   "title": "Shopping",         "icon": "🛍️", "summary": "Gran Vía flagships, El Rastro flea, Salamanca luxury." },
-      { "id": "traditions", "slug": "traditions", "title": "Traditions",       "icon": "🎊", "summary": "Bullfights, verbenas, chotis, mantones." }
+      {
+        "id": "food",
+        "slug": "food",
+        "title": "Food & Tapas",
+        "icon": "🍷",
+        "summary": "Mercados, tapas routes, vermouth, regional Spanish food."
+      },
+      {
+        "id": "arts",
+        "slug": "arts",
+        "title": "Performing Arts",
+        "icon": "🎭",
+        "summary": "Flamenco, theatre, jazz, comedy."
+      },
+      {
+        "id": "nightlife",
+        "slug": "nightlife",
+        "title": "Nightlife",
+        "icon": "🌙",
+        "summary": "Malasaña bars, Chueca cocktails, La Latina verbenas."
+      },
+      {
+        "id": "sports",
+        "slug": "sports",
+        "title": "Sports",
+        "icon": "⚽",
+        "summary": "Real Madrid, Atlético, Rayo, basketball, tennis."
+      },
+      {
+        "id": "shopping",
+        "slug": "shopping",
+        "title": "Shopping",
+        "icon": "🛍️",
+        "summary": "Gran Vía flagships, El Rastro flea, Salamanca luxury."
+      },
+      {
+        "id": "traditions",
+        "slug": "traditions",
+        "title": "Traditions",
+        "icon": "🎊",
+        "summary": "Bullfights, verbenas, chotis, mantones."
+      }
     ]
   },
   {
@@ -64,11 +196,41 @@
     "emoji": "📡",
     "color": "orange",
     "subcategories": [
-      { "id": "events",      "slug": "events",      "title": "This Week's Events", "icon": "🎟️", "summary": "Veranos de la Villa, verbenas, Pride, San Isidro." },
-      { "id": "exhibitions", "slug": "exhibitions", "title": "Open Exhibitions",   "icon": "🖼️", "summary": "What's showing now at the Prado, Reina Sofía, Thyssen, Matadero." },
-      { "id": "news",        "slug": "news",        "title": "News & Updates",     "icon": "📰", "summary": "English-language Madrid news, city updates, alerts." },
-      { "id": "live",        "slug": "live",        "title": "Live Info",          "icon": "🕒", "summary": "Current Madrid time, weather, AQI, sunset/sunrise." },
-      { "id": "transit",     "slug": "transit",     "title": "Transit Alerts",     "icon": "🚧", "summary": "Metro closures, bus detours, train delays." }
+      {
+        "id": "events",
+        "slug": "events",
+        "title": "This Week's Events",
+        "icon": "🎟️",
+        "summary": "Veranos de la Villa, verbenas, Pride, San Isidro."
+      },
+      {
+        "id": "exhibitions",
+        "slug": "exhibitions",
+        "title": "Open Exhibitions",
+        "icon": "🖼️",
+        "summary": "What's showing now at the Prado, Reina Sofía, Thyssen, Matadero."
+      },
+      {
+        "id": "news",
+        "slug": "news",
+        "title": "News & Updates",
+        "icon": "📰",
+        "summary": "English-language Madrid news, city updates, alerts."
+      },
+      {
+        "id": "live",
+        "slug": "live",
+        "title": "Live Info",
+        "icon": "🕒",
+        "summary": "Current Madrid time, weather, AQI, sunset/sunrise."
+      },
+      {
+        "id": "transit",
+        "slug": "transit",
+        "title": "Transit Alerts",
+        "icon": "🚧",
+        "summary": "Metro closures, bus detours, train delays."
+      }
     ]
   }
 ]
