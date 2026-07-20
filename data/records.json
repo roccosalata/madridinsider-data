@@ -506,50 +506,6 @@
     ]
   },
   {
-    "id": "sim-cards",
-    "title": "SIM Cards & eSIMs",
-    "category": "essentials",
-    "subcategory": "communication",
-    "summary": "Buy a Spanish SIM or eSIM on arrival. Major carriers: Movistar, Orange, Vodafone, Yoigo.",
-    "content": "Free tourist SIMs (15–30 days) available at the airport and carrier stores — bring your passport. eSIMs from Airalo, Holafly, and Nomad work before you fly. All major carriers have English apps. Cheapest data-only: €5–10/10GB. Note: Spain does NOT require tourist ID registration for SIMs as of 2026.",
-    "official_url": "https://www.movistar.es/en/",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "communication",
-      "sim",
-      "esim",
-      "data"
-    ],
-    "related_records": [
-      "public-wifi",
-      "survival-spanish"
-    ]
-  },
-  {
-    "id": "public-wifi",
-    "title": "Public Wi-Fi & Coworking",
-    "category": "essentials",
-    "subcategory": "communication",
-    "summary": "Free Wi-Fi at airport, metro stations, libraries, and most cafés. Coworking spaces across the city.",
-    "content": "Free Wi-Fi: AENA airports, Metro Madrid stations, bibliotecas (libraries), major café chains. Coworking: WeWork, Impact Hub, The Valley, Utopicus, Monday — day passes €20–35, monthly €150–300. Most cafés are laptop-friendly mid-morning and mid-afternoon; avoid lunch rush.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "communication",
-      "wifi",
-      "coworking",
-      "remote-work"
-    ],
-    "related_records": [
-      "sim-cards",
-      "english-speaking-doctors"
-    ],
-    "official_url": "https://www.esmadrid.com/en/practical-information"
-  },
-  {
     "id": "nie-tie",
     "title": "NIE / TIE — Foreigner ID",
     "category": "living",
@@ -2673,7 +2629,9 @@
       "emergency",
       "scam"
     ],
-    "related_records": []
+    "related_records": [
+      "emergency-numbers"
+    ]
   },
   {
     "id": "moving-shipping-madrid",
@@ -2694,7 +2652,6 @@
       "storage"
     ],
     "related_records": [
-      "housing",
       "post-office-madrid"
     ]
   },
@@ -2960,8 +2917,7 @@
     "related_records": [
       "bus-stations-madrid",
       "metro-de-madrid",
-      "retiro-neighborhood",
-      "retiro-park"
+      "retiro-neighborhood"
     ]
   },
   {
@@ -3939,6 +3895,907 @@
       "madrid-barajas-airport",
       "major-airlines-madrid",
       "airport-express-bus-203"
+    ]
+  },
+  {
+    "id": "madrid-tourist-offices",
+    "title": "Official Tourist Offices (Oficinas de Turismo)",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "summary": "Madrid's official tourist offices. Main office at Plaza Mayor. Free maps, brochures, and expert advice in English.",
+    "content": "Madrid has a network of official tourist offices (Oficinas de Turismo de Madrid) run by the city. The main office is at Plaza Mayor 3 (ground floor, southwest corner) — open daily 9:30am-8:30pm. Other locations: Barajas Airport (T1, T2, T4 arrivals — open 9am-8pm), Atocha Station (open 9am-8pm), Chamartín Station (open 9am-8pm), and the CentroCentro cultural center at Plaza de Cibeles. All offices offer: free city maps (excellent quality), free brochures for museums and attractions, official Madrid guides (€5), Madrid Card sales, event tickets, and expert advice in English. The staff are knowledgeable and can help plan itineraries, recommend restaurants, and explain public transport. Stop here on your first day to get oriented. The Plaza Mayor office also has free WiFi and clean restrooms.",
+    "official_url": "https://www.esmadrid.com/en/information-offices",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tourist-info",
+      "office",
+      "information",
+      "official"
+    ],
+    "related_records": [
+      "madrid-city-card",
+      "madrid-apps",
+      "madrid-airport-information-desks"
+    ]
+  },
+  {
+    "id": "madrid-city-card",
+    "title": "Madrid City Card (Tarjeta Madrid)",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "summary": "Official Madrid tourist pass. Includes Metro, public transport, 50+ museums, and bus tour. €48/24h, €72/72h, €108/120h.",
+    "content": "The Madrid City Card (Tarjeta Madrid Explorer) is the official tourist pass that bundles public transport, museums, and the hop-on hop-off bus. Three durations: 24 hours (€48), 72 hours (€72), 120 hours (€108). What's included: (1) Unlimited Metro, EMT buses, and Renfe Cercanías trains (zone A). (2) Free entry to 50+ museums including Prado, Reina Sofía, Thyssen, Royal Palace, and others. (3) Madrid City Tour hop-on hop-off bus (24h ticket). (4) Free guidebook and city map. (5) Discounts at selected restaurants, shops, and flamenco shows. Buy at any tourist office, online at esmadrid.com, or at hotel receptions. Activate it on first use (either first Metro ride or first museum entry) — then the 24/72/120-hour clock starts. Tip: do the math before buying — if you plan to visit 4+ museums and use the bus tour, the card pays for itself. If you just want 1-2 museums and Metro, pay-as-you-go is cheaper.",
+    "official_url": "https://www.esmadrid.com/en/madrid-city-tour",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tourist-info",
+      "card",
+      "pass",
+      "discount",
+      "museums"
+    ],
+    "related_records": [
+      "madrid-tourist-offices",
+      "metro-de-madrid",
+      "bus-tours-madrid",
+      "museo-del-prado"
+    ]
+  },
+  {
+    "id": "madrid-apps",
+    "title": "Essential Madrid Apps",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "summary": "Apps to download: Metro de Madrid (official), EMT Madrid (buses), Madrid Official (tourism), Cabify, Google Translate.",
+    "content": "Download these apps before you arrive in Madrid: (1) Metro de Madrid (official, English) — route planner, real-time arrivals, service alerts, map works offline. (2) EMT Madrid (English) — bus arrival times, route planner, buy 10-trip tickets. (3) Madrid Official Tourist Guide (English) — official city app with itineraries, museum info, and offline maps. (4) Cabify (English) — Spanish ride-sharing, often cheaper than Uber. (5) Google Translate (English) — download Spanish offline pack, use camera mode to translate menus and signs. (6) TheFork / El Tenedor (English) — restaurant reservations with discounts (20-50% off at many places). (7) Too Good To Go (English) — surplus food from restaurants and cafés at 70% off. (8) Wallapop (Spanish, but works) — local marketplace if you need to buy/sell something. Optional: BiciMAD (bike share), Madrid WiFi (free WiFi map), AENA (airport status).",
+    "official_url": "https://www.esmadrid.com/en/apps",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tourist-info",
+      "apps",
+      "mobile",
+      "smartphone"
+    ],
+    "related_records": [
+      "madrid-tourist-offices",
+      "metro-de-madrid",
+      "emt-buses",
+      "ride-sharing-madrid"
+    ]
+  },
+  {
+    "id": "madrid-airport-information-desks",
+    "title": "Barajas Airport Information Desks",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "summary": "AENA information desks at every Barajas terminal. Hotel booking, transport advice, tourist info. Open 24/7.",
+    "content": "AENA (the Spanish airport authority) operates information desks at every terminal of Madrid-Barajas Airport. Look for the 'i' (information) signs in the arrivals halls of T1, T2, T3, and T4. The desks are open 24/7 and staffed by multilingual agents (English, Spanish, French, German commonly). Services: (1) Hotel bookings — they can find and book hotels for you, sometimes at discounted airport rates. (2) Transport advice — Metro, bus, taxi, ride-sharing, private transfer options explained. (3) Tourist information — free maps, brochures, Madrid card sales. (4) Lost luggage assistance — they coordinate with airlines. (5) Medical assistance — they can call a doctor or direct you to the airport medical center. (6) Special assistance — wheelchair, mobility, and accessibility help. The T4 desk is the largest and best-staffed. The AENA app (English) also has real-time flight info, terminal maps, and parking availability.",
+    "official_url": "https://www.aena.es/en/passengers/madrid-barajas-airport/passenger-services/information-points.html",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tourist-info",
+      "airport",
+      "information",
+      "barajas",
+      "aena"
+    ],
+    "related_records": [
+      "madrid-barajas-airport",
+      "madrid-tourist-offices",
+      "airport-express-bus-203"
+    ]
+  },
+  {
+    "id": "visitor-centers-madrid",
+    "title": "Neighborhood Visitor Centers",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "summary": "Smaller visitor centers in major neighborhoods (Malasaña, Salamanca, Chamberí) with local info and event tickets.",
+    "content": "Beyond the main Plaza Mayor tourist office, Madrid has smaller visitor centers (Centros de Atención al Visitante) in major neighborhoods. These are useful for: neighborhood-specific maps and walking routes, local event tickets (theater, concerts, festivals), restaurant recommendations from locals, and accessibility information. Locations: (1) CentroCentro (Plaza de Cibeles) — large cultural center with tourist info, exhibitions, and a rooftop terrace with views. (2) Matadero Madrid (Arganzuela) — contemporary arts center with info on cultural events. (3) Medialab Prado (Lavapiés) — digital culture lab, useful for tech events. (4) Casa de la Villa (Plaza de la Villa) — historic City Hall building with civic info. (5) The Casa Asia foundation (Barrio de las Letras) — info on Asian cultural events. Hours vary (most close Sunday-Monday). Check the esmadrid.com website for current hours and a map of all centers.",
+    "official_url": "https://www.esmadrid.com/en/cultural-centres",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tourist-info",
+      "visitor-center",
+      "neighborhood",
+      "cultural"
+    ],
+    "related_records": [
+      "madrid-tourist-offices",
+      "sol-gran-via-neighborhood",
+      "malasana-neighborhood",
+      "lavapies-neighborhood"
+    ]
+  },
+  {
+    "id": "madrid-visitors-app",
+    "title": "Free Official Madrid Audio Guides",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "summary": "Free official audio guides from esmadrid.com: 7 walking routes (1-3 hours each), museum audio tours, neighborhood guides.",
+    "content": "Madrid's official tourism website (esmadrid.com) offers free audio guides for 7 self-guided walking routes through the city. Each route is 1-3 hours and comes with a downloadable MP3 file and a printable PDF map. Routes: (1) Habsburg Madrid (16th-17th century old town) — 2 hours, starts at Plaza Mayor. (2) Bourbon Madrid (18th century) — 1.5 hours, starts at Puerta de Alcalá. (3) Literary Quarter (Barrio de las Letras) — 1 hour, starts at Plaza de Santa Ana. (4) Madrid of the Austrias — 2.5 hours, Royal Palace area. (5) Modernist Madrid — 1.5 hours, Gran Vía and Salamanca. (6) Parks and Gardens — 2 hours, Retiro and Madrid Río. (7) Civil War Madrid — 2 hours, historical sites. Also free: museum audio guides (Prado, Reina Sofía, Thyssen) available via the museums' official apps. Download before you go to avoid roaming charges. The audio is in English (also Spanish, French, German). Print the PDF map — phone batteries die.",
+    "official_url": "https://www.esmadrid.com/en/audio-guides",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "tourist-info",
+      "audio-guide",
+      "walking",
+      "free",
+      "official"
+    ],
+    "related_records": [
+      "walking-tours-madrid",
+      "madrid-tourist-offices",
+      "walking-madrid"
+    ]
+  },
+  {
+    "id": "student-visa-spain",
+    "title": "Student Visa for Spain",
+    "category": "essentials",
+    "subcategory": "visas",
+    "summary": "Required for non-EU students studying 91+ days. Apply at Spanish consulate in home country. €80-160 fee.",
+    "content": "Non-EU citizens studying in Spain for more than 90 days need a student visa (visado de estudios). Apply at the Spanish consulate in your home country — you cannot apply from within Spain. Required documents: (1) Valid passport (6+ months validity). (2) Completed visa application form. (3) Acceptance letter from a Spanish educational institution. (4) Proof of financial means (€7,200/year bank statement or sponsor letter). (5) Health insurance valid in Spain. (6) Criminal record check (apostilled). (7) Medical certificate (apostilled). (8) Passport photos. (9) Visa fee €80-160 (varies by country). Processing time: 4-8 weeks. Submit at least 60 days before your program starts. The visa allows you to enter Spain up to 90 days before your studies begin. Once in Spain, you must apply for the TIE (foreigner ID card) within 30 days. Student visas allow part-time work (20 hours/week) with permission. Renewal is possible if you continue studies. EU citizens don't need a visa but must register with the local police within 90 days.",
+    "official_url": "https://www.exteriores.gob.es/en/ServiciosAlCiudadano/Paginas/InformacionParaExtranjeros.aspx",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "visas",
+      "student",
+      "study",
+      "non-eu"
+    ],
+    "related_records": [
+      "etias-2026",
+      "internships-spain",
+      "residencia-permit-spain",
+      "schengen-visa-us"
+    ]
+  },
+  {
+    "id": "work-visa-spain",
+    "title": "Work Visa for Spain",
+    "category": "essentials",
+    "subcategory": "visas",
+    "summary": "Required for non-EU workers. Employer applies first, then employee applies at consulate. Highly regulated.",
+    "content": "Non-EU citizens need a work visa (visado de trabajo) to work legally in Spain. The process is employer-driven: (1) The Spanish employer applies for a work permit (autorización de trabajo) at the Spanish labor authority. (2) If approved (4-8 weeks), the employer receives an authorization number. (3) The employee applies for the work visa at the Spanish consulate in their home country, using the authorization number. Required documents: passport, work contract, employer authorization, criminal record check (apostilled), medical certificate, visa fee (€80-160). Processing: 2-4 weeks after employer authorization. Visa allows entry to Spain within 90 days. Once in Spain, apply for the TIE within 30 days. Special programs: (1) Highly Qualified Professional (HQP) visa — fast-track for tech, science, and management roles, 10-day processing. (2) EU Blue Card — for highly paid professionals, gives EU-wide mobility. (3) Ley de Startups (2023) — special 24% flat tax rate for digital nomads and remote workers moving to Spain. (4) Seasonal worker visa — for agriculture, hospitality, tourism. EU citizens don't need a visa — just register with the local authorities.",
+    "official_url": "https://www.exteriores.gob.es/en/ServiciosAlCiudadano/Paginas/InformacionParaExtranjeros.aspx",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "visas",
+      "work",
+      "non-eu",
+      "hqp",
+      "blue-card"
+    ],
+    "related_records": [
+      "freelancing-spain",
+      "residencia-permit-spain",
+      "schengen-visa-us",
+      "teach-english-spain"
+    ]
+  },
+  {
+    "id": "tipping-spain",
+    "title": "Tipping Culture in Spain",
+    "category": "essentials",
+    "subcategory": "money",
+    "summary": "Tipping is optional in Spain. Restaurants: round up or 5-10%. Taxis: round up. Hotels: €1-2 per service.",
+    "content": "Tipping (propina) in Spain is optional and not expected — Spanish workers are paid a living wage, unlike in the US. However, it's appreciated for good service. Guidelines: (1) Restaurants — round up to the nearest euro or leave 5-10% for good service. At tapas bars, leave the small change (€0.50-1). For a €50 dinner, €2-5 tip is generous. (2) Taxis — round up to the nearest euro. For a €12.50 fare, pay €13. For exceptional service (heavy luggage, English conversation), €1-2 extra. (3) Hotels — €1-2 for the porter if they carry your bags, €1-2 per night for housekeeping (leave on the pillow). (4) Hairdressers — €1-3 for the person who cuts your hair. (5) Tour guides — €5-10 for a free walking tour (this is how they earn money), €2-5 for a paid tour if exceptional. (6) Bars — no tip expected. Just leave the small change if you want. NEVER tip 15-20% American-style — it makes Spaniards uncomfortable and marks you as a tourist.",
+    "official_url": "https://www.esmadrid.com/en/tipping-spain",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "money",
+      "tipping",
+      "etiquette",
+      "culture"
+    ],
+    "related_records": [
+      "credit-card-acceptance",
+      "daily-budgets",
+      "euros-and-atms"
+    ]
+  },
+  {
+    "id": "vat-refund-spain",
+    "title": "VAT Refund (Tax Free Shopping)",
+    "category": "essentials",
+    "subcategory": "money",
+    "summary": "Non-EU residents can claim 15-21% VAT back on purchases over €90.15. Process: form, customs stamp, mail back.",
+    "content": "Non-EU residents can claim a VAT (IVA) refund on purchases in Spain, getting back 15-21% of the purchase price. How it works: (1) Shop at stores displaying the 'Tax Free' logo (most major stores in Salamanca and Gran Vía participate). (2) Spend €90.15 or more in a single store on the same day. (3) Ask for the 'Tax Free form' (forma Tax Free) at checkout — you'll need your passport. (4) At the airport, before check-in, go to the Aduanas (Customs) desk and get the form stamped. They may ask to see the items. (5) After customs, drop the form in the Tax Free mailbox, OR visit the Global Blue / Planet refund desk for immediate cash refund (small fee). (6) Refund arrives by credit card refund or bank transfer in 2-4 weeks. Refund amount: 15.7% of the purchase price (the 21% VAT minus processing fees). EU residents are NOT eligible. Tip: don't put tax-free purchases in checked luggage before customs — they may ask to see them.",
+    "official_url": "https://www.globalblue.com/tax-free-shopping/spain/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "money",
+      "vat",
+      "tax-free",
+      "refund",
+      "shopping"
+    ],
+    "related_records": [
+      "credit-card-acceptance",
+      "euros-and-atms",
+      "salamanca-luxury-shopping"
+    ]
+  },
+  {
+    "id": "spanish-learning-resources",
+    "title": "Spanish Learning Resources",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Apps, podcasts, textbooks for learning Spanish. Duolingo (free), Babbel, Coffee Break Spanish podcast, Assimil.",
+    "content": "Recommended resources for learning Spanish before or during your Madrid trip: APPS: (1) Duolingo (free, English) — gamified daily lessons, 5-10 min/day, good for absolute beginners. (2) Babbel (€7-12/month) — more structured, conversation-focused. (3) Busuu (€8-12/month) — has native speaker corrections. (4) Memrise (free basic) — vocabulary building with native videos. PODCASTS: (1) Coffee Break Spanish (free) — 15-20 min lessons, great for commute. (2) Notes in Spanish (free) — conversations at 3 levels (Beginner, Intermediate, Advanced), made in Madrid by a Spanish-English couple. (3) Language Transfer (free) — Complete Spanish course, audio-only, very effective method. TEXTBOOKS: (1) Assimil Spanish — classic self-study course, 100 lessons. (2) Practice Makes Perfect series — grammar workbooks. (3) Madrigal's Magic Key to Spanish — old but excellent for English speakers. YOUTUBE: (1) SpanishPod101. (2) Butterfly Spanish — engaging teacher. (3) Hola Spanish. IN-PERSON: language schools in Madrid (Don Quijote, Eureka, Enforex — €150-300/week intensive). Free intercambios (language exchanges) at bars — see meetup.com/madrid.",
+    "official_url": "https://www.duolingo.com/learn/es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "language",
+      "spanish",
+      "learning",
+      "apps",
+      "podcasts"
+    ],
+    "related_records": [
+      "survival-spanish",
+      "language-exchanges-madrid",
+      "language-schools-madrid"
+    ]
+  },
+  {
+    "id": "language-exchanges-madrid",
+    "title": "Language Exchanges (Intercambios)",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Free language exchange meetups in Madrid. Practice Spanish with locals, help them with English. Bars and cafés.",
+    "content": "Intercambios (language exchanges) are meetups where you practice Spanish with locals and help them with English (or your native language). Free, social, and a great way to meet people. Major Madrid intercambios: (1) Madrid Babel — every Wednesday 9pm at The Dubliner (c/ San Vincente Ferrer 33, Malasaña). The original and biggest. Free entry, just buy a drink. (2) Mundo Lingo — every Thursday 9pm at different bars (check their website). Participants wear flag stickers showing what languages they speak. (3) Interpals / Conversation Exchange — online platforms to find 1-on-1 partners. (4) Meetup.com — search 'Madrid language exchange' for dozens of meetups. (5) University intercambios — Universidad Complutense and Carlos III host free exchanges for international and Spanish students. Tips: (1) Don't be shy — everyone is there to practice. (2) Spend half the time in Spanish, half in English. (3) Bring a notebook for new vocabulary. (4) Be patient with beginners. (5) Avoid the 'all English trap' — it's easy to default to English, force yourself to use Spanish.",
+    "official_url": "https://www.meetup.com/find/?keywords=language%20exchange&location=es--Madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "language",
+      "intercambio",
+      "exchange",
+      "meetup",
+      "free"
+    ],
+    "related_records": [
+      "survival-spanish",
+      "spanish-learning-resources",
+      "language-schools-madrid"
+    ]
+  },
+  {
+    "id": "language-schools-madrid",
+    "title": "Spanish Language Schools in Madrid",
+    "category": "essentials",
+    "subcategory": "communication",
+    "summary": "Intensive Spanish courses from €150/week. Top schools: Don Quijote, Enforex, Eureka, AIL Madrid.",
+    "content": "Madrid is one of the best places to learn Spanish — the accent is clear (castellano), the city is welcoming, and there are dozens of language schools. Top schools: (1) Don Quijote Madrid (Calle Duque de Liria 6, near Plaza de España) — large international chain, intensive courses 20-30 hours/week from €150-300/week, accommodations arranged. (2) Enforex (Calle de Baltasar Gracián 4, Salamanca) — similar to Don Quijote, large school, good facilities. (3) Eureka Spanish School (Calle Amaniel 14, Conde Duque) — smaller, more personal, €180/week intensive. (4) AIL Madrid (Calle Diego de León 3, Salamanca) — highly rated, fun activities included. (5) Tía Tula (Salamanca city — but worth considering if you want a smaller city). Course types: (a) Intensive (20 hours/week, €150-250). (b) Super-intensive (30 hours/week, €220-350). (c) DELE preparation (exam prep, €300+/week). (d) Private classes (€30-50/hour). (e) Summer camps for teens. Most schools offer housing with host families (€200-300/week including meals), shared apartments (€150-250/week), or student residences. Book 4+ weeks ahead for summer.",
+    "official_url": "https://www.donquijote.org/spanish-school-madrid.asp",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "language",
+      "school",
+      "spanish",
+      "intensive",
+      "course"
+    ],
+    "related_records": [
+      "survival-spanish",
+      "spanish-learning-resources",
+      "language-exchanges-madrid"
+    ]
+  },
+  {
+    "id": "tourist-scams-madrid",
+    "title": "Common Tourist Scams in Madrid",
+    "category": "essentials",
+    "subcategory": "safety",
+    "summary": "Top scams: fake petitions, rose/carnation pushers, 'found' ring, ATM helpers. Stay alert in Sol, Plaza Mayor.",
+    "content": "Madrid is generally safe, but petty scams target tourists. The big 5 to watch for: (1) Fake petition scam — usually young women with clipboards asking you to 'sign for deaf children' or similar. While you read the petition, an accomplice pickpockets you. Decline firmly and walk away. Common near Sol, Plaza Mayor, and Gran Vía. (2) Rose/carnation pushers — mostly Romani women who try to hand you a flower 'for free', then demand money aggressively. Don't accept. (3) 'Found' ring scam — someone 'finds' a gold ring on the ground in front of you, offers it to you, then demands money. Refuse and keep walking. (4) ATM helper scam — someone offers to help you at an ATM, then steals your card or watches your PIN. Always cover the keypad with your hand, refuse help. (5) Musician distraction — street musicians create a crowd, accomplices work the crowd for wallets. Keep your hand on your wallet in crowds. General safety: use a cross-body bag (not a backpack), keep your phone in a front pocket, don't flash cash, and be extra alert in Sol, Plaza Mayor, El Rastro, and on crowded Metro lines (Line 1 and 5 especially). Pickpocketing is by far the most common crime — violent crime is rare.",
+    "official_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "safety",
+      "scam",
+      "tourist",
+      "pickpocket",
+      "crime"
+    ],
+    "related_records": [
+      "embassies",
+      "emergency-numbers",
+      "lost-passport"
+    ]
+  },
+  {
+    "id": "english-speaking-doctors-madrid",
+    "title": "English-Speaking Doctors in Madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Private clinics with English-speaking doctors: Clinica Britannia, Sanitas, Ruber Internacional. €80-150/visit.",
+    "content": "For English-speaking doctors in Madrid, private clinics are your best bet (public healthcare is Spanish-only and requires registration). Top options: (1) Clinica Britannia (Calle Velázquez 28, Salamanca) — English-speaking GPs and specialists, popular with expats, €80-120/visit. (2) Sanitas (multiple locations) — Bupa-owned, English-speaking, health insurance plans from €50/month. (3) Hospital Ruber Internacional (Calle La Masó 38, Mirasierra) — top private hospital, English-speaking staff, emergency department 24/7. (4) Clinica Universidad de Navarra (Calle Marquesado de Sta. Marta 1, Concha Espina) — top research hospital, English-speaking. (5) IMC Hospitales (multiple) — English-speaking, accept international insurance. (6) Doctor Madrid (doctormadrid.es) — English-speaking house call service, €120-180/visit. Most international insurance (Cigna, Bupa, Allianz, AXA) is accepted. Bring your insurance card and ID. Emergency: 112 (free, multilingual). For minor issues, Farmacia Urgente (24-hour pharmacies, marked with green cross) can advise on over-the-counter treatment.",
+    "official_url": "https://www.clinicabritannia.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "healthcare",
+      "doctor",
+      "english-speaking",
+      "private",
+      "clinic"
+    ],
+    "related_records": [
+      "dentists-madrid",
+      "hospitals-madrid",
+      "pharmacies",
+      "public-healthcare"
+    ]
+  },
+  {
+    "id": "dentists-madrid",
+    "title": "Dentists in Madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Private dentists €50-150/visit. Public dental only for emergencies. English-speaking chains: Dentix, Vitaldent.",
+    "content": "Dental care in Madrid is private for most non-emergency work. Public dental care is only for under-18s, pregnant women, and emergencies. Top options: (1) Dentix (300+ locations across Spain) — large chain, English-speaking at central locations, free first consultation, payment plans available. Cleaning €40-60, filling €60-100, root canal €300-500. (2) Vitaldent (200+ locations) — similar to Dentix, sometimes criticized for upselling. (3) Sanitas Dental — part of Bupa, English-speaking, insurance accepted. (4) Independent English-speaking dentists: Dr. Carlos Sáenz de Santamaría (Calle Velázquez), Dr. Ana López (Calle Serrano). (5) Hospital dental emergencies — Hospital Gregorio Marañón has a 24/7 dental emergency service (Spanish only). Costs: cleaning €40-80, filling €60-120, extraction €80-150, root canal €300-600, implant €1,500-2,500. Tips: (1) Get a quote before treatment — Spanish dentists are required to provide one. (2) Negotiate — many offer 5-10% discount for cash payment. (3) For major work (implants, crowns), consider dental tourism — Hungary and Turkey are 40-60% cheaper even with flights.",
+    "official_url": "https://www.dentix.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "healthcare",
+      "dentist",
+      "dental",
+      "teeth"
+    ],
+    "related_records": [
+      "english-speaking-doctors-madrid",
+      "pharmacies",
+      "public-healthcare"
+    ]
+  },
+  {
+    "id": "hospitals-madrid",
+    "title": "Hospitals & 24h Clinics in Madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Top hospitals: Gregorio Marañón (public), Ruber Internacional (private), La Paz (public, level 1 trauma).",
+    "content": "Madrid has excellent hospitals. Top public (free with Spanish Social Security or European Health Insurance Card): (1) Hospital Universitario Gregorio Marañón (Calle Doctor Esquerdo 46) — largest in Madrid, all specialties, 24/7 emergency. (2) Hospital Universitario La Paz (Paseo de la Castellana 261) — top trauma center, pediatric ER, burns unit. (3) Hospital Universitario 12 de Octubre (Calle de Andalucía) — largest in southern Madrid. (4) Hospital Clínico San Carlos (Calle Professor Martín Lagos) — central, near University City. Top private (insurance or self-pay): (1) Hospital Ruber Internacional (Calle La Masó 38) — top private, English-speaking. (2) Hospital Universitario HM Montepríncipe — modern, English-speaking. (3) Hospital San Rafael (Calle Julio Palacios) — mid-range. (4) Hospital Vithas Madrid (multiple) — chain of private hospitals. Emergency: 112 (ambulance, free). For non-emergencies: 061 (public health advice line, Spanish). For private clinics with shorter waits: Clínica Universidad de Navarra, Hospital Universitario Quirónsalud Madrid. Bring: passport/ID, insurance card, list of medications. Public ER: expect 2-6 hour wait. Private ER: 30-60 min wait, €200-500 visit if self-pay.",
+    "official_url": "https://www.comunidad.madrid/servicios/salud/centros-sanitarios",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "healthcare",
+      "hospital",
+      "emergency",
+      "clinic",
+      "24h"
+    ],
+    "related_records": [
+      "emergency-numbers",
+      "english-speaking-doctors-madrid",
+      "public-healthcare"
+    ]
+  },
+  {
+    "id": "universities-madrid",
+    "title": "Universities in Madrid",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "Top universities: Complutense (largest, public), Carlos III, Autonomous University, IE Business School.",
+    "content": "Madrid has 6 public universities and 9 private universities. The largest and most prestigious: (1) Universidad Complutense de Madrid (UCM) — public, founded 1293, 80,000+ students, main campus at Ciudad Universitaria (Moncloa). Strong in humanities, sciences, medicine. Tuition: €1,500-2,000/year for EU, €4,000-6,000 for non-EU. (2) Universidad Carlos III de Madrid (UC3M) — public, founded 1989, campuses in Getafe and Leganés. Strong in business, law, engineering. Has English-taught programs. (3) Universidad Autónoma de Madrid (UAM) — public, campus in Cantoblanco (15km north). Strong in sciences, philosophy, law. (4) Universidad Politécnica de Madrid (UPM) — public, top engineering school. (5) IE University / IE Business School — private, ranked top in Europe for MBA. €35,000+/year. (6) Universidad Pontificia Comillas (ICADE-ICAI) — private, Catholic, top for law and business. (7) Universidad Europea de Madrid (UEM) — private, modern campus. Application: public universities via Spanish university entrance exam (Selectividad) or via international qualifications (IB, A-Levels, AP). Erasmus students: apply through your home university. Tuition is much cheaper than US/UK — even for non-EU students.",
+    "official_url": "https://www.ucm.es/english",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "education",
+      "university",
+      "college",
+      "study"
+    ],
+    "related_records": [
+      "bilingual-schools-madrid",
+      "language-schools-madrid",
+      "student-visa-spain"
+    ]
+  },
+  {
+    "id": "bilingual-schools-madrid",
+    "title": "Bilingual & International Schools",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "English-language schools for expat children: King's College, Runnymede, Hastings School, ICS. €6,000-15,000/year.",
+    "content": "For expat families, Madrid has many bilingual and international schools (British, American, IB curriculum). British schools (most popular): (1) King's College Madrid (Soto de Viñuelas) — British curriculum, GCSEs/A-Levels, €10,000-14,000/year. (2) Runnymede College (La Moraleja) — British, highly regarded, €9,000-13,000/year. (3) Hastings School (multiple campuses) — British, €8,000-12,000/year. (4) The British Council School (Somosaguas) — bilingual, €8,000-12,000. American schools: (1) International College Spain (ICS, La Moraleja) — American + IB, €12,000-16,000. (2) American School of Madrid (Pozuelo) — American, €12,000-18,000. IB schools: (1) Colegio San Patricio (La Moraleja) — IB, €8,000-12,000. (2) SEK International School (Ciudalcampo) — IB, €7,000-11,000. Spanish bilingual schools (public): Madrid's public bilingual program (Spanish-English) is well-regarded — many public schools now offer 30-50% of classes in English. Free for residents, but quality varies by neighborhood. Application: start 12+ months ahead — top schools have waiting lists. Most require an entrance assessment and prior school records. School year: September to June.",
+    "official_url": "https://www.esmadrid.com/en/international-schools-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "education",
+      "school",
+      "bilingual",
+      "international",
+      "children"
+    ],
+    "related_records": [
+      "universities-madrid",
+      "language-schools-madrid",
+      "escuela-oficial-idiomas"
+    ]
+  },
+  {
+    "id": "language-schools-madrid-education",
+    "title": "Escuela Oficial de Idiomas (EOI)",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "Spain's official language schools. Cheap (€200-300/year) but hard to get a place. Languages: English, French, German, Chinese.",
+    "content": "The Escuelas Oficiales de Idiomas (EOI) are Spain's official government language schools, with 16 locations in the Madrid region. They offer affordable, certified language courses in English, French, German, Italian, Chinese, Arabic, Japanese, and more. Pros: (1) Cheap — €200-300/year (vs €1,000+ at private schools). (2) Certified — certificates are recognized across Spain and the EU. (3) Experienced teachers — all are civil servants with rigorous training. (4) Many locations — there's likely one near you. Cons: (1) Hard to get in — demand far exceeds supply, registration is first-come-first-served in September, often sells out in hours. (2) Levels — must start at A1 unless you pass a placement test (rare openings at higher levels). (3) Pace — slow, 4-6 years to reach B2. (4) Schedule — classes 2-3 evenings per week, not intensive. Madrid EOI locations: Escuela Oficial de Idiomas Madrid (Calle Daoíz 7, near Menéndez Pelayo Metro), Escuela Oficial de Idiomas Madrid-Jesús Maestro (Calle Jesús Maestro 8), and others in Alcalá, Móstoles, Alcorcón, etc. Registration: September, via their website (eoidiomas.com). Alternative: private language schools (more flexible, more expensive).",
+    "official_url": "https://www.eoidiomas.com/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "education",
+      "language",
+      "eoi",
+      "official",
+      "school"
+    ],
+    "related_records": [
+      "escuela-oficial-idiomas",
+      "language-schools-madrid",
+      "universities-madrid"
+    ]
+  },
+  {
+    "id": "museo-arqueologico-madrid",
+    "title": "National Archaeological Museum (MAN)",
+    "category": "see",
+    "subcategory": "museums",
+    "summary": "Spain's archaeological treasures: Iberian sculptures, Roman mosaics, Visigothic gold. €3, free Sat afternoon + Sun morning.",
+    "content": "The Museo Arqueológico Nacional (MAN) is Spain's premier archaeology museum, located at Calle Serrano 13 (next to the National Library, Metro Serrano L4). Founded in 1867, it was completely renovated in 2014. Collection highlights: (1) The Lady of Elche (Dama de Elche) — famous 4th century BC Iberian bust. (2) Lady of Baza — another Iberian sculpture. (3) Treasure of Guarrazar — Visigothic gold votive crowns (7th century). (4) Roman mosaics from around Spain. (5) Egyptian mummies and artifacts (small collection). (6) Greek vases. (7) Islamic Spain artifacts. The museum is excellent for understanding Spain's deep history — pre-Roman, Roman, Visigothic, Islamic, and medieval Christian. Admission: €3, free on Saturday afternoons (from 2pm) and Sunday mornings (until 2pm). Free for everyone under 18, over 65, students, teachers. Open Tue-Sat 9:30am-8pm, Sun 9:30am-3pm. Closed Mondays, Dec 25, Jan 1, Jan 6. Audio guide €2. Plan 2-3 hours. Café and gift shop on site. Combine with the National Library next door (free entry, beautiful building).",
+    "official_url": "https://www.man.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "museums",
+      "archaeology",
+      "history",
+      "ibero-roman",
+      "free"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "salamanca-neighborhood"
+    ]
+  },
+  {
+    "id": "museo-sorolla",
+    "title": "Museo Sorolla (Painter's House)",
+    "category": "see",
+    "subcategory": "museums",
+    "summary": "The house-museum of Joaquín Sorolla, Madrid's impressionist. Beautiful garden, Andalusian patio. €3, free Sundays.",
+    "content": "The Museo Sorolla is the former house and studio of Joaquín Sorolla (1863-1923), Spain's foremost impressionist painter. Located at Paseo del General Martínez Campos 37 (Metro Iglesia L1 or Rubén Darío L5), in Chamberí. Sorolla is known for his luminous beach scenes, gardens, and portraits of Spanish life. The museum preserves his house as it was when he lived there — three floors of paintings, sculptures, ceramics, and personal items, plus a stunning Andalusian-style garden with a fountain and tiles (the garden alone is worth the visit — it's an oasis of calm in central Madrid). Collection: 1,300+ paintings, including 'Sad Inheritance' (the polio children on the beach), 'Walk on the Beach' (his wife and daughter on the Valencia shore), and many portraits of Spanish high society. Admission: €3, free on Sunday mornings (until 2pm). Open Tue-Sat 9:30am-8pm, Sun 10am-3pm. Closed Mondays. Plan 1-1.5 hours. Small museum, intimate atmosphere. Tip: visit on Sunday morning (free + less crowded) and have lunch at a tapas bar on nearby Calle Ponzano afterwards.",
+    "official_url": "https://www.culturaydeporte.gob.es/msorolla/en/home.html",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "museums",
+      "sorolla",
+      "impressionism",
+      "house-museum",
+      "garden"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "chamberi-neighborhood",
+      "retiro-park"
+    ]
+  },
+  {
+    "id": "museo-thyssen-bornemisza-detail",
+    "title": "Thyssen-Bornemisza Museum (Detail Guide)",
+    "category": "see",
+    "subcategory": "museums",
+    "summary": "8 centuries of European art in chronological order. Duccio, Van Eyck, Caravaggio, Hopper. €13. Free Mon noon-4pm.",
+    "content": "The Museo Nacional Thyssen-Bornemisza is the third museum in Madrid's 'Golden Triangle of Art' (with Prado and Reina Sofía). Located at Paseo del Prado 8 (Metro Banco de España L2). The collection was assembled by the Thyssen-Bornemisza family over 2 generations and bought by Spain in 1993. It fills the gap between the Prado (pre-19th century) and Reina Sofía (20th century): the Thyssen covers the 13th to 20th centuries chronologically, with works by Duccio, Van Eyck, Caravaggio, Rembrandt, Monet, Degas, Van Gogh, Picasso, Matisse, Hopper, Bacon, and more. Don't miss: (1) Van Eyck's 'Diptych of the Annunciation' (1433). (2) Caravaggio's 'Saint Catherine of Alexandria' (1598). (3) Hopper's 'Hotel Room' (1931) — rare Hopper in Europe. (4) The Impressionist rooms (rooms 41-44). (5) The Pop Art collection (room 50). Admission: €13 general, €11 reduced. Free on Monday 12pm-4pm (queue early). Open Tue-Sun 10am-7pm (until 9pm in summer). Closed Jan 1, May 1, Dec 25. Audio guide €5 (or use Smartify app free). Plan 2-3 hours. The café on the ground floor is excellent. Tip: combine with Prado (5 min walk) and Reina Sofía (10 min walk) for the 'Golden Triangle' in one day.",
+    "official_url": "https://www.museothyssen.org/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "museums",
+      "thyssen",
+      "art",
+      "painting",
+      "golden-triangle"
+    ],
+    "related_records": [
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "retiro-neighborhood"
+    ]
+  },
+  {
+    "id": "puerta-de-alcala",
+    "title": "Puerta de Alcalá",
+    "category": "see",
+    "subcategory": "architecture",
+    "summary": "18th century triumphal arch at Plaza de la Independencia. Free. One of Madrid's most iconic landmarks.",
+    "content": "The Puerta de Alcalá is one of Madrid's most iconic landmarks — a 18th-century triumphal arch at Plaza de la Independencia, at the east end of Calle Alcalá where it meets Retiro Park. Built in 1778 by King Charles III, designed by Italian architect Francesco Sabatini (the same architect who finished the Royal Palace). It was once the eastern gate of the city walls — the road to Alcalá de Henares (and beyond to Zaragoza and Barcelona) started here. The arch has 5 archways (3 main + 2 smaller) — the design was revolutionary for its time. Fun fact: it appears on the Spanish €0.05 coin minted in 2014 (the first Spanish coin to feature a Madrid monument). Best photos: from Plaza de la Independencia at sunset, with the arch lit up golden. The arch is FREE to admire from outside — you can't go inside. Combine with: Retiro Park (just behind it), the National Library and Archaeological Museum (10 min walk north), and the Cybele Palace (10 min walk west). Metro: Retiro (L2), Banco de España (L2), Príncipe de Vergara (L2, L9).",
+    "official_url": "https://www.esmadrid.com/en/puerta-de-alcala",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "landmarks",
+      "arch",
+      "puerta-de-alcala",
+      "free",
+      "historic"
+    ],
+    "related_records": [
+      "retiro-park",
+      "retiro-neighborhood",
+      "puerta-del-sol",
+      "gran-via"
+    ]
+  },
+  {
+    "id": "temple-debod",
+    "title": "Temple of Debod (Egyptian Temple)",
+    "category": "see",
+    "subcategory": "architecture",
+    "summary": "Ancient Egyptian temple gifted to Spain in 1968. Free. Best sunset views in Madrid from the surrounding park.",
+    "content": "The Temple of Debod is an ancient Egyptian temple in Parque del Oeste, western Madrid. It was built in the 2nd century BC in southern Egypt, near Aswan. When the Aswan Dam threatened to flood it in 1960, UNESCO led a campaign to save Egypt's monuments. Spain helped, and in gratitude Egypt gifted the Temple of Debod to Spain in 1968. It was reconstructed in Madrid and opened to the public in 1972. The temple is FREE to visit inside (timed entry, small queue). Inside: photographs documenting the temple's history, original hieroglyphics, and a small chapel. Open Tue-Sun 10am-8pm (Oct-Mar until 6pm). Closed Mondays, Jan 1, May 1, Dec 25. The surrounding park (Parque del Oeste) has the BEST sunset views in Madrid — arrive 30-45 min before sunset, find a spot on the hillside above the temple, and watch the sun set behind the Royal Palace and the Sierra de Guadarrama mountains. Bring wine and snacks — locals do this every evening. Metro: Plaza de España (L3, L10), Ventura Rodríguez (L3). Free.",
+    "official_url": "https://www.esmadrid.com/en/temple-debod",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "landmarks",
+      "temple",
+      "egyptian",
+      "sunset",
+      "free",
+      "park"
+    ],
+    "related_records": [
+      "arguelles-moncloa-neighborhood",
+      "royal-palace",
+      "casa-de-campo"
+    ]
+  },
+  {
+    "id": "segovia-day-trip",
+    "title": "Segovia Day Trip (Roman Aqueduct)",
+    "category": "see",
+    "subcategory": "day-trips",
+    "summary": "UNESCO city 90km NW of Madrid. Roman aqueduct (2,000 years old), Alcázar castle, cathedral. 30 min by AVE train.",
+    "content": "Segovia is a UNESCO World Heritage city 90km northwest of Madrid, perfect for a day trip. The journey: 30 minutes by AVE high-speed train from Madrid-Chamartín (€15-25 one-way, book ahead for cheapest fares) or 1 hour 15 min by bus 621 from Moncloa (€8 one-way, every 30 min). Once there, the historic center is walkable. Top sights: (1) The Roman Aqueduct — 2,000 years old, 818m long, 28m tall at its highest point, built without mortar. Free, can't miss it (it dominates the Plaza del Azoguejo). (2) Alcázar of Segovia — fairy-tale castle said to have inspired Disney's Cinderella castle. €8 entry. (3) Segovia Cathedral — last Gothic cathedral built in Spain (1525-1768). €7 entry. (4) Casa de los Picos — Renaissance house with a facade of 617 pyramid-shaped stones. (5) Jewish Quarter (Judería) — narrow streets, the Jewish Education Center, and the Corpus Christi church (formerly a synagogue). Local food: cochinillo asado (roast suckling pig) at Mesón de Cándido (next to the aqueduct) — touristy but iconic. Allow 6-8 hours total. Tip: book the AVE train ahead — same-day tickets can be €60+.",
+    "official_url": "https://www.esmadrid.com/en/day-trips/segovia",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "day-trips",
+      "segovia",
+      "aqueduct",
+      "unesco",
+      "roman"
+    ],
+    "related_records": [
+      "ave-high-speed-trains",
+      "chamartin-station",
+      "day-tours-from-madrid",
+      "toledo"
+    ]
+  },
+  {
+    "id": "el-escorial-day-trip",
+    "title": "El Escorial Day Trip",
+    "category": "see",
+    "subcategory": "day-trips",
+    "summary": "Royal monastery-palace 45km NW of Madrid. Philip II's 16th century masterpiece. Royal tombs, library, basilica.",
+    "content": "San Lorenzo de El Escorial is a small town 45km northwest of Madrid, famous for the Royal Monastery of El Escorial — the monumental palace-monastery built by Philip II between 1563 and 1584. UNESCO World Heritage Site. The journey: 1 hour by Cercanías C8 train from Madrid-Atocha or Chamartín to El Escorial station (€5.60 one-way), then a 15-minute walk up the hill to the monastery. Or 1 hour by bus 661/662 from Moncloa (€4.20 one-way). Top sights: (1) The Royal Monastery (€12 entry, includes guided tour of the palace) — see our separate El Escorial record for full details. (2) Valle de los Caídos (Valley of the Fallen) — controversial 150m-tall stone cross and basilica built into the mountain by Franco, 9km north. €8 entry. Reachable by taxi or a long hike. (3) Casita del Príncipe and Casita de Arriba — small palaces built by Charles III for his sons, in the gardens. €3 each. (4) The historic town of San Lorenzo — small, walkable, with good tapas. Allow 5-7 hours total. Best time: spring or fall (summer is hot, winter is cold at 1,000m altitude). Tip: pack a picnic — the restaurants near the monastery are overpriced.",
+    "official_url": "https://www.patrimonionacional.es/en/visit/royal-monastery-san-lorenzo-el-escorial",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "day-trips",
+      "el-escorial",
+      "monastery",
+      "royal",
+      "philip-ii"
+    ],
+    "related_records": [
+      "el-escorial-monastery",
+      "day-tours-from-madrid",
+      "segovia-day-trip",
+      "renfe-trains"
+    ]
+  },
+  {
+    "id": "cocido-madrileno",
+    "title": "Cocido Madrileño (Traditional Stew)",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Madrid's signature dish: chickpea stew with pork, chorizo, vegetables. Served 3 courses. Try at Malacatín or La Bola.",
+    "content": "Cocido madrileño is Madrid's signature dish — a hearty chickpea stew with pork, chorizo, morcilla (blood sausage), bacon, potato, cabbage, and carrot. Traditionally served in 3 courses (vuelcos): (1) First course: the broth (caldo) as a soup, often with thin noodles (fideos). (2) Second course: the vegetables (chickpeas, potato, cabbage, carrot). (3) Third course: the meats (chicken, beef, pork, chorizo, morcilla). The traditional way to eat it is in order, with the broth first. Where to try: (1) Malacatín (Calle de la Ruda 5, La Latina) — since 1895, the most traditional. €18. (2) La Bola (Calle de la Bola 5, near Ópera) — since 1870, family-run for 5 generations, cooked in individual clay pots. €22. (3) Taberna de la Daniela (Calle General Castaños 1, Salamanca) — elegant version. €24. (4) Casa Carola (Calle Padre Damian 19, Salamanca) — modern, all-you-can-eat style. €20. (5) Lhardy (Carrera de San Jerónimo 8) — historic restaurant (1839), elegant. €28. Cocido is a winter dish — most restaurants serve it only Tue/Thu/Sat (traditional days). Tip: don't eat breakfast before a cocido lunch — you'll need the space. Vegetarian versions exist at some places — ask.",
+    "official_url": "https://www.esmadrid.com/en/cocido-madrileno",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "food",
+      "cocido",
+      "stew",
+      "traditional",
+      "chickpea"
+    ],
+    "related_records": [
+      "vermouth-madrid",
+      "mercado-san-miguel",
+      "food-tours-madrid"
+    ]
+  },
+  {
+    "id": "atletico-madrid-wanda-metropolitano",
+    "title": "Atlético Madrid & Metropolitano Stadium",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Atlético Madrid, Real's cross-city rivals. Metropolitano stadium (east Madrid). Tour €19. Match tickets €20-150.",
+    "content": "Club Atlético de Madrid is Real Madrid's cross-city rival, with 11 La Liga titles and 3 Europa League titles. Their home since 2017 is the Cívitas Metropolitano stadium (Calle Arquitectura 1, near Estadio Metropolitano Metro L7), capacity 67,829. The stadium is modern and family-friendly. Stadium Tour: €19 adult, €13 child. Includes: dressing room, players' tunnel, pitch side, press room, trophy room, and panoramic views. Open Tue-Sun 11am-7pm (varies on match days). Allow 1.5-2 hours. Match tickets: La Liga €20-150 (cheaper than Real Madrid). Champions League €30-200. Buy at clubatleticodemadrid.com or at the stadium. Atlético fans are considered more working-class and passionate than Real's — the atmosphere at the Metropolitano is intense. Best matches to attend: vs Real Madrid (the Madrid Derby, very hard to get tickets), vs Barcelona, or European nights. The stadium is in the eastern suburbs — take Metro L7 to Estadio Metropolitano (25 min from Sol, €1.50-3). The stadium area has bars and restaurants for pre-match. Tip: buy tickets at least 1-2 weeks ahead for big matches. The stadium is cashless.",
+    "official_url": "https://www.atleticodemadrid.com/en",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "sports",
+      "football",
+      "atletico-madrid",
+      "metropolitano",
+      "stadium"
+    ],
+    "related_records": [
+      "real-madrid-bernabeu",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "malasana-bars-nightlife",
+    "title": "Malasaña Bars & Craft Beer",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Madrid's hipster nightlife hub. Craft beer at Fábrica Maravillas, cocktails at 1862 Dry, indie at Tupperware.",
+    "content": "Malasaña is Madrid's hipster nightlife hub — craft beer bars, cocktail bars, indie clubs, and late-night cafés. Top spots: (1) Fábrica Maravillas (Calle Valverde 44) — Madrid's first craft beer bar, 12 rotating taps from Spanish microbreweries. €4-6/pint. Open 5pm-2am. (2) 1862 Dry (Calle Pez 21) — cocktail bar, prohibition-era style, excellent cocktails €10-14. Open 7pm-2am. (3) Tupperware (Calle Corredera Alta de San Pablo 2) — indie/alternative club, 80s/90s music, kitsch decor, €5 entry + drinks. Open 11pm-3am. (4) La Vía Láctea (Calle Velarde 18) — historic bar (1979), indie/rock, where Almodóvar filmed scenes. €8 cocktails. Open 7pm-3am. (5) Bodegas Antonio (Calle de la Puebla 13) — old-school vermouth bar, €2 vermouth + €4 tapa. (6) Ojalá (Calle San Andrés 1) — café by day, cocktail bar by night, with a beach-themed basement. Open 10am-2am. (7) Licoría (Calle Manuela Malasaña 18) — natural wine bar. Open 7pm-1am. Tip: Malasaña nightlife starts late — bars fill around 11pm, clubs after 1am. Don't arrive before 10pm. The neighborhood is walkable from Gran Vía (10 min) or Metro Bilbao (L1, L4).",
+    "official_url": "https://www.esmadrid.com/en/nightlife-malasana",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "nightlife",
+      "malasana",
+      "bars",
+      "craft-beer",
+      "cocktails"
+    ],
+    "related_records": [
+      "malasana-neighborhood",
+      "chueca-bars-nightlife",
+      "la-latina-tapas-nightlife"
+    ]
+  },
+  {
+    "id": "chueca-bars-nightlife",
+    "title": "Chueca Cocktail Bars & LGBTQ+ Nightlife",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Cocktail bars on Calle Pérez Galdós, drag shows at LL showbar, dancing at Delirio. €10-15 cocktails.",
+    "content": "Chueca is Madrid's LGBTQ+ neighborhood with the city's best cocktail bars and most inclusive nightlife. Top spots: (1) Delirio (Calle Pérez Galdós 5) — mojitos are legendary (€10), gay-friendly, open til 3am. (2) Museo Chicote (Gran Vía 12) — historic cocktail bar (1931), Hemingway, Grace Kelly, and Ava Gardner drank here. €12-16 cocktails. Open 11am-2am. (3) LL Showbar (Calle Pérez Galdós 8) — drag shows nightly at midnight, free entry, drinks €8-12. (4) Black & White (Calle de la Libertad 8) — oldest gay club in Madrid (since 1967), drag shows, two dance floors. €10 entry. Open midnight-6am. (5) Hot (Calle de la Cruz 13) — gay club, electronic music, €10 entry. (6) Ansía (Calle Pérez Galdós 5) — lesbian-friendly bar, €8 cocktails. (7) El Cachondeo (Calle de la Puebla 25) — Latin drag shows, free entry, drinks €6. Madrid Pride (MADO) at end of June / early July is the year's biggest event — Chueca becomes a massive street party for 5 days. Tips: drinks are pricier here than in Malasaña, but the atmosphere is unmatched. Bring cash — some bars don't accept cards for drinks under €10.",
+    "official_url": "https://www.esmadrid.com/en/nightlife-chueca",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "nightlife",
+      "chueca",
+      "cocktails",
+      "lgbtq",
+      "drag"
+    ],
+    "related_records": [
+      "chueca-neighborhood",
+      "malasana-bars-nightlife",
+      "madrid-pride"
+    ]
+  },
+  {
+    "id": "la-latina-tapas-nightlife",
+    "title": "La Latina Tapas Crawl (Cava Baja)",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Bar-hopping on Cava Baja and Cava Alta. €2-4 tapas, €3-5 drinks. Start 8pm, end at Casa Lucio for huevos.",
+    "content": "La Latina is the spiritual home of Madrid tapas culture. The main streets — Cava Baja and Cava Alta — are lined with 30+ tapas bars within a 5-minute walk. Best tapas crawl route: (1) Start at Txakolina (Cava Baja 28) — Basque pintxos, white wine. €4/pintxo. (2) Cervecería Cava Baja (Cava Baja 36) — fried fish, €4 plate. (3) Juana La Loca (Plaza Puerta de Moros 4) — famous tortilla de patatas with caramelized onions. €3/slice. (4) Casa Lucas (Cava Baja 30) — modern tapas, €5-8/plate. (5) Tomate (Cava Baja 24) — Spanish with a twist, €4-6/plate. (6) Órsula (Cava Baja 14) — vermouth + conservas. (7) End at Casa Lucio (Cava Baja 35) — historic (1975), famous for huevos estrellados (fried eggs over potatoes). €8 plate. Tips: (1) At each bar, order 1 drink + 1 tapa, then move on. (2) Ask for 'una caña' (small beer) or 'un vermut' (vermouth) — both €2-4. (3) Pace yourself — 5-6 bars is a good crawl. (4) Go on Thursday or Friday — Saturday is too crowded. (5) Start around 8pm, finish around midnight. (6) The bars are open until 1-2am if you want to keep going. Metro: La Latina (L5), 5 min walk.",
+    "official_url": "https://www.esmadrid.com/en/tapas-crawl-la-latina",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "nightlife",
+      "tapas",
+      "cava-baja",
+      "la-latina",
+      "bar-crawl"
+    ],
+    "related_records": [
+      "la-latina-neighborhood",
+      "vermouth-madrid",
+      "mercado-san-miguel",
+      "food-tours-madrid"
+    ]
+  },
+  {
+    "id": "teatro-real-madrid",
+    "title": "Teatro Real (Royal Opera House)",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Madrid's opera house, opened 1850. Opera, ballet, concerts. Tickets €20-200. Beautiful 19th century interior.",
+    "content": "The Teatro Real (Royal Theater) is Madrid's opera house, located at Plaza de Oriente (next to the Royal Palace). Opened in 1850, restored in 1997 after decades of disuse. Today it's one of Europe's top opera houses, with a season from September to July. What's on: (1) Opera — 8-10 productions per season, classics (Verdi, Puccini, Mozart) and contemporary works. Tickets €20-200. (2) Ballet — Spanish National Ballet and international companies. €25-80. (3) Concerts — Madrid Symphony Orchestra and guest orchestras. €20-80. (4) Family performances — Sunday mornings, €10-20. Tips for cheap tickets: (1) Standing room (galería) — €8-15, sold 2 hours before the show, queue early. (2) Last-minute tickets — 50% off at the box office 1 hour before the show (if available). (3) Under-35 tickets — 50% off with ID (for selected performances). (4) Live broadcast — major operas are broadcast free on screens in Plaza de Oriente and on Spanish TV. Building tour: €12, daily 10am-2pm (in English at 11:30am). Includes the auditorium, stage, royal box, and rehearsal rooms. Allow 1 hour. Dress code: smart casual for evening performances (no jeans or sneakers). Metro: Ópera (L2, L5, Ramal).",
+    "official_url": "https://www.teatroreal.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "arts",
+      "opera",
+      "teatro-real",
+      "ballet",
+      "concert"
+    ],
+    "related_records": [
+      "plaza-de-oriente",
+      "royal-palace",
+      "almudena-cathedral"
+    ]
+  },
+  {
+    "id": "the-local-spain",
+    "title": "The Local Spain",
+    "category": "now",
+    "subcategory": "news",
+    "summary": "English-language news for Spain's expat community. Daily updates on politics, lifestyle, and practical matters.",
+    "content": "The Local Spain (thelocal.es) is the Spanish edition of The Local, a European English-language news network (also covers Sweden, Germany, France, Italy, etc.). It's the best daily source for English-language Spanish news with an expat lens. Coverage: Spanish news with context for English-speaking readers, practical guides (visas, taxes, driving licenses), language learning tips, food and travel. Editorial style: accessible, often click-bait-y headlines, but content is solid. Sections: News, Politics, Spain in Focus (deep dives), Lifestyle, Word of the Day (Spanish vocabulary), Members (paid tier with extra content €5/month). Email newsletter: free daily summary. Social: @TheLocalSpain on Twitter and Facebook. Useful features: (1) Member-only guides on Spanish bureaucracy (visas, NIE, empadronamiento). (2) 'Spain in Numbers' weekly data feature. (3) Job board (jobs.thelocal.es). (4) Forum (members.thelocal.es). Criticism: can be sensationalist, headline-driven. For balanced reading, pair with El País English (center-left) and Reuters Spain (international, neutral).",
+    "official_url": "https://www.thelocal.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "news",
+      "the-local",
+      "english",
+      "expat",
+      "media"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "madrid-english-radio"
+    ]
+  },
+  {
+    "id": "madrid-english-radio",
+    "title": "English-Language Radio in Madrid",
+    "category": "now",
+    "subcategory": "news",
+    "summary": "English radio: RNE 5 Live (BBC World Service), Talk Radio Europe (Costa del Sol-based).",
+    "content": "English-language radio in Madrid is limited — most English programming is via internet streams. Options: (1) Radio Nacional de España (RNE) 5 — Radio 5 Todo Noticias broadcasts BBC World Service in English overnight (1am-6am CET) on 106.5 FM in Madrid. (2) Talk Radio Europe (TRE) — based on the Costa del Sol but broadcasts nationwide in English via internet stream (talkradioeurope.com). News, talk, music, interviews. Live 7am-9pm CET. (3) BBC World Service — available via internet stream (bbc.co.uk/worldserviceradio) or DAB+ radio (in some areas). 24/7 English-language news. (4) NPR (US public radio) — internet stream, 24/7. (5) Voice of America — internet stream. For Spanish learners: RNE Radio 3 (cultural programming, indie music), RNE Radio Clásica (classical music), Cadena SER (news). Spanish radio is excellent for language immersion — try listening to Onda Cero or COPE for news, Los 40 for pop music, Cadena Dial for Spanish music. Tip: download the TuneIn Radio app (free) for access to all these stations in one place.",
+    "official_url": "https://www.rtve.es/play/radio/rne5/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "news",
+      "radio",
+      "english",
+      "bbc",
+      "media"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "the-local-spain"
+    ]
+  },
+  {
+    "id": "madrid-today-events",
+    "title": "Madrid Today — Current Events Source",
+    "category": "now",
+    "subcategory": "news",
+    "summary": "Where to find what's happening today in Madrid. esMadrid, Madrid Secreto, Metropolis Magazine.",
+    "content": "For 'what's happening today in Madrid' news, these are the best sources: (1) esMadrid (esmadrid.com/en) — official Madrid tourism site, daily updated events calendar, English version. Best for major events, exhibitions, festivals. Free. (2) Madrid Secreto (madridsecreto.co) — Spanish-language city blog, hidden events, pop-ups, neighborhood news. Excellent but Spanish only — use Google Translate. (3) Metrópoli (metropoliabierta.eleconomista.es) — El Economista's culture section, restaurant openings, nightlife. Spanish. (4) El País Madrid section (elpais.com/elpais/madrid) — Madrid-specific news from Spain's top paper. (5) Time Out Madrid (timeout.com/madrid) — English-language, restaurant and event reviews. (6) Madrid No Frills (madridnofrills.com) — independent blog, authentic cheap eats, hidden gems. English. (7) Madrid Foodie (madridfoodie.com) — restaurant reviews, food events. Spanish/English. (8) La Latina Verbena (laveraverbena.com) — neighborhood festival calendar. (9) Madrid.org official events — official city events calendar. For day-of-event planning: check esMadrid first (most comprehensive, English), then Madrid Secreto for hidden events. For weekend planning: Time Out Madrid and Madrid Foodie. Email newsletters: esMadrid weekly (free), Madrid Secreto weekly (free).",
+    "official_url": "https://www.esmadrid.com/en/whats-on",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-20",
+    "tags": [
+      "news",
+      "events",
+      "today",
+      "calendar",
+      "what-to-do"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "the-local-spain",
+      "madrid-tourist-offices"
     ]
   }
 ]

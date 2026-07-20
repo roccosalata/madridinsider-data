@@ -42,6 +42,13 @@
         "summary": "112, hospitals, embassies, lost passport, police."
       },
       {
+        "id": "tourist-info",
+        "slug": "tourist-info",
+        "title": "Tourist Information",
+        "icon": "ℹ️",
+        "summary": "Official tourist offices, Madrid City Card, visitor centers, airport info desks, apps."
+      },
+      {
         "id": "connectivity",
         "slug": "connectivity",
         "title": "Connectivity",
