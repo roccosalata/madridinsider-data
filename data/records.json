@@ -48,10 +48,12 @@
     ],
     "related_records": [
       "airport-express-bus-203",
+      "airport-shuttle-services-madrid",
       "airport-transfers-private",
       "atocha-station",
       "emt-buses",
       "left-luggage",
+      "left-luggage-airport",
       "major-airlines-madrid",
       "metro-de-madrid",
       "ride-sharing-madrid",
@@ -80,6 +82,7 @@
       "chamartin-station",
       "intercity-buses",
       "left-luggage",
+      "left-luggage-atocha",
       "metro-de-madrid",
       "museo-reina-sofia",
       "renfe-trains",
@@ -106,6 +109,8 @@
     "related_records": [
       "atocha-station",
       "ave-high-speed-trains",
+      "left-luggage",
+      "left-luggage-chamartin",
       "metro-de-madrid",
       "renfe-trains"
     ],
@@ -156,21 +161,22 @@
       "emt-buses",
       "madrid-barajas-airport",
       "metro-de-madrid",
-      "ride-sharing-madrid"
+      "ride-sharing-madrid",
+      "taxi-companies-madrid"
     ],
     "subsubcategory": "Taxis & Ride-Sharing"
   },
   {
     "id": "left-luggage",
-    "title": "Left Luggage (Consignas)",
-    "category": "essentials",
-    "subcategory": "transportation",
-    "summary": "Available at Atocha, Chamartín, and Barajas T2/T4. €4–6 per bag per day.",
-    "content": "Lockers and staffed counters at all three. Atocha has the most options and is open longer. Useful for day trips where you want to drop bags after checkout or before check-in.",
+    "title": "Left Luggage (Consignas) — All Stations",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Left luggage facilities at Madrid's main transit hubs: Atocha, Chamartín, Barajas Airport, Méndez Álvaro bus station. €3-6/day.",
+    "content": "Left luggage (consignas) facilities in Madrid are located at the main transit hubs. This is the master record — see related records for location-specific details. LOCATIONS: (1) Atocha Station — consignas on the ground floor near the tropical garden, €3.90/day per bag (size S/M), €5.50/day (size L). Open 5:30am-10:30pm daily. (2) Chamartín Station — consignas near the VIPS café, same pricing. Open 6am-11pm. (3) Barajas Airport — left luggage at T1 (4€/bag/day) and T4 (5.50€/bag/day), open 24/7. (4) Méndez Álvaro Bus Station (Estación Sur) — left luggage, €3/day. Open 6am-midnight. PRICES: €3-6 per bag per day depending on size and location. Pay by cash or card. SECURITY: all facilities are staffed and CCTV-monitored. Bags are X-rayed. ID required (passport). Tips: (1) Don't leave valuables, electronics, or important documents in left luggage. (2) Take a photo of your bag before leaving it. (3) Keep your claim ticket safe — losing it means a long ID verification process. (4) Some facilities have size limits (max 80cm). (5) For longer-term storage (weeks/months), see our Public Storage (Trasteros) record.",
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "tags": [
       "transport",
       "luggage"
@@ -181,7 +187,7 @@
       "madrid-barajas-airport",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Driving & Practical"
+    "subsubcategory": "Storage & Lockers"
   },
   {
     "id": "renfe-trains",
@@ -2376,6 +2382,8 @@
     ],
     "related_records": [
       "intercity-buses",
+      "left-luggage",
+      "left-luggage-bus-station",
       "metro-de-madrid"
     ],
     "subsubcategory": "Intercity Buses & Coaches"
@@ -6419,10 +6427,12 @@
       "long-distance"
     ],
     "related_records": [
-      "intercity-buses",
       "bus-stations-madrid",
-      "metro-de-madrid",
-      "cercanias-madrid"
+      "cercanias-madrid",
+      "intercity-buses",
+      "left-luggage",
+      "left-luggage-bus-station",
+      "metro-de-madrid"
     ]
   },
   {
@@ -6749,6 +6759,272 @@
       "walking-maps-madrid",
       "sol-gran-via-neighborhood",
       "malasana-neighborhood"
+    ]
+  },
+  {
+    "id": "left-luggage-airport",
+    "title": "Left Luggage at Barajas Airport",
+    "category": "living",
+    "subcategory": "services",
+    "subsubcategory": "Storage & Lockers",
+    "summary": "Left luggage at Madrid-Barajas Airport. T1 and T4. €4-5.50/bag/day. Open 24/7.",
+    "content": "Barajas Airport has left luggage (consignas) at two terminals. T1 (Terminal 1): located in the arrivals area, near parking P1. €4/bag/day (any size). Open 24/7. T4 (Terminal 4): located in the arrivals area, level 0. €5.50/bag/day. Open 24/7. T2 and T3 do NOT have left luggage — walk to T1 (5 min covered walkway). PRICES: T1 €4/bag/day, T4 €5.50/bag/day. Pay by cash or card. Maximum bag size: 80cm x 50cm x 30cm. SECURITY: bags are X-rayed before storage. ID required (passport). Staffed 24/7 with CCTV. TIPS: (1) The airport is the most expensive left luggage in Madrid — only use it if you have a layover. (2) For sightseeing before a flight, consider left luggage at Atocha (€3.90/day) instead — cheaper and closer to the center. (3) Allow 15-20 min for drop-off and pickup during peak hours. (4) Don't leave electronics, documents, or valuables. (5) Take a photo of your bag and keep the claim ticket. See also our master Left Luggage record and the Barajas Airport record.",
+    "official_url": "https://www.aena.es/en/passengers/madrid-barajas-airport/passenger-services/left-luggage.html",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "left-luggage",
+      "airport",
+      "barajas",
+      "storage"
+    ],
+    "related_records": [
+      "madrid-barajas-airport",
+      "left-luggage",
+      "left-luggage-atocha"
+    ]
+  },
+  {
+    "id": "left-luggage-atocha",
+    "title": "Left Luggage at Atocha Station",
+    "category": "living",
+    "subcategory": "services",
+    "subsubcategory": "Storage & Lockers",
+    "summary": "Left luggage at Atocha train station. €3.90-5.50/bag/day. Open 5:30am-10:30pm. Near the tropical garden.",
+    "content": "Atocha Station has the most convenient left luggage in central Madrid. LOCATION: ground floor, near the tropical garden (the old station hall with 4,000 plants). Follow signs for 'Consignas'. PRICES: €3.90/bag/day (size S/M, up to 60cm), €5.50/bag/day (size L, over 60cm). Pay by cash or card. HOURS: 5:30am-10:30pm daily (last drop-off 10pm, last pickup 10:30pm). SECURITY: bags are X-rayed. ID required (passport or NIE). Staffed with CCTV. MAXIMUM STAY: 30 days (then bags are sent to lost property). TIPS: (1) Atocha is the best option for sightseeing — central location, near the Prado and Reina Sofía. (2) Arrive early (before 9am) to avoid lines — cruise ship groups and tour buses use this facility. (3) The tropical garden is free to visit while you wait. (4) Don't leave valuables or electronics. (5) Keep your claim ticket — losing it requires ID verification and a 30+ min wait. (6) For longer storage, see Public Storage (Trasteros). (7) Atocha also has a VIP luggage service (left luggage + delivery to your hotel) for €15-25.",
+    "official_url": "https://www.adif.es/en/stations/atocha",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "left-luggage",
+      "atocha",
+      "train-station",
+      "storage"
+    ],
+    "related_records": [
+      "atocha-station",
+      "left-luggage",
+      "left-luggage-airport",
+      "left-luggage-chamartin"
+    ]
+  },
+  {
+    "id": "left-luggage-chamartin",
+    "title": "Left Luggage at Chamartín Station",
+    "category": "living",
+    "subcategory": "services",
+    "subsubcategory": "Storage & Lockers",
+    "summary": "Left luggage at Chamartín train station. €3.90-5.50/bag/day. Open 6am-11pm. Near the VIPS café.",
+    "content": "Chamartín Station (Madrid's second major train station, north of center) has left luggage facilities. LOCATION: ground floor, near the VIPS café. Follow signs for 'Consignas'. PRICES: same as Atocha — €3.90/bag/day (size S/M, up to 60cm), €5.50/bag/day (size L, over 60cm). HOURS: 6am-11pm daily (last drop-off 10:30pm, last pickup 11pm). SECURITY: bags are X-rayed. ID required (passport or NIE). Staffed with CCTV. MAXIMUM STAY: 30 days. TIPS: (1) Chamartín is less crowded than Atocha — usually no lines. (2) Chamartín is in the north of Madrid — use it if you're staying in Chamartín, Tetuán, or financial district. (3) For tourists staying in the center, Atocha is more convenient. (4) The station has good food options (VIPS, Starbucks) while you wait. (5) Don't leave valuables or electronics. (6) Keep your claim ticket. (7) Chamartín connects to Barajas Airport via Cercanías C1 (25 min) — if you have a layover, you could store bags at Chamartín and take the train to the airport.",
+    "official_url": "https://www.adif.es/en/stations/chamartin",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "left-luggage",
+      "chamartin",
+      "train-station",
+      "storage"
+    ],
+    "related_records": [
+      "chamartin-station",
+      "left-luggage",
+      "left-luggage-atocha"
+    ]
+  },
+  {
+    "id": "left-luggage-bus-station",
+    "title": "Left Luggage at Bus Stations (Estación Sur)",
+    "category": "living",
+    "subcategory": "services",
+    "subsubcategory": "Storage & Lockers",
+    "summary": "Left luggage at Estación Sur (Méndez Álvaro) bus station. €3/bag/day. Open 6am-midnight.",
+    "content": "Estación Sur (also called Méndez Álvaro) — Madrid's main long-distance bus station — has left luggage. LOCATION: inside the station, ground floor, near platform 1. Follow signs for 'Consignas'. PRICES: €3/bag/day (any size). Cheapest left luggage in Madrid. HOURS: 6am-midnight daily (last drop-off 11:30pm). SECURITY: bags are X-rayed. ID required. Staffed with CCTV. TIPS: (1) Estación Sur is the cheapest option (€3 vs €3.90-5.50 at train stations). (2) Located south of center — take Metro L6 to Méndez Álvaro (15 min from Sol). (3) Less crowded than Atocha. (4) The bus station has food courts and shops while you wait. (5) Other bus stations (Moncloa, Plaza Elíptica) do NOT have left luggage — only Estación Sur. (6) Don't leave valuables. (7) Keep your claim ticket. ALTERNATIVE: If you're near Moncloa or Plaza Elíptica, consider taking the Metro to Estación Sur specifically for the cheaper luggage storage.",
+    "official_url": "https://www.estacionautobusesmadrid.com",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "left-luggage",
+      "bus-station",
+      "estacion-sur",
+      "storage"
+    ],
+    "related_records": [
+      "bus-stations-madrid",
+      "coach-stations-madrid",
+      "left-luggage",
+      "left-luggage-atocha"
+    ]
+  },
+  {
+    "id": "public-storage-trasteros",
+    "title": "Public Storage (Trasteros) — Long-Term",
+    "category": "living",
+    "subcategory": "services",
+    "subsubcategory": "Storage & Lockers",
+    "summary": "Self-storage units (trasteros) for long-term storage. €50-150/month. Chains: Accessa, City Trastero, Trastero Madrid.",
+    "content": "Trasteros are self-storage units — like Public Storage in the US or Access Self Storage in the UK. Used for long-term storage (weeks, months, or years) — much cheaper than left luggage for extended periods. MAIN CHAINS: (1) Accessa (accessa.es) — Spain's largest, 8 locations in Madrid area. Units from 1m² to 20m². €50-200/month depending on size. 24/7 access at most locations. (2) City Trastero (citytrastero.com) — 4 locations in Madrid. €60-150/month. Modern, clean. (3) Trastero Madrid (trasteromadrid.com) — local, 3 locations. €45-120/month. (4) Storage Madrid — small, central. (5) Ibertrastero — chain, multiple. PRICING: 1m² (a few boxes) €45-60/month. 3m² (small apartment contents) €80-120/month. 6m² (1-bedroom apartment) €120-180/month. 10m²+ (house) €180-300/month. First month often discounted (€1 promotions). WHAT'S INCLUDED: 24/7 access (most), CCTV, climate control (some), free truck + driver for move-in (some), packing supplies for sale. USES: (1) Between apartments (store furniture during a move). (2) For expats going home for summer. (3) For businesses storing inventory. (4) For students storing stuff between academic years. TIPS: (1) Compare prices — there's a big range. (2) Negotiate — ask for a discount, especially for 6+ month commitments. (3) Check access hours — some are 24/7, some 8am-8pm. (4) Insurance: usually €10-15/month extra. (5) Climate control matters for electronics, art, leather — ask if the unit has it. (6) Reserve 1-2 weeks ahead in summer (peak season for student storage).",
+    "official_url": "https://www.accessa.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "storage",
+      "trasteros",
+      "self-storage",
+      "long-term"
+    ],
+    "related_records": [
+      "left-luggage",
+      "moving-shipping-madrid"
+    ]
+  },
+  {
+    "id": "useful-information-madrid",
+    "title": "Useful Information (Practical Guide)",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "subsubcategory": "Practical Guides",
+    "summary": "Practical info for visitors: electricity, water, taxes, opening hours, public holidays, language, currency.",
+    "content": "Practical information for visitors to Madrid. ELECTRICITY: 230V, 50Hz. Plug type C/F (two round pins). US/UK visitors need adapters. Spanish sockets accept Type C and Type F plugs. WATER: Madrid tap water is safe to drink and excellent quality (from mountain reservoirs). Bottled water is unnecessary. CURRENCY: Euro (€). ATMs everywhere. Credit/debit cards accepted almost everywhere (Visa, Mastercard). American Express less common. Contactless payment (Apple Pay, Google Pay) widely accepted. TAXES: VAT (IVA) is 21% on most goods and services, 10% on restaurants and hotels, 4% on basic food. All prices include IVA — what you see is what you pay. OPENING HOURS: Shops Mon-Sat 10am-10pm (some close 2-5pm). Restaurants lunch 1-4pm, dinner 8:30pm-midnight. Banks Mon-Fri 8:30am-2:30pm. Museums Tue-Sun 10am-8pm (most closed Mondays). PUBLIC HOLIDAYS (when most things close): Jan 1 (New Year), Jan 6 (Three Kings), May 1 (Labor Day), May 2 (Madrid Day), May 15 (San Isidro), Aug 15 (Assumption), Oct 12 (Hispanic Day), Nov 1 (All Saints), Dec 6 (Constitution), Dec 8 (Immaculate Conception), Dec 25 (Christmas). LANGUAGE: Spanish (Castilian). English spoken at major hotels, tourist sights, and younger people. Madrid has co-official languages in surrounding regions (Catalan in Catalonia, Galician in Galicia, Basque in Basque Country). TIME ZONE: Central European Time (CET, UTC+1) in winter, Central European Summer Time (CEST, UTC+2) in summer. EMERGENCY: 112 (free, multilingual). PHARMACIES: Look for green cross. 24-hour pharmacies rotate — search 'farmacia de guardia Madrid'. TIPPING: Optional. Restaurants 5-10%, taxis round up. SMOKING: Banned in all indoor public spaces, including bars and restaurants. E-cigarettes included. ALCOHOL: Legal age 18. Drinking in public (streets, parks) is illegal except in designated areas during festivals. DRIVING: Drive on the right. Speed limits: 50 km/h city, 90 km/h highway, 120 km/h motorway. Seatbelts mandatory. Blood alcohol limit 0.5g/L (stricter than US/UK).",
+    "official_url": "https://www.esmadrid.com/en/information-offices",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "tourist-info",
+      "practical",
+      "useful",
+      "guide",
+      "essentials"
+    ],
+    "related_records": [
+      "madrid-tourist-offices",
+      "madrid-apps",
+      "official-madrid-city-map"
+    ]
+  },
+  {
+    "id": "spanish-culture-madrid",
+    "title": "Spanish Culture — A Quick Guide",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "subsubcategory": "Cultural Guides",
+    "summary": "Spanish customs: mealtimes, siesta (mostly gone), personal space, greetings, holidays, family life.",
+    "content": "Spanish culture for visitors. MEALTIMES (later than northern Europe): Breakfast (desayuno) 7-9am (coffee + toast/pastry). Mid-morning snack (almuerzo) 11am-noon (bocadillo). Lunch (comida) 2-3:30pm (main meal, often 3 courses). Afternoon snack (merienda) 6-7pm (small). Dinner (cena) 9-11pm (lighter than lunch). Restaurants don't serve lunch before 1pm or dinner before 8:30pm. SIESTA: The traditional afternoon nap is mostly gone in Madrid (especially for office workers). Some shops still close 2-5pm in smaller towns, but in Madrid most shops stay open. Spanish people do stay up later than northern Europeans — dinner at 10pm is normal. GREETINGS: (1) Handshake for business/first meetings. (2) Two kisses (one on each cheek, starting with the right) for friends and social situations. (3) 'Hola, buenas' is a casual greeting usable anytime. (4) 'Buenos días' (morning), 'Buenas tardes' (afternoon), 'Buenas noches' (evening/night). PERSONAL SPACE: Spaniards stand closer when talking and touch more (arm on shoulder, etc.) than northern Europeans. This is normal, not flirtatious. FAMILY: Family is central to Spanish life. Many young adults live with parents until 30+. Sunday family lunch is sacred. Multigenerational households are common. TIME: Spaniards have a relaxed attitude toward time. Being 10-15 min late to a social meeting is normal. Business meetings start on time. QUEUING: Spaniards don't queue as formally as the British — it's more of a crowd. Don't be too polite about waiting your turn — you'll never get served. FOOTBALL: Real Madrid vs Atlético is a serious divide. Don't wear a Real Madrid shirt in Atlético areas and vice versa. BULLFIGHTING: Controversial. Some Spaniards love it, others consider it animal cruelty. Catalonia and Canary Islands have banned it. RELIGION: Spain is officially Catholic, but most Spaniards are non-practicing. Easter (Semana Santa) processions are cultural events even for atheists. TIPPING: Optional, 5-10% in restaurants. FLAMENCO: From Andalusia, not Madrid — but Madrid has the best flamenco tablaos. SPANISH HUMOR: Direct, loud, physical, often political. Different from British irony or American sarcasm.",
+    "official_url": "https://www.esmadrid.com/en/spanish-culture",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "tourist-info",
+      "culture",
+      "spanish",
+      "customs",
+      "guide"
+    ],
+    "related_records": [
+      "useful-information-madrid",
+      "tipping-spain",
+      "restaurant-spanish",
+      "survival-spanish"
+    ]
+  },
+  {
+    "id": "bus-stations-vs-coach-stations",
+    "title": "Bus vs Coach Stations in Madrid",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "subsubcategory": "Intercity Buses & Coaches",
+    "summary": "Madrid has both city bus stops (EMT) and coach stations (intercity). This explains the difference.",
+    "content": "Madrid has two different types of bus infrastructure — city buses (EMT) and intercity coaches (ALSA, Avanza). CITY BUSES (EMT): Operated by Empresa Municipal de Transportes. 200+ lines within Madrid city. Stops every 200-400m on major streets. Marked with red/white signs showing line numbers. €1.50 single ticket (€1.20 with Tarjeta Transporte Público). No stations — just stops. See our EMT Buses record. COACH STATIONS (intercity/long-distance): Three main stations for buses leaving Madrid — Estación Sur (Méndez Álvaro) for ALSA long-distance, Moncloa for Avanza (Castilla y León, Galicia), Plaza Elíptica for southern routes. See our Coach Stations record. KEY DIFFERENCE: City buses (EMT) operate within Madrid city limits, stop every few blocks, and use simple stops. Coaches (autocares) travel between cities, depart from stations with platforms and ticket offices, and require advance booking. CONFUSION: The Spanish word 'autobús' is used for BOTH city buses and intercity coaches. Context matters. 'Autobús' or 'bus' usually means city bus. 'Autocar' or 'coach' means long-distance. TIPS: (1) For getting around Madrid: use EMT buses (see our EMT Buses record). (2) For travel to other cities: use ALSA or Avanza coaches from one of the 3 coach stations. (3) The Metro is usually faster than EMT buses for tourists — use buses only when Metro doesn't go where you need. (4) For coach travel, book ahead at alsa.es or avanzabus.es. (5) Bus stops in Madrid are well-marked with route maps and real-time arrival displays (or QR codes to scan with your phone).",
+    "official_url": "https://www.emtmadrid.es/English",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "transport",
+      "bus",
+      "coach",
+      "explanation",
+      "emt",
+      "alsa"
+    ],
+    "related_records": [
+      "emt-buses",
+      "bus-stations-madrid",
+      "coach-stations-madrid",
+      "intercity-buses"
+    ]
+  },
+  {
+    "id": "taxi-companies-madrid",
+    "title": "Taxi Companies & Booking Apps",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "subsubcategory": "Taxis & Ride-Sharing",
+    "summary": "Madrid taxi booking apps: PideTaxi, FreeNow, Radio Taxi. White taxis with red stripe. €30 flat airport fare.",
+    "content": "Madrid taxis are white with a red diagonal stripe and the Madrid bear (oso y el madroño) crest on the doors. BOOKING APPS: (1) PideTaxi (pidetaxi.com) — official Madrid taxi app. English available. Same fares as street hail (no surge pricing). Free to use. (2) FreeNow (formerly MyTaxi) — international taxi app. English. Same fares. Slightly higher demand than PideTaxi. (3) Radio Taxi Independiente (91 447 51 84) — phone dispatch, Spanish only. (4) Radio Teléfono Taxi (91 547 82 00) — phone dispatch, Spanish only. (5) Teletaxi (91 445 90 08) — phone dispatch. WHEN TO USE APPS vs STREET HAIL: (1) Use apps at night, in the rain, or in areas with few taxis. (2) Street hail is faster in central Madrid during the day. (3) Always use the official apps — avoid unlicensed 'taxis' that solicit at tourist spots. FARES: (1) Initial fare €2.40 (daytime). (2) €1.10/km city. (3) €1.30/km outside city or at night. (4) Airport supplement €5.50. (5) Train/bus station supplement €2.95. (6) Waiting time €22/hour. TYPICAL FARES: Sol to Retiro €8-10. Sol to Bernabéu €12-15. Center to airport €30 (flat rate inside M-30). Center to IFEMA €25-30. TIPS: (1) Madrid taxis are honest — scams are rare. (2) Always use the meter (taxímetro). Refuse if the driver wants a fixed price (except airport flat rate). (3) Tip: round up to the nearest euro, or €1-2 for good service. (4) Taxis can use bus lanes — faster than driving. (5) 4 passengers max per taxi. (6) Large luggage goes in the trunk (free). (7) For airport runs, the €30 flat rate (inside M-30) is usually cheaper than the meter.",
+    "official_url": "https://www.taximadrid.org/english",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "transport",
+      "taxi",
+      "companies",
+      "apps",
+      "pidetaxi",
+      "freenow"
+    ],
+    "related_records": [
+      "taxis-madrid",
+      "ride-sharing-madrid",
+      "night-buses-buhos-madrid"
+    ]
+  },
+  {
+    "id": "airport-shuttle-services-madrid",
+    "title": "Airport Shuttle Services (Door-to-Door)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "subsubcategory": "Airport",
+    "summary": "Shared shuttle vans from Barajas to your hotel. €10-20/person. Companies: Aerocity, Air Shuttle Madrid.",
+    "content": "Shared airport shuttles are a middle ground between the €5 express bus and the €30 taxi. You share a van with 4-8 other passengers, dropping each at their hotel. COMPANIES: (1) Aerocity (aerocity.com) — Madrid's main shared shuttle. €16.50/person one-way to central Madrid hotels, €27 round-trip. English website. Book online 12+ hours ahead. Door-to-door service. (2) Air Shuttle Madrid — €15/person. Book at the airport (T1, T4 arrivals) or online. (3) Suntransfers Shared — €12-18/person. International booking platform. (4) Welcome Pickups Shared — €14/person. PRICING: €10-20 per person one-way, depending on company and destination zone. Round-trip discounts available. Cheaper than a taxi for solo travelers, more expensive for groups of 3+. HOW IT WORKS: (1) Book online 12-48 hours ahead. (2) On arrival, call the company or go to their meeting point (sign with your name). (3) Wait 10-20 min for other passengers. (4) Van drops you at your hotel (allow 45-90 min total depending on other drops). PROS: Door-to-door, cheaper than taxi for solo travelers, English-speaking drivers. CONS: Slower than taxi (other stops), must book ahead, limited luggage space (1-2 bags per person). TIPS: (1) Book ahead — walk-up shuttles are rare. (2) For 3+ people, a taxi (€30 flat rate) is cheaper and faster. (3) For solo travelers on a budget, the Airport Express Bus (€5) is cheaper but doesn't go to your hotel. (4) Shuttles run 24/7 but late-night service is less frequent. (5) Have your hotel address and phone number ready for the driver.",
+    "official_url": "https://www.aerocity.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "transport",
+      "airport",
+      "shuttle",
+      "door-to-door",
+      "shared"
+    ],
+    "related_records": [
+      "madrid-barajas-airport",
+      "airport-express-bus-203",
+      "airport-transfers-private",
+      "taxis-madrid"
     ]
   }
 ]
