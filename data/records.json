@@ -7150,7 +7150,6 @@
       "optician"
     ],
     "related_records": [
-      "healthcare-spain",
       "english-speaking-doctors-madrid"
     ]
   },
@@ -7164,7 +7163,7 @@
     "content": "Music stores in Madrid. CD/DVD: (1) El Corte Inglés (multiple) — Spain's largest CD/DVD selection, 7th floor of Castellana store. Mainstream and Spanish artists. CDs €10-18, DVDs €10-20. (2) FNAC (Calle Marqués de Casa Riera 4) — good selection, similar pricing. VINYL: (1) Discos Melopelo (Calle de la Colegiata 12, La Latina) — Madrid's best vinyl shop, new and used, €15-30 per LP. Jazz, rock, flamenco, electronic. (2) Flash Records (Calle de la Escorial 6, Malasaña) — used vinyl, €10-25. (3) Bicolor Music (Calle de la Pez 8) — new vinyl, focus on indie. (4) Disco 100 (Calle de la Montera 30) — dance/electronic vinyl. INSTRUMENTS: (1) Mariscal (Calle de la Marqués de Cubas 4) — Madrid's oldest music shop (1921), guitars, violins, brass. (2) Casa Luthier (Calle de la Balmes 22) — classical guitars, high-end. (3) Yamaha Music Madrid (Calle de la Alcalá 119) — pianos, keyboards, all instruments. (4) Guitar Center Madrid (Calle de la Atocha 28) — guitars, amps. CONCERT TICKETS: (1) El Corte Inglés ticket counters — large events. (2) Tick Tack Ticket (online) — most concerts. (3) Wegow (online) — indie concerts. TIPS: (1) Vinyl is having a renaissance in Madrid — Melopelo is the must-visit. (2) Spanish music to look for: flamenco (Paco de Lucía, Camarón), pop (Alaska, Rosalía), rock (Héroes del Silencio, Jarabe de Palo). (3) El Corte Inglés has the best selection of Spanish classical and flamenco CDs.",
     "official_url": "https://www.elcorteingles.es/",
     "status": "evergreen",
-    "english_friendly": false,
+    "english_friendly": true,
     "english_level": "english-available",
     "last_updated": "2026-07-21",
     "tags": [
@@ -7190,7 +7189,7 @@
     "content": "International grocery stores in Madrid for expat and specialty foods. BRITISH/IRISH: (1) The Irish Shop (Calle de la Espíritu Santo 1, Malasaña) — HP sauce, Marmite, Cadbury, Walker's crisps. (2) UK food sections at El Corte Inglés (Castellana, Goya) — PG Tips, McVitie's, Colman's. GERMAN: (1) Mantequerías Alemanas (Calle de Ayala 25, Salamanca) — German bread, sausages, beer, mustard. Established 1930. JAPANESE: (1) Tatsumi (Calle del General Yagüe 14) — Japanese groceries, sushi-grade fish, miso, nori, sake. (2) Warehouse Japanese Market (Calle de la Orense 31) — larger selection. KOREAN: (1) Seoul (Calle de la Princesa 5) — kimchi, gochujang, Korean snacks. (2) Korean Market (Calle de la Luna 3) — smaller. CHINESE: (1) Casa Asia (Calle del Cardenal Cisneros 9) — has a small Asian food section. (2) Barrio de Usera (south Madrid) — Madrid's Chinatown, 20+ Chinese supermarkets. INDIAN/PAKISTANI: (1) Lavapiés neighborhood (Calle de Lavapiés, Calle de la Ollerías) — 10+ Indian grocery stores, spices, lentils, basmati. (2) Yatai Market (Calle de la Lavapiés 28) — pan-Asian. LATIN AMERICAN: (1) Mercado de la Cebada (La Latina) — Latin American products. (2) Calle de la Tolmo (Lavapiés) — Peruvian, Colombian, Ecuadorian. AFRICAN: (1) Calle de la Lavapiés (south end) — Senegalese, Nigerian products. HALAL: (1) Halal Butcher shops in Lavapiés and Cuatro Caminos. ITALIAN: (1) Obika (various) — mozzarella bar, Italian products. (2) Giglio (Calle de la Jorge Juan 10) — Italian deli. AMERICAN: (1) Taste of America (Calle de la Modesto Lafuente 45) — American candy, baking supplies, Pepsi Wild Cherry. TIPS: (1) El Corte Inglés Gourmet section (Castellana) has the best all-in-one international selection. (2) For Asian ingredients, Usera is cheapest. (3) For Latin American, La Latina is best. (4) Most international stores are closed Sundays.",
     "official_url": "https://www.elcorteingles.es/",
     "status": "evergreen",
-    "english_friendly": false,
+    "english_friendly": true,
     "english_level": "english-available",
     "last_updated": "2026-07-21",
     "tags": [
