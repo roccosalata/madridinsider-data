@@ -27,7 +27,8 @@
       "ride-sharing-madrid",
       "taxis-madrid",
       "walking-madrid"
-    ]
+    ],
+    "subsubcategory": "Metro & City Transit"
   },
   {
     "id": "madrid-barajas-airport",
@@ -55,7 +56,8 @@
       "metro-de-madrid",
       "ride-sharing-madrid",
       "taxis-madrid"
-    ]
+    ],
+    "subsubcategory": "Airport"
   },
   {
     "id": "atocha-station",
@@ -82,7 +84,8 @@
       "museo-reina-sofia",
       "renfe-trains",
       "toledo"
-    ]
+    ],
+    "subsubcategory": "Trains & Rail"
   },
   {
     "id": "chamartin-station",
@@ -105,7 +108,8 @@
       "ave-high-speed-trains",
       "metro-de-madrid",
       "renfe-trains"
-    ]
+    ],
+    "subsubcategory": "Trains & Rail"
   },
   {
     "id": "emt-buses",
@@ -129,7 +133,8 @@
       "madrid-barajas-airport",
       "metro-de-madrid",
       "taxis-madrid"
-    ]
+    ],
+    "subsubcategory": "Metro & City Transit"
   },
   {
     "id": "taxis-madrid",
@@ -152,7 +157,8 @@
       "madrid-barajas-airport",
       "metro-de-madrid",
       "ride-sharing-madrid"
-    ]
+    ],
+    "subsubcategory": "Taxis & Ride-Sharing"
   },
   {
     "id": "left-luggage",
@@ -174,7 +180,8 @@
       "chamartin-station",
       "madrid-barajas-airport",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Driving & Practical"
   },
   {
     "id": "renfe-trains",
@@ -200,7 +207,8 @@
       "eurail-interrail-passes",
       "segovia",
       "toledo"
-    ]
+    ],
+    "subsubcategory": "Trains & Rail"
   },
   {
     "id": "schengen-visa-us",
@@ -1488,7 +1496,8 @@
     ],
     "related_records": [
       "rayo-vallecas"
-    ]
+    ],
+    "subsubcategory": "Football"
   },
   {
     "id": "rayo-vallecas",
@@ -1509,7 +1518,8 @@
     ],
     "related_records": [
       "real-madrid-bernabeu"
-    ]
+    ],
+    "subsubcategory": "Football"
   },
   {
     "id": "el-rastro-sunday",
@@ -2000,7 +2010,8 @@
         "body": "At Barajas, follow signs to 'Ride App' or 'VCN' (VTC) pick-up zones. Each terminal has a designated pick-up point — check your app for the exact zone letter. Taxis have a fixed €30 fare to central Madrid (inside the M-30), which is often cheaper than ride-sharing for airport runs.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Taxis & Ride-Sharing"
   },
   {
     "id": "bicimad",
@@ -2075,7 +2086,8 @@
         "body": "BiciMAD is ideal for trips under 3 km in the center — Retiro Park, Madrid Río, the historic core, and between museums. Avoid the Gran Vía during rush hour (heavy traffic and tram tracks). The Madrid Río park has dedicated bike lanes and is a lovely ride.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Metro & City Transit"
   },
   {
     "id": "electric-scooters-madrid",
@@ -2099,7 +2111,8 @@
     "related_records": [
       "bicimad",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Metro & City Transit"
   },
   {
     "id": "walking-madrid",
@@ -2121,7 +2134,8 @@
     "related_records": [
       "metro-de-madrid",
       "bicimad"
-    ]
+    ],
+    "subsubcategory": "Metro & City Transit"
   },
   {
     "id": "airport-express-bus-203",
@@ -2145,7 +2159,8 @@
       "madrid-barajas-airport",
       "emt-buses",
       "atocha-station"
-    ]
+    ],
+    "subsubcategory": "Airport"
   },
   {
     "id": "airport-transfers-private",
@@ -2169,7 +2184,8 @@
       "madrid-barajas-airport",
       "taxis-madrid",
       "ride-sharing-madrid"
-    ]
+    ],
+    "subsubcategory": "Airport"
   },
   {
     "id": "major-airlines-madrid",
@@ -2191,7 +2207,8 @@
     ],
     "related_records": [
       "madrid-barajas-airport"
-    ]
+    ],
+    "subsubcategory": "Airport"
   },
   {
     "id": "ave-high-speed-trains",
@@ -2264,7 +2281,8 @@
         "body": "Ouigo (ouigo.com) and Iryo (iryo.eu) compete with Renfe on the Madrid-Barcelona and Madrid-Valencia routes. Fares start at €9 one-way. Slightly less legroom and luggage allowance than AVE, but the same travel time.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Trains & Rail"
   },
   {
     "id": "intercity-buses",
@@ -2287,7 +2305,8 @@
     "related_records": [
       "bus-stations-madrid",
       "ave-high-speed-trains"
-    ]
+    ],
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "bus-stations-madrid",
@@ -2309,7 +2328,8 @@
     "related_records": [
       "intercity-buses",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "eurail-interrail-passes",
@@ -2333,7 +2353,8 @@
     "related_records": [
       "ave-high-speed-trains",
       "renfe-trains"
-    ]
+    ],
+    "subsubcategory": "Trains & Rail"
   },
   {
     "id": "driving-madrid",
@@ -2356,7 +2377,8 @@
       "parking-madrid",
       "metro-de-madrid",
       "madrid-barajas-airport"
-    ]
+    ],
+    "subsubcategory": "Driving & Practical"
   },
   {
     "id": "parking-madrid",
@@ -2377,7 +2399,8 @@
     ],
     "related_records": [
       "driving-madrid"
-    ]
+    ],
+    "subsubcategory": "Driving & Practical"
   },
   {
     "id": "sim-cards-madrid",
@@ -2542,7 +2565,8 @@
     "related_records": [
       "moving-shipping-madrid",
       "translating-services-madrid"
-    ]
+    ],
+    "subsubcategory": "Postal & Shipping"
   },
   {
     "id": "launderettes-madrid",
@@ -2561,7 +2585,8 @@
       "laundry",
       "dry-cleaning"
     ],
-    "related_records": []
+    "related_records": [],
+    "subsubcategory": "Personal Services"
   },
   {
     "id": "locksmiths-madrid",
@@ -2583,7 +2608,8 @@
     ],
     "related_records": [
       "emergency-numbers"
-    ]
+    ],
+    "subsubcategory": "Personal Services"
   },
   {
     "id": "moving-shipping-madrid",
@@ -2605,7 +2631,8 @@
     ],
     "related_records": [
       "post-office-madrid"
-    ]
+    ],
+    "subsubcategory": "Postal & Shipping"
   },
   {
     "id": "translating-services-madrid",
@@ -2629,7 +2656,8 @@
       "nie-tie",
       "empadronamiento",
       "post-office-madrid"
-    ]
+    ],
+    "subsubcategory": "Personal Services"
   },
   {
     "id": "barbers-hairdressers-madrid",
@@ -2649,7 +2677,8 @@
       "hair",
       "salon"
     ],
-    "related_records": []
+    "related_records": [],
+    "subsubcategory": "Personal Services"
   },
   {
     "id": "sol-gran-via-neighborhood",
@@ -2675,7 +2704,8 @@
       "gran-via",
       "royal-palace",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "City Center"
   },
   {
     "id": "malasana-neighborhood",
@@ -2699,7 +2729,8 @@
       "chueca-neighborhood",
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "City Center"
   },
   {
     "id": "chueca-neighborhood",
@@ -2723,7 +2754,8 @@
       "malasana-neighborhood",
       "sol-gran-via-neighborhood",
       "madrid-pride"
-    ]
+    ],
+    "subsubcategory": "City Center"
   },
   {
     "id": "salamanca-neighborhood",
@@ -2746,7 +2778,8 @@
     "related_records": [
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Upscale"
   },
   {
     "id": "la-latina-neighborhood",
@@ -2772,7 +2805,8 @@
       "mercado-san-miguel",
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Historic"
   },
   {
     "id": "lavapies-neighborhood",
@@ -2796,7 +2830,8 @@
       "la-latina-neighborhood",
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Historic"
   },
   {
     "id": "chamberi-neighborhood",
@@ -2819,7 +2854,8 @@
     "related_records": [
       "malasana-neighborhood",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Residential"
   },
   {
     "id": "retiro-neighborhood",
@@ -2845,7 +2881,8 @@
       "museo-reina-sofia",
       "thyssen-bornemisza",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Residential"
   },
   {
     "id": "arguelles-moncloa-neighborhood",
@@ -2870,7 +2907,8 @@
       "bus-stations-madrid",
       "metro-de-madrid",
       "retiro-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Student & West"
   },
   {
     "id": "tetuan-cuatro-caminos-neighborhood",
@@ -2894,7 +2932,8 @@
     "related_records": [
       "chamberi-neighborhood",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "North & Diverse"
   },
   {
     "id": "bus-tours-madrid",
@@ -4551,7 +4590,8 @@
     "related_records": [
       "real-madrid-bernabeu",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Football"
   },
   {
     "id": "malasana-bars-nightlife",
@@ -4576,7 +4616,8 @@
       "malasana-neighborhood",
       "chueca-bars-nightlife",
       "la-latina-tapas-nightlife"
-    ]
+    ],
+    "subsubcategory": "Bars & Pubs"
   },
   {
     "id": "chueca-bars-nightlife",
@@ -4601,7 +4642,8 @@
       "chueca-neighborhood",
       "malasana-bars-nightlife",
       "madrid-pride"
-    ]
+    ],
+    "subsubcategory": "Bars & Pubs"
   },
   {
     "id": "la-latina-tapas-nightlife",
@@ -4627,7 +4669,8 @@
       "vermouth-madrid",
       "mercado-san-miguel",
       "food-tours-madrid"
-    ]
+    ],
+    "subsubcategory": "Bars & Pubs"
   },
   {
     "id": "teatro-real-madrid",
@@ -4979,7 +5022,8 @@
     "related_records": [
       "real-madrid-bernabeu",
       "atletico-madrid-wanda-metropolitano"
-    ]
+    ],
+    "subsubcategory": "Racquet Sports"
   },
   {
     "id": "basketball-madrid",
@@ -5003,7 +5047,8 @@
     "related_records": [
       "real-madrid-bernabeu",
       "madrid-open-tennis"
-    ]
+    ],
+    "subsubcategory": "Basketball"
   },
   {
     "id": "running-madrid",
@@ -5028,7 +5073,8 @@
       "retiro-park",
       "madrid-rio",
       "casa-de-campo"
-    ]
+    ],
+    "subsubcategory": "Outdoor Sports"
   },
   {
     "id": "photoespana-festival",
@@ -5310,7 +5356,8 @@
     "related_records": [
       "aquopolis-water-park",
       "running-madrid"
-    ]
+    ],
+    "subsubcategory": "Water Sports"
   },
   {
     "id": "gyms-fitness-madrid",
@@ -5336,7 +5383,8 @@
       "swimming-pools-madrid",
       "running-madrid",
       "yoga-madrid"
-    ]
+    ],
+    "subsubcategory": "Fitness & Wellness"
   },
   {
     "id": "golf-madrid",
@@ -5359,7 +5407,8 @@
     "related_records": [
       "running-madrid",
       "swimming-pools-madrid"
-    ]
+    ],
+    "subsubcategory": "Outdoor Sports"
   },
   {
     "id": "cycling-mtb-madrid",
@@ -5386,7 +5435,8 @@
       "casa-de-campo",
       "madrid-rio",
       "running-madrid"
-    ]
+    ],
+    "subsubcategory": "Outdoor Sports"
   },
   {
     "id": "tennis-madrid",
@@ -5410,7 +5460,8 @@
     "related_records": [
       "madrid-open-tennis",
       "running-madrid"
-    ]
+    ],
+    "subsubcategory": "Racquet Sports"
   },
   {
     "id": "skiing-snowboarding-madrid",
@@ -5436,7 +5487,8 @@
       "running-madrid",
       "el-escorial-day-trip",
       "segovia-day-trip"
-    ]
+    ],
+    "subsubcategory": "Outdoor Sports"
   },
   {
     "id": "supermarkets-grocery-madrid",
@@ -5460,7 +5512,8 @@
     "related_records": [
       "mercados-madrid",
       "post-office-madrid"
-    ]
+    ],
+    "subsubcategory": "Shopping & Food"
   },
   {
     "id": "movie-theaters-madrid",
@@ -5510,7 +5563,8 @@
     "related_records": [
       "malasana-bars-nightlife",
       "chueca-bars-nightlife"
-    ]
+    ],
+    "subsubcategory": "Casinos & Gaming"
   },
   {
     "id": "salsa-dancing-madrid",
@@ -5536,7 +5590,8 @@
       "la-latina-tapas-nightlife",
       "la-latina-neighborhood",
       "chueca-bars-nightlife"
-    ]
+    ],
+    "subsubcategory": "Dancing & Clubs"
   },
   {
     "id": "terrazas-rooftop-bars-madrid",
@@ -5562,7 +5617,8 @@
       "malasana-bars-nightlife",
       "chueca-bars-nightlife",
       "temple-debod"
-    ]
+    ],
+    "subsubcategory": "Rooftops & Terraces"
   },
   {
     "id": "yoga-madrid",
@@ -5588,7 +5644,8 @@
       "gyms-fitness-madrid",
       "retiro-park",
       "running-madrid"
-    ]
+    ],
+    "subsubcategory": "Fitness & Wellness"
   },
   {
     "id": "hammams-arab-baths-madrid",
@@ -5613,7 +5670,8 @@
     "related_records": [
       "terrazas-rooftop-bars-madrid",
       "yoga-madrid"
-    ]
+    ],
+    "subsubcategory": "Wellness & Relaxation"
   },
   {
     "id": "flamenco-madrid",
@@ -5714,7 +5772,8 @@
     ],
     "related_records": [
       "sim-cards-madrid"
-    ]
+    ],
+    "subsubcategory": "Communications"
   },
   {
     "id": "satellite-tv-madrid",
@@ -5740,7 +5799,8 @@
     "related_records": [
       "phone-tv-internet-providers-madrid",
       "movie-theaters-madrid"
-    ]
+    ],
+    "subsubcategory": "Communications"
   },
   {
     "id": "computer-electronics-stores-madrid",
@@ -5764,7 +5824,8 @@
     "related_records": [
       "sim-cards-madrid",
       "supermarkets-grocery-madrid"
-    ]
+    ],
+    "subsubcategory": "Shopping & Food"
   },
   {
     "id": "bookstores-madrid-detail",
@@ -5789,7 +5850,8 @@
       "bookstores-madrid",
       "el-rastro-flea-market",
       "language-schools-madrid"
-    ]
+    ],
+    "subsubcategory": "Shopping & Food"
   },
   {
     "id": "hotels-madrid",
@@ -5991,7 +6053,8 @@
     ],
     "related_records": [
       "almudena-cathedral"
-    ]
+    ],
+    "subsubcategory": "Community & Faith"
   },
   {
     "id": "immunizations-vaccines-madrid",
@@ -6116,6 +6179,195 @@
       "el-pais-english",
       "the-local-spain",
       "job-search-spain"
+    ]
+  },
+  {
+    "id": "cercanias-madrid",
+    "title": "Cercanías Madrid (Commuter Rail)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "subsubcategory": "Trains & Rail",
+    "summary": "Madrid's commuter rail network. 9 lines (C1-C10). Connects city center to suburbs, airport, El Escorial, Alcalá. €1.70-5.60.",
+    "content": "Cercanías Madrid is the commuter rail network operated by Renfe, serving Madrid and its metropolitan area. 9 lines (C1-C10) with 90+ stations. KEY LINES: (1) C1 — Atocha to Chamartín (8 min, faster than Metro), continues to Aeropuerto T4 (25 min) and Príncipe Pío. (2) C3 — Atocha to El Escorial (1 hour, €5.60). (3) C7 — Atocha to Alcalá de Henares (35 min, €2.60). (4) C8 — Atocha to Cercedilla (1h 15min, gateway to Sierra de Guadarrama). (5) C10 — Atocha to Chamartín to Madrid-Barajas T4. FARES: zone A (city center) €1.70-2.60; zone B1 (airport, closer suburbs) €2.60-3.40; zone B2 (El Escorial, Alcalá) €4.10-5.60. Tickets: buy at station machines (English option) or use a Tarjeta Transporte Público (10-trip card, 30% discount). Cercanías is FREE for holders of the Madrid City Card. FREQUENCY: every 5-15 min during peak, every 15-30 min off-peak. First train ~5am, last ~midnight. Less frequent on weekends. ADVANTAGES over Metro: (1) Faster for cross-city trips (Atocha to Chamartín in 8 min vs 15+ on Metro). (2) Goes to suburbs Metro doesn't reach (El Escorial, Alcalá). (3) Connects both major train stations to the airport. DISADVANTAGES: (1) Less frequent than Metro. (2) Delays during rush hour and signal failures. (3) Some older trains without AC. TIPS: Download the Renfe Cercanías app for real-time info. Follow @CercaniasMadrid on Twitter for delays. The C1 airport line is often faster than Metro L8.",
+    "official_url": "https://www.renfe.com/en/en/travel/destination/products/cercanias/madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "transport",
+      "cercanias",
+      "commuter-rail",
+      "renfe",
+      "suburban"
+    ],
+    "related_records": [
+      "renfe-trains",
+      "atocha-station",
+      "chamartin-station",
+      "madrid-barajas-airport",
+      "el-escorial-day-trip"
+    ]
+  },
+  {
+    "id": "night-buses-buhos-madrid",
+    "title": "Night Buses (Búhos) — Madrid 24h Transit",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "subsubcategory": "Metro & City Transit",
+    "summary": "Madrid's night bus network (búhos). 27 routes from Plaza de Cibeles. Run midnight-6am. €1.50-2.60. Frequents every 30-60 min.",
+    "content": "When the Metro closes (1:30am Sun-Wed, 2:30am Fri-Sat), Madrid's night buses (búhos) take over. 27 routes (N1-N28), all starting from Plaza de Cibeles (the central hub). FARE: €1.50 single ticket, or use Tarjeta Transporte Público (€1.20 with the card). Routes fan out from Cibeles to all neighborhoods and suburbs. KEY ROUTES: (1) N1 — Cibeles to Sanchinarro (north). (2) N13 — Cibeles to Carabanchel (south). (3) N17 — Cibeles to Villaverde (south). (4) N4 — Cibeles to Barajas Airport (the only night transport to the airport, €1.50 — runs every 35 min). (5) N20 — Cibeles to Alcobendas (north). FREQUENCY: every 30 min on main routes (N1-N7), every 60 min on secondary routes. Last buses leave Cibeles around 5:30-6:00am (when Metro starts). TIPS: (1) All night buses pass through Plaza de Cibeles — use it as a transfer hub. (2) The N4 is the only public transport to Barajas Airport between 1:30am and 6am. (3) Buy tickets on the bus (cash) or use your Tarjeta Transporte Público. (4) Drivers don't always speak English — have your destination written down. (5) Buses can be crowded and rowdy on weekend nights (drunk passengers). (6) For women traveling alone at night, the front of the bus near the driver is safest. (7) The EMT Madrid app shows real-time night bus locations. ALTERNATIVE: Uber and Cabify operate 24/7, but surge pricing after 2am can be 2-3x normal rates. A taxi from the center to most neighborhoods is €10-15.",
+    "official_url": "https://www.emtmadrid.es/en/bus/lines-and-times/night-buses",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "transport",
+      "night-bus",
+      "buhos",
+      "nocturno",
+      "24h",
+      "emt"
+    ],
+    "related_records": [
+      "emt-buses",
+      "metro-de-madrid",
+      "taxis-madrid",
+      "ride-sharing-madrid"
+    ]
+  },
+  {
+    "id": "coach-stations-madrid",
+    "title": "Coach Stations (Estaciones de Autobús)",
+    "category": "essentials",
+    "subcategory": "transportation",
+    "subsubcategory": "Intercity Buses & Coaches",
+    "summary": "Madrid's 3 main coach stations: Estación Sur (long-distance), Moncloa (Castilla y León), Méndez Álvaro (south). Metro connected.",
+    "content": "Madrid has 3 main coach (long-distance bus) stations, each serving different regions. ESTACIÓN SUR (also called Méndez Álvaro): Madrid's largest bus station. All ALSA long-distance routes depart here — Barcelona, Valencia, Andalusia, Portugal, France. 50+ platforms. Metro: Méndez Álvaro (L6). Open 24/7. Facilities: cafés, shops, ATMs, left luggage, taxi rank. Allow 20 min to find your platform. MONLOCA INTERCAMBIADOR: Serves Castilla y León (Segovia, Ávila, Salamanca, Zamora) and Galicia. Also serves some Sierra de Guadarrama routes. Metro: Moncloa (L3, L6). Modern interchange (2012), bright and clean. Open 6am-midnight. PLAZA ELÍPTICA: Smaller station serving southern routes — Toledo, Cuenca, Aranjuez, some Andalusia routes. Metro: Plaza Elíptica (L6, L11). Open 6am-11pm. AVANZA is the main operator from Moncloa and Plaza Elíptica; ALSA from Estación Sur. TIPS: (1) Arrive 20-30 min before departure to find your platform (large stations like Estación Sur are confusing). (2) Buy tickets online at alsa.es or avanzabus.es for the best fares. (3) Print or screenshot your ticket — some operators require printed tickets. (4) Luggage goes under the bus (free, 1 bag up to 30kg + 1 carry-on). (5) Coach stations are NOT the same as intercity bus stops — the stations have platforms, ticket windows, and facilities. (6) The Metro connection to all 3 stations is excellent — you can get from any Madrid neighborhood to any coach station in under 30 min.",
+    "official_url": "https://www.estacionautobusesmadrid.com",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "transport",
+      "coach",
+      "station",
+      "estacion-sur",
+      "moncloa",
+      "long-distance"
+    ],
+    "related_records": [
+      "intercity-buses",
+      "bus-stations-madrid",
+      "metro-de-madrid",
+      "cercanias-madrid"
+    ]
+  },
+  {
+    "id": "padel-madrid",
+    "title": "Padel in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Racquet Sports",
+    "summary": "Padel is Spain's #2 sport. 100+ clubs in Madrid. Top: Padel Club Madrid, Sangrano Padel. €20-40/court/hour. Easy to learn.",
+    "content": "Padel is a racquet sport invented in Mexico, hugely popular in Spain (3 million players, second only to football). It's like squash-meets-tennis — played in doubles on an enclosed court with glass walls. The ball can bounce off the walls (like squash). Easier to learn than tennis — most beginners can rally after 30 min. Top clubs in Madrid: (1) Padel Club Madrid (Calle de la Calerilla 12, Las Tablas) — 14 courts, restaurant, pro shop. €30-40/court/hour peak, €20-25 off-peak. (2) Sangrano Padel Club (Calle del Santo Ángel de la Guarda 24, near Cuatro Caminos) — 9 courts, popular with expats. €25-35/hour. (3) Pádel La Finca (Pozuelo, west of Madrid) — 12 courts, upscale. €35-45/hour. (4) Centro Nacional de Pádel (Calle de Arroyo del Monte) — public, €20-25/hour. (5) Top Pádel Madrid Indoor (Calle del Payaso Fofó) — 8 indoor courts, €25-30/hour. BOOKING: most clubs use the Playtomic app (English) — find a partner, book a court, join games. FAMILIAR FACES: Real Madrid players, Spanish celebrities, and Spanish PM Pedro Sánchez all play padel. TIPS: (1) Wear padel-specific shoes (or tennis shoes with herringbone soles). (2) Racquets (palas) are different from tennis — shorter, solid, with holes. Rent €5 or buy €50-300. (3) Balls are similar to tennis but slightly smaller and lower pressure. (4) Scoring is identical to tennis. (5) After 2-3 lessons, you can play socially. (6) Madrid's climate allows outdoor padel year-round. (7) Padel is the best way to meet Spanish people — join the 'Madrid Pádel International' WhatsApp/Facebook groups.",
+    "official_url": "https://www.playtomic.io/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "padel",
+      "racquet",
+      "playtomic",
+      "popular"
+    ],
+    "related_records": [
+      "tennis-madrid",
+      "madrid-open-tennis",
+      "gyms-fitness-madrid"
+    ]
+  },
+  {
+    "id": "madrid-clubs-electronic",
+    "title": "Nightclubs & Electronic Music in Madrid",
+    "category": "do",
+    "subcategory": "nightlife",
+    "subsubcategory": "Dancing & Clubs",
+    "summary": "Top clubs: Mondo, Fabrik, Capital, Goya Social Club. Tech house, techno, reggaeton. €15-30 entry. Open 1am-6am.",
+    "content": "Madrid's club scene. TOP CLUBS: (1) Mondo Disko (Calle de la Alameda 28) — iconic, 30+ years, tech house and techno. €20-25 entry. Open Fri-Sat 1am-6am. (2) Fabrik (Calle de la Ctra. Fuenlabrada a Moraleja, Móstoles, 30 min south) — massive 5,000-capacity warehouse, EDM, techno. €25-30. Saturdays only. Free shuttle from Méndez Álvaro Metro. (3) Capital (Calle de la Gran Vía 8) — central, 2 rooms (house/techno + reggaeton/pop). €15-20. Open Thu-Sat midnight-6am. Popular with younger crowd. (4) Goya Social Club (Calle de Goya 43) — boutique, deep house, intimate (300 capacity). €15-20. (5) Spekummat (Calle de la Ballesta 14, Sol) — small, techno, underground. €10-15. (6) Room 18 (Hotel Ganivet, Plaza de España) — gay-friendly, mixed music. €15-20. (7) Pacha Madrid (Calle de la Castellana 27) — Ibiza brand, mixed crowd, EDM. €20-25. FESTIVALS: (1) Sonar Madrid (May) — electronic and avant-garde. (2) Mad Cool (July) — major music festival (indie, electronic, pop). €120-200 day ticket. (3) DCODE (September) — university-focused music festival. €40. (4) A Summer Story (June) — electronic. €60-80. TIPS: (1) Madrid clubs start late — don't arrive before 1:30am, peak is 3-4am. (2) Dress code: smart casual at most; no sportswear, no flip-flops. (3) Pre-game (botellón) in a park or apartment before going — drinks at clubs are €10-15. (4) Line up early for popular DJs (1am). (5) Use the app Discotech or wantickets.com to buy tickets in advance. (6) The Metro starts at 6am — perfect timing for the journey home. (7) Taxi/Uber after 3am can have 3x surge pricing.",
+    "official_url": "https://www.wantickets.com/madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "club",
+      "electronic",
+      "techno",
+      "house",
+      "edm"
+    ],
+    "related_records": [
+      "malasana-bars-nightlife",
+      "chueca-bars-nightlife",
+      "salsa-dancing-madrid"
+    ]
+  },
+  {
+    "id": "flamenco-tablaos-nightlife",
+    "title": "Flamenco Tablaos (Live Flamenco Shows)",
+    "category": "do",
+    "subcategory": "nightlife",
+    "subsubcategory": "Live Music",
+    "summary": "Late-night flamenco shows at tablaos. Cardamomo, Corral de la Morería, Casa Patas. €30-50 with drink, €60-90 with dinner.",
+    "content": "See our Flamenco Shows record (in Madrid Culture) for the full guide to flamenco tablaos in Madrid. This record focuses on the late-night (10pm+) shows that are part of Madrid's nightlife scene. LATE-NIGHT SHOWS: (1) Cardamomo (Calle de Echegaray 15) — 10pm and midnight shows, intimate, €30-35 with drink. The latest show (midnight) is the most authentic and rowdy. (2) Corral de la Morería (Calle de la Morería 17) — 10:30pm late show, €50-90 with dinner. The Michelin-starred restaurant makes this a dinner-and-show destination. (3) Casa Patas (Calle de Cañizares 10) — 10:30pm show, €35 with drink. After the show, the bar stays open with impromptu flamenco — sometimes better than the show itself. (4) Las Tablas (Plaza de España 9) — 10pm and midnight shows, €35. Modern tablaos with younger performers. (5) Torres Bermejas (Calle de la Flor Baja 9) — 10pm late show, €40-70. Larger venue. WHAT TO EXPECT AT LATE SHOWS: The midnight shows are where flamenco comes alive. Performers are loosened up, the audience is more engaged, and there's more improvisation. The atmosphere is smoky (despite smoking bans, some tablaos bend rules), intimate, and electric. TIPS: (1) Book the late show (midnight) for the most authentic experience. (2) Don't talk during the performances — Spaniards take flamenco seriously. (3) The 'with dinner' option is good but the food is secondary to the show. (4) Late shows end around 1:30-2am — perfect for continuing the night at a nearby bar. (5) Some tablaos have a bar after the show where performers and audience mingle — the best flamenco moments often happen here, spontaneously.",
+    "official_url": "https://www.cardamomo.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "flamenco",
+      "tablao",
+      "live-music",
+      "late-night"
+    ],
+    "related_records": [
+      "flamenco-madrid",
+      "salsa-dancing-madrid",
+      "jazz-blues-madrid"
+    ]
+  },
+  {
+    "id": "jazz-blues-madrid",
+    "title": "Jazz & Blues in Madrid",
+    "category": "do",
+    "subcategory": "nightlife",
+    "subsubcategory": "Live Music",
+    "summary": "Top jazz: Café Central, Clamores, Populart, Bogui Jazz. €10-20 entry + drink. Nightly shows from 9pm.",
+    "content": "Madrid has a strong jazz scene. TOP JAZZ CLUBS: (1) Café Central (Plaza del Ángel 10, near Plaza Santa Ana) — Madrid's most famous jazz club, since 1982. 2 shows nightly (9pm, 11pm). €15-20 entry (includes drink). Open Tue-Sun. International and Spanish artists. Book ahead. (2) Clamores (Calle de Alburquerque 14, Malasaña) — historic, since 1981. Jam sessions, modern jazz. €10-12 entry. (3) Populart (Calle de las Huertas 22, Barrio de las Letras) — small, intimate, free entry (just buy drinks). Live jazz nightly 10pm-midnight. Best for casual listeners. (4) Bogui Jazz (Calle de la Barco 34, Malasaña) — newer, modern jazz, €10-15 entry. (5) Berlin Café (Calle de la Costanilla de San Andrés 20, La Latina) — café + jazz, free entry, drinks €6-10. (6) El Junco (Plaza de Santa Bárbara 10, Alonso Martínez) — jazz + blues + soul, free entry before 11pm, €5 after. FESTIVALS: (1) Madrid Jazz Festival (November-December) — international headliners at Circo Price, Teatro Fernán Gómez, Conde Duque. €20-60. (2) Jazz en la Latina (summer) — free outdoor jazz in La Latina's plazas. (3) Festival de Jazz de Madrid (Nov) — city-wide. BLUES: Madrid's blues scene is smaller. (1) Moe's Blues Bar (Calle de la Colegiata 9) — live blues Wed-Sat. €5-10. (2) Taberna El Almendro (Calle de la Almendro 13) — occasional blues. TIPS: (1) Café Central is the must-visit — book 1-2 days ahead. (2) Many jazz clubs have free entry early — arrive by 9pm. (3) Order a drink (€6-12) on top of the entry fee. (4) Spanish jazz audience is respectful — quiet during performances, applause between songs. (5) Madrid jazz festivals in November-December are world-class.",
+    "official_url": "https://www.cafecentralmadrid.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "jazz",
+      "blues",
+      "live-music",
+      "cafe-central"
+    ],
+    "related_records": [
+      "flamenco-tablaos-nightlife",
+      "teatro-real-madrid",
+      "magic-comedy-madrid"
     ]
   }
 ]
