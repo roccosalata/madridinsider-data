@@ -1053,7 +1053,7 @@
           },
           {
             "label": "Free advice",
-            "body": "Pharmacists can advise on minor health issues"
+            "value": "Pharmacists can advise on minor health issues"
           }
         ]
       },
