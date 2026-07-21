@@ -341,9 +341,9 @@
     ],
     "related_records": [
       "credit-card-acceptance",
-      "tipping-etiquette",
       "daily-budgets",
-      "spanish-bank-accounts"
+      "spanish-bank-accounts",
+      "tipping-spain"
     ],
     "subsubcategory": "Cash & ATMs"
   },
@@ -363,32 +363,11 @@
     ],
     "related_records": [
       "euros-and-atms",
-      "tipping-etiquette",
-      "spanish-bank-accounts"
+      "spanish-bank-accounts",
+      "tipping-spain"
     ],
     "official_url": "https://www.bankinter.com/en",
     "subsubcategory": "Cards & Payment"
-  },
-  {
-    "id": "tipping-etiquette",
-    "title": "Tipping Etiquette",
-    "category": "essentials",
-    "subcategory": "money",
-    "summary": "Not required, but appreciated. Round up or leave 5–10% for good service.",
-    "content": "Service is included by law. Tipping is genuinely optional. Common practice: leave small change from a coffee (€0.20–0.50), 5–10% in sit-down restaurants if service was great, €1 per bag for hotel porters, round up taxi fares. Don't tip at bars counter service.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "money",
-      "tipping"
-    ],
-    "related_records": [
-      "euros-and-atms",
-      "credit-card-acceptance",
-      "daily-budgets"
-    ],
-    "official_url": "https://www.esmadrid.com/en/practical-information"
   },
   {
     "id": "daily-budgets",
@@ -405,9 +384,9 @@
       "budget"
     ],
     "related_records": [
+      "credit-card-acceptance",
       "euros-and-atms",
-      "tipping-etiquette",
-      "credit-card-acceptance"
+      "tipping-spain"
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
     "subsubcategory": "Budgeting"
@@ -427,8 +406,8 @@
       "spanish"
     ],
     "related_records": [
-      "escuela-oficial-idiomas",
-      "language-schools",
+      "language-schools-madrid",
+      "language-schools-madrid-education",
       "madrid-tourist-offices",
       "spanish-culture-madrid",
       "useful-information-madrid"
@@ -729,7 +708,8 @@
       "empadronamiento",
       "euros-and-atms",
       "credit-card-acceptance"
-    ]
+    ],
+    "subsubcategory": "Bank Accounts"
   },
   {
     "id": "public-healthcare",
@@ -778,7 +758,8 @@
       "pharmacies",
       "empadronamiento"
     ],
-    "official_url": "https://www.esmadrid.com/en/practical-information"
+    "official_url": "https://www.esmadrid.com/en/practical-information",
+    "subsubcategory": "Private Healthcare"
   },
   {
     "id": "teach-english-spain",
@@ -797,99 +778,11 @@
       "english"
     ],
     "related_records": [
-      "nie-tie",
-      "language-schools",
-      "escuela-oficial-idiomas",
-      "au-pair-spain"
+      "language-schools-madrid",
+      "language-schools-madrid-education",
+      "nie-tie"
     ],
     "subsubcategory": "Teach English"
-  },
-  {
-    "id": "au-pair-spain",
-    "title": "Au Pair in Spain",
-    "category": "living",
-    "subcategory": "work",
-    "summary": "Live with a Spanish family, help with childcare, get pocket money + room & board.",
-    "content": "Agencies: Cultural Care Au Pair, AuPairWorld, GreatAuPair. Typical: €80–120/week, own room, 1–2 days off, language course included. Visa is informal for EU citizens; non-EU need a 'visado de au pair' which is a specific work permit.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "work",
-      "au-pair",
-      "childcare"
-    ],
-    "related_records": [
-      "teach-english-spain",
-      "language-schools"
-    ],
-    "official_url": "https://www.aupairworld.es"
-  },
-  {
-    "id": "universities",
-    "title": "Madrid Universities",
-    "category": "living",
-    "subcategory": "education",
-    "summary": "Universidad Complutense (UCM) is Spain's largest. Also: UAM, UPM, UAH, URJC, IE, ESADE, ESERP.",
-    "content": "Public universities (UCM, UAM, UPM) are €1,000–2,500/year for EU students, cheaper than most of Europe. Private business schools (IE, ESADE, IESE, ESERP) charge €20,000–40,000/year but offer international MBAs in English. Admissions through UNED for most public programs.",
-    "official_url": "https://www.ucm.es",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "education",
-      "university",
-      "degrees"
-    ],
-    "related_records": [
-      "language-schools",
-      "escuela-oficial-idiomas",
-      "nie-tie"
-    ]
-  },
-  {
-    "id": "language-schools",
-    "title": "Spanish Language Schools",
-    "category": "living",
-    "subcategory": "education",
-    "summary": "Tandem Madrid, Don Quijote, Estudio Sampere, AIL Madrid, Españolé.",
-    "content": "€150–350/week for 20 hrs/week group classes. Intensive courses €1,000–2,000/month. Most offer homestay or shared flat accommodation. Cervantes Institute accreditation is the gold standard. Book 2–4 weeks ahead in summer.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "education",
-      "spanish",
-      "language"
-    ],
-    "related_records": [
-      "escuela-oficial-idiomas",
-      "survival-spanish",
-      "teach-english-spain"
-    ],
-    "official_url": "https://www.cervantes.es/en/spanish-schools.htm"
-  },
-  {
-    "id": "escuela-oficial-idiomas",
-    "title": "Escuela Oficial de Idiomas (EOI)",
-    "category": "living",
-    "subcategory": "education",
-    "summary": "Official government language school. Cheap Spanish classes — €100–300/year.",
-    "content": "EOIs teach Spanish as a foreign language (ELE), English, French, German, and more. Subsidised by the Comunidad de Madrid. Admission is by 'prueba de nivelación' (level test) in September. Free or nearly free. Centro: Jesús Maestro (Islas Filipinas metro), Aluche, Getafe, Móstoles.",
-    "official_url": "https://www.eoidiomas.com",
-    "status": "evergreen",
-    "english_friendly": false,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "education",
-      "language",
-      "eoi"
-    ],
-    "related_records": [
-      "language-schools",
-      "survival-spanish"
-    ],
-    "subsubcategory": "Language Schools"
   },
   {
     "id": "museo-del-prado",
@@ -912,8 +805,8 @@
       "madrid-city-card",
       "metro-de-madrid",
       "museo-reina-sofia",
-      "puerta-del-sol",
-      "thyssen-bornemisza"
+      "museo-thyssen-bornemisza-detail",
+      "puerta-del-sol"
     ],
     "subsubcategory": "Golden Triangle"
   },
@@ -938,31 +831,9 @@
       "madrid-city-card",
       "metro-de-madrid",
       "museo-del-prado",
-      "thyssen-bornemisza"
+      "museo-thyssen-bornemisza-detail"
     ],
     "subsubcategory": "Golden Triangle"
-  },
-  {
-    "id": "thyssen-bornemisza",
-    "title": "Museo Nacional Thyssen-Bornemisza",
-    "category": "see",
-    "subcategory": "museums",
-    "summary": "The third leg of the Golden Triangle. Italian, Dutch, German, and 20th-century masters. €15 general.",
-    "content": "Caravaggio, Van Eyck, Dürer, Monet, Hopper, Picasso, Pollock. The collection reads like a tour of Western painting from the 13th to 20th century. €15 general, free on Mondays 12–4 PM. Permanent collection is well laid out chronologically — easier to navigate than the Prado.",
-    "official_url": "https://www.museothyssen.org/en",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "museums",
-      "thyssen",
-      "art"
-    ],
-    "related_records": [
-      "museo-del-prado",
-      "museo-reina-sofia",
-      "gran-via"
-    ]
   },
   {
     "id": "royal-palace",
@@ -1151,7 +1022,7 @@
     "related_records": [
       "plaza-mayor",
       "puerta-del-sol",
-      "salamanca-district"
+      "salamanca-luxury-shopping"
     ],
     "official_url": "https://www.esmadrid.com/en/shopping/gran-via",
     "subsubcategory": "Streets & Avenues"
@@ -1177,28 +1048,6 @@
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/puerta-del-sol",
     "subsubcategory": "Plazas"
-  },
-  {
-    "id": "templo-de-debod",
-    "title": "Templo de Debod",
-    "category": "see",
-    "subcategory": "architecture",
-    "summary": "A 2,200-year-old Egyptian temple, gifted to Spain in 1968 for saving the Abu Simbel temples.",
-    "content": "Free entry. In the Parque del Oeste, near Príncipe Pío. Open Tue–Sun 10 AM to 8 PM (summer) / 6 PM (winter). Sunset from the temple grounds is one of Madrid's best-kept secrets. The walk up through the park is lovely; couple it with the Cable Car from the Rosaleda.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "architecture",
-      "egyptian",
-      "templo-de-debod"
-    ],
-    "related_records": [
-      "teleferico",
-      "retiro-park",
-      "royal-palace"
-    ],
-    "official_url": "https://www.esmadrid.com/en/tourist-information/templo-de-debod"
   },
   {
     "id": "toledo",
@@ -1271,7 +1120,8 @@
       "segovia",
       "el-escorial",
       "renfe-trains"
-    ]
+    ],
+    "subsubcategory": "Ávila"
   },
   {
     "id": "el-escorial",
@@ -1362,9 +1212,9 @@
       "la-latina"
     ],
     "related_records": [
-      "el-rastro-sunday",
-      "vermouth-madrid",
-      "mercado-san-miguel"
+      "el-rastro-flea-market",
+      "mercado-san-miguel",
+      "vermouth-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/gastronomy",
     "subsubcategory": "Tapas & Pintxos"
@@ -1408,10 +1258,10 @@
       "music"
     ],
     "related_records": [
+      "cafe-central-jazz",
       "flamenco-cardamomo",
-      "flamenco-corral-de-la-moreria",
-      "teatro-real",
-      "cafe-central-jazz"
+      "flamenco-madrid",
+      "teatro-real"
     ],
     "official_url": "https://www.esmadrid.com/en/whats-on/flamenco"
   },
@@ -1433,29 +1283,7 @@
     ],
     "related_records": [
       "flamenco",
-      "flamenco-corral-de-la-moreria",
-      "teatro-real"
-    ]
-  },
-  {
-    "id": "flamenco-corral-de-la-moreria",
-    "title": "Flamenco at Corral de la Morería",
-    "category": "do",
-    "subcategory": "arts",
-    "summary": "Often called the most authentic tablao in Madrid. Michelin-starred paella + flamenco.",
-    "content": "Calle de la Morería, 17. The only flamenco venue with a Michelin star (for the kitchen). Dinner + show €90–150, show only €50. Respected by dancers as one of the most serious. 10 min from La Latina metro. Open nightly.",
-    "official_url": "https://www.corraldelamoreria.com/en",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "arts",
-      "flamenco",
-      "michelin"
-    ],
-    "related_records": [
-      "flamenco",
-      "flamenco-cardamomo",
+      "flamenco-madrid",
       "teatro-real"
     ]
   },
@@ -1479,7 +1307,8 @@
       "royal-palace",
       "almudena-cathedral",
       "cafe-central-jazz"
-    ]
+    ],
+    "subsubcategory": "Opera & Theater"
   },
   {
     "id": "cafe-central-jazz",
@@ -1519,33 +1348,12 @@
       "bars"
     ],
     "related_records": [
-      "chueca-cocktails",
-      "vermouth-madrid",
-      "neighborhoods-guide"
+      "chueca-bars-nightlife",
+      "neighborhoods-guide",
+      "vermouth-madrid"
     ],
-    "official_url": "https://www.esmadrid.com/en/nightlife"
-  },
-  {
-    "id": "chueca-cocktails",
-    "title": "Chueca Cocktails",
-    "category": "do",
-    "subcategory": "nightlife",
-    "summary": "Design cocktail bars and LGBT+ venues. Plaza de Chueca and Calle Augusto Figueroa.",
-    "content": "Top cocktails: Salmon Guru (twice in the World's 50 Best), Bendito, Le Boutique, Viva Madrid (classic Madrileño vermouth joint). LGBT+ circuit: Black & White, Boite, Why Not? Most cocktail bars €12–18 per drink. Salmon Guru has a no-photos policy and a serious cocktail program.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "nightlife",
-      "chueca",
-      "cocktails"
-    ],
-    "related_records": [
-      "malasana-bars",
-      "la-latina-verbenas",
-      "neighborhoods-guide"
-    ],
-    "official_url": "https://www.esmadrid.com/en/nightlife"
+    "official_url": "https://www.esmadrid.com/en/nightlife",
+    "subsubcategory": "Bars & Pubs"
   },
   {
     "id": "la-latina-verbenas",
@@ -1567,7 +1375,8 @@
       "august-verbenas",
       "neighborhoods-guide"
     ],
-    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid"
+    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid",
+    "subsubcategory": "Bars & Pubs"
   },
   {
     "id": "real-madrid-bernabeu",
@@ -1612,49 +1421,6 @@
       "real-madrid-bernabeu"
     ],
     "subsubcategory": "Football"
-  },
-  {
-    "id": "el-rastro-sunday",
-    "title": "El Rastro Sunday Market",
-    "category": "do",
-    "subcategory": "shopping",
-    "summary": "Europe's biggest flea market. Every Sun + public holidays, 9 AM to 3 PM.",
-    "content": "Calle de la Ribera de Curtidores and surrounding streets. ~3,500 stalls: vintage clothes, antiques, leather, vinyl, knock-offs, handcrafts. Cash only is safest. Arrive before 11:00 to browse, after 13:00 to haggle. Watch your pockets. Adjacent bars fill up — Bar La Concha is a classic stop.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "shopping",
-      "el-rastro",
-      "flea-market"
-    ],
-    "related_records": [
-      "tapas-la-latina",
-      "gran-via",
-      "salamanca-district"
-    ],
-    "official_url": "https://www.esmadrid.com/en/shopping/el-rastro"
-  },
-  {
-    "id": "salamanca-district",
-    "title": "Salamanca District Shopping",
-    "category": "do",
-    "subcategory": "shopping",
-    "summary": "Madrid's 'Golden Mile.' Calle Serrano, Goya, Velázquez. Luxury flagships.",
-    "content": "Hermès, Louis Vuitton, Loewe, Cartier, Chanel — all on Calle Serrano. Quieter and more elegant than Gran Vía. Combine with a coffee at Café Gijón (a Hemingway haunt). Best for window-shopping even if you don't buy.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "shopping",
-      "salamanca",
-      "luxury"
-    ],
-    "related_records": [
-      "gran-via",
-      "neighborhoods-guide"
-    ],
-    "official_url": "https://www.esmadrid.com/en/shopping"
   },
   {
     "id": "las-ventas-bullfights",
@@ -1764,9 +1530,9 @@
       "july"
     ],
     "related_records": [
-      "veranos-de-la-villa",
-      "chueca-cocktails",
-      "neighborhoods-guide"
+      "chueca-bars-nightlife",
+      "neighborhoods-guide",
+      "veranos-de-la-villa"
     ],
     "subsubcategory": "Annual Festivals"
   },
@@ -1860,7 +1626,8 @@
       "metro-de-madrid",
       "emt-buses",
       "madrid-barajas-airport"
-    ]
+    ],
+    "subsubcategory": "Metro Alerts"
   },
   {
     "id": "prado-current",
@@ -1922,7 +1689,7 @@
       "thyssen"
     ],
     "related_records": [
-      "thyssen-bornemisza",
+      "museo-thyssen-bornemisza-detail",
       "prado-current",
       "reina-sofia-current"
     ],
@@ -1945,31 +1712,8 @@
       "el-pais"
     ],
     "related_records": [
-      "madrid-daily-english",
-      "metro-closures"
-    ],
-    "subsubcategory": "Newspapers"
-  },
-  {
-    "id": "madrid-daily-english",
-    "title": "Madrid Daily in English",
-    "category": "now",
-    "subcategory": "news",
-    "summary": "English-language expat news, events, and classifieds. Founded 2002.",
-    "content": "MadridDaily.com (independent) and The Local Spain (thelocal.es) are both long-running. Expat-oriented content, jobs, rentals, events. Less authoritative than El País but better for day-to-day practical questions.",
-    "official_url": "https://www.thelocal.es/spain/madrid/",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "news",
-      "expat",
-      "english"
-    ],
-    "related_records": [
-      "el-pais-english",
-      "idealista",
-      "teach-english-spain"
+      "metro-closures",
+      "the-local-spain"
     ],
     "subsubcategory": "Newspapers"
   },
@@ -2706,7 +2450,7 @@
       "dry-cleaning"
     ],
     "related_records": [],
-    "subsubcategory": "Personal Services"
+    "subsubcategory": "Home & Laundry"
   },
   {
     "id": "locksmiths-madrid",
@@ -2729,7 +2473,7 @@
     "related_records": [
       "emergency-numbers"
     ],
-    "subsubcategory": "Personal Services"
+    "subsubcategory": "Home & Laundry"
   },
   {
     "id": "moving-shipping-madrid",
@@ -2777,7 +2521,7 @@
       "empadronamiento",
       "post-office-madrid"
     ],
-    "subsubcategory": "Personal Services"
+    "subsubcategory": "Professional Services"
   },
   {
     "id": "barbers-hairdressers-madrid",
@@ -2798,7 +2542,7 @@
       "salon"
     ],
     "related_records": [],
-    "subsubcategory": "Personal Services"
+    "subsubcategory": "Hair & Beauty"
   },
   {
     "id": "sol-gran-via-neighborhood",
@@ -3000,11 +2744,11 @@
       "museums"
     ],
     "related_records": [
-      "retiro-park",
+      "metro-de-madrid",
       "museo-del-prado",
       "museo-reina-sofia",
-      "thyssen-bornemisza",
-      "metro-de-madrid"
+      "museo-thyssen-bornemisza-detail",
+      "retiro-park"
     ],
     "subsubcategory": "Residential"
   },
@@ -4539,8 +4283,8 @@
     ],
     "related_records": [
       "empadronamiento",
-      "escuela-oficial-idiomas",
       "language-schools-madrid",
+      "language-schools-madrid-education",
       "universities-madrid"
     ],
     "subsubcategory": "Schools"
@@ -4565,8 +4309,8 @@
       "school"
     ],
     "related_records": [
-      "escuela-oficial-idiomas",
       "language-schools-madrid",
+      "language-schools-madrid-education",
       "universities-madrid"
     ],
     "subsubcategory": "Language Schools"
@@ -5308,7 +5052,7 @@
       "madrid-weather",
       "retiro-park"
     ],
-    "subsubcategory": "Outdoor Sports"
+    "subsubcategory": "Running"
   },
   {
     "id": "photoespana-festival",
@@ -5655,7 +5399,7 @@
       "running-madrid",
       "swimming-pools-madrid"
     ],
-    "subsubcategory": "Outdoor Sports"
+    "subsubcategory": "Golf"
   },
   {
     "id": "cycling-mtb-madrid",
@@ -5686,7 +5430,7 @@
       "retiro-park",
       "running-madrid"
     ],
-    "subsubcategory": "Outdoor Sports"
+    "subsubcategory": "Cycling"
   },
   {
     "id": "tennis-madrid",
@@ -5738,7 +5482,7 @@
       "el-escorial-day-trip",
       "segovia-day-trip"
     ],
-    "subsubcategory": "Outdoor Sports"
+    "subsubcategory": "Winter Sports"
   },
   {
     "id": "supermarkets-grocery-madrid",
@@ -5763,7 +5507,7 @@
       "mercados-madrid",
       "post-office-madrid"
     ],
-    "subsubcategory": "Shopping & Food"
+    "subsubcategory": "Food & Grocery"
   },
   {
     "id": "movie-theaters-madrid",
@@ -6079,7 +5823,7 @@
       "sim-cards-madrid",
       "supermarkets-grocery-madrid"
     ],
-    "subsubcategory": "Shopping & Food"
+    "subsubcategory": "Electronics & Tech"
   },
   {
     "id": "bookstores-madrid-detail",
@@ -6105,7 +5849,7 @@
       "el-rastro-flea-market",
       "language-schools-madrid"
     ],
-    "subsubcategory": "Specialty Shops"
+    "subsubcategory": "Books & Music"
   },
   {
     "id": "hotels-madrid",
@@ -7134,7 +6878,7 @@
     "title": "Optical Shops (Ópticas) in Madrid",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Personal Services",
+    "subsubcategory": "Health & Optical",
     "summary": "Optical shops: Óptica Universitaria, Alain Afflelou, Multiópticas. Eye exams €40-80, glasses €80-300.",
     "content": "Optical shops (ópticas) in Madrid. MAIN CHAINS: (1) Alain Afflelou — French chain, 50+ Madrid locations, eye exams €40-60, glasses from €80. (2) Multiópticas — Spanish chain, similar pricing. (3) Óptica Universitaria (Calle Gran Vía 28) — central, popular with students. (4) Cottet — Catalan chain, premium. (5) Óptica Suiza — high-end. INDEPENDENT: (1) Óptica Besada (Calle de la Velázquez 21) — English-speaking, premium. (2) Óptica Val (Calle de la Alcalá 55) — mid-range. SERVICES: Eye exams (examen de la vista) €40-80, sometimes free with glasses purchase. Contact lens fitting €50-80. Glasses (gafas) from €80 (basic) to €300+ (designer). Contact lenses (lentillas) €30-60/month. Sunglasses (gafas de sol) from €50. INSURANCE: Spanish public health covers eye exams for under-18s and over-65s. Private insurance (Sanitas, Adeslas) often includes optical coverage €100-200/year. TIPS: (1) Bring your prescription — Spanish opticians accept international prescriptions. (2) Glasses are ready in 1-2 hours for standard lenses, 1-2 weeks for special prescriptions. (3) Tax-free shopping available for non-EU residents on purchases over €90. (4) Bargaining is not common but chains sometimes offer promotions (2-for-1, free eye exam with purchase).",
     "official_url": "https://www.afflelou.com/",
@@ -7158,7 +6902,7 @@
     "title": "Music Stores in Madrid",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Specialty Shops",
+    "subsubcategory": "Books & Music",
     "summary": "Music stores: El Corte Inglés music, Discos Melopelo (vinyl), Mariscal (instruments). CDs €10-20, vinyl €15-30.",
     "content": "Music stores in Madrid. CD/DVD: (1) El Corte Inglés (multiple) — Spain's largest CD/DVD selection, 7th floor of Castellana store. Mainstream and Spanish artists. CDs €10-18, DVDs €10-20. (2) FNAC (Calle Marqués de Casa Riera 4) — good selection, similar pricing. VINYL: (1) Discos Melopelo (Calle de la Colegiata 12, La Latina) — Madrid's best vinyl shop, new and used, €15-30 per LP. Jazz, rock, flamenco, electronic. (2) Flash Records (Calle de la Escorial 6, Malasaña) — used vinyl, €10-25. (3) Bicolor Music (Calle de la Pez 8) — new vinyl, focus on indie. (4) Disco 100 (Calle de la Montera 30) — dance/electronic vinyl. INSTRUMENTS: (1) Mariscal (Calle de la Marqués de Cubas 4) — Madrid's oldest music shop (1921), guitars, violins, brass. (2) Casa Luthier (Calle de la Balmes 22) — classical guitars, high-end. (3) Yamaha Music Madrid (Calle de la Alcalá 119) — pianos, keyboards, all instruments. (4) Guitar Center Madrid (Calle de la Atocha 28) — guitars, amps. CONCERT TICKETS: (1) El Corte Inglés ticket counters — large events. (2) Tick Tack Ticket (online) — most concerts. (3) Wegow (online) — indie concerts. TIPS: (1) Vinyl is having a renaissance in Madrid — Melopelo is the must-visit. (2) Spanish music to look for: flamenco (Paco de Lucía, Camarón), pop (Alaska, Rosalía), rock (Héroes del Silencio, Jarabe de Palo). (3) El Corte Inglés has the best selection of Spanish classical and flamenco CDs.",
     "official_url": "https://www.elcorteingles.es/",
@@ -7184,7 +6928,7 @@
     "title": "International Grocery Stores",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Shopping & Food",
+    "subsubcategory": "Food & Grocery",
     "summary": "International food: Mantequerías Alemanas (German), Tatsumi (Japanese), Seoul (Korean), Lavapiés (Indian/African).",
     "content": "International grocery stores in Madrid for expat and specialty foods. BRITISH/IRISH: (1) The Irish Shop (Calle de la Espíritu Santo 1, Malasaña) — HP sauce, Marmite, Cadbury, Walker's crisps. (2) UK food sections at El Corte Inglés (Castellana, Goya) — PG Tips, McVitie's, Colman's. GERMAN: (1) Mantequerías Alemanas (Calle de Ayala 25, Salamanca) — German bread, sausages, beer, mustard. Established 1930. JAPANESE: (1) Tatsumi (Calle del General Yagüe 14) — Japanese groceries, sushi-grade fish, miso, nori, sake. (2) Warehouse Japanese Market (Calle de la Orense 31) — larger selection. KOREAN: (1) Seoul (Calle de la Princesa 5) — kimchi, gochujang, Korean snacks. (2) Korean Market (Calle de la Luna 3) — smaller. CHINESE: (1) Casa Asia (Calle del Cardenal Cisneros 9) — has a small Asian food section. (2) Barrio de Usera (south Madrid) — Madrid's Chinatown, 20+ Chinese supermarkets. INDIAN/PAKISTANI: (1) Lavapiés neighborhood (Calle de Lavapiés, Calle de la Ollerías) — 10+ Indian grocery stores, spices, lentils, basmati. (2) Yatai Market (Calle de la Lavapiés 28) — pan-Asian. LATIN AMERICAN: (1) Mercado de la Cebada (La Latina) — Latin American products. (2) Calle de la Tolmo (Lavapiés) — Peruvian, Colombian, Ecuadorian. AFRICAN: (1) Calle de la Lavapiés (south end) — Senegalese, Nigerian products. HALAL: (1) Halal Butcher shops in Lavapiés and Cuatro Caminos. ITALIAN: (1) Obika (various) — mozzarella bar, Italian products. (2) Giglio (Calle de la Jorge Juan 10) — Italian deli. AMERICAN: (1) Taste of America (Calle de la Modesto Lafuente 45) — American candy, baking supplies, Pepsi Wild Cherry. TIPS: (1) El Corte Inglés Gourmet section (Castellana) has the best all-in-one international selection. (2) For Asian ingredients, Usera is cheapest. (3) For Latin American, La Latina is best. (4) Most international stores are closed Sundays.",
     "official_url": "https://www.elcorteingles.es/",
