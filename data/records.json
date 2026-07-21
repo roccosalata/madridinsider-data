@@ -43,15 +43,15 @@
   },
   {
     "id": "madrid-barajas-airport",
-    "title": "Adolfo Suárez Madrid-Barajas Airport",
+    "title": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
     "category": "essentials",
     "subcategory": "transportation",
-    "summary": "Spain's busiest airport, 12 km northeast of the city. 4 terminals + 1 satellite (T4S).",
-    "content": "Metro Line 8 connects to the city centre (€4.50 supplement + €1.50 metro fare). Express bus 200/203 (€5, 40 min). Taxi €30–35 (30 min, can be longer in traffic). Renfe Cercanías commuter train from T4 to Atocha/Chamartín. Free shuttle between terminals.",
+    "summary": "Spain's busiest airport, 12km NE of city. 4 terminals + T4S satellite. Metro L8, Express Bus 203, taxi €30 flat rate.",
+    "content": "Adolfo Suárez Madrid-Barajas Airport (MAD) is Spain's busiest airport, 12km northeast of Madrid city center. 4 terminals: T1, T2, T3 (older, connected) and T4 + T4S satellite (modern, Iberia and Oneworld alliance). FREE shuttle between terminals (5-10 min, every 5 min). TO/FROM CITY CENTER: (1) Metro Line 8 (pink): all terminals to Nuevos Ministerios (15 min, €4.50 airport supplement + €1.50-3.00 metro fare). Run 6am-1:30am. (2) Express Bus 203: 24/7 to Atocha (daytime) / Cibeles (nighttime). €5, 30-40 min. (3) Taxi: €30 flat rate to central Madrid (inside M-30 ring). 20-30 min. (4) Ride-sharing (Uber/Cabify): €25-35, 20-30 min. Pick-up at 'Ride App' zones. (5) Cercanías C1: from T4 to Atocha/Chamartín (25 min, €2.60). Only useful if arriving at T4. (6) Private transfer: €35-60, pre-booked. AIRPORT FACILITIES: Free WiFi (AENA WiFi, 30 min free then paid), ATMs (use bank ATMs not Euronet), currency exchange (poor rates — use ATMs), left luggage (T1 €4/bag/day, T4 €5.50/bag/day, 24/7), duty-free, car rental (all major companies at T1, T2, T4), VIP lounges, pharmacy (T2, T4), medical center (T2). TIPS: (1) Arrive 2 hours before European flights, 3 hours for long-haul. (2) T4 is the best terminal — modern, good food, shopping. T1-T3 are older and more crowded. (3) The Metro is the cheapest option but can be tricky with large luggage during rush hour. (4) The €30 taxi flat rate is often the best value for groups. (5) Free WiFi is limited to 30 min — buy more or use your eSIM data.",
     "official_url": "https://www.aena.es/en/passengers/madrid-barajas-airport.html",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "tags": [
       "transport",
       "airport",
@@ -74,15 +74,15 @@
   },
   {
     "id": "atocha-station",
-    "title": "Atocha Station",
+    "title": "Atocha Station (Madrid's Main Train Station)",
     "category": "essentials",
     "subcategory": "transportation",
-    "summary": "Madrid's main train station. AVE high-speed to Barcelona (2h 30), Seville (2h 30), Valencia (1h 40).",
-    "content": "Two parts: Atocha Cercanías (commuter trains) and Madrid Puerta de Atocha (long distance + AVE). Metro: Atocha Renfe (Line 1). Adjacent to the Reina Sofía museum. The original 19th-century hall is now a 4,000-plant tropical garden — worth a 10-minute wander even if you're not catching a train.",
+    "summary": "Madrid's main station. AVE high-speed to Barcelona, Seville, Valencia. Tropical garden in the old hall. Metro: Atocha Renfe L1.",
+    "content": "Atocha Station (officially Madrid Puerta de Atocha) is Madrid's main train station, serving high-speed AVE trains and most long-distance routes. Two parts: (1) Atocha Cercanías — commuter trains (Cercanías C1-C10), in the modern part. (2) Madrid Puerta de Atocha — long-distance and AVE high-speed trains, in the restored 19th-century hall with the famous tropical garden (4,000 plants, turtles). AVE DESTINATIONS: Barcelona (2h30, from €25), Seville (2h30, from €20), Valencia (1h40, from €18), Málaga (2h30, from €25), Zaragoza (1h15, from €15), Córdoba (1h45, from €18). Metro: Atocha Renfe (Line 1), Atocha (Line 1, walk 5 min). Cercanías: connects to Chamartín (8 min, faster than Metro), Airport T4 (25 min, C1), El Escorial (1h, C8). FACILITIES: Left luggage (€3.90-5.50/day, ground floor near tropical garden), VIPS café, Starbucks, McDonald's, pharmacy, car rental, taxi rank, hotel booking desk, tropical garden (free to visit, even without a ticket). TIPS: (1) The tropical garden in the old hall is worth seeing even if you're not catching a train — 4,000 plants, turtles, free. (2) Arrive 30 min before AVE departure — security check is like an airport. (3) AVE tickets are cheapest 60+ days ahead — book at renfe.com. (4) Left luggage at Atocha is the cheapest in central Madrid (€3.90/day) — great for sightseeing. (5) The station is 10 min walk from the Prado, Reina Sofía, and Thyssen museums.",
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "tags": [
       "transport",
       "train",
@@ -103,15 +103,15 @@
   },
   {
     "id": "chamartin-station",
-    "title": "Chamartín Station",
+    "title": "Chamartín Station (Madrid's North Station)",
     "category": "essentials",
     "subcategory": "transportation",
-    "summary": "Madrid's second major train station, north of centre. AVE to northwest Spain and Portugal.",
-    "content": "Renovated 2022. Metro: Chamartín (Lines 1, 10). Buses to many northern destinations. Less crowded than Atocha.",
+    "summary": "Madrid's second major station, north of center. AVE to Galicia, Asturias, Basque Country. Cercanías hub. Metro: Lines 1, 10.",
+    "content": "Chamartín Station (officially Madrid-Chamartín-Clara Campoamor) is Madrid's second major train station, located in the north of the city. Renovated in 2022 with a modern glass facade and expanded concourse. AVE high-speed trains depart here for: Galicia (A Coruña, Vigo — 6h), Asturias (Gijón, Oviedo — 4h30), Cantabria (Santander — 4h15), Basque Country (Bilbao — 4h, San Sebastián — 5h30). Also serves Cercanías lines C1, C2, C3, C4, C7, C8, C10 — connecting to Atocha (8 min), Barajas Airport T4 (25 min), El Escorial (1h), and Segovia (via C8 + C9). Metro: Chamartín (Lines 1, 10), plus direct connection to Metro surロン (Line 10). Facilities: VIPS café, Starbucks, McDonald's, pharmacy, car rental (Avis, Hertz), left luggage (€3.90/day), taxi rank, parking. The station is less crowded than Atocha and easier to navigate. For tourists staying in northern Madrid (Chamartín, Tetuán, financial district), this is more convenient than Atocha.",
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "tags": [
       "transport",
       "train",
@@ -129,15 +129,15 @@
   },
   {
     "id": "emt-buses",
-    "title": "EMT Buses",
+    "title": "EMT Madrid Buses (City Bus Network)",
     "category": "essentials",
     "subcategory": "transportation",
-    "summary": "City buses run by EMT Madrid. Same ticket as metro.",
-    "content": "200+ lines across the city. Single ride €1.50. Airport Express 200 and 203 to/from Barajas (€5). Night buses ('N' lines, 'búhos') run from 11:30 PM to 6:00 AM. EMT Madrid app has real-time arrivals. Same Metrobús 10-pack works on buses and metro.",
+    "summary": "200+ lines across Madrid. €1.50 single, €1.20 with Tarjeta Transporte. Airport Express 203 (€5). Night buses (Búhos) from Cibeles.",
+    "content": "EMT (Empresa Municipal de Transportes) operates Madrid's city bus network — 200+ lines, 2,000+ buses. Single ticket €1.50 (buy from driver, exact change appreciated). With Tarjeta Transporte Público: €1.20 per trip. 10-trip Metrobús card: €12.20 (works on Metro + buses). KEY LINES FOR TOURISTS: (1) Line 1, 2, 46 — north-south through center. (2) Line 27, 34, 45 — to museums (Prado, Reina Sofía). (3) Line 74 — to El Rastro flea market (Sundays). (4) Line 200, 203 — Airport Express (€5, 24/7). (5) Night buses N1-N28 — from Plaza de Cibeles after Metro closes. HOW TO USE: (1) Wait at a bus stop with a red/white sign showing the line number. (2) Flag the bus (raise your hand). (3) Enter through the front door. (4) Pay driver (cash) or tap your Tarjeta Transporte. (5) Press the 'stop' button before your stop. (6) Exit through the rear door. APP: Download 'EMT Madrid' app (English) — real-time bus arrivals, route planner, buy 10-trip tickets. Bus stops have QR codes — scan with your phone for real-time arrivals. TIPS: (1) Buses are slower than Metro for most routes but go where Metro doesn't. (2) Best for: cross-town routes, reaching neighborhoods not on Metro, airport. (3) Air-conditioned in summer. (4) wheelchair accessible (all buses have ramps). (5) The 10-trip Metrobús card is the best value — works on Metro AND buses.",
     "official_url": "https://www.emtmadrid.es/English",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "tags": [
       "transport",
       "bus",
@@ -325,15 +325,15 @@
   },
   {
     "id": "euros-and-atms",
-    "title": "Euros & ATMs",
+    "title": "Euros & ATMs in Madrid",
     "category": "essentials",
     "subcategory": "money",
-    "summary": "Spain uses the Euro. ATMs are everywhere; avoid the Euronet ATMs in tourist traps.",
-    "content": "Withdraw from bank-affiliated ATMs (CaixaBank, BBVA, Santander, Bankinter) for the best rates. Euronet ATMs in tourist areas add heavy fees. Most Spanish banks charge a small fee for non-customer withdrawals — check with your home bank about foreign transaction fees.",
+    "summary": "Euro (€). Use bank ATMs (Santander, BBVA, CaixaBank) for best rates. Avoid Euronet ATMs (high fees). Cash still needed for small shops.",
+    "content": "Spain uses the Euro (€). ATM TIPS: (1) Use bank-affiliated ATMs (Santander, BBVA, CaixaBank, Bankinter, Sabadell) — they offer the interbank exchange rate with no markup. (2) AVOID Euronet and other non-bank ATMs — they charge 3-5% fees and offer a terrible 'dynamic currency conversion' rate. Always choose to be charged in EUR, not your home currency. (3) Withdraw larger amounts (€200-300) to minimize per-transaction fees. (4) Most ATMs accept 4-digit PINs. If your PIN is 6 digits, contact your bank before traveling. (5) Daily withdrawal limit: usually €500-600 from Spanish ATMs. CASH VS CARD: Spain is very card-friendly. Visa and Mastercard accepted almost everywhere. American Express less common. Contactless payment (Apple Pay, Google Pay) widely accepted. However, carry €50-100 cash for: small tapas bars, market stalls, taxis (some), tips, and emergencies. EXCHANGE: Avoid airport currency exchanges (worst rates). If you must exchange cash, use the banks on Gran Vía or El Corte Inglés. Better to just use ATMs. TIP: Notify your bank you're traveling to Spain before you go, to avoid fraud blocks.",
     "official_url": "https://www.ecb.europa.eu/euro/intro/html/index.en.html",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "money",
       "euros",
@@ -349,14 +349,14 @@
   },
   {
     "id": "credit-card-acceptance",
-    "title": "Credit Cards & Contactless",
+    "title": "Credit Cards & Contactless Payment",
     "category": "essentials",
     "subcategory": "money",
-    "summary": "Visa and Mastercard widely accepted. American Express hit-or-miss outside hotels.",
-    "content": "Spain is very card-friendly in cities. Smaller bars, taxis, and market stalls may prefer cash or have a minimum for cards (typically €5–10). Contactless ('contactless sin contacto') works almost everywhere. Notify your bank of travel to avoid fraud blocks.",
+    "summary": "Visa/Mastercard accepted almost everywhere. Amex less common. Contactless (Apple Pay, Google Pay) widely accepted.",
+    "content": "Spain is very card-friendly. ACCEPTED: Visa and Mastercard are accepted at 95%+ of businesses. Contactless payment (Apple Pay, Google Pay, Samsung Pay) works at most terminals — just look for the contactless symbol. Tap to pay up to €50 without PIN. LESS COMMON: American Express — accepted at hotels, department stores, and larger restaurants, but NOT at small bars, taxis, or market stalls. Discover — rarely accepted. NOT ACCEPTED: Diners Club, JCB — essentially useless in Spain. WHEN YOU NEED CASH: (1) Small tapas bars and cafés (under €10). (2) Market stalls (El Rastro, Mercado de San Miguel). (3) Some taxis (though most now accept cards). (4) Tips (though rounding up on a card is fine). (5) Vending machines. (6) Public toilets (€0.50-1). TIPS: (1) Always choose to pay in EUR (not your home currency) when given the choice — 'dynamic currency conversion' is a scam with 3-5% markup. (2) Spanish PINs are 4 digits — if yours is 6, contact your bank. (3) Some restaurants bring a portable card terminal to your table — don't let your card out of sight. (4) Spanish banks don't charge you for using their ATMs, but YOUR bank might — check foreign transaction fees. (5) The best travel cards: Wise (0% foreign transaction fee), Revolut (0% on weekdays), Chase Sapphire (no foreign transaction fee).",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "money",
       "credit-card"
@@ -371,14 +371,14 @@
   },
   {
     "id": "daily-budgets",
-    "title": "Daily Budgets",
+    "title": "Daily Budgets for Madrid",
     "category": "essentials",
     "subcategory": "money",
-    "summary": "Budget €60–100/day mid-range, €150+ for a nicer trip, €40 backpacker-style.",
-    "content": "Mid-range: €100–150 hotel, €25–40 food, €15 transport, €20 attractions = ~€160–225/day. Backpacker: hostel €25–40, supermarket breakfast €5, menu del día €12, public transport €10 = ~€60–80/day. Luxury: €300+ hotels, fine dining €100+ per person.",
+    "summary": "Backpacker €40-60/day. Mid-range €100-180/day. Luxury €250+. Includes accommodation, food, transport, attractions.",
+    "content": "Daily budgets for Madrid. BACKPACKER (€40-60/day): Hostel dorm €15-25, supermarket food €10, Metro €3, free attractions (Retiro, temples, plazas), 1 paid attraction €10. Total: ~€40-50/day. BUDGET TRAVELER (€60-100/day): Hostel private or budget hotel €35-50, menú del día €10-12, dinner tapas €10-15, Metro €5, attractions €15-20, drinks €5-10. Total: ~€80-100/day. MID-RANGE (€100-180/day): 3-star hotel €70-100, lunch menú €12, dinner restaurant €25-40, Metro/buses €5, attractions €20-30, drinks/coffee €10. Total: ~€140-180/day. COMFORTABLE (€180-300/day): 4-star hotel €100-180, lunch restaurant €20, dinner good restaurant €40-60, taxi €15, attractions €30, drinks €20. Total: ~€230-300/day. LUXURY (€300+/day): 5-star hotel €200-500, fine dining €80-150, private transfers €30, VIP attractions €50, cocktails €30. Total: €400+/day. SAVE MONEY: (1) Menú del día (3-course lunch €10-12, weekdays). (2) Free museum entry times (Prado Mon-Sat 6-8pm, etc.). (3) Metro 10-trip card (€12.20 = €1.22/trip vs €1.50-2.00 single). (4) Picnic in Retiro Park with supermarket food. (5) Free walking tours (tip €5-10). (6) Vermouth + tapas (€5-8) instead of restaurant lunch. SPEND MORE ON: (1) One great dinner (€40-80). (2) A flamenco show (€30-50). (3) A Bernabéu or Metropolitano stadium tour (€25-35). (4) A day trip to Toledo or Segovia (€15-25 train + €10-15 sights).",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "money",
       "budget"
@@ -393,14 +393,14 @@
   },
   {
     "id": "survival-spanish",
-    "title": "Survival Spanish — 20 Phrases",
+    "title": "Survival Spanish — 20 Essential Phrases",
     "category": "essentials",
     "subcategory": "communication",
-    "summary": "Hola, gracias, por favor, ¿dónde está…?, la cuenta, por favor. The basics that get you everywhere.",
-    "content": "Top 20: ¡Hola! / ¿Qué tal? / Buenos días / Buenas tardes / Adiós / Por favor / Gracias / De nada / Sí / No / Perdón / Lo siento / No entiendo / ¿Habla inglés? / ¿Dónde está…? / ¿Cuánto cuesta? / La cuenta, por favor / Una mesa para dos / Con permiso / ¡Salud! (cheers). Spaniards are forgiving and delighted when foreigners try — even a 'buenos días' wins you points.",
+    "summary": "20 phrases that will get you through any situation in Madrid. Print this and carry it. Free.",
+    "content": "20 essential Spanish phrases for Madrid. GREETINGS: (1) 'Hola, buenas' — Hello (casual, any time of day). (2) 'Buenos días' — Good morning. (3) 'Buenas tardes' — Good afternoon. (4) 'Buenas noches' — Good evening/night. (5) 'Adiós' / 'Hasta luego' — Goodbye / See you later. POLITE: (6) 'Por favor' — Please. (7) 'Gracias' — Thank you. (8) 'De nada' — You're welcome. (9) 'Perdone' — Excuse me / Sorry. (10) '¿Habla inglés?' — Do you speak English? RESTAURANT: (11) 'La carta, por favor' — The menu, please. (12) 'La cuenta, por favor' — The bill, please. (13) 'Para mí...' — For me... (ordering). (14) 'Sin gluten' — Gluten-free. DIRECTIONS: (15) '¿Dónde está...?' — Where is...? (16) '¿Dónde está el baño?' — Where is the bathroom? (17) '¿Cuánto cuesta?' — How much? NUMBERS: (18) 'Uno, dos, tres' — One, two, three. (19) 'Una cerveza, por favor' — One beer, please. EMERGENCY: (20) '¡Ayuda! Necesito un médico' — Help! I need a doctor. TIP: Download Google Translate, set Spanish offline, and use camera mode to translate menus and signs. Most Spaniards in tourist areas speak some English — but trying Spanish first goes a long way.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "language",
       "spanish"
@@ -417,15 +417,15 @@
   },
   {
     "id": "emergency-numbers",
-    "title": "Emergency Numbers",
+    "title": "Emergency Numbers in Madrid",
     "category": "essentials",
     "subcategory": "safety",
-    "summary": "112 is the universal EU emergency line. Police: 091. Ambulance: 061.",
-    "content": "112 works in English, French, German, and Spanish. Free from any phone. Police (Policía Nacional) 091. Local police (Policía Municipal) 092. Ambulance (SUMMA) 061. Fire 080. Civil Guard 062. For non-urgent tourist help, contact the Tourist Attention Service on +34 91 522 00 81.",
+    "summary": "112 (free, multilingual, 24/7). Police 091, Ambulance 061, Fire 080. Works from any phone.",
+    "content": "Emergency numbers in Madrid. 112 (EUROPEAN EMERGENCY NUMBER): Free, 24/7, multilingual (English, Spanish, French, German). Works from any phone (including locked phones, payphones, and without a SIM card). Use for: medical emergencies, fires, crime in progress, serious accidents. The operator will connect you to the right service. POLICE: 091 (Policía Nacional — national police, handles urban crime, immigration, terrorism). 092 (Policía Municipal — local/city police, handles traffic, noise complaints, neighborhood issues). AMBULANCE: 061 (ambulances, medical emergencies). FIRE: 080 (fire department, also rescues). OTHER USEFUL NUMBERS: 0116 (child protection), 016 (domestic violence — free, confidential, 24/7), 900 200 225 (gambling addiction). FOR NON-EMERGENCIES: File police reports online at denuncias.policia.es (works for non-residents, available in English). For theft without violence, this is faster than going to a police station. WHAT TO SAY IF YOU CALL 112: (1) 'I need an ambulance' / 'Necesito una ambulancia'. (2) 'I need the police' / 'Necesito la policía'. (3) State your location (nearest street, landmark, or Metro station). (4) Describe the emergency briefly. (5) Stay on the line until the operator tells you to hang up. TIPS: (1) Save 112 in your phone contacts. (2) 112 operators all speak English — don't panic. (3) If you can't speak, dial 112 and leave the line open — they can trace your location. (4) Spanish hospitals cannot refuse emergency treatment, regardless of insurance or residency status. (5) Carry your EHIC card (EU) or travel insurance info at all times.",
     "official_url": "https://www.112.es/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "safety",
       "emergency"
@@ -443,14 +443,14 @@
   },
   {
     "id": "hospitals",
-    "title": "Hospitals & 24h Clinics",
+    "title": "Hospitals & 24h Clinics in Madrid",
     "category": "essentials",
     "subcategory": "safety",
-    "summary": "Hospital La Paz, Hospital Gregorio Marañón, Hospital Ramón y Cajal — all public, all with English-speaking staff.",
-    "content": "Public hospitals (hospitales públicos) provide emergency care to anyone. For non-emergencies, private hospitals (HM Hospitales, Quirónsalud, Sanitas) are faster and many have English-speaking coordinators. EU citizens: use your EHIC/GHIC card for public care. Non-EU: pay upfront or use travel insurance.",
+    "summary": "Public: Gregorio Marañón, La Paz, 12 de Octubre. Private: Ruber Internacional, HM Montepríncipe. ER free for all.",
+    "content": "Madrid hospitals. PUBLIC (free with Social Security, EHIC, or for emergencies — cannot refuse anyone): (1) Hospital Universitario Gregorio Marañón (Calle Doctor Esquerdo 46, Metro O'Donnell L2) — largest, all specialties, 24/7 ER. (2) Hospital Universitario La Paz (Paseo de la Castellana 261, Metro La Paz L7) — top trauma center, pediatric ER, burns unit. (3) Hospital Universitario 12 de Octubre (Calle de Andalucía, Metro San Bernardo L6) — largest in southern Madrid. (4) Hospital Clínico San Carlos (Calle Professor Martín Lagos, Metro Ciudad Universitaria L6) — central, near university. PRIVATE (insurance or self-pay, shorter waits): (1) Hospital Ruber Internacional (Calle La Masó 38, Mirasierra) — top private, English-speaking. ER €200-500 self-pay. (2) Hospital Universitario HM Montepríncipe (Calle Avivé, Boadilla del Monte) — modern, English-speaking. (3) Hospital San Rafael (Calle Julio Palacios, Metro Valdeacederas L1) — mid-range. (4) Hospital Vithas Madrid (multiple) — chain. EMERGENCY: 112 (ambulance, free). Public ER wait: 2-6 hours. Private ER wait: 30-60 min, €200-500. Bring: passport/ID, insurance card, medication list. Spanish hospitals are required by law to treat emergencies regardless of insurance or residency — don't hesitate to go if you need care.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "safety",
       "health",
@@ -466,15 +466,15 @@
   },
   {
     "id": "embassies",
-    "title": "Embassies & Consulates",
+    "title": "Embassies & Consulates in Madrid",
     "category": "essentials",
     "subcategory": "safety",
-    "summary": "Your embassy is the right call for lost/stolen passports, arrests, and serious emergencies.",
-    "content": "US Embassy: Calle de Serrano, 75. UK Consulate: Torre Emperador, Paseo de la Castellana. Both take appointments for non-emergency consular services. For a lost passport, file a police report (denuncia) first online or at any police station.",
+    "summary": "US Embassy: Serrano 75. UK Consulate: Paseo de la Castellana. Most embassies in Salamanca district. 24/7 emergency for citizens.",
+    "content": "Embassies and consulates in Madrid. Most are in the Salamanca and Chamberí districts. UNITED STATES: Embassy (Calle de Serrano 75, Metro Serrano L4). Phone 91 587 2200. Consular section: passport services, citizenship, notarials. Appointment required — schedule at usais.usmission.gov. Emergency (24/7): 91 587 2200 (ask for American Citizen Services). UNITÉD KINGDOM: Embassy (Calle de la Farfa 16, Metro Nuñez de Balboa L5/L9). Phone 91 714 6300. Consular services: passport, emergency travel documents. Emergency (24/7): 91 714 6300. CANADA: Embassy (Calle de Núñez de Balboa 35, Metro Nuñez de Balboa L5/L9). Phone 91 382 8400. AUSTRALIA: Embassy (Calle de la Planelles 10, Metro República Argentina L6). Phone 91 353 6600. IRELAND: Embassy (Calle de la Claudio Coello 73, Metro Rubén Darío L5). Phone 91 576 3500. WHAT EMBASSIES CAN DO: (1) Emergency passport replacement. (2) Notarials and document authentication. (3) Emergency financial assistance (loan). (4) Visit if arrested. (5) Death of a citizen abroad. WHAT THEY CAN'T DO: (1) Get you out of jail. (2) Pay fines or legal fees. (3) Provide money (except emergency loans). (4) Intervene in Spanish legal proceedings. TIPS: (1) Register your trip with your embassy (STEP for US, LOCATE for UK) before traveling. (2) Keep your embassy's phone number in your phone. (3) For lost/stolen passport: file a police report first (online at denuncias.policia.es), then contact your embassy. (4) Embassies are closed on Spanish AND their home country's holidays. (5) Most embassy websites have English emergency information.",
     "official_url": "https://es.usembassy.gov",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "safety",
       "embassy"
@@ -492,14 +492,14 @@
   },
   {
     "id": "lost-passport",
-    "title": "Lost or Stolen Passport",
+    "title": "Lost or Stolen Passport — What to Do",
     "category": "essentials",
     "subcategory": "safety",
-    "summary": "File a police report (denuncia) immediately, then contact your embassy for an emergency travel document.",
-    "content": "Online police reports at denuncias.policia.es (works for non-residents). Take the report and your embassy emergency travel document to a Spanish police station for exit clearance. Carry photocopies of your passport separately while travelling.",
+    "summary": "1. File police report online (denuncias.policia.es). 2. Contact your embassy. 3. Get emergency passport. Allow 1-3 days.",
+    "content": "Lost or stolen passport in Madrid. STEP 1 — FILE A POLICE REPORT: File online at denuncias.policia.es (available in English, works for non-residents). Choose 'robo' (theft) or 'pérdida' (loss). For theft with violence, call 112 or go to a police station in person. Print the report — you'll need it for insurance and your embassy. STEP 2 — CONTACT YOUR EMBASSY: US Embassy (Serrano 75, 91 587 2200, appointment required at usais.usmission.gov). UK Embassy (Farfa 16, 91 714 6300). Canadian Embassy (Núñez de Balboa 35, 91 382 8400). Australian Embassy (Planelles 10, 91 353 6600). Bring: police report, passport photo (or they can take one), passport number (if you have a copy), travel itinerary, fee (€100-150 for emergency passport). STEP 3 — EMERGENCY PASSPORT: US: emergency passport in 1-2 business days, valid for 1 year. UK: emergency travel document in 1-2 business days, valid for single journey. Canada: emergency passport in 1-3 business days. STEP 4 — TRAVEL INSURANCE: Most travel insurance covers passport replacement costs. Keep all receipts and the police report for your claim. PREVENTION: (1) Leave your passport in the hotel safe — carry a photocopy. (2) Take photos of your passport and store in cloud. (3) Email yourself a copy. (4) Register with your embassy before traveling (STEP for US, LOCATE for UK). (5) Use a money belt in tourist areas. TIPS: (1) The police report is essential — don't skip this step. (2) Embassy appointments can be booked online — don't just show up. (3) If you have a flight in 24 hours, tell the embassy — they can expedite. (4) Emergency passports may not be accepted for all destinations — check with your airline.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "safety",
       "passport"
@@ -514,11 +514,11 @@
   },
   {
     "id": "pharmacies",
-    "title": "Pharmacies (Farmacias)",
+    "title": "Pharmacies (Farmacias) in Madrid",
     "category": "essentials",
     "subcategory": "safety",
-    "summary": "Green cross signs. Most open 9:30 AM to 9:30 PM; rota pharmacy covers every neighbourhood 24h.",
-    "content": "Look for the green cross. Every district has a 'farmacia de guardia' open 24h — schedules are posted on every pharmacy door. Pharmacists can give advice and sell most non-prescription medications that need a prescription elsewhere. For serious issues, go to a hospital.",
+    "summary": "Green cross sign. 24-hour 'farmacia de guardia' rotates daily. Free health advice for minor issues. Cheaper than doctors.",
+    "content": "Pharmacies (farmacias) in Madrid. IDENTIFY: Look for a green cross sign (sometimes flashing) — that's a pharmacy. There are 800+ pharmacies in Madrid, one every few blocks. HOURS: Most pharmacies open Mon-Fri 9:30am-2pm and 5-9:30pm, Sat 10am-2pm. Closed Sundays. 24-HOUR PHARMACIES (Farmacia de Guardia): Every night and Sunday, one pharmacy in each district stays open 24/7 on a rotating schedule. Find the nearest at colegiofarmaceuticosmadrid.es (Spanish only) or ask any pharmacy '¿Dónde está la farmacia de guardia?' WHAT THEY SELL: (1) Over-the-counter medicine: paracetamol (€2), ibuprofen (€3), antihistamines (€5), antacids (€4), cough syrup (€5), antibiotic cream (€5). (2) Prescription medicine (bring your prescription or have a doctor call one in). (3) First aid: bandages, antiseptic, thermometer. (4) Personal care: sunscreen, contact lens solution, feminine hygiene, baby formula. (5) Medical devices: blood pressure monitors, glucose meters. SPANISH PHARMACY TIPS: (1) Spanish pharmacists are highly trained (5-year university degree) and can advise on minor health issues — colds, allergies, rashes, insect bites. This is FREE and often faster than seeing a doctor. (2) Many medicines that require a prescription in the US/UK are available OTC in Spain (e.g., some antibiotics, codeine). Ask the pharmacist. (3) Spanish pharmacies are cheaper than US/UK for most medicines. (4) Say 'para el dolor de...' (for pain of...) + cabeza (head), estómago (stomach), garganta (throat). (5) The pharmacist can tell you if you need to see a doctor. (6) Emergency contraception is available OTC (€20-30, no prescription, no age restriction).",
     "official_url": "https://www.comunidad.madrid/servicios/salud/farmacia",
     "status": "evergreen",
     "english_friendly": true,
@@ -1117,9 +1117,9 @@
       "tapas"
     ],
     "related_records": [
+      "la-latina-tapas-nightlife",
       "plaza-mayor",
       "sangines",
-      "tapas-la-latina",
       "tipping-spain",
       "vermouth-madrid"
     ],
@@ -1130,12 +1130,12 @@
     "title": "Chocolatería San Ginés",
     "category": "do",
     "subcategory": "food",
-    "summary": "Madrid's iconic churros-and-chocolate spot, open since 1894. 24/7.",
-    "content": "Pasadizo de San Ginés, 5 (off Calle Arenal, near Puerta del Sol). Order 'churros con chocolate' — six churros €4.20–4.80, hot chocolate thick enough to stand a churro in. Cash and card both. The marble tables and tuxedoed waiters haven't changed in 30 years. No reservations, queue moves fast.",
+    "summary": "Madrid's most famous churros con chocolate. Open 24 hours since 1894. €4.50. Near Puerta del Sol.",
+    "content": "Chocolatería San Ginés (Pasadizo de San Ginés 5, between Calle del Arenal and Calle de la Bordadores, near Puerta del Sol) is Madrid's most famous churrería, serving churros con chocolate since 1894. Open 24 hours, 365 days a year. ORDER: 'churros con chocolate' (€4.50 for 6 churros + a cup of thick dark chocolate for dipping). Also available: porras (thicker, softer version of churros, €4.50), chocolate a la taza (just the chocolate, €3.50), coffee, tea. The chocolate is thick, dark, and bittersweet — not like hot chocolate, more like a dipping sauce. Eat with your hands. Dip the churros, eat, repeat. TIPS: (1) Go at 4am on a Saturday night — it's a Madrid tradition after a night out. (2) The line looks long but moves fast (5-10 min). (3) Inside, find a table or stand at the counter (faster). (4) The café has two rooms — the original (left, green tiles) and the expansion (right). (5) There's also a San Ginés in Tokyo and Lisbon now — but this is the original. (6) For a less touristy alternative: Chocolatería 1902 (Calle de la Bon Salvador 7) or Chocolatería Valor (multiple locations).",
     "official_url": "https://chocolateriasangines.com",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "food",
       "churros",
@@ -1151,120 +1151,27 @@
     "subsubcategory": "Traditional Dishes"
   },
   {
-    "id": "tapas-la-latina",
-    "title": "Tapas in La Latina",
-    "category": "do",
-    "subcategory": "food",
-    "summary": "Madrid's classic tapa crawl. Calle Cava Baja and the surrounding streets.",
-    "content": "Start at Plaza de la Cebada and walk up Calle Cava Baja. Stops: El Viajero (terrace), Casa Lucas, Taberna Txakolina (Basque), Bodega de la Ardosa (historic, vermouth on tap), Almendro 13 (free tapa with every drink). Sunday El Rastro market spills into the area — arrive before 13:00 to dodge crowds.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "food",
-      "tapas",
-      "la-latina"
-    ],
-    "related_records": [
-      "el-rastro-flea-market",
-      "mercado-san-miguel",
-      "vermouth-madrid"
-    ],
-    "official_url": "https://www.esmadrid.com/en/gastronomy",
-    "subsubcategory": "Tapas & Pintxos"
-  },
-  {
     "id": "vermouth-madrid",
-    "title": "Vermouth Hour in Madrid",
+    "title": "Vermouth Culture (Hora del Vermut)",
     "category": "do",
     "subcategory": "food",
-    "summary": "12:00–13:00, the traditional 'aperitivo' hour. Vermut on tap with a free tapa.",
-    "content": "A Madrid institution. The classic serve: vermut rojo (red, sweet) on tap, a slice of orange, an olive, a 'puntilla' anchovy, and a small tapa. Best places: Bodega de la Ardosa (Malasaña), Taberna La Concha (Lavapiés), La Venencia (next stop). Order it in Spanish: 'un vermut, por favor.'",
+    "summary": "Madrid's pre-lunch vermouth tradition. Vermut de grifo (on tap) €2-4, with olives. Best at Cava Baja.",
+    "content": "Vermouth (vermut) is having a renaissance in Madrid. The 'hora del vermut' (vermouth hour) is the sacred pre-lunch tradition — around 12:30pm-2pm on weekends, madrileños gather at vermuterías for a glass of vermouth on tap (vermut de grifo) with olives, gildas (olive+anchovy+pepper on a skewer), and conservas (tinned seafood). It's an aperitif, not a drink to get drunk on. BEST VERMUTERÍAS: (1) Casa Alberto (Calle de las Huertas 18) — oldest taberna in Madrid (1827), Cervantes once lived here. (2) Bodegas Ricla (Calle Cava Baja 7) — tiny, no-frills, locals' favorite in La Latina. (3) La Concha (Calle de la Cava Baja 12) — modern vermutería with great conservas. (4) Bodegas La Ardosa (Calle Colón 13, Malasaña) — historic taberna, great tortilla. (5) Casa Macareno (Calle de la Cava Baja 32) — trendy, modern vermouth. HOW TO ORDER: 'un vermut de grifo, por favor' (a draft vermouth please). €2-4 for the vermouth, €3-6 for olives or a gilda. Served over ice with an orange slice and an olive. Sweet (rojo), dry (seco), or reserve (reserva, aged). Vermouth hour is a Madrid must-do — arrive at noon on Saturday to experience it at its best.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "food",
       "vermouth",
       "traditions"
     ],
     "related_records": [
-      "tapas-la-latina",
-      "malasana-bars",
+      "la-latina-tapas-nightlife",
+      "malasana-bars-nightlife",
       "traditions-summary"
     ],
     "official_url": "https://www.esmadrid.com/en/gastronomy",
     "subsubcategory": "Drinks Culture"
-  },
-  {
-    "id": "flamenco",
-    "title": "Flamenco — How to Experience It",
-    "category": "do",
-    "subcategory": "arts",
-    "summary": "Madrid's tablaos are tourist-friendly but serious. Cardamomo, Corral de la Morería, and smaller peñas are the real thing.",
-    "content": "Tablaos (paid venues): Cardamomo (€35–45 show only, Huertas), Corral de la Morería (€50 show only, La Latina — Michelin-starred kitchen), Torres Bermejas, Las Tablas. Peña flamenca (free or cheap, members + guests): Peña El Flamenco, Peña La Platería, Peña Torres Macarena. Shows run 21:00–23:00. Reserve ahead in summer.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "arts",
-      "flamenco",
-      "music"
-    ],
-    "related_records": [
-      "cafe-central-jazz",
-      "flamenco-cardamomo",
-      "flamenco-madrid",
-      "teatro-real"
-    ],
-    "official_url": "https://www.esmadrid.com/en/whats-on/flamenco",
-    "subsubcategory": "Flamenco"
-  },
-  {
-    "id": "flamenco-cardamomo",
-    "title": "Flamenco at Cardamomo",
-    "category": "do",
-    "subcategory": "arts",
-    "summary": "Top tablao in Huertas. Tourist-friendly but the dancers are real.",
-    "content": "Calle de Echegaray, 15. Shows nightly, dinner + show €60–80, show only €35–45. Two drinks minimum. Reserve ahead in summer. The venue is small and the seating is close to the stage — the experience is intense. Not the most authentic flamenco in town (that's Corral de la Morería or a peña), but reliable and high-quality.",
-    "official_url": "https://www.cardamomo.net/en",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "arts",
-      "flamenco",
-      "cardamomo"
-    ],
-    "related_records": [
-      "flamenco",
-      "flamenco-madrid",
-      "teatro-real"
-    ],
-    "subsubcategory": "Flamenco"
-  },
-  {
-    "id": "teatro-real",
-    "title": "Teatro Real",
-    "category": "do",
-    "subcategory": "arts",
-    "summary": "Spain's premier opera house, opposite the Royal Palace. Tour €12 or ticket €30–200.",
-    "content": "Plaza de Isabel II. One of the best acoustics in Europe. Tours in English (45 min) several times daily. Main season Sept–July. Last-minute tickets (€15–30) go on sale 2 hours before each performance — 'Día de la Opera' web page lists them. If opera isn't your thing, do the tour anyway — the building is gorgeous.",
-    "official_url": "https://www.teatroreal.es/en",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "arts",
-      "opera",
-      "teatro-real"
-    ],
-    "related_records": [
-      "royal-palace",
-      "almudena-cathedral",
-      "cafe-central-jazz"
-    ],
-    "subsubcategory": "Opera & Theater"
   },
   {
     "id": "cafe-central-jazz",
@@ -1283,65 +1190,19 @@
       "cafe-central"
     ],
     "related_records": [
-      "flamenco",
-      "teatro-real",
-      "malasana-bars"
+      "flamenco-madrid",
+      "malasana-bars-nightlife",
+      "teatro-real-madrid"
     ],
     "subsubcategory": "Jazz & Blues"
   },
   {
-    "id": "malasana-bars",
-    "title": "Malasaña Bars",
-    "category": "do",
-    "subcategory": "nightlife",
-    "summary": "Indie rock, vinyl bars, dive cocktail joints. Plaza del 2 de Mayo and around.",
-    "content": "Start at Plaza Dos de Mayo and spiral out. Classics: La Vía Láctea (vinyl, indie), Tupperware (cocktails in takeout containers), El Tigre (giant free tapas with every drink), La Musa (calle de las Madres). Late-night food at Casa María (Casa Maderas) or the kebab places on Fuencarral. Most bars don't get going until 23:00.",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "nightlife",
-      "malasana",
-      "bars"
-    ],
-    "related_records": [
-      "chueca-bars-nightlife",
-      "neighborhoods-guide",
-      "vermouth-madrid"
-    ],
-    "official_url": "https://www.esmadrid.com/en/nightlife",
-    "subsubcategory": "Bars & Pubs"
-  },
-  {
-    "id": "la-latina-verbenas",
-    "title": "La Latina Verbenas",
-    "category": "do",
-    "subcategory": "nightlife",
-    "summary": "Open-air street parties in August. La Paloma, San Lorenzo, San Cayetano.",
-    "content": "Three consecutive verbenas in neighbouring barrios: San Cayetano (Rastro, Aug 5–8), San Lorenzo (Lavapiés, Aug 9–12), La Paloma (La Latina, Aug 14–17). Free entry, stages on the plazas, chotis dancing, food stalls. Wear a mantón (shawl) if you want to go native. Plan to arrive after 22:00 for the live music.",
-    "status": "annual review",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "nightlife",
-      "verbenas",
-      "traditions"
-    ],
-    "related_records": [
-      "traditions-summary",
-      "august-verbenas",
-      "neighborhoods-guide"
-    ],
-    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid",
-    "subsubcategory": "Bars & Pubs"
-  },
-  {
     "id": "real-madrid-bernabeu",
-    "title": "Real Madrid — Santiago Bernabéu",
+    "title": "Real Madrid & Santiago Bernabéu Stadium",
     "category": "do",
     "subcategory": "sports",
-    "summary": "The Bernabéu stadium tour and match tickets. LaLiga season starts Aug 2026.",
-    "content": "Stadium tour: €30 (includes museum, dressing room, pitch, trophy room). 1.5 hours. Book online. Match tickets: €50–250 for LaLiga, €100–500+ for Champions League. Buy on realmadrid.com (the only official site). The 2026/27 LaLiga season starts the weekend of 22 Aug 2026. Avoid the stadium area on match day — it gets chaotic.",
+    "summary": "Real Madrid CF, 15x Champions League winners. Bernabéu tour €35. Match tickets €30-300. Metro Santiago Bernabéu L10.",
+    "content": "Real Madrid Club de Fútbol is one of the most successful football clubs in the world — 15 European Cups/Champions League titles, 36 La Liga titles. Their home stadium is the Santiago Bernabéu (Paseo de la Castellana, Metro Santiago Bernabéu L10), capacity 81,044. The stadium was renovated 2019-2024 with a retractable roof and pitch. STADIUM TOUR (Bernabéu Tour): €35 adult, €28 child (reduced from €25 after renovation). Includes: dressing rooms, players' tunnel, pitch side, press room, trophy room (15 Champions League trophies!), presidential box, panoramic views. Open Mon-Sat 9:30am-7pm (until 8pm in summer), Sun 10am-6:30pm. Allow 2-3 hours. MATCH TICKETS: La Liga matches €30-300 depending on opponent (El Clásico vs Barcelona is €100-800). Champions League €50-400. Buy at realmadrid.com, ticketmaster.es, or at the stadium box office. Spanish Cup (Copa del Rey) tickets are cheaper and easier to get. TIPS: (1) Book tickets 2-3 weeks ahead for big matches; for smaller matches, tickets are usually available closer to the date. (2) The stadium is cashless — bring a card. (3) No food allowed inside. (4) The Bernabéu Tour is excellent even for non-football fans — the trophy room alone is worth it. (5) WARNING: The tour price increased to €35 after the 2024 renovation — some online guides still say €25. (6) The stadium is on the Paseo de la Castellana — combine with a walk up Madrid's grandest boulevard.",
     "official_url": "https://www.realmadrid.com/en",
     "status": "dynamic",
     "english_friendly": true,
@@ -1359,15 +1220,15 @@
   },
   {
     "id": "rayo-vallecas",
-    "title": "Rayo Vallecano",
+    "title": "Rayo Vallecano (Third Madrid Club)",
     "category": "do",
     "subcategory": "sports",
-    "summary": "The people's club of Vallecas. Tiny stadium, huge atmosphere.",
-    "content": "Estadio de Vallecas, 14,700 capacity. Tickets €15–80. Metro: Portazgo or Buenos Aires. The cheapest authentic football experience in the city. Rayo is known for left-wing fan culture and supporter ownership — banners, flares, working-class pride. Tickets often sold out — buy from the club website on the release date.",
+    "summary": "Madrid's third football club, based in Vallecas (south). Working-class roots, passionate fans. Tickets €15-50.",
+    "content": "Rayo Vallecano de Madrid is Madrid's third professional football club, based in the Vallecas neighborhood (south Madrid). Founded 1924. Stadium: Campo de Vallecas (Calle de la Payaso Fofó 1, Metro Las Suceses L1), capacity 14,708. Currently in La Liga (first division). Known for: (1) Working-class, left-wing fan base — the most politically engaged fans in Spanish football. (2) Intimate stadium — fans are right on top of the pitch. (3) Cheaper tickets than Real Madrid or Atlético (€15-50). (4) The 'Bukaneros' ultras group — famous for social activism. TICKETS: Buy at the stadium box office or via rayovallecano.com. La Liga matches €15-50. Much easier to get than Real/Atlético. TIPS: (1) The atmosphere is electric — smaller stadium means louder crowd. (2) Vallecas is 20 min south of Sol by Metro L1. (3) The neighborhood is working-class and authentic — great tapas around the stadium before matches. (4) Rayo fans are welcoming to visitors (unusual in Spanish football). (5) The club has a famous tradition of supporting social causes — they once put a refugee charity logo on their jerseys instead of a sponsor. (6) Best match to attend: vs Real Madrid or Atlético (the Madrid derby for the 'other' club).",
     "official_url": "https://www.rayovallecano.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "sports",
       "football",
@@ -1378,29 +1239,6 @@
       "real-madrid-bernabeu"
     ],
     "subsubcategory": "Football"
-  },
-  {
-    "id": "las-ventas-bullfights",
-    "title": "Las Ventas Bullring",
-    "category": "do",
-    "subcategory": "traditions",
-    "summary": "Madrid's 23,000-seat bullring. Season runs March to October. Tiles cover the bull names by season.",
-    "content": "Plaza de Toros de las Ventas, Metro: Ventas. Corridas most Sundays and during the San Isidro Festival (May 15 – June 15). Tickets €20–200, sold at the ring or via entradastorosmadrid.com. The Museo Taurino in the ring is worth a separate visit (€6). Bullfighting is controversial in Spain — the regional ban push is real but Las Ventas is unaffected as of 2026.",
-    "official_url": "https://www.las-ventas.com",
-    "status": "dynamic",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "traditions",
-      "bullfighting",
-      "las-ventas"
-    ],
-    "related_records": [
-      "veranos-de-la-villa",
-      "august-verbenas",
-      "traditions-summary"
-    ],
-    "subsubcategory": "Bullfighting"
   },
   {
     "id": "traditions-summary",
@@ -1417,9 +1255,9 @@
       "culture"
     ],
     "related_records": [
-      "flamenco",
-      "las-ventas-bullfights",
-      "la-latina-verbenas",
+      "bullfights-madrid",
+      "flamenco-madrid",
+      "la-latina-tapas-nightlife",
       "veranos-de-la-villa"
     ],
     "official_url": "https://www.esmadrid.com/en/culture",
@@ -1464,9 +1302,9 @@
       "august"
     ],
     "related_records": [
-      "veranos-de-la-villa",
+      "la-latina-tapas-nightlife",
       "traditions-summary",
-      "la-latina-verbenas"
+      "veranos-de-la-villa"
     ],
     "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid",
     "subsubcategory": "Summer Festivals"
