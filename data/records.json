@@ -231,7 +231,8 @@
       "schengen-visa-uk",
       "passport-requirements",
       "embassies"
-    ]
+    ],
+    "subsubcategory": "Schengen Visa"
   },
   {
     "id": "etias-2026",
@@ -253,7 +254,8 @@
       "schengen-visa-us",
       "schengen-visa-uk",
       "passport-requirements"
-    ]
+    ],
+    "subsubcategory": "Schengen Visa"
   },
   {
     "id": "schengen-visa-uk",
@@ -275,7 +277,8 @@
       "schengen-visa-us",
       "etias-2026",
       "passport-requirements"
-    ]
+    ],
+    "subsubcategory": "Schengen Visa"
   },
   {
     "id": "passport-requirements",
@@ -298,7 +301,8 @@
       "etias-2026",
       "lost-passport",
       "embassies"
-    ]
+    ],
+    "subsubcategory": "Documents"
   },
   {
     "id": "euros-and-atms",
@@ -321,7 +325,8 @@
       "tipping-etiquette",
       "daily-budgets",
       "spanish-bank-accounts"
-    ]
+    ],
+    "subsubcategory": "Cash & ATMs"
   },
   {
     "id": "credit-card-acceptance",
@@ -342,7 +347,8 @@
       "tipping-etiquette",
       "spanish-bank-accounts"
     ],
-    "official_url": "https://www.bankinter.com/en"
+    "official_url": "https://www.bankinter.com/en",
+    "subsubcategory": "Cards & Payment"
   },
   {
     "id": "tipping-etiquette",
@@ -384,7 +390,8 @@
       "tipping-etiquette",
       "credit-card-acceptance"
     ],
-    "official_url": "https://www.esmadrid.com/en/practical-information"
+    "official_url": "https://www.esmadrid.com/en/practical-information",
+    "subsubcategory": "Budgeting"
   },
   {
     "id": "survival-spanish",
@@ -404,7 +411,8 @@
       "language-schools",
       "escuela-oficial-idiomas"
     ],
-    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm"
+    "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm",
+    "subsubcategory": "Phrases"
   },
   {
     "id": "emergency-numbers",
@@ -425,7 +433,8 @@
       "hospitals",
       "embassies",
       "lost-passport"
-    ]
+    ],
+    "subsubcategory": "Emergency Services"
   },
   {
     "id": "hospitals",
@@ -468,7 +477,8 @@
       "emergency-numbers",
       "lost-passport",
       "passport-requirements"
-    ]
+    ],
+    "subsubcategory": "Official Help"
   },
   {
     "id": "lost-passport",
@@ -489,7 +499,8 @@
       "emergency-numbers",
       "passport-requirements"
     ],
-    "official_url": "https://www.policia.es/_es/colabora_denuncias.php"
+    "official_url": "https://www.policia.es/_es/colabora_denuncias.php",
+    "subsubcategory": "Official Help"
   },
   {
     "id": "pharmacies",
@@ -511,7 +522,8 @@
       "hospitals",
       "english-speaking-doctors",
       "emergency-numbers"
-    ]
+    ],
+    "subsubcategory": "Pharmacies"
   },
   {
     "id": "nie-tie",
@@ -534,7 +546,8 @@
       "banking",
       "healthcare",
       "housing"
-    ]
+    ],
+    "subsubcategory": "Foreigner ID"
   },
   {
     "id": "empadronamiento",
@@ -557,7 +570,8 @@
       "banking",
       "housing"
     ],
-    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento"
+    "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento",
+    "subsubcategory": "Local Registration"
   },
   {
     "id": "idealista",
@@ -580,7 +594,8 @@
       "neighborhoods-guide",
       "rental-contracts",
       "nie-tie"
-    ]
+    ],
+    "subsubcategory": "Finding a Place"
   },
   {
     "id": "fotocasa",
@@ -602,7 +617,8 @@
       "idealista",
       "neighborhoods-guide",
       "rental-contracts"
-    ]
+    ],
+    "subsubcategory": "Finding a Place"
   },
   {
     "id": "neighborhoods-guide",
@@ -625,7 +641,8 @@
       "retiro-park",
       "gran-via"
     ],
-    "official_url": "https://www.esmadrid.com/en/areas"
+    "official_url": "https://www.esmadrid.com/en/areas",
+    "subsubcategory": "Finding a Place"
   },
   {
     "id": "rental-contracts",
@@ -648,7 +665,8 @@
       "neighborhoods-guide",
       "nie-tie"
     ],
-    "official_url": "https://www.esmadrid.com/en/practical-information"
+    "official_url": "https://www.esmadrid.com/en/practical-information",
+    "subsubcategory": "Renting"
   },
   {
     "id": "spanish-bank-accounts",
@@ -694,7 +712,8 @@
       "pharmacies",
       "hospitals"
     ],
-    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria"
+    "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria",
+    "subsubcategory": "Public Healthcare"
   },
   {
     "id": "english-speaking-doctors",
@@ -740,7 +759,8 @@
       "language-schools",
       "escuela-oficial-idiomas",
       "au-pair-spain"
-    ]
+    ],
+    "subsubcategory": "Teach English"
   },
   {
     "id": "au-pair-spain",
@@ -826,7 +846,8 @@
     "related_records": [
       "language-schools",
       "survival-spanish"
-    ]
+    ],
+    "subsubcategory": "Language Schools"
   },
   {
     "id": "museo-del-prado",
@@ -849,7 +870,8 @@
       "thyssen-bornemisza",
       "atocha-station",
       "puerta-del-sol"
-    ]
+    ],
+    "subsubcategory": "Golden Triangle"
   },
   {
     "id": "museo-reina-sofia",
@@ -871,7 +893,8 @@
       "museo-del-prado",
       "thyssen-bornemisza",
       "atocha-station"
-    ]
+    ],
+    "subsubcategory": "Golden Triangle"
   },
   {
     "id": "thyssen-bornemisza",
@@ -915,7 +938,8 @@
       "almudena-cathedral",
       "plaza-mayor",
       "puerta-del-sol"
-    ]
+    ],
+    "subsubcategory": "Royal Palace"
   },
   {
     "id": "almudena-cathedral",
@@ -936,7 +960,8 @@
     "related_records": [
       "royal-palace",
       "plaza-mayor"
-    ]
+    ],
+    "subsubcategory": "Cathedral"
   },
   {
     "id": "retiro-park",
@@ -959,7 +984,8 @@
       "madrid-rio",
       "teleferico",
       "atocha-station"
-    ]
+    ],
+    "subsubcategory": "Central Parks"
   },
   {
     "id": "casa-de-campo",
@@ -981,7 +1007,8 @@
       "teleferico",
       "metro-de-madrid"
     ],
-    "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones"
+    "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
+    "subsubcategory": "Large Parks"
   },
   {
     "id": "madrid-rio",
@@ -1003,7 +1030,8 @@
       "retiro-park",
       "teleferico"
     ],
-    "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio"
+    "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio",
+    "subsubcategory": "Central Parks"
   },
   {
     "id": "teleferico",
@@ -1025,7 +1053,8 @@
       "retiro-park",
       "casa-de-campo",
       "madrid-rio"
-    ]
+    ],
+    "subsubcategory": "Attractions"
   },
   {
     "id": "plaza-mayor",
@@ -1048,7 +1077,8 @@
       "royal-palace",
       "almudena-cathedral"
     ],
-    "official_url": "https://www.esmadrid.com/en/tourist-information/plaza-mayor"
+    "official_url": "https://www.esmadrid.com/en/tourist-information/plaza-mayor",
+    "subsubcategory": "Plazas"
   },
   {
     "id": "gran-via",
@@ -1070,7 +1100,8 @@
       "puerta-del-sol",
       "salamanca-district"
     ],
-    "official_url": "https://www.esmadrid.com/en/shopping/gran-via"
+    "official_url": "https://www.esmadrid.com/en/shopping/gran-via",
+    "subsubcategory": "Streets & Avenues"
   },
   {
     "id": "puerta-del-sol",
@@ -1091,7 +1122,8 @@
       "gran-via",
       "neighborhoods-guide"
     ],
-    "official_url": "https://www.esmadrid.com/en/tourist-information/puerta-del-sol"
+    "official_url": "https://www.esmadrid.com/en/tourist-information/puerta-del-sol",
+    "subsubcategory": "Plazas"
   },
   {
     "id": "templo-de-debod",
@@ -1137,7 +1169,8 @@
       "el-escorial",
       "renfe-trains",
       "atocha-station"
-    ]
+    ],
+    "subsubcategory": "Toledo"
   },
   {
     "id": "segovia",
@@ -1230,7 +1263,8 @@
       "tapas-la-latina",
       "vermouth-madrid",
       "sangines"
-    ]
+    ],
+    "subsubcategory": "Food Markets"
   },
   {
     "id": "sangines",
@@ -1254,7 +1288,8 @@
       "plaza-mayor",
       "vermouth-madrid",
       "mercado-san-miguel"
-    ]
+    ],
+    "subsubcategory": "Traditional Dishes"
   },
   {
     "id": "tapas-la-latina",
@@ -1276,7 +1311,8 @@
       "vermouth-madrid",
       "mercado-san-miguel"
     ],
-    "official_url": "https://www.esmadrid.com/en/gastronomy"
+    "official_url": "https://www.esmadrid.com/en/gastronomy",
+    "subsubcategory": "Tapas & Pintxos"
   },
   {
     "id": "vermouth-madrid",
@@ -1298,7 +1334,8 @@
       "malasana-bars",
       "traditions-summary"
     ],
-    "official_url": "https://www.esmadrid.com/en/gastronomy"
+    "official_url": "https://www.esmadrid.com/en/gastronomy",
+    "subsubcategory": "Drinks Culture"
   },
   {
     "id": "flamenco",
@@ -1628,7 +1665,8 @@
       "august-verbenas",
       "traditions-summary",
       "madrid-pride"
-    ]
+    ],
+    "subsubcategory": "Summer Festivals"
   },
   {
     "id": "august-verbenas",
@@ -1650,7 +1688,8 @@
       "traditions-summary",
       "la-latina-verbenas"
     ],
-    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid"
+    "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid",
+    "subsubcategory": "Summer Festivals"
   },
   {
     "id": "madrid-pride",
@@ -1673,7 +1712,8 @@
       "veranos-de-la-villa",
       "chueca-cocktails",
       "neighborhoods-guide"
-    ]
+    ],
+    "subsubcategory": "Annual Festivals"
   },
   {
     "id": "madrid-time",
@@ -1694,7 +1734,8 @@
       "madrid-weather",
       "madrid-aqi"
     ],
-    "official_url": "https://www.time.is/Madrid"
+    "official_url": "https://www.time.is/Madrid",
+    "subsubcategory": "Time"
   },
   {
     "id": "madrid-weather",
@@ -1715,7 +1756,8 @@
     "related_records": [
       "madrid-time",
       "madrid-aqi"
-    ]
+    ],
+    "subsubcategory": "Weather"
   },
   {
     "id": "madrid-aqi",
@@ -1736,7 +1778,8 @@
     "related_records": [
       "madrid-time",
       "madrid-weather"
-    ]
+    ],
+    "subsubcategory": "Weather"
   },
   {
     "id": "metro-closures",
@@ -1779,7 +1822,8 @@
       "museo-del-prado",
       "reina-sofia-current",
       "thyssen-current"
-    ]
+    ],
+    "subsubcategory": "Museum Exhibitions"
   },
   {
     "id": "reina-sofia-current",
@@ -1800,7 +1844,8 @@
       "museo-reina-sofia",
       "prado-current",
       "thyssen-current"
-    ]
+    ],
+    "subsubcategory": "Museum Exhibitions"
   },
   {
     "id": "thyssen-current",
@@ -1821,7 +1866,8 @@
       "thyssen-bornemisza",
       "prado-current",
       "reina-sofia-current"
-    ]
+    ],
+    "subsubcategory": "Museum Exhibitions"
   },
   {
     "id": "el-pais-english",
@@ -1842,7 +1888,8 @@
     "related_records": [
       "madrid-daily-english",
       "metro-closures"
-    ]
+    ],
+    "subsubcategory": "Newspapers"
   },
   {
     "id": "madrid-daily-english",
@@ -1864,7 +1911,8 @@
       "el-pais-english",
       "idealista",
       "teach-english-spain"
-    ]
+    ],
+    "subsubcategory": "Newspapers"
   },
   {
     "id": "housing",
@@ -1889,7 +1937,8 @@
       "rental-contracts",
       "nie-tie",
       "empadronamiento"
-    ]
+    ],
+    "subsubcategory": "Renting"
   },
   {
     "id": "healthcare",
@@ -2424,7 +2473,8 @@
       "esim-madrid",
       "public-wifi-madrid",
       "coworking-madrid"
-    ]
+    ],
+    "subsubcategory": "Mobile"
   },
   {
     "id": "esim-madrid",
@@ -2447,7 +2497,8 @@
     "related_records": [
       "sim-cards-madrid",
       "public-wifi-madrid"
-    ]
+    ],
+    "subsubcategory": "Mobile"
   },
   {
     "id": "public-wifi-madrid",
@@ -2472,7 +2523,8 @@
       "esim-madrid",
       "coworking-madrid",
       "internet-cafes-madrid"
-    ]
+    ],
+    "subsubcategory": "Internet"
   },
   {
     "id": "coworking-madrid",
@@ -2495,7 +2547,8 @@
     "related_records": [
       "public-wifi-madrid",
       "internet-cafes-madrid"
-    ]
+    ],
+    "subsubcategory": "Internet"
   },
   {
     "id": "internet-cafes-madrid",
@@ -2518,7 +2571,8 @@
     "related_records": [
       "coworking-madrid",
       "public-wifi-madrid"
-    ]
+    ],
+    "subsubcategory": "Internet"
   },
   {
     "id": "phone-calling-cards",
@@ -2542,7 +2596,8 @@
       "sim-cards-madrid",
       "esim-madrid",
       "internet-cafes-madrid"
-    ]
+    ],
+    "subsubcategory": "Mobile"
   },
   {
     "id": "post-office-madrid",
@@ -2957,7 +3012,8 @@
       "walking-tours-madrid",
       "seg-tours-madrid",
       "sol-gran-via-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Bus Tours"
   },
   {
     "id": "walking-tours-madrid",
@@ -2982,7 +3038,8 @@
       "food-tours-madrid",
       "sol-gran-via-neighborhood",
       "la-latina-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Walking Tours"
   },
   {
     "id": "seg-tours-madrid",
@@ -3006,7 +3063,8 @@
       "bus-tours-madrid",
       "retiro-park",
       "retiro-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Segway Tours"
   },
   {
     "id": "food-tours-madrid",
@@ -3031,7 +3089,8 @@
       "mercado-san-miguel",
       "la-latina-neighborhood",
       "malasana-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Food Tours"
   },
   {
     "id": "bike-tours-madrid",
@@ -3056,7 +3115,8 @@
       "seg-tours-madrid",
       "bicimad",
       "retiro-park"
-    ]
+    ],
+    "subsubcategory": "Bike Tours"
   },
   {
     "id": "day-tours-from-madrid",
@@ -3082,7 +3142,8 @@
       "bus-stations-madrid",
       "intercity-buses",
       "toledo"
-    ]
+    ],
+    "subsubcategory": "Day Tours"
   },
   {
     "id": "parque-de-atracciones-madrid",
@@ -3106,7 +3167,8 @@
       "aquopolis-water-park",
       "zoo-aquarium-madrid",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Theme Parks"
   },
   {
     "id": "aquopolis-water-park",
@@ -3129,7 +3191,8 @@
     "related_records": [
       "parque-de-atracciones-madrid",
       "zoo-aquarium-madrid"
-    ]
+    ],
+    "subsubcategory": "Water Parks"
   },
   {
     "id": "zoo-aquarium-madrid",
@@ -3153,7 +3216,8 @@
       "parque-de-atracciones-madrid",
       "aquopolis-water-park",
       "retiro-park"
-    ]
+    ],
+    "subsubcategory": "Animals & Nature"
   },
   {
     "id": "imax-planetarium-madrid",
@@ -3177,7 +3241,8 @@
     "related_records": [
       "parque-de-atracciones-madrid",
       "zoo-aquarium-madrid"
-    ]
+    ],
+    "subsubcategory": "Family Shows"
   },
   {
     "id": "warner-park-madrid",
@@ -3200,7 +3265,8 @@
     "related_records": [
       "parque-de-atracciones-madrid",
       "aquopolis-water-park"
-    ]
+    ],
+    "subsubcategory": "Theme Parks"
   },
   {
     "id": "madrid-kids-museums",
@@ -3225,7 +3291,8 @@
     "related_records": [
       "museo-del-prado",
       "museo-reina-sofia"
-    ]
+    ],
+    "subsubcategory": "Museums for Kids"
   },
   {
     "id": "social-security-number-spain",
@@ -3250,7 +3317,8 @@
       "empadronamiento",
       "teach-english-spain",
       "freelancing-spain"
-    ]
+    ],
+    "subsubcategory": "Work Permits"
   },
   {
     "id": "residencia-permit-spain",
@@ -3274,7 +3342,8 @@
       "nie-tie",
       "empadronamiento",
       "social-security-number-spain"
-    ]
+    ],
+    "subsubcategory": "Foreigner ID"
   },
   {
     "id": "modelo-720",
@@ -3298,7 +3367,8 @@
       "nie-tie",
       "banking-spain",
       "residencia-permit-spain"
-    ]
+    ],
+    "subsubcategory": "Taxes"
   },
   {
     "id": "padron-empadronamiento",
@@ -3323,7 +3393,8 @@
       "nie-tie",
       "public-healthcare",
       "social-security-number-spain"
-    ]
+    ],
+    "subsubcategory": "Local Registration"
   },
   {
     "id": "banking-spain",
@@ -3347,7 +3418,8 @@
       "nie-tie",
       "transfers-spain",
       "fintech-banking-spain"
-    ]
+    ],
+    "subsubcategory": "Bank Accounts"
   },
   {
     "id": "transfers-spain",
@@ -3371,7 +3443,8 @@
     "related_records": [
       "banking-spain",
       "fintech-banking-spain"
-    ]
+    ],
+    "subsubcategory": "Transfers"
   },
   {
     "id": "fintech-banking-spain",
@@ -3395,7 +3468,8 @@
     "related_records": [
       "banking-spain",
       "transfers-spain"
-    ]
+    ],
+    "subsubcategory": "Digital Banks"
   },
   {
     "id": "spanish-iban-explained",
@@ -3419,7 +3493,8 @@
       "banking-spain",
       "transfers-spain",
       "fintech-banking-spain"
-    ]
+    ],
+    "subsubcategory": "Transfers"
   },
   {
     "id": "internships-spain",
@@ -3442,7 +3517,8 @@
     "related_records": [
       "social-security-number-spain",
       "teach-english-spain"
-    ]
+    ],
+    "subsubcategory": "Internships"
   },
   {
     "id": "freelancing-spain",
@@ -3466,7 +3542,8 @@
       "social-security-number-spain",
       "modelo-720",
       "nie-tie"
-    ]
+    ],
+    "subsubcategory": "Freelancing"
   },
   {
     "id": "el-escorial-monastery",
@@ -3491,7 +3568,8 @@
       "royal-palace",
       "day-tours-from-madrid",
       "ave-high-speed-trains"
-    ]
+    ],
+    "subsubcategory": "Royal Monastery"
   },
   {
     "id": "sabatini-gardens",
@@ -3515,7 +3593,8 @@
       "royal-palace",
       "plaza-de-oriente",
       "almudena-cathedral"
-    ]
+    ],
+    "subsubcategory": "Gardens"
   },
   {
     "id": "plaza-de-oriente",
@@ -3541,7 +3620,8 @@
       "sabatini-gardens",
       "almudena-cathedral",
       "sol-gran-via-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Plazas"
   },
   {
     "id": "el-rastro-flea-market",
@@ -3565,7 +3645,8 @@
     "related_records": [
       "la-latina-neighborhood",
       "mercado-san-miguel"
-    ]
+    ],
+    "subsubcategory": "Markets"
   },
   {
     "id": "salamanca-luxury-shopping",
@@ -3589,7 +3670,8 @@
     "related_records": [
       "gran-via",
       "salamanca-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Luxury"
   },
   {
     "id": "mercados-madrid",
@@ -3616,7 +3698,8 @@
       "chamberi-neighborhood",
       "lavapies-neighborhood",
       "tetuan-cuatro-caminos-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Markets"
   },
   {
     "id": "bookstores-madrid",
@@ -3640,7 +3723,8 @@
       "malasana-neighborhood",
       "sol-gran-via-neighborhood",
       "el-rastro-flea-market"
-    ]
+    ],
+    "subsubcategory": "Specialty Shops"
   },
   {
     "id": "bullfights-madrid",
@@ -3662,7 +3746,8 @@
     ],
     "related_records": [
       "san-isidro-festival"
-    ]
+    ],
+    "subsubcategory": "Bullfighting"
   },
   {
     "id": "verbenas-festivals",
@@ -3688,7 +3773,8 @@
       "lavapies-neighborhood",
       "san-isidro-festival",
       "chotis-madrid"
-    ]
+    ],
+    "subsubcategory": "Festivals"
   },
   {
     "id": "chotis-madrid",
@@ -3711,7 +3797,8 @@
     "related_records": [
       "verbenas-festivals",
       "san-isidro-festival"
-    ]
+    ],
+    "subsubcategory": "Folk Dance & Music"
   },
   {
     "id": "san-isidro-festival",
@@ -3735,7 +3822,8 @@
       "bullfights-madrid",
       "verbenas-festivals",
       "chotis-madrid"
-    ]
+    ],
+    "subsubcategory": "Festivals"
   },
   {
     "id": "metro-closures-summer-2026",
@@ -3759,7 +3847,8 @@
     "related_records": [
       "metro-de-madrid",
       "emt-buses"
-    ]
+    ],
+    "subsubcategory": "Metro Alerts"
   },
   {
     "id": "emt-bus-detours",
@@ -3784,7 +3873,8 @@
       "emt-buses",
       "metro-closures-summer-2026",
       "metro-de-madrid"
-    ]
+    ],
+    "subsubcategory": "Bus Alerts"
   },
   {
     "id": "cercanias-delays",
@@ -3811,7 +3901,8 @@
       "atocha-station",
       "chamartin-station",
       "metro-closures-summer-2026"
-    ]
+    ],
+    "subsubcategory": "Train Alerts"
   },
   {
     "id": "taxi-strikes-madrid",
@@ -3837,7 +3928,8 @@
       "ride-sharing-madrid",
       "metro-de-madrid",
       "emt-buses"
-    ]
+    ],
+    "subsubcategory": "Taxi & Ride-Share"
   },
   {
     "id": "airport-delays-madrid",
@@ -3863,7 +3955,8 @@
       "madrid-barajas-airport",
       "major-airlines-madrid",
       "airport-express-bus-203"
-    ]
+    ],
+    "subsubcategory": "Airport Alerts"
   },
   {
     "id": "madrid-tourist-offices",
@@ -3887,7 +3980,8 @@
       "madrid-city-card",
       "madrid-apps",
       "madrid-airport-information-desks"
-    ]
+    ],
+    "subsubcategory": "Tourist Offices"
   },
   {
     "id": "madrid-city-card",
@@ -3913,7 +4007,8 @@
       "metro-de-madrid",
       "bus-tours-madrid",
       "museo-del-prado"
-    ]
+    ],
+    "subsubcategory": "Tourist Passes"
   },
   {
     "id": "madrid-apps",
@@ -3938,7 +4033,8 @@
       "metro-de-madrid",
       "emt-buses",
       "ride-sharing-madrid"
-    ]
+    ],
+    "subsubcategory": "Apps"
   },
   {
     "id": "madrid-airport-information-desks",
@@ -3963,7 +4059,8 @@
       "madrid-barajas-airport",
       "madrid-tourist-offices",
       "airport-express-bus-203"
-    ]
+    ],
+    "subsubcategory": "Tourist Offices"
   },
   {
     "id": "visitor-centers-madrid",
@@ -3988,7 +4085,8 @@
       "sol-gran-via-neighborhood",
       "malasana-neighborhood",
       "lavapies-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Tourist Offices"
   },
   {
     "id": "madrid-visitors-app",
@@ -4013,7 +4111,8 @@
       "walking-tours-madrid",
       "madrid-tourist-offices",
       "walking-madrid"
-    ]
+    ],
+    "subsubcategory": "Apps"
   },
   {
     "id": "student-visa-spain",
@@ -4038,7 +4137,8 @@
       "internships-spain",
       "residencia-permit-spain",
       "schengen-visa-us"
-    ]
+    ],
+    "subsubcategory": "Long-Stay Visas"
   },
   {
     "id": "work-visa-spain",
@@ -4064,7 +4164,8 @@
       "residencia-permit-spain",
       "schengen-visa-us",
       "teach-english-spain"
-    ]
+    ],
+    "subsubcategory": "Long-Stay Visas"
   },
   {
     "id": "tipping-spain",
@@ -4088,7 +4189,8 @@
       "credit-card-acceptance",
       "daily-budgets",
       "euros-and-atms"
-    ]
+    ],
+    "subsubcategory": "Etiquette"
   },
   {
     "id": "vat-refund-spain",
@@ -4113,7 +4215,8 @@
       "credit-card-acceptance",
       "euros-and-atms",
       "salamanca-luxury-shopping"
-    ]
+    ],
+    "subsubcategory": "Tax Free"
   },
   {
     "id": "spanish-learning-resources",
@@ -4138,7 +4241,8 @@
       "survival-spanish",
       "language-exchanges-madrid",
       "language-schools-madrid"
-    ]
+    ],
+    "subsubcategory": "Learning"
   },
   {
     "id": "language-exchanges-madrid",
@@ -4163,7 +4267,8 @@
       "survival-spanish",
       "spanish-learning-resources",
       "language-schools-madrid"
-    ]
+    ],
+    "subsubcategory": "Learning"
   },
   {
     "id": "language-schools-madrid",
@@ -4188,7 +4293,8 @@
       "survival-spanish",
       "spanish-learning-resources",
       "language-exchanges-madrid"
-    ]
+    ],
+    "subsubcategory": "Learning"
   },
   {
     "id": "tourist-scams-madrid",
@@ -4213,7 +4319,8 @@
       "embassies",
       "emergency-numbers",
       "lost-passport"
-    ]
+    ],
+    "subsubcategory": "Crime & Scams"
   },
   {
     "id": "english-speaking-doctors-madrid",
@@ -4239,7 +4346,8 @@
       "hospitals-madrid",
       "pharmacies",
       "public-healthcare"
-    ]
+    ],
+    "subsubcategory": "Private Healthcare"
   },
   {
     "id": "dentists-madrid",
@@ -4263,7 +4371,8 @@
       "english-speaking-doctors-madrid",
       "pharmacies",
       "public-healthcare"
-    ]
+    ],
+    "subsubcategory": "Dentists"
   },
   {
     "id": "hospitals-madrid",
@@ -4288,7 +4397,8 @@
       "emergency-numbers",
       "english-speaking-doctors-madrid",
       "public-healthcare"
-    ]
+    ],
+    "subsubcategory": "Hospitals"
   },
   {
     "id": "universities-madrid",
@@ -4312,7 +4422,8 @@
       "bilingual-schools-madrid",
       "language-schools-madrid",
       "student-visa-spain"
-    ]
+    ],
+    "subsubcategory": "Universities"
   },
   {
     "id": "bilingual-schools-madrid",
@@ -4337,7 +4448,8 @@
       "universities-madrid",
       "language-schools-madrid",
       "escuela-oficial-idiomas"
-    ]
+    ],
+    "subsubcategory": "Schools"
   },
   {
     "id": "language-schools-madrid-education",
@@ -4362,7 +4474,8 @@
       "escuela-oficial-idiomas",
       "language-schools-madrid",
       "universities-madrid"
-    ]
+    ],
+    "subsubcategory": "Language Schools"
   },
   {
     "id": "museo-arqueologico-madrid",
@@ -4387,7 +4500,8 @@
       "museo-del-prado",
       "museo-reina-sofia",
       "salamanca-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Other Museums"
   },
   {
     "id": "museo-sorolla",
@@ -4412,7 +4526,8 @@
       "museo-del-prado",
       "chamberi-neighborhood",
       "retiro-park"
-    ]
+    ],
+    "subsubcategory": "Other Museums"
   },
   {
     "id": "museo-thyssen-bornemisza-detail",
@@ -4437,7 +4552,8 @@
       "museo-del-prado",
       "museo-reina-sofia",
       "retiro-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Golden Triangle"
   },
   {
     "id": "puerta-de-alcala",
@@ -4463,7 +4579,8 @@
       "retiro-neighborhood",
       "puerta-del-sol",
       "gran-via"
-    ]
+    ],
+    "subsubcategory": "Monuments"
   },
   {
     "id": "temple-debod",
@@ -4489,7 +4606,8 @@
       "arguelles-moncloa-neighborhood",
       "royal-palace",
       "casa-de-campo"
-    ]
+    ],
+    "subsubcategory": "Monuments"
   },
   {
     "id": "segovia-day-trip",
@@ -4515,7 +4633,8 @@
       "chamartin-station",
       "day-tours-from-madrid",
       "toledo"
-    ]
+    ],
+    "subsubcategory": "Segovia"
   },
   {
     "id": "el-escorial-day-trip",
@@ -4541,7 +4660,8 @@
       "day-tours-from-madrid",
       "segovia-day-trip",
       "renfe-trains"
-    ]
+    ],
+    "subsubcategory": "El Escorial"
   },
   {
     "id": "cocido-madrileno",
@@ -4566,7 +4686,8 @@
       "vermouth-madrid",
       "mercado-san-miguel",
       "food-tours-madrid"
-    ]
+    ],
+    "subsubcategory": "Traditional Dishes"
   },
   {
     "id": "atletico-madrid-wanda-metropolitano",
@@ -4695,7 +4816,8 @@
       "plaza-de-oriente",
       "royal-palace",
       "almudena-cathedral"
-    ]
+    ],
+    "subsubcategory": "Opera & Theater"
   },
   {
     "id": "the-local-spain",
@@ -4719,7 +4841,8 @@
     "related_records": [
       "el-pais-english",
       "madrid-english-radio"
-    ]
+    ],
+    "subsubcategory": "Newspapers"
   },
   {
     "id": "madrid-english-radio",
@@ -4743,7 +4866,8 @@
     "related_records": [
       "el-pais-english",
       "the-local-spain"
-    ]
+    ],
+    "subsubcategory": "Radio"
   },
   {
     "id": "madrid-today-events",
@@ -4768,7 +4892,8 @@
       "el-pais-english",
       "the-local-spain",
       "madrid-tourist-offices"
-    ]
+    ],
+    "subsubcategory": "What's On"
   },
   {
     "id": "restaurant-spanish",
@@ -4792,7 +4917,8 @@
     "related_records": [
       "survival-spanish",
       "emergency-spanish"
-    ]
+    ],
+    "subsubcategory": "Phrases"
   },
   {
     "id": "emergency-spanish",
@@ -4818,7 +4944,8 @@
       "survival-spanish",
       "restaurant-spanish",
       "emergency-numbers"
-    ]
+    ],
+    "subsubcategory": "Phrases"
   },
   {
     "id": "shared-housing-flatmates-madrid",
@@ -4844,7 +4971,8 @@
       "fotocasa",
       "rental-contracts",
       "neighborhoods-guide"
-    ]
+    ],
+    "subsubcategory": "Shared Housing"
   },
   {
     "id": "job-search-spain",
@@ -4869,7 +4997,8 @@
       "teach-english-spain",
       "freelancing-spain",
       "spanish-cv-interview"
-    ]
+    ],
+    "subsubcategory": "Job Search"
   },
   {
     "id": "spanish-cv-interview",
@@ -4893,7 +5022,8 @@
     "related_records": [
       "job-search-spain",
       "teach-english-spain"
-    ]
+    ],
+    "subsubcategory": "Job Search"
   },
   {
     "id": "plaza-de-la-villa",
@@ -4920,7 +5050,8 @@
       "plaza-de-oriente",
       "almudena-cathedral",
       "sol-gran-via-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Historic Plazas"
   },
   {
     "id": "quinta-de-los-molinos",
@@ -4946,7 +5077,8 @@
       "retiro-park",
       "madrid-rio",
       "casa-de-campo"
-    ]
+    ],
+    "subsubcategory": "Gardens"
   },
   {
     "id": "parque-juan-carlos-i",
@@ -4972,7 +5104,8 @@
       "retiro-park",
       "casa-de-campo",
       "bicimad"
-    ]
+    ],
+    "subsubcategory": "Large Parks"
   },
   {
     "id": "spanish-wines-madrid",
@@ -4997,7 +5130,8 @@
       "vermouth-madrid",
       "mercado-san-miguel",
       "cocido-madrileno"
-    ]
+    ],
+    "subsubcategory": "Drinks Culture"
   },
   {
     "id": "madrid-open-tennis",
@@ -5100,7 +5234,8 @@
       "veranos-de-la-villa",
       "madrid-pride",
       "prado-current"
-    ]
+    ],
+    "subsubcategory": "Cultural Festivals"
   },
   {
     "id": "madrid-fashion-week",
@@ -5124,7 +5259,8 @@
     "related_records": [
       "salamanca-luxury-shopping",
       "photoespana-festival"
-    ]
+    ],
+    "subsubcategory": "Cultural Festivals"
   },
   {
     "id": "gastrofestival-madrid",
@@ -5151,7 +5287,8 @@
       "cocido-madrileno",
       "mercado-san-miguel",
       "food-tours-madrid"
-    ]
+    ],
+    "subsubcategory": "Cultural Festivals"
   },
   {
     "id": "matadero-current-exhibitions",
@@ -5177,7 +5314,8 @@
       "reina-sofia-current",
       "thyssen-current",
       "madrid-rio"
-    ]
+    ],
+    "subsubcategory": "Contemporary Art"
   },
   {
     "id": "mapfre-current-exhibitions",
@@ -5203,7 +5341,8 @@
       "reina-sofia-current",
       "thyssen-current",
       "photoespana-festival"
-    ]
+    ],
+    "subsubcategory": "Photography & Art"
   },
   {
     "id": "caixaforum-current-exhibitions",
@@ -5229,7 +5368,8 @@
       "reina-sofia-current",
       "thyssen-current",
       "matadero-current-exhibitions"
-    ]
+    ],
+    "subsubcategory": "Photography & Art"
   },
   {
     "id": "spanish-politics-explained",
@@ -5253,7 +5393,8 @@
     "related_records": [
       "el-pais-english",
       "the-local-spain"
-    ]
+    ],
+    "subsubcategory": "Background"
   },
   {
     "id": "madrid-sunrise-sunset",
@@ -5279,7 +5420,8 @@
       "madrid-weather",
       "temple-debod",
       "retiro-park"
-    ]
+    ],
+    "subsubcategory": "Time"
   },
   {
     "id": "madrid-uv-index",
@@ -5305,7 +5447,8 @@
       "madrid-weather",
       "madrid-aqi",
       "madrid-time"
-    ]
+    ],
+    "subsubcategory": "Weather"
   },
   {
     "id": "madrid-pollen-allergies",
@@ -5331,7 +5474,8 @@
       "madrid-aqi",
       "madrid-uv-index",
       "pharmacies"
-    ]
+    ],
+    "subsubcategory": "Weather"
   },
   {
     "id": "swimming-pools-madrid",
@@ -5538,7 +5682,8 @@
     "related_records": [
       "imax-planetarium-madrid",
       "teatro-real-madrid"
-    ]
+    ],
+    "subsubcategory": "Cinema"
   },
   {
     "id": "casinos-gambling-madrid",
@@ -5697,7 +5842,8 @@
       "salsa-dancing-madrid",
       "verbenas-festivals",
       "chotis-madrid"
-    ]
+    ],
+    "subsubcategory": "Flamenco"
   },
   {
     "id": "magic-comedy-madrid",
@@ -5722,7 +5868,8 @@
     "related_records": [
       "teatro-real-madrid",
       "movie-theaters-madrid"
-    ]
+    ],
+    "subsubcategory": "Comedy & Magic"
   },
   {
     "id": "summer-outdoor-cinema-madrid",
@@ -5748,7 +5895,8 @@
       "movie-theaters-madrid",
       "veranos-de-la-villa",
       "retiro-park"
-    ]
+    ],
+    "subsubcategory": "Cinema"
   },
   {
     "id": "phone-tv-internet-providers-madrid",
@@ -5851,7 +5999,7 @@
       "el-rastro-flea-market",
       "language-schools-madrid"
     ],
-    "subsubcategory": "Shopping & Food"
+    "subsubcategory": "Specialty Shops"
   },
   {
     "id": "hotels-madrid",
@@ -5876,7 +6024,8 @@
       "hostels-madrid",
       "apart-hotels-madrid",
       "sol-gran-via-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Hotels"
   },
   {
     "id": "hostels-madrid",
@@ -5901,7 +6050,8 @@
       "hotels-madrid",
       "apart-hotels-madrid",
       "shared-housing-flatmates-madrid"
-    ]
+    ],
+    "subsubcategory": "Hostels"
   },
   {
     "id": "apart-hotels-madrid",
@@ -5925,7 +6075,8 @@
       "hotels-madrid",
       "hostels-madrid",
       "shared-housing-flatmates-madrid"
-    ]
+    ],
+    "subsubcategory": "Serviced Apartments"
   },
   {
     "id": "shopping-madrid-overview",
@@ -5952,7 +6103,8 @@
       "el-rastro-flea-market",
       "mercados-madrid",
       "bookstores-madrid"
-    ]
+    ],
+    "subsubcategory": "Shopping Areas"
   },
   {
     "id": "cheap-eats-madrid",
@@ -5979,7 +6131,8 @@
       "vermouth-madrid",
       "cocido-madrileno",
       "la-latina-tapas-nightlife"
-    ]
+    ],
+    "subsubcategory": "Budget Eats"
   },
   {
     "id": "vegetarian-vegan-madrid",
@@ -6004,7 +6157,8 @@
       "cheap-eats-madrid",
       "mercado-san-miguel",
       "lavapies-neighborhood"
-    ]
+    ],
+    "subsubcategory": "Special Diets"
   },
   {
     "id": "ice-cream-shops-madrid",
@@ -6029,7 +6183,8 @@
       "mercado-san-miguel",
       "cheap-eats-madrid",
       "vermouth-madrid"
-    ]
+    ],
+    "subsubcategory": "Desserts & Sweets"
   },
   {
     "id": "churches-religion-madrid",
@@ -6079,7 +6234,8 @@
       "english-speaking-doctors-madrid",
       "hospitals-madrid",
       "public-healthcare"
-    ]
+    ],
+    "subsubcategory": "Preventive Care"
   },
   {
     "id": "libraries-madrid",
@@ -6104,7 +6260,8 @@
       "bookstores-madrid",
       "bookstores-madrid-detail",
       "universities-madrid"
-    ]
+    ],
+    "subsubcategory": "Libraries"
   },
   {
     "id": "teacher-training-madrid",
@@ -6129,7 +6286,8 @@
       "teach-english-spain",
       "language-schools-madrid",
       "universities-madrid"
-    ]
+    ],
+    "subsubcategory": "Teacher Training"
   },
   {
     "id": "hostess-azafata-madrid",
@@ -6154,7 +6312,8 @@
     "related_records": [
       "job-search-spain",
       "internships-spain"
-    ]
+    ],
+    "subsubcategory": "Other Work"
   },
   {
     "id": "journalism-writing-madrid",
@@ -6179,7 +6338,8 @@
       "el-pais-english",
       "the-local-spain",
       "job-search-spain"
-    ]
+    ],
+    "subsubcategory": "Other Work"
   },
   {
     "id": "cercanias-madrid",
@@ -6368,6 +6528,227 @@
       "flamenco-tablaos-nightlife",
       "teatro-real-madrid",
       "magic-comedy-madrid"
+    ]
+  },
+  {
+    "id": "official-madrid-city-map",
+    "title": "Official Madrid City Map (esMadrid)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Official Maps",
+    "summary": "Free official Madrid city map from esMadrid. PDF + interactive. Tourist offices, airport, hotels.",
+    "content": "The official Madrid city map is published by Madrid's tourism board (esMadrid). It's available in 3 formats: (1) PDF download (Spanish, English, French, German) at esmadrid.com/en/madrid-city-map — print before you go or save to your phone. (2) Interactive online map at esmadrid.com — searchable, with tourist attractions, Metro stations, and police stations marked. (3) Paper copies at any Tourist Office (Plaza Mayor, airport, Atocha) — free, high-quality print. The map covers central Madrid (inside the M-30 ring) in detail, with major sights, Metro lines, parks, and neighborhoods. A separate inset shows greater Madrid. TIPS: (1) The PDF is the best option — works offline, no data needed. (2) Print at A3 size if you can — easier to read. (3) The official map is more accurate than Google Maps for pedestrian zones and one-way streets. (4) For a Spanish-only but more detailed map, the Madrid city planning department publishes 'Plano de Madrid' at madrid.es. (5) The esMadrid app has the same map with GPS integration.",
+    "official_url": "https://www.esmadrid.com/en/madrid-city-map",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "city",
+      "official",
+      "pdf",
+      "free"
+    ],
+    "related_records": [
+      "metro-map-pdf",
+      "interactive-maps-madrid",
+      "madrid-tourist-offices"
+    ]
+  },
+  {
+    "id": "metro-map-pdf",
+    "title": "Madrid Metro Map (Official PDF)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Transit Maps",
+    "summary": "Official Metro de Madrid map. PDF download + printed at every station. 12 lines, 300+ stations.",
+    "content": "The official Madrid Metro map is published by Metro de Madrid. Formats: (1) PDF download at metromadrid.es/en (English) — print before you go or save to phone. (2) Free printed map at any Metro station ticket office (ask 'un plano del Metro, por favor'). (3) Interactive map in the Metro de Madrid app (English) with route planner. (4) Wall maps at every station entrance and platform. The map shows all 12 Metro lines (color-coded), 300+ stations, interchange connections (Renfe Cercanías, EMT buses, tram), and zone boundaries (A, B1, B2, B3). Key features: (1) Lines are color-coded (L1 light blue, L2 red, L3 yellow, L4 brown, L5 green, L6 grey/circular, L7 orange, L8 pink/airport, L9 purple, L10 dark blue, L11 green, L12 light green/Metrosur). (2) Interchange stations are marked with a special icon. (3) The map includes the Renfe Cercanías network overlay. (4) Airport stations (Barajas T1-T2-T3, T4) are clearly marked. TIPS: (1) Download the PDF and save offline — no data needed. (2) The Metro app route planner is excellent — faster than Google Maps for Metro-only routes. (3) Free paper maps at stations are great backups. (4) The map is updated 2-3 times per year — check for the latest version.",
+    "official_url": "https://www.metromadrid.es/en/services/network-map",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "metro",
+      "transit",
+      "pdf",
+      "official",
+      "free"
+    ],
+    "related_records": [
+      "official-madrid-city-map",
+      "cercanias-map",
+      "emt-bus-map",
+      "metro-de-madrid"
+    ]
+  },
+  {
+    "id": "cercanias-map",
+    "title": "Cercanías Madrid Map (Commuter Rail)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Transit Maps",
+    "summary": "Official Cercanías Madrid map. 9 lines (C1-C10) covering Madrid + suburbs. PDF + app.",
+    "content": "The Cercanías Madrid map shows the commuter rail network. Formats: (1) PDF download at renfe.com/en (English) — search 'Cercanías Madrid plano'. (2) Free printed map at Atocha and Chamartín stations (ticket office). (3) Interactive map in the Renfe Cercanías app (Spanish only). (4) Wall maps at every Cercanías station. The map shows all 9 lines (C1-C10) and 90+ stations, covering Madrid and its metropolitan area. Key features: (1) Lines are color-coded (C1 blue, C2 green, C3 purple, C4 red, C5 orange, C7 grey, C8 dark green, C9 brown, C10 light blue). (2) Major interchanges with Metro are marked. (3) Zone boundaries (A, B1, B2, C1, C2) are shown — important for fares. (4) Airport connection (C1 to Barajas T4) is highlighted. (5) Connections to other Cercanías networks (Guadalajara, Segovia) are shown. TIPS: (1) Cercanías is faster than Metro for cross-city trips (Atocha to Chamartín in 8 min). (2) The C1 line is the most useful for tourists (Atocha, Chamartín, Airport T4, Príncipe Pío). (3) Download the PDF and save offline. (4) The Renfe Cercanías app has a route planner (Spanish only — use Google Translate). (5) Real-time train info at @CercaniasMadrid on Twitter.",
+    "official_url": "https://www.renfe.com/en/en/travel/destination/products/cercanias/madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "cercanias",
+      "transit",
+      "commuter-rail",
+      "pdf",
+      "official"
+    ],
+    "related_records": [
+      "metro-map-pdf",
+      "cercanias-madrid",
+      "emt-bus-map"
+    ]
+  },
+  {
+    "id": "emt-bus-map",
+    "title": "EMT Bus Map & Route Planner",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Transit Maps",
+    "summary": "EMT Madrid bus network map + route planner app. 200+ lines. Real-time arrivals in the app.",
+    "content": "EMT (Empresa Municipal de Transportes) operates Madrid's city buses. The network is too complex for a single map, so the official resources are: (1) EMT Madrid app (English) — the best resource. Includes route planner, real-time bus arrivals, saved routes, ticket purchase. Free. (2) Interactive map at emtmadrid.es/English — shows all 200+ lines, searchable by line number or stop. (3) Individual line maps (PDF) at emtmadrid.es — search for a specific line number. (4) Printed line maps at major bus stops (sometimes). KEY BUS LINES for tourists: (1) 1, 2, 46 — north-south through the center. (2) 27, 45, 150 — to museums (Prado, Reina Sofía). (3) 74 — to El Rastro flea market. (4) 133, 134 — to Las Tablas business district. (5) 200, 203 — airport express buses. NIGHT BUSES (Búhos): 27 routes from Cibeles, N1-N28. The EMT app shows real-time locations of all buses on a map. TIPS: (1) Download the EMT Madrid app — it's essential for bus travel. (2) Bus stops have QR codes that show real-time arrivals (scan with phone). (3) The app's route planner integrates with Metro and Cercanías. (4) Day passes (€5.20) include Metro, EMT buses, and Cercanías zone A. (5) Most bus stops have shelters with route maps posted.",
+    "official_url": "https://www.emtmadrid.es/English",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "emt",
+      "bus",
+      "transit",
+      "app",
+      "route-planner"
+    ],
+    "related_records": [
+      "metro-map-pdf",
+      "cercanias-map",
+      "emt-buses",
+      "night-buses-buhos-madrid"
+    ]
+  },
+  {
+    "id": "bike-maps-madrid",
+    "title": "Madrid Cycling Maps (BiciMAD + Bike Lanes)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Active Transit Maps",
+    "summary": "Madrid bike lane maps + BiciMAD station map. 130km of bike lanes. Anillo Verde Ciclista 65km loop.",
+    "content": "Madrid cycling maps. BIKE LANE MAP: Madrid has 130km of dedicated bike lanes, with more being added yearly. The official map (madrid.es, Spanish only) shows all bike lanes, cycle paths, and bike-friendly streets. Print version free at bicycle shops and tourist offices. BICIMAD STATION MAP: 250+ electric bike stations across Madrid. Live availability shown in the BiciMAD app (English) and at bicimad.com. Search by address or use the map. ANILLO VERDE CICLISTA: The 65km 'Green Cycling Ring' is Madrid's longest continuous bike path, circling the city through parks and green corridors. The official map shows the full route with access points. PDF at madrid.es. MADRID RÍO BIKE PATH: 10km linear park along the Manzanares River, dedicated bike path, connects to Casa de Campo. CASA DE CAMPO TRAILS: 1,535 hectares of trails, mostly unpaved, popular with mountain bikers. No official map — use Trailforks or MTB project apps. RETIRO PARK: 4.5km perimeter loop, flat, bike-friendly (but crowded on weekends). BEST APPS: (1) BiciMAD (English) — for the electric bike-share. (2) Komoot (English, paid) — route planning. (3) Strava (English, free) — heatmaps show popular routes. (4) Google Maps — bike mode shows bike lanes (but not always accurate). TIPS: (1) Cycling in central Madrid is possible but tricky — narrow streets, aggressive drivers. (2) Best cycling is in parks (Retiro, Casa de Campo, Madrid Río) and on the Anillo Verde. (3) Helmets mandatory on intercity roads, recommended in city. (4) Bikes on Metro: allowed outside rush hours (no e-bikes on Metro).",
+    "official_url": "https://www.bicimad.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "bike",
+      "cycling",
+      "bicimad",
+      "bike-lane",
+      "anillo-verde"
+    ],
+    "related_records": [
+      "bicimad",
+      "cycling-mtb-madrid",
+      "walking-maps-madrid",
+      "metro-map-pdf"
+    ]
+  },
+  {
+    "id": "walking-maps-madrid",
+    "title": "Madrid Walking Maps & Self-Guided Routes",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Active Transit Maps",
+    "summary": "7 official self-guided walking routes from esMadrid. Habsburg, Bourbon, Literary, Civil War, etc. PDF + audio.",
+    "content": "Madrid walking maps and self-guided routes. OFFICIAL WALKING ROUTES (esMadrid): 7 official routes, each with PDF map + audio guide (English). Free download at esmadrid.com/en/audio-guides. (1) Habsburg Madrid (2h) — 16th-17th century old town. Starts Plaza Mayor. (2) Bourbon Madrid (1.5h) — 18th century. Starts Puerta de Alcalá. (3) Literary Quarter (1h) — Barrio de las Letras. Starts Plaza de Santa Ana. (4) Madrid of the Austrias (2.5h) — Royal Palace area. (5) Modernist Madrid (1.5h) — Gran Vía and Salamanca. (6) Parks and Gardens (2h) — Retiro and Madrid Río. (7) Civil War Madrid (2h) — historical sites. PRINT MAPS: Tourist offices (Plaza Mayor, airport, Atocha) give out free walking route maps. INTERACTIVE: Google Maps has walking directions and works offline (download Madrid map area first). Citymapper (free app) has good walking directions with estimated times. NEIGHBORHOOD MAPS: Each of our 10 neighborhood records (see/neighborhoods) has a suggested walking route in its content. SPECIALTY WALKING MAPS: (1) Madrid No Frills (madridnofrills.com) — independent walking routes. (2) Madrid Foodie — tapas crawl maps. (3) Madrid Urban Sketchers — sketching routes. TIPS: (1) Madrid is very walkable — most sights within 20-30 min walk of Puerta del Sol. (2) Avoid midday in summer (1-5pm) — too hot. (3) Wear comfortable shoes — Madrid has lots of cobblestones. (4) Carry water — public fountains are rare in central Madrid. (5) Print the PDF maps — phone batteries die. (6) The esMadrid audio guides are excellent — download to phone before you go.",
+    "official_url": "https://www.esmadrid.com/en/audio-guides",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "walking",
+      "self-guided",
+      "audio-guide",
+      "free",
+      "official"
+    ],
+    "related_records": [
+      "official-madrid-city-map",
+      "walking-tours-madrid",
+      "walking-madrid",
+      "madrid-visitors-app"
+    ]
+  },
+  {
+    "id": "interactive-maps-madrid",
+    "title": "Interactive Madrid Maps (Google, Citymapper, esMadrid)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Digital Maps",
+    "summary": "Best interactive Madrid maps: Google Maps (download offline), Citymapper (transit), esMadrid (tourist).",
+    "content": "Interactive Madrid maps. GOOGLE MAPS: The default choice. (1) Download Madrid offline map (search 'Madrid' → Download) — about 200MB. Works without data. (2) Walking, driving, transit, and bike directions. (3) Real-time traffic. (4) Street View for previewing your destination. (5) Reviews of restaurants, hotels, attractions. TIPS: Google Maps is generally accurate in Madrid, but sometimes gets pedestrian zones wrong in the old town. CITYMAPPER (free app, English): Better than Google for transit. (1) Real-time Metro, bus, Cercanías arrivals. (2) Compares all transit options (fastest, cheapest, fewest transfers). (3) Shows where to stand on the Metro for fastest exit. (4) Includes bike-share (BiciMAD) and ride-sharing (Uber, Cabify, taxi). (5) Offline mode for routes you've searched before. ESMADRÍ APP (free, English): Madrid's official tourism app. (1) Tourist-focused map with attractions, restaurants, hotels. (2) Self-guided walking routes (7 official routes). (3) Audio guides. (4) Event listings. (5) Tourist office locations. MADRID MOBILITY APP (free, Spanish): City's official transit app. (1) All transit (Metro, EMT, Cercanías). (2) Real-time arrivals. (3) BiciMAD station availability. (4) Parking availability. (5) Buy tickets. SPECIALTY MAPS: (1) AllTrails (paid) — hiking trails near Madrid (Sierra de Guadarrama). (2) Komoot (paid) — cycling routes. (3) Trailforks (free) — mountain biking trails. (4) Park4Night (free) — camper parking. (5) Flush (free) — public toilets. TIPS: (1) Download Google Maps offline before you arrive — saves data and battery. (2) Citymapper is the best for transit in Madrid. (3) The esMadrid app is worth downloading for the walking routes and audio guides. (4) For hiking in the Sierra, AllTrails or Komoot are worth the paid subscription.",
+    "official_url": "https://www.esmadrid.com/en/apps",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "interactive",
+      "google-maps",
+      "citymapper",
+      "app",
+      "digital"
+    ],
+    "related_records": [
+      "official-madrid-city-map",
+      "metro-map-pdf",
+      "madrid-apps",
+      "madrid-visitors-app"
+    ]
+  },
+  {
+    "id": "neighborhood-maps-madrid",
+    "title": "Neighborhood Maps (Barrio Guides)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "District Maps",
+    "summary": "10 official neighborhood maps from esMadrid. Each shows top sights, restaurants, Metro stations for that barrio.",
+    "content": "Madrid neighborhood maps. esMadrid publishes free neighborhood (barrio) guides with maps for 10 of Madrid's main districts. Each guide includes: (1) A printable PDF map showing top sights, restaurants, shops, and Metro stations. (2) A brief history and character description. (3) Recommended walking routes. (4) Top 5 things to see. (5) Top 5 places to eat. Available at esmadrid.com/en/neighborhoods (English). NEIGHBORHOODS WITH OFFICIAL GUIDES: (1) Sol & Gran Vía — tourist center. (2) Malasaña — hipster/alternative. (3) Chueca — LGBTQ+ and chic. (4) La Latina — tapas and traditional. (5) Lavapiés — multicultural. (6) Chamberí — local residential. (7) Salamanca — upscale luxury. (8) Retiro — parks and museums. (9) Argüelles & Moncloa — students and parks. (10) Barrio de las Letras — literary quarter. PRINTED COPIES: Free at any Tourist Office (Plaza Mayor, airport, Atocha). Each guide is 8-12 pages, A5 size. ALSO USEFUL: (1) Each of our 10 neighborhood records (see/neighborhoods) has a sub-subcategory (City Center, Historic, Residential, Upscale, Student & West, North & Diverse). (2) Madrid Secreto (madridsecreto.co, Spanish) has alternative neighborhood guides. (3) Madrid No Frills (madridnofrills.com, English) has authentic neighborhood walking routes. TIPS: (1) Pick up the printed neighborhood guides at the Plaza Mayor tourist office on your first day. (2) The esMadrid neighborhood maps are excellent — they show pedestrian zones that Google Maps sometimes misses. (3) For each neighborhood, plan 2-4 hours of walking. (4) Combine 2-3 adjacent neighborhoods in a day: Sol + La Latina, Malasaña + Chueca, Retiro + Jerónimos.",
+    "official_url": "https://www.esmadrid.com/en/neighborhoods",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "maps",
+      "neighborhood",
+      "barrio",
+      "district",
+      "guide",
+      "free"
+    ],
+    "related_records": [
+      "official-madrid-city-map",
+      "walking-maps-madrid",
+      "sol-gran-via-neighborhood",
+      "malasana-neighborhood"
     ]
   }
 ]

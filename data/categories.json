@@ -54,6 +54,13 @@
         "title": "Connectivity",
         "icon": "📶",
         "summary": "SIM cards, eSIMs, public Wi-Fi, coworking, internet cafés."
+      },
+      {
+        "id": "maps",
+        "slug": "maps",
+        "title": "Maps",
+        "icon": "🗺️",
+        "summary": "Official Madrid maps: city map, Metro map, bike map, neighborhood maps, interactive maps."
       }
     ]
   },
