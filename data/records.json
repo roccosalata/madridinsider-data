@@ -39,7 +39,94 @@
       "taxis-madrid",
       "walking-madrid"
     ],
-    "subsubcategory": "Metro & City Transit"
+    "subsubcategory": "Metro & City Transit",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Operating Hours",
+            "value": "6am–1:30am (2:30am Fri/Sat)"
+          },
+          {
+            "label": "Network",
+            "value": "12 lines, 300+ stations"
+          },
+          {
+            "label": "Single Ticket",
+            "value": "€1.50–2.00 (zone dependent)"
+          },
+          {
+            "label": "10-Trip Card",
+            "value": "€12.20 (metro + bus)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Ticket Prices",
+        "columns": [
+          "Ticket",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Single (Zone A)",
+            "€1.50",
+            "City center"
+          ],
+          [
+            "Single (Airport)",
+            "€4.50 + €1.50",
+            "Line 8 supplement"
+          ],
+          [
+            "10-Trip Metrobús",
+            "€12.20",
+            "Best value — metro + bus"
+          ],
+          [
+            "Monthly Pass (Zone A)",
+            "€54.60",
+            "Unlimited, residents"
+          ],
+          [
+            "Tourist Pass (1 day)",
+            "€8.40",
+            "Unlimited 24h"
+          ],
+          [
+            "Tourist Pass (3 days)",
+            "€17.00",
+            "Unlimited 72h"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Summer 2026 Closures",
+        "body": "Planned closures on Lines 6, 7, 9B, and 10 for renovations. Free shuttle buses cover affected sections. Check the Metro de Madrid app before traveling.",
+        "tone": "warning"
+      },
+      {
+        "type": "do_dont",
+        "heading": "Metro Etiquette",
+        "do": [
+          "Stand right on escalators",
+          "Let passengers exit before boarding",
+          "Keep your ticket until you exit",
+          "Move to the center of the car"
+        ],
+        "dont": [
+          "Block doors when closing",
+          "Eat on the train",
+          "Play music without headphones",
+          "Put feet on seats"
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-barajas-airport",
@@ -70,7 +157,85 @@
       "ride-sharing-madrid",
       "taxis-madrid"
     ],
-    "subsubcategory": "Airport"
+    "subsubcategory": "Airport",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Distance from center",
+            "value": "12km NE"
+          },
+          {
+            "label": "Terminals",
+            "value": "T1, T2, T3, T4 + T4S"
+          },
+          {
+            "label": "Free shuttle",
+            "value": "Every 5 min between terminals"
+          },
+          {
+            "label": "WiFi",
+            "value": "Free 30 min (AENA WiFi)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Airport to City Center — Transport Options",
+        "columns": [
+          "Option",
+          "Cost",
+          "Duration",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Metro Line 8",
+            "€6.00",
+            "15–20 min",
+            "Cheapest, but supplement applies"
+          ],
+          [
+            "Express Bus 203",
+            "€5.00",
+            "30–40 min",
+            "24/7 to Atocha/Cibeles"
+          ],
+          [
+            "Taxi (flat rate)",
+            "€30.00",
+            "20–30 min",
+            "Fixed fare inside M-30"
+          ],
+          [
+            "Uber / Cabify",
+            "€25–35",
+            "20–30 min",
+            "Surge pricing applies"
+          ],
+          [
+            "Cercanías C1 (T4)",
+            "€2.60",
+            "25 min",
+            "Only from T4 to Atocha"
+          ],
+          [
+            "Private Transfer",
+            "€35–60",
+            "20–30 min",
+            "Pre-booked, driver meets you"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Which terminal?",
+        "body": "Iberia and Oneworld partners use T4/T4S. Most other airlines use T1/T2/T3. Check your boarding pass — T4 to T1 is a 20-min shuttle ride. Allow extra time if transferring between terminals.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "atocha-station",
@@ -99,7 +264,78 @@
       "renfe-trains",
       "toledo"
     ],
-    "subsubcategory": "Trains & Rail"
+    "subsubcategory": "Trains & Rail",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "AVE to Barcelona",
+            "value": "2h 30min, from €25"
+          },
+          {
+            "label": "AVE to Seville",
+            "value": "2h 30min, from €20"
+          },
+          {
+            "label": "Cercanías to Airport T4",
+            "value": "25 min, €2.60"
+          },
+          {
+            "label": "Left Luggage",
+            "value": "€3.90/day (cheapest in center)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "AVE High-Speed Routes from Atocha",
+        "columns": [
+          "Destination",
+          "Travel Time",
+          "From"
+        ],
+        "rows": [
+          [
+            "Barcelona",
+            "2h 30m",
+            "€25"
+          ],
+          [
+            "Seville",
+            "2h 30m",
+            "€20"
+          ],
+          [
+            "Valencia",
+            "1h 40m",
+            "€18"
+          ],
+          [
+            "Málaga",
+            "2h 30m",
+            "€25"
+          ],
+          [
+            "Zaragoza",
+            "1h 15m",
+            "€15"
+          ],
+          [
+            "Córdoba",
+            "1h 45m",
+            "€18"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Tropical Garden",
+        "body": "The old 19th-century hall is now a 4,000-plant tropical garden with turtles. Free to visit — worth a 10-minute wander even if you're not catching a train.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "chamartin-station",
@@ -125,7 +361,73 @@
       "metro-de-madrid",
       "renfe-trains"
     ],
-    "subsubcategory": "Trains & Rail"
+    "subsubcategory": "Trains & Rail",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cercanías to Atocha",
+            "value": "8 min (faster than Metro)"
+          },
+          {
+            "label": "Cercanías to Airport T4",
+            "value": "25 min, €2.60"
+          },
+          {
+            "label": "Left Luggage",
+            "value": "€3.90/day"
+          },
+          {
+            "label": "Metro",
+            "value": "Lines 1, 10"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "AVE Routes from Chamartín",
+        "columns": [
+          "Destination",
+          "Travel Time",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Bilbao",
+            "4h",
+            "Basque Country"
+          ],
+          [
+            "San Sebastián",
+            "5h 30m",
+            "Basque Country"
+          ],
+          [
+            "Santander",
+            "4h 15m",
+            "Cantabria"
+          ],
+          [
+            "Gijón / Oviedo",
+            "4h 30m",
+            "Asturias"
+          ],
+          [
+            "A Coruña / Vigo",
+            "6h",
+            "Galicia"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Less crowded than Atocha",
+        "body": "Chamartín is easier to navigate and less crowded than Atocha. For tourists staying in northern Madrid (Chamartín, Tetuán, financial district), this is more convenient. Connects to Atocha in 8 min via Cercanías C1.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "emt-buses",
@@ -345,7 +647,73 @@
       "spanish-bank-accounts",
       "tipping-spain"
     ],
-    "subsubcategory": "Cash & ATMs"
+    "subsubcategory": "Cash & ATMs",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "⚠️ Avoid Euronet ATMs",
+        "body": "Euronet and other non-bank ATMs charge 3–5% fees and offer terrible 'dynamic currency conversion' rates. Always choose to be charged in EUR, not your home currency. Use bank ATMs (Santander, BBVA, CaixaBank) instead.",
+        "tone": "danger"
+      },
+      {
+        "type": "table",
+        "heading": "ATM Comparison",
+        "columns": [
+          "ATM type",
+          "Fee",
+          "Exchange rate",
+          "Recommendation"
+        ],
+        "rows": [
+          [
+            "Bank ATM (Santander, BBVA)",
+            "€0–2",
+            "Interbank rate (best)",
+            "✅ Use these"
+          ],
+          [
+            "Euronet",
+            "€3–5 + 3–5%",
+            "Terrible (DCC scam)",
+            "❌ Avoid"
+          ],
+          [
+            "Airport exchange",
+            "€5–10",
+            "Poor",
+            "❌ Avoid — use ATM instead"
+          ],
+          [
+            "El Corte Inglés exchange",
+            "€2–3",
+            "Fair",
+            "OK for small amounts"
+          ]
+        ]
+      },
+      {
+        "type": "stats",
+        "heading": "Cash vs Card in Madrid",
+        "items": [
+          {
+            "label": "Card acceptance",
+            "value": "95%+ (Visa/Mastercard)"
+          },
+          {
+            "label": "Amex acceptance",
+            "value": "60% (hotels, large stores)"
+          },
+          {
+            "label": "Contactless limit",
+            "value": "€50 (no PIN needed)"
+          },
+          {
+            "label": "Carry cash for",
+            "value": "Small bars, taxis, tips, markets"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "credit-card-acceptance",
@@ -439,7 +807,65 @@
       "pharmacies",
       "tourist-scams-madrid"
     ],
-    "subsubcategory": "Emergency Services"
+    "subsubcategory": "Emergency Services",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Emergency Numbers",
+        "items": [
+          {
+            "label": "🚑 All Emergencies",
+            "value": "112 (free, multilingual, 24/7)"
+          },
+          {
+            "label": "👮 Police (Nacional)",
+            "value": "091"
+          },
+          {
+            "label": "🚑 Ambulance",
+            "value": "061"
+          },
+          {
+            "label": "🔥 Fire",
+            "value": "080"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "112 works from any phone",
+        "body": "Free. Multilingual (English, Spanish, French, German). Works from locked phones, payphones, and phones without a SIM card. The operator will connect you to the right service. Save 112 in your phone contacts.",
+        "tone": "danger"
+      },
+      {
+        "type": "steps",
+        "heading": "What to Say When You Call 112",
+        "items": [
+          {
+            "title": "State the emergency type",
+            "body": "'I need an ambulance' / 'Necesito una ambulancia' or 'I need the police' / 'Necesito la policía'."
+          },
+          {
+            "title": "State your location",
+            "body": "Nearest street, landmark, or Metro station. If you don't know, say 'I don't know my location' — they can trace your phone."
+          },
+          {
+            "title": "Describe the emergency briefly",
+            "body": "Keep it simple. The operator speaks English."
+          },
+          {
+            "title": "Stay on the line",
+            "body": "Don't hang up until the operator tells you to. They may need more information."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Non-emergency police report",
+        "body": "For theft without violence, file online at denuncias.policia.es (English available). Faster than going to a police station. Print the report — you'll need it for insurance and embassy.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "hospitals",
@@ -488,7 +914,79 @@
       "student-visa-spain",
       "work-visa-spain"
     ],
-    "subsubcategory": "Official Help"
+    "subsubcategory": "Official Help",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Major Embassies in Madrid",
+        "columns": [
+          "Country",
+          "Address",
+          "Phone",
+          "Metro"
+        ],
+        "rows": [
+          [
+            "United States",
+            "Calle de Serrano 75",
+            "91 587 2200",
+            "Serrano L4"
+          ],
+          [
+            "United Kingdom",
+            "Calle de la Farfa 16",
+            "91 714 6300",
+            "Nuñez de Balboa L5/L9"
+          ],
+          [
+            "Canada",
+            "Calle de Núñez de Balboa 35",
+            "91 382 8400",
+            "Nuñez de Balboa L5/L9"
+          ],
+          [
+            "Australia",
+            "Calle de la Planelles 10",
+            "91 353 6600",
+            "República Argentina L6"
+          ],
+          [
+            "Ireland",
+            "Calle de la Claudio Coello 73",
+            "91 576 3500",
+            "Rubén Darío L5"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "What embassies CAN'T do",
+        "body": "Get you out of jail. Pay fines or legal fees. Provide money (except emergency loans). Intervene in Spanish legal proceedings. They CAN: replace lost passports, notarize documents, visit if arrested, help in emergencies.",
+        "tone": "warning"
+      },
+      {
+        "type": "steps",
+        "heading": "Lost Passport — Step by Step",
+        "items": [
+          {
+            "title": "File a police report",
+            "body": "Online at denuncias.policia.es (English, works for non-residents). Print the report."
+          },
+          {
+            "title": "Contact your embassy",
+            "body": "Book an appointment online. Bring: police report, passport photo, passport number (if you have a copy), fee (€100–150)."
+          },
+          {
+            "title": "Get emergency passport",
+            "body": "Usually ready in 1–2 business days. US: valid 1 year. UK: single journey. Canada: 1–3 days."
+          },
+          {
+            "title": "File travel insurance claim",
+            "body": "Most travel insurance covers passport replacement. Keep all receipts and the police report."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "lost-passport",
@@ -535,7 +1033,96 @@
       "hospitals-madrid",
       "tourist-scams-madrid"
     ],
-    "subsubcategory": "Pharmacies"
+    "subsubcategory": "Pharmacies",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Identification",
+            "value": "Green cross sign (sometimes flashing)"
+          },
+          {
+            "label": "Total in Madrid",
+            "value": "800+"
+          },
+          {
+            "label": "24h rotation",
+            "value": "Farmacia de guardia (one per district)"
+          },
+          {
+            "label": "Free advice",
+            "body": "Pharmacists can advise on minor health issues"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Common OTC Medicine Prices",
+        "columns": [
+          "Medicine",
+          "Spanish name",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Paracetamol",
+            "Paracetamol",
+            "€2"
+          ],
+          [
+            "Ibuprofen",
+            "Ibuprofeno",
+            "€3"
+          ],
+          [
+            "Antihistamines",
+            "Antihistamínico",
+            "€5"
+          ],
+          [
+            "Antacids",
+            "Antiácido",
+            "€4"
+          ],
+          [
+            "Cough syrup",
+            "Jarabe para la tos",
+            "€5"
+          ],
+          [
+            "Antibiotic cream",
+            "Crema antibiótica",
+            "€5"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Free health advice",
+        "body": "Spanish pharmacists have a 5-year university degree and can advise on minor health issues — colds, allergies, rashes, insect bites. This is FREE and often faster than seeing a doctor. Say 'para el dolor de...' (for pain of...) + cabeza (head), estómago (stomach), garganta (throat).",
+        "tone": "success"
+      },
+      {
+        "type": "steps",
+        "heading": "How to Find a 24h Pharmacy",
+        "items": [
+          {
+            "title": "Search online",
+            "body": "Go to colegiofarmaceuticosmadrid.es (Spanish only) for the daily 24h pharmacy list."
+          },
+          {
+            "title": "Ask any pharmacy",
+            "body": "Walk into any pharmacy and ask '¿Dónde está la farmacia de guardia?' (Where is the on-duty pharmacy?)."
+          },
+          {
+            "title": "Look for the sign",
+            "body": "Closed pharmacies post the nearest 24h pharmacy address on their door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "nie-tie",
@@ -547,7 +1134,7 @@
     "official_url": "https://extranjeros.inclusion.gob.es/",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-21",
     "tags": [
       "paperwork",
       "nie",
@@ -564,7 +1151,86 @@
       "rental-contracts",
       "teach-english-spain"
     ],
-    "subsubcategory": "Foreigner ID"
+    "subsubcategory": "Foreigner ID",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "What is a NIE?",
+        "body": "The NIE (Número de Identidad de Extranjero) is a unique identification number assigned to all foreigners in Spain. It's required for almost everything: opening bank accounts, signing rental contracts, working, buying property. You cannot live or work legally in Spain without one — it should be your first priority upon arrival.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€9.64 (Modelo 790 tax fee)"
+          },
+          {
+            "label": "Processing Time",
+            "value": "Same day, if approved"
+          },
+          {
+            "label": "Validity",
+            "value": "Permanent (lifetime)"
+          },
+          {
+            "label": "Form Required",
+            "value": "EX-15"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "Required Documents",
+        "items": [
+          {
+            "title": "EX-15 Form (completed and signed)",
+            "body": "Download from the Spanish government website or pick up at the police station."
+          },
+          {
+            "title": "Original Passport + Photocopy",
+            "body": "All pages including stamps and visas."
+          },
+          {
+            "title": "Reason for NIE (justification)",
+            "body": "Work contract, university enrollment, property purchase, etc."
+          },
+          {
+            "title": "Tax Payment Receipt (Modelo 790)",
+            "body": "Pay €9.64 at any Spanish bank before your appointment."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Step-by-Step Process",
+        "items": [
+          {
+            "title": "Book an Appointment",
+            "body": "Visit sede.administracionespublicas.gob.es and book an appointment for 'NIE' at your local police station.",
+            "tip": "Appointments fill up quickly. Check daily at 9 AM when new slots are released."
+          },
+          {
+            "title": "Prepare Documents",
+            "body": "Download and complete the EX-15 form. Gather all required documents and make photocopies."
+          },
+          {
+            "title": "Pay the Fee",
+            "body": "Pay €9.64 at any Spanish bank using the Modelo 790 form. Keep the stamped receipt as proof of payment."
+          },
+          {
+            "title": "Attend Your Appointment",
+            "body": "Arrive 15 minutes early with all documents. The process usually takes 30–60 minutes if everything is in order."
+          },
+          {
+            "title": "Receive Your NIE",
+            "body": "If approved, you'll receive your NIE certificate immediately. Make several photocopies — you'll need them for everything!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "empadronamiento",
@@ -809,7 +1475,119 @@
       "museo-thyssen-bornemisza-detail",
       "puerta-del-sol"
     ],
-    "subsubcategory": "Golden Triangle"
+    "subsubcategory": "Golden Triangle",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "At a Glance",
+        "items": [
+          {
+            "label": "General Admission",
+            "value": "€15"
+          },
+          {
+            "label": "Free Entry",
+            "value": "Mon–Sat 6–8pm, Sun 5–7pm"
+          },
+          {
+            "label": "Recommended Visit",
+            "value": "3–4 hours"
+          },
+          {
+            "label": "Collection Size",
+            "value": "8,000+ paintings"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Free Entry Hack",
+        "body": "Monday–Saturday 6–8pm and Sunday 5–7pm = FREE. But you still need to book online first — walk-ups are not accepted during the free slot. Reserve your free ticket on the official Prado website up to 1 hour before the free window starts.",
+        "tone": "success"
+      },
+      {
+        "type": "list",
+        "heading": "The Big 3: Must-See Masterpieces",
+        "items": [
+          {
+            "title": "Las Meninas — Diego Velázquez (1656)",
+            "body": "The most enigmatic painting in art history — a mirror within a mirror. Room 12.",
+            "meta": [
+              "Crowd level: Very High",
+              "Best time: Early morning or late afternoon"
+            ]
+          },
+          {
+            "title": "The Third of May 1808 — Francisco Goya (1814)",
+            "body": "Goya's powerful depiction of war's brutality. Room 64.",
+            "meta": [
+              "Crowd level: Moderate",
+              "Best time: Mid-morning"
+            ]
+          },
+          {
+            "title": "The Garden of Earthly Delights — Hieronymus Bosch (c. 1515)",
+            "body": "A surreal triptych that's like Medieval Netflix. Room 56A.",
+            "meta": [
+              "Crowd level: High",
+              "Best time: Wednesday evenings"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Opening Hours",
+        "columns": [
+          "Day",
+          "Hours"
+        ],
+        "rows": [
+          [
+            "Monday – Saturday",
+            "10am – 8pm"
+          ],
+          [
+            "Sunday & Holidays",
+            "10am – 7pm"
+          ],
+          [
+            "Free entry (Mon–Sat)",
+            "6pm – 8pm"
+          ],
+          [
+            "Free entry (Sun)",
+            "5pm – 7pm"
+          ],
+          [
+            "Closed",
+            "Jan 1, May 1, Dec 25"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Insider Tips",
+        "items": [
+          {
+            "title": "Best Times to Visit",
+            "body": "Tuesday–Thursday 10am or after 4pm. Avoid weekend mornings like the plague."
+          },
+          {
+            "title": "Skip the Audio Guide",
+            "body": "Download the free Prado app instead. It's updated more frequently and has more content than the paid €5 audio guide."
+          },
+          {
+            "title": "Wear Comfy Shoes",
+            "body": "You'll walk 2–3km inside! Your feet will thank you later."
+          },
+          {
+            "title": "Photography Rules",
+            "body": "Photos allowed (no flash)! But crowds gather around famous works."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "museo-reina-sofia",
@@ -858,7 +1636,99 @@
       "plaza-mayor",
       "puerta-del-sol"
     ],
-    "subsubcategory": "Royal Palace"
+    "subsubcategory": "Royal Palace",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "At a Glance",
+        "items": [
+          {
+            "label": "Rooms",
+            "value": "3,418"
+          },
+          {
+            "label": "Floor Area",
+            "value": "135,000m² (largest in Europe)"
+          },
+          {
+            "label": "Admission",
+            "value": "€12 general, €6 reduced"
+          },
+          {
+            "label": "Free Entry",
+            "value": "EU citizens Mon–Thu 4–6pm (Oct–Mar)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Ticket Prices",
+        "columns": [
+          "Ticket",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "General",
+            "€12",
+            "Includes Royal Armory"
+          ],
+          [
+            "Reduced",
+            "€6",
+            "Students 18–25, over 65"
+          ],
+          [
+            "Free (EU)",
+            "€0",
+            "Mon–Thu 4–6pm, Oct–Mar, bring passport"
+          ],
+          [
+            "Free (all)",
+            "€0",
+            "Under 5, disabled"
+          ],
+          [
+            "Guided Tour",
+            "€16",
+            "Official guided, 90 min"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Must-See Rooms",
+        "items": [
+          {
+            "title": "Throne Room (Salón del Trono)",
+            "body": "Gold and crimson, with the thrones of King Felipe VI and Queen Letizia."
+          },
+          {
+            "title": "Royal Armory (Real Armería)",
+            "body": "One of the world's best collections of armor and weapons, including Charles V's suit."
+          },
+          {
+            "title": "Main Staircase",
+            "body": "72 steps carved from a single piece of San Agustín marble. A baroque masterpiece."
+          },
+          {
+            "title": "Royal Chapel",
+            "body": "With a 1778 pipe organ still used for concerts."
+          },
+          {
+            "title": "Crown Room",
+            "body": "The Spanish crown and scepter — relatively simple compared to other European monarchies."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Changing of the Guard",
+        "body": "First Wednesday of each month at 11am (free). The Solemn Changing (cambio solemne) is the full ceremony with guards on horseback — worth planning your visit around.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "almudena-cathedral",
@@ -907,7 +1777,75 @@
       "madrid-weather",
       "teleferico"
     ],
-    "subsubcategory": "Central Parks"
+    "subsubcategory": "Central Parks",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Size",
+            "value": "118 hectares"
+          },
+          {
+            "label": "Hours",
+            "value": "6am – midnight, daily"
+          },
+          {
+            "label": "Entry",
+            "value": "Free"
+          },
+          {
+            "label": "Trees",
+            "value": "15,000+"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Things to Do",
+        "items": [
+          {
+            "title": "Rowing Lake (Estanque Grande)",
+            "body": "Rowboats €6/45 min. The iconic Alfonso XII monument overlooks the lake.",
+            "meta": [
+              "Best: Morning",
+              "Crowd: High on weekends"
+            ]
+          },
+          {
+            "title": "Crystal Palace (Palacio de Cristal)",
+            "body": "1887 glass-and-iron pavilion, hosts free contemporary art exhibitions.",
+            "meta": [
+              "Free entry",
+              "May have lines"
+            ]
+          },
+          {
+            "title": "Rose Garden (Rosaleda)",
+            "body": "4,000+ roses. Best in May–June.",
+            "meta": [
+              "Free",
+              "Best: May–June"
+            ]
+          },
+          {
+            "title": "Statue Walk (Paseo de la Argentina)",
+            "body": "Statues of Spanish kings lining a tree-lined avenue."
+          },
+          {
+            "title": "Fountain of the Fallen Angel",
+            "body": "The world's only public statue of Lucifer. Pics or it didn't happen."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Best time to visit",
+        "body": "Early morning (7–9am) for peace and joggers, or late afternoon (5–7pm) for golden light and families. Avoid Sunday afternoons (packed). Free Sunday concerts at the bandstand April–October.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "casa-de-campo",
@@ -1003,7 +1941,59 @@
       "almudena-cathedral"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/plaza-mayor",
-    "subsubcategory": "Plazas"
+    "subsubcategory": "Plazas",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Built",
+            "value": "1617–1619 (Philip III)"
+          },
+          {
+            "label": "Size",
+            "value": "129m × 94m"
+          },
+          {
+            "label": "Balconies",
+            "value": "237"
+          },
+          {
+            "label": "Entrance Arches",
+            "value": "9"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Bocata de Calamares",
+        "body": "The Madrid tradition: eat a fried squid sandwich (€3.50) at Bar La Campana (SW corner). Don't sit down for a full meal on the plaza — restaurants are overpriced and mediocre. Walk 5 min to Cava Baja for real tapas.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "What to Do",
+        "items": [
+          {
+            "title": "Walk the arcades",
+            "body": "9 entrance archways, each different. The upper-floor arcades have the best views."
+          },
+          {
+            "title": "Tourist Office",
+            "body": "Ground floor (Plaza Mayor 3). Free maps, English advice. Open 9:30am–8:30pm."
+          },
+          {
+            "title": "Stamp and coin shops",
+            "body": "Under the arcades — a relic of old Madrid. Interesting even if you don't collect."
+          },
+          {
+            "title": "Christmas market",
+            "body": "December — stalls selling nativity figures, gifts, and hot chestnuts. Magical at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "gran-via",
@@ -1026,7 +2016,62 @@
       "salamanca-luxury-shopping"
     ],
     "official_url": "https://www.esmadrid.com/en/shopping/gran-via",
-    "subsubcategory": "Streets & Avenues"
+    "subsubcategory": "Streets & Avenues",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Length",
+            "value": "1.3km"
+          },
+          {
+            "label": "Built",
+            "value": "1910–1929"
+          },
+          {
+            "label": "First skyscraper",
+            "value": "Telefónica Building (1929)"
+          },
+          {
+            "label": "Metro",
+            "value": "Gran Vía (L1, L5)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to Do on Gran Vía",
+        "items": [
+          {
+            "title": "Shopping",
+            "body": "Zara flagship, Primark, H&M, Mango, Apple Store. Open Mon–Sat 10am–10pm.",
+            "meta": [
+              "Some open Sundays"
+            ]
+          },
+          {
+            "title": "Theaters",
+            "body": "Musicals, plays, concerts at Lope de Vega, Coliseum, Compac Gran Vía. Spain's 'Broadway'."
+          },
+          {
+            "title": "Rooftop bars",
+            "body": "Riu Plaza España (€10, highest in Madrid), Hotel Urban (cocktails). Best at sunset."
+          },
+          {
+            "title": "Architecture walk",
+            "body": "Edificio Metrópolis (1911), Telefónica (1929), Capitol (1933). 3 architectural eras in 1km."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Dining tip",
+        "body": "Avoid eating ON Gran Vía — tourist traps. Walk 2 blocks north to Malasaña (indie cafés, craft beer) or south to Huertas (traditional tapas) for better food at half the price.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "puerta-del-sol",
@@ -1048,7 +2093,43 @@
       "neighborhoods-guide"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/puerta-del-sol",
-    "subsubcategory": "Plazas"
+    "subsubcategory": "Plazas",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "What to See",
+        "items": [
+          {
+            "title": "Kilometer Zero Plaque",
+            "body": "On the ground near Casa de Correos. The official center of Spain — all road distances are measured from here.",
+            "meta": [
+              "Photo op"
+            ]
+          },
+          {
+            "title": "El Oso y el Madroño",
+            "body": "20-tonne statue of a bear eating from a strawberry tree — the symbol of Madrid. Everyone takes a photo here.",
+            "meta": [
+              "Photo op"
+            ]
+          },
+          {
+            "title": "Casa de Correos Clock Tower",
+            "body": "Where Spaniards gather on New Year's Eve to eat 12 grapes at midnight (broadcast on national TV)."
+          },
+          {
+            "title": "Carlos III Statue",
+            "body": "The king who modernized Madrid in the 18th century."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "⚠️ Pickpocket Warning",
+        "body": "Sol is Madrid's #1 pickpocket hotspot. Use a cross-body bag, keep your phone in a front pocket, and be extra alert. Common scams: fake petitions, flower pushers, 'found' ring. See our Tourist Scams record for details.",
+        "tone": "danger"
+      }
+    ]
   },
   {
     "id": "toledo",
@@ -1074,7 +2155,92 @@
       "renfe-trains",
       "segovia-day-trip"
     ],
-    "subsubcategory": "Toledo"
+    "subsubcategory": "Toledo",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "How to Get to Toledo",
+        "columns": [
+          "Option",
+          "Duration",
+          "Cost",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "AVE train",
+            "30 min",
+            "€15–25",
+            "From Atocha. Book 7+ days ahead."
+          ],
+          [
+            "ALSA bus",
+            "1 hour",
+            "€11",
+            "From Estación Sur (Méndez Álvaro)"
+          ],
+          [
+            "Car",
+            "45 min",
+            "€8 fuel + €10 parking",
+            "AP-41 motorway"
+          ],
+          [
+            "Organized tour",
+            "8 hours",
+            "€50–100",
+            "Includes transport + guide"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Sights in Toledo",
+        "items": [
+          {
+            "title": "Cathedral (Catedral Primada)",
+            "body": "One of Spain's largest Gothic cathedrals. €12 entry. Allow 2 hours.",
+            "meta": [
+              "€12"
+            ]
+          },
+          {
+            "title": "Alcázar",
+            "body": "Fortress on the highest point, now an army museum. €5.",
+            "meta": [
+              "€5"
+            ]
+          },
+          {
+            "title": "Santo Tomé church",
+            "body": "Home of El Greco's 'Burial of the Count of Orgaz' — his masterpiece. €4.",
+            "meta": [
+              "€4"
+            ]
+          },
+          {
+            "title": "Santa María la Blanca",
+            "body": "12th-century synagogue, now a museum. €3.",
+            "meta": [
+              "€3"
+            ]
+          },
+          {
+            "title": "Mirador del Valle",
+            "body": "Viewpoint across the river — best photo of the city. Free.",
+            "meta": [
+              "Free"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Toledo Tourist Bracelet",
+        "body": "The €12 bracelet gives entry to 7 sights (cathedral, Santo Tomé, Santa María la Blanca, and 4 more). Good value if you plan to visit 3+ sights. Buy at any participating site.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "avila",
@@ -1123,7 +2289,69 @@
       "tipping-spain",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Food Markets"
+    "subsubcategory": "Food Markets",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Built",
+            "value": "1916 (iron-and-glass structure)"
+          },
+          {
+            "label": "Stalls",
+            "value": "30+ food and drink stands"
+          },
+          {
+            "label": "Hours",
+            "value": "10am–midnight (Sun–Thu), 10am–2am (Fri–Sat)"
+          },
+          {
+            "label": "Vibe",
+            "value": "Gourmet food court, not a local market"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to Eat",
+        "items": [
+          {
+            "title": "Oysters at Oyster Bar",
+            "body": "€2.50–4 each, fresh-shucked. Pair with cava.",
+            "meta": [
+              "€2.50–4"
+            ]
+          },
+          {
+            "title": "Jamón ibérico",
+            "body": "Cured ham, €5–8 for a plate of thin slices. Look for 'bellota' (acorn-fed) — the best.",
+            "meta": [
+              "€5–8"
+            ]
+          },
+          {
+            "title": "Croquetas",
+            "body": "€2–3 for 2 pieces. Try jamón, chicken, or cod (bacalao)."
+          },
+          {
+            "title": "Vermouth on tap",
+            "body": "€3–4/glass. Ask for 'un vermut de grifo'. Served with olives."
+          },
+          {
+            "title": "Gildas",
+            "body": "Olive + anchovy + pepper on a skewer. €2–3. The perfect vermouth companion."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Pricing reality check",
+        "body": "San Miguel is more expensive than a regular tapas bar (2-3x markup) — you're paying for the atmosphere and the beautiful 1916 iron structure. For cheaper, more authentic tapas, walk 5 min to Calle Cava Baja in La Latina.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "sangines",
@@ -1216,7 +2444,73 @@
     "related_records": [
       "rayo-vallecas"
     ],
-    "subsubcategory": "Football"
+    "subsubcategory": "Football",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Champions League titles",
+            "value": "15 (most in the world)"
+          },
+          {
+            "label": "La Liga titles",
+            "value": "36"
+          },
+          {
+            "label": "Stadium capacity",
+            "value": "81,044"
+          },
+          {
+            "label": "Tour price",
+            "value": "€35 adult, €28 child"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Match Ticket Prices",
+        "columns": [
+          "Match type",
+          "Price range",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "La Liga (small team)",
+            "€30–80",
+            "Easier to get, usually available"
+          ],
+          [
+            "La Liga (big team)",
+            "€80–300",
+            "Book 2+ weeks ahead"
+          ],
+          [
+            "El Clásico (Barcelona)",
+            "€100–800",
+            "Very hard to get, sell out fast"
+          ],
+          [
+            "Champions League",
+            "€50–400",
+            "Varies by opponent"
+          ],
+          [
+            "Copa del Rey",
+            "€20–80",
+            "Cheaper, easier to get"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Tour price update",
+        "body": "The Bernabéu Tour increased to €35 after the 2024 renovation (was €25). Some online guides still show the old price. Book at realmadrid.com for the official price.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "rayo-vallecas",
@@ -4258,7 +5552,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "tags": [
       "day-trips",
       "segovia",
@@ -4272,7 +5566,79 @@
       "day-tours-from-madrid",
       "toledo"
     ],
-    "subsubcategory": "Segovia"
+    "subsubcategory": "Segovia",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "How to Get to Segovia",
+        "columns": [
+          "Option",
+          "Duration",
+          "Cost",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "AVE train",
+            "30 min",
+            "€15–25",
+            "From Chamartín. Book ahead for cheapest."
+          ],
+          [
+            "Bus 621",
+            "1h 15m",
+            "€8",
+            "From Moncloa. Every 30 min."
+          ],
+          [
+            "Car",
+            "1 hour",
+            "€12 fuel",
+            "AP-6 motorway, toll €10"
+          ],
+          [
+            "Organized tour",
+            "8–10 hours",
+            "€60–100",
+            "Includes transport + guide"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Sights in Segovia",
+        "items": [
+          {
+            "title": "Roman Aqueduct",
+            "body": "2,000 years old, 818m long, 28m tall, built without mortar. Free. Can't miss it.",
+            "meta": [
+              "Free",
+              "UNESCO"
+            ]
+          },
+          {
+            "title": "Alcázar",
+            "body": "Fairy-tale castle said to inspire Disney's Cinderella. €8.",
+            "meta": [
+              "€8"
+            ]
+          },
+          {
+            "title": "Cathedral",
+            "body": "Last Gothic cathedral built in Spain (1525–1768). €7.",
+            "meta": [
+              "€7"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Local food: Cochinillo",
+        "body": "Segovia's signature dish: roast suckling pig (cochinillo asado). Try at Mesón de Cándido (next to the aqueduct) — touristy but iconic. €22–28.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "el-escorial-day-trip",
@@ -5492,7 +6858,79 @@
       "verbenas-festivals",
       "chotis-madrid"
     ],
-    "subsubcategory": "Flamenco"
+    "subsubcategory": "Flamenco",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Top Flamenco Tablaos Compared",
+        "columns": [
+          "Tablao",
+          "Price (show+drink)",
+          "Vibe",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Cardamomo",
+            "€30–35",
+            "Intimate, 60 capacity, midnight show is rowdy",
+            "Authentic experience"
+          ],
+          [
+            "Corral de la Morería",
+            "€50–90",
+            "Historic (1956), Michelin restaurant",
+            "Dinner + show luxury"
+          ],
+          [
+            "Casa Patas",
+            "CLOSED",
+            "Was at Cañizares 10 — see alternatives",
+            "—"
+          ],
+          [
+            "Las Tablas",
+            "€35",
+            "Modern, younger performers",
+            "Newer flamenco"
+          ],
+          [
+            "Torres Bermejas",
+            "€40–70",
+            "Alhambra-style decor, larger venue",
+            "Groups"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Book the late show",
+        "body": "The midnight shows at Cardamomo are where flamenco comes alive — performers are loosened up, the audience is more engaged, and there's more improvisation. The atmosphere is electric. Book 1–2 days ahead.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "What to Expect",
+        "items": [
+          {
+            "title": "4-5 artists",
+            "body": "1–2 dancers (bailaor/bailaora), 1–2 singers (cantaor/cantaora), 1–2 guitarists."
+          },
+          {
+            "title": "60–90 minutes",
+            "body": "Show length. Don't talk during performances — Spaniards take flamenco seriously."
+          },
+          {
+            "title": "No photography",
+            "body": "Most tablaos don't allow photos during the show. Enjoy the moment."
+          },
+          {
+            "title": "After-show bar",
+            "body": "Some tablaos have a bar after the show where performers and audience mingle — the best flamenco moments often happen here, spontaneously."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "magic-comedy-madrid",
