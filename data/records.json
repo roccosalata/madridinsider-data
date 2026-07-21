@@ -223,7 +223,7 @@
       "avila",
       "chamartin-station",
       "eurail-interrail-passes",
-      "segovia",
+      "segovia-day-trip",
       "toledo"
     ],
     "subsubcategory": "Trains & Rail"
@@ -461,7 +461,8 @@
       "english-speaking-doctors",
       "pharmacies"
     ],
-    "official_url": "https://www.comunidad.madrid/servicios/salud/hospitales"
+    "official_url": "https://www.comunidad.madrid/servicios/salud/hospitales",
+    "subsubcategory": "Emergency Services"
   },
   {
     "id": "embassies",
@@ -1069,35 +1070,11 @@
       "atocha-station",
       "avila",
       "day-tours-from-madrid",
-      "el-escorial",
+      "el-escorial-day-trip",
       "renfe-trains",
-      "segovia"
+      "segovia-day-trip"
     ],
     "subsubcategory": "Toledo"
-  },
-  {
-    "id": "segovia",
-    "title": "Segovia — Day Trip",
-    "category": "see",
-    "subcategory": "day-trips",
-    "summary": "Roman aqueduct, Alcázar castle, cathedral. 35 min by AVE.",
-    "content": "AVE from Chamartín: 28 min. The Roman aqueduct (Acueducto) is 2,000 years old, 28m tall, and has 167 arches — still intact. The Alcázar (fairy-tale castle) is said to have inspired Disney. Famous for 'cochinillo asado' (roast suckling pig) — Mesón de Cándido by the aqueduct is the classic. Also: cathedral, Plaza Mayor, Casa de los Picos.",
-    "official_url": "https://www.segovia.es",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "day-trips",
-      "segovia",
-      "unesco"
-    ],
-    "related_records": [
-      "toledo",
-      "avila",
-      "el-escorial",
-      "renfe-trains",
-      "chamartin-station"
-    ]
   },
   {
     "id": "avila",
@@ -1116,35 +1093,12 @@
       "walls"
     ],
     "related_records": [
-      "toledo",
-      "segovia",
-      "el-escorial",
-      "renfe-trains"
+      "el-escorial-day-trip",
+      "renfe-trains",
+      "segovia-day-trip",
+      "toledo"
     ],
     "subsubcategory": "Ávila"
-  },
-  {
-    "id": "el-escorial",
-    "title": "San Lorenzo de El Escorial — Day Trip",
-    "category": "see",
-    "subcategory": "day-trips",
-    "summary": "16th-century monastery-palace, Philip II's massive memorial. 1h by bus/train.",
-    "content": "Cercanías train from Atocha or Chamartín to El Escorial: ~1h. The monastery is austere, vast, and packed with art (El Greco, Titian, Velázquez, Bosch). Includes the basilica, royal pantheon (Spanish kings since Charles I), library, and the famous 'El Greco rooms'. Combine with a walk in the surrounding mountains.",
-    "official_url": "https://www.el-escorial.com",
-    "status": "evergreen",
-    "english_friendly": true,
-    "last_updated": "2026-07-17",
-    "tags": [
-      "day-trips",
-      "el-escorial",
-      "philip-ii"
-    ],
-    "related_records": [
-      "toledo",
-      "segovia",
-      "avila",
-      "renfe-trains"
-    ]
   },
   {
     "id": "mercado-san-miguel",
@@ -1263,7 +1217,8 @@
       "flamenco-madrid",
       "teatro-real"
     ],
-    "official_url": "https://www.esmadrid.com/en/whats-on/flamenco"
+    "official_url": "https://www.esmadrid.com/en/whats-on/flamenco",
+    "subsubcategory": "Flamenco"
   },
   {
     "id": "flamenco-cardamomo",
@@ -1285,7 +1240,8 @@
       "flamenco",
       "flamenco-madrid",
       "teatro-real"
-    ]
+    ],
+    "subsubcategory": "Flamenco"
   },
   {
     "id": "teatro-real",
@@ -1330,7 +1286,8 @@
       "flamenco",
       "teatro-real",
       "malasana-bars"
-    ]
+    ],
+    "subsubcategory": "Jazz & Blues"
   },
   {
     "id": "malasana-bars",
@@ -1442,7 +1399,8 @@
       "veranos-de-la-villa",
       "august-verbenas",
       "traditions-summary"
-    ]
+    ],
+    "subsubcategory": "Bullfighting"
   },
   {
     "id": "traditions-summary",
@@ -1464,7 +1422,8 @@
       "la-latina-verbenas",
       "veranos-de-la-villa"
     ],
-    "official_url": "https://www.esmadrid.com/en/culture"
+    "official_url": "https://www.esmadrid.com/en/culture",
+    "subsubcategory": "Overview"
   },
   {
     "id": "veranos-de-la-villa",
@@ -1766,7 +1725,8 @@
       "hospitals",
       "empadronamiento",
       "nie-tie"
-    ]
+    ],
+    "subsubcategory": "Overview"
   },
   {
     "id": "banking",
@@ -1790,7 +1750,8 @@
       "credit-card-acceptance",
       "nie-tie",
       "empadronamiento"
-    ]
+    ],
+    "subsubcategory": "Bank Accounts"
   },
   {
     "id": "ride-sharing-madrid",
@@ -6999,6 +6960,163 @@
     "related_records": [
       "coworking-madrid",
       "internet-cafes-madrid"
+    ]
+  },
+  {
+    "id": "ice-skating-madrid",
+    "title": "Ice Skating in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Winter Sports",
+    "summary": "Ice rinks: Palacio de Hielo (indoor, year-round), seasonal outdoor rinks at Plaza de España and Callao (Nov-Jan). €8-12.",
+    "content": "Ice skating in Madrid. INDOOR (year-round): (1) Palacio de Hielo (Calle de la Silvia 4, Metro Canillas L4) — Madrid's only permanent ice rink, 1,800m². €10 entry + €3 skate rental. Open daily 10am-10pm. Also has a shopping center, restaurants, and a small amusement area. OUTDOOR (seasonal, November-January): (1) Plaza de España — pop-up rink, €8, daily 10am-9pm. (2) Callao (Gran Vía) — smaller pop-up rink, €6. (3) Madrid Caja Mágica — sometimes has seasonal rinks. TIPS: (1) Palacio de Hielo is the real ice skating experience — the pop-up rinks are small and crowded. (2) Bring gloves (mandatory at most rinks). (3) Socks required. (4) Best time: weekday mornings (empty), avoid weekends (packed with kids). (5) The Palacio de Hielo also offers ice skating lessons (€20/hour) and hockey sessions.",
+    "official_url": "https://www.palaciodehielo.com/",
+    "status": "annual review",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "ice-skating",
+      "winter",
+      "indoor"
+    ],
+    "related_records": [
+      "skiing-snowboarding-madrid",
+      "swimming-pools-madrid"
+    ]
+  },
+  {
+    "id": "pool-billiards-madrid",
+    "title": "Pool & Billiards in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Indoor Games",
+    "summary": "Pool halls: Billar Centro, Madrid Billar Pool. €4-8/hour per table. Popular with locals. Snooker rare in Spain.",
+    "content": "Pool and billiards in Madrid. POOL HALLS: (1) Billar Centro (Calle de la Colegiata 9, La Latina) — central, 12 tables, €5/hour per table. Open Mon-Sat 11am-1am. (2) Madrid Billar Pool (Calle de la Alcalá 55) — 8 tables, €4/hour. (3) Billar Luna (Calle de la Luna 5, Sol) — small, touristy, €6/hour. (4) Club de Billar Madrid (Calle de la Príncipe de Vergara 50) — members + walk-ins, 10 tables, €4/hour. (5) Piszpool (Calle de la Alcalá 110) — newer, clean, €5/hour. WHAT'S AVAILABLE: (1) Pool (billar americano) — 8-ball, 9-ball. Most common. (2) French billiards (billar francés / carambola) — 3-cushion, no pockets. Popular with older Spaniards. (3) Snooker — very rare in Spain. Only at British expat clubs. TIPS: (1) Pay per table (not per person) — split the cost. (2) Cues provided (bring your own only if serious). (3) Chalk provided. (4) Spanish pool halls serve drinks — order at the table. (5) Avoid weekend evenings (packed, loud). (6) The game in Spain is typically 8-ball (bola 8) with slightly different rules than US/UK.",
+    "official_url": "https://www.billarcentro.com/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "pool",
+      "billiards",
+      "indoor",
+      "games"
+    ],
+    "related_records": [
+      "bowling-madrid"
+    ]
+  },
+  {
+    "id": "bowling-madrid",
+    "title": " Bowling in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Indoor Games",
+    "summary": "Bowling alleys: Bowling Madrid (Palacio de Hielo), Sfinx Bowling. €5-8/game. Also has arcade games and food.",
+    "content": "Bowling in Madrid. ALLEYS: (1) Bowling Madrid (Calle de la Silvia 4, inside Palacio de Hielo, Metro Canillas L4) — 16 lanes, modern, €5-7/game + €2 shoe rental. Open daily 10am-10pm. Also has arcade games, mini-golf, and restaurants. (2) Sfinx Bowling (Calle de la de los Ochoa 11, Pozuelo, west Madrid) — 12 lanes, €5-6/game. (3) Bolera Mercamadrid (Calle de la del Vino 3, Mercamadrid) — 8 lanes, €4-5/game. Budget option. TIPS: (1) Book ahead on weekends — leagues take up lanes. (2) Shoe rental €2. (3) Most alleys serve food and drinks — it's a family entertainment center, not just bowling. (4) Bumper lanes available for kids. (5) Spanish bowling (bolos) is a different game (outdoor, larger pins) — what Americans call 'bowling' is called 'bowling' in Spain too. (6) Cosmic bowling (glow-in-the-dark with music) on Friday and Saturday nights.",
+    "official_url": "https://www.palaciodehielo.com/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "bowling",
+      "indoor",
+      "family",
+      "games"
+    ],
+    "related_records": [
+      "pool-billiards-madrid",
+      "ice-skating-madrid"
+    ]
+  },
+  {
+    "id": "race-karts-madrid",
+    "title": "Go-Kart Racing in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Motor Sports",
+    "summary": "Indoor karting: Carlos Sainz Kart Center, Indoor Karting Madrid. €15-25/10-min session. Outdoor: Karting Campos.",
+    "content": "Go-kart racing in Madrid. INDOOR: (1) Carlos Sainz Kart Center (Calle de la Botiguesa 10, Las Rozas, 30 min NW) — owned by the rally legend, 600m indoor track, electric karts up to 50 km/h. €18/10-min session, €45/3 sessions. Open daily 11am-10pm. (2) Indoor Karting Madrid (Calle de la de la Aragonesa 9, San Sebastián de los Reyes, 30 min NE) — 500m indoor track, petrol karts. €15/10-min session. OUTDOOR: (1) Karting Campos (Calle de la de la Vega 32, Ciempozuelos, 40 min S) — 1,100m outdoor track, faster karts. €25/15-min session. (2) Karting Carlos III (Calle de la Carlos III, Aranjuez) — smaller outdoor track. TIPS: (1) Indoor = electric karts (cleaner, quieter, similar speed). Outdoor = petrol karts (faster, smellier). (2) Wear closed-toe shoes (mandatory). (3) Helmets provided. (4) Minimum height usually 1.40m for adult karts, 1.20m for junior karts. (5) Lap times displayed on screens — competitive! (6) Group events and corporate bookings available — book 1 week ahead. (7) The Carlos Sainz Kart Center also has a sim-racing area and a museum with Sainz's rally cars.",
+    "official_url": "https://www.carlossainzkartcenter.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "karting",
+      "go-kart",
+      "motor",
+      "racing"
+    ],
+    "related_records": [
+      "bowling-madrid"
+    ]
+  },
+  {
+    "id": "expat-publications-madrid",
+    "title": "English-Language Publications & Magazines",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Magazines & Blogs",
+    "summary": "English magazines and blogs: Madrid No Frills, Spain Reporter, Essential Magazine, InMadrid. Free and paid.",
+    "content": "English-language publications about Madrid and Spain. MAGAZINES (print + online): (1) Essential Magazine (essentialmagazine.com) — free monthly lifestyle magazine for expats in Madrid and Barcelona. Pick up at hotels, restaurants, British Council. (2) InMadrid (in-madrid.com) — free bilingual magazine, distributed at tourist spots. Focus on culture and events. BLOGS: (1) Madrid No Frills (madridnofrills.com) — independent, authentic, cheap eats and hidden gems. Excellent. (2) Madrid Foodie (madridfoodie.com) — restaurant reviews, food events. Spanish/English. (3) Madrid Secreto (madridsecreto.co) — Spanish-language city blog, hidden events. Use Google Translate. (4) Devour Madrid (devour-tours.com/blog/madrid) — food and culture blog by Devour Tours. (5) Spain Reporter (spainreporter.com) — English news and features about Spain. PRINT: (1) Broadsheet-style listings in El País English edition (Thursdays — 'Madrid' section). (2) Time Out Madrid (timeout.com/madrid) — online + annual print guide. (3) Metrópoli (weekend supplement of El Economista newspaper) — culture and lifestyle, Spanish. TIPS: (1) For events, esMadrid.com (official) is most reliable. (2) For authentic, off-the-beaten-path recommendations, Madrid No Frills is the best. (3) Essential Magazine is free and widely available — good for newcomers. (4) Most blogs have email newsletters — subscribe for weekly updates.",
+    "official_url": "https://madridnofrills.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "news",
+      "magazine",
+      "blog",
+      "english",
+      "publication",
+      "expat"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "the-local-spain",
+      "madrid-today-events"
+    ]
+  },
+  {
+    "id": "madrid-districts-overview",
+    "title": "Madrid Districts Overview (21 Districts)",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "subsubcategory": "District Overview",
+    "summary": "Madrid has 21 districts. Our neighborhood guides cover the central 10. This overview explains all 21.",
+    "content": "Madrid is divided into 21 districts (distritos), each with its own character. Our neighborhood guides cover the 10 most relevant to visitors and expats. Here's the full list: CENTRAL (our guides cover these): (1) Centro — Sol, Gran Vía, Plaza Mayor, La Latina, Lavapiés, Malasaña, Chueca, Huertas. (2) Chamberí — residential, authentic. (3) Salamanca — upscale, luxury. (4) Retiro — parks, museums, residential. (5) Moncloa-Aravaca — students (Complutense), Argüelles, Moncloa. (6) Tetuán — diverse, Cuatro Caminos. OTHER DISTRICTS (less touristy but worth knowing): (7) Carabanchel — working-class, immigrant communities. (8) Usera — Madrid's Chinatown, Asian community. (9) Puente de Vallecas — working-class, Rayo Vallecano football. (10) Moratalaz — residential, quiet. (11) Ciudad Lineal — residential, family-friendly. (12) Hortaleza — residential, upscale suburbs. (13) Villaverde — industrial, southern edge. (14) Villa de Vallecas — new developments, expanding. (15) Vicálvaro — university campus (URJC), quiet. (16) San Blas-Canillejas — residential, near airport. (17) Barajas — airport, logistics. (18) Latina — residential, Aluche. (19) Carabanchel — see above. (20) Arganzuela — Madrid Río, Matadero, south of center. (21) Fuencarral-El Pardo — largest district, includes Mirasierra and El Pardo nature reserve. TIPS: (1) For visitors, stay in districts 1-5 (Centro, Chamberí, Salamanca, Retiro, Moncloa). (2) For budget accommodation, districts 6, 8, 9 (Tetuán, Usera, Vallecas) are cheaper. (3) For nature, El Pardo (district 21) has forests and hiking. (4) For Asian food, Usera (district 8) is the place. (5) District numbers are used in postal codes (280XX where XX = district).",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/The-City/Districts",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "neighborhood",
+      "district",
+      "overview",
+      "areas",
+      "barrios"
+    ],
+    "related_records": [
+      "sol-gran-via-neighborhood",
+      "malasana-neighborhood",
+      "chueca-neighborhood",
+      "la-latina-neighborhood",
+      "lavapies-neighborhood",
+      "chamberi-neighborhood",
+      "salamanca-neighborhood",
+      "retiro-neighborhood",
+      "arguelles-moncloa-neighborhood",
+      "tetuan-cuatro-caminos-neighborhood"
     ]
   }
 ]
