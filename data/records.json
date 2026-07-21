@@ -20,11 +20,22 @@
       "bicimad",
       "bus-stations-madrid",
       "chamartin-station",
+      "chamberi-neighborhood",
+      "chueca-neighborhood",
       "electric-scooters-madrid",
       "emt-buses",
+      "la-latina-neighborhood",
+      "lavapies-neighborhood",
       "left-luggage",
       "madrid-barajas-airport",
+      "madrid-city-card",
+      "malasana-neighborhood",
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "retiro-neighborhood",
       "ride-sharing-madrid",
+      "royal-palace",
+      "sol-gran-via-neighborhood",
       "taxis-madrid",
       "walking-madrid"
     ],
@@ -162,7 +173,8 @@
       "madrid-barajas-airport",
       "metro-de-madrid",
       "ride-sharing-madrid",
-      "taxi-companies-madrid"
+      "taxi-companies-madrid",
+      "tipping-spain"
     ],
     "subsubcategory": "Taxis & Ride-Sharing"
   },
@@ -280,9 +292,10 @@
       "uk"
     ],
     "related_records": [
-      "schengen-visa-us",
+      "embassies",
       "etias-2026",
-      "passport-requirements"
+      "passport-requirements",
+      "schengen-visa-us"
     ],
     "subsubcategory": "Schengen Visa"
   },
@@ -414,8 +427,11 @@
       "spanish"
     ],
     "related_records": [
+      "escuela-oficial-idiomas",
       "language-schools",
-      "escuela-oficial-idiomas"
+      "madrid-tourist-offices",
+      "spanish-culture-madrid",
+      "useful-information-madrid"
     ],
     "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm",
     "subsubcategory": "Phrases"
@@ -436,9 +452,13 @@
       "emergency"
     ],
     "related_records": [
-      "hospitals",
       "embassies",
-      "lost-passport"
+      "hospitals",
+      "hospitals-madrid",
+      "locksmiths-madrid",
+      "lost-passport",
+      "pharmacies",
+      "tourist-scams-madrid"
     ],
     "subsubcategory": "Emergency Services"
   },
@@ -482,7 +502,11 @@
     "related_records": [
       "emergency-numbers",
       "lost-passport",
-      "passport-requirements"
+      "passport-requirements",
+      "schengen-visa-uk",
+      "schengen-visa-us",
+      "student-visa-spain",
+      "work-visa-spain"
     ],
     "subsubcategory": "Official Help"
   },
@@ -525,9 +549,11 @@
       "pharmacies"
     ],
     "related_records": [
-      "hospitals",
+      "emergency-numbers",
       "english-speaking-doctors",
-      "emergency-numbers"
+      "hospitals",
+      "hospitals-madrid",
+      "tourist-scams-madrid"
     ],
     "subsubcategory": "Pharmacies"
   },
@@ -548,10 +574,15 @@
       "tie"
     ],
     "related_records": [
-      "empadronamiento",
       "banking",
+      "banking-spain",
+      "empadronamiento",
+      "freelancing-spain",
       "healthcare",
-      "housing"
+      "housing",
+      "public-healthcare",
+      "rental-contracts",
+      "teach-english-spain"
     ],
     "subsubcategory": "Foreigner ID"
   },
@@ -571,10 +602,13 @@
       "empadronamiento"
     ],
     "related_records": [
-      "nie-tie",
-      "healthcare",
       "banking",
-      "housing"
+      "bilingual-schools-madrid",
+      "healthcare",
+      "housing",
+      "nie-tie",
+      "padron-empadronamiento",
+      "public-healthcare"
     ],
     "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento",
     "subsubcategory": "Local Registration"
@@ -715,8 +749,10 @@
     "related_records": [
       "empadronamiento",
       "english-speaking-doctors",
+      "hospitals",
+      "nie-tie",
       "pharmacies",
-      "hospitals"
+      "social-security-number-spain"
     ],
     "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria",
     "subsubcategory": "Public Healthcare"
@@ -872,10 +908,12 @@
       "art"
     ],
     "related_records": [
-      "museo-reina-sofia",
-      "thyssen-bornemisza",
       "atocha-station",
-      "puerta-del-sol"
+      "madrid-city-card",
+      "metro-de-madrid",
+      "museo-reina-sofia",
+      "puerta-del-sol",
+      "thyssen-bornemisza"
     ],
     "subsubcategory": "Golden Triangle"
   },
@@ -896,9 +934,11 @@
       "art"
     ],
     "related_records": [
+      "atocha-station",
+      "madrid-city-card",
+      "metro-de-madrid",
       "museo-del-prado",
-      "thyssen-bornemisza",
-      "atocha-station"
+      "thyssen-bornemisza"
     ],
     "subsubcategory": "Golden Triangle"
   },
@@ -942,6 +982,7 @@
     ],
     "related_records": [
       "almudena-cathedral",
+      "metro-de-madrid",
       "plaza-mayor",
       "puerta-del-sol"
     ],
@@ -986,10 +1027,13 @@
       "green"
     ],
     "related_records": [
+      "atocha-station",
       "casa-de-campo",
+      "cycling-mtb-madrid",
       "madrid-rio",
-      "teleferico",
-      "atocha-station"
+      "madrid-uv-index",
+      "madrid-weather",
+      "teleferico"
     ],
     "subsubcategory": "Central Parks"
   },
@@ -1008,10 +1052,11 @@
       "casa-de-campo"
     ],
     "related_records": [
-      "retiro-park",
+      "cycling-mtb-madrid",
       "madrid-rio",
-      "teleferico",
-      "metro-de-madrid"
+      "metro-de-madrid",
+      "retiro-park",
+      "teleferico"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
     "subsubcategory": "Large Parks"
@@ -1033,6 +1078,8 @@
     ],
     "related_records": [
       "casa-de-campo",
+      "cycling-mtb-madrid",
+      "madrid-weather",
       "retiro-park",
       "teleferico"
     ],
@@ -1170,11 +1217,12 @@
       "unesco"
     ],
     "related_records": [
-      "segovia",
+      "atocha-station",
       "avila",
+      "day-tours-from-madrid",
       "el-escorial",
       "renfe-trains",
-      "atocha-station"
+      "segovia"
     ],
     "subsubcategory": "Toledo"
   },
@@ -1266,9 +1314,10 @@
     ],
     "related_records": [
       "plaza-mayor",
+      "sangines",
       "tapas-la-latina",
-      "vermouth-madrid",
-      "sangines"
+      "tipping-spain",
+      "vermouth-madrid"
     ],
     "subsubcategory": "Food Markets"
   },
@@ -1760,8 +1809,12 @@
       "climate"
     ],
     "related_records": [
+      "cycling-mtb-madrid",
+      "madrid-aqi",
+      "madrid-rio",
       "madrid-time",
-      "madrid-aqi"
+      "retiro-park",
+      "running-madrid"
     ],
     "subsubcategory": "Weather"
   },
@@ -2087,8 +2140,9 @@
       "cycling"
     ],
     "related_records": [
-      "metro-de-madrid",
-      "emt-buses"
+      "cycling-mtb-madrid",
+      "emt-buses",
+      "metro-de-madrid"
     ],
     "sections": [
       {
@@ -2553,8 +2607,11 @@
       "digital-nomad"
     ],
     "related_records": [
+      "freelancing-spain",
+      "internet-cafes-madrid",
+      "job-search-spain",
       "public-wifi-madrid",
-      "internet-cafes-madrid"
+      "spanish-cv-interview"
     ],
     "subsubcategory": "Internet"
   },
@@ -2762,11 +2819,12 @@
       "center"
     ],
     "related_records": [
-      "puerta-del-sol",
-      "plaza-mayor",
       "gran-via",
+      "metro-de-madrid",
+      "plaza-mayor",
+      "puerta-del-sol",
       "royal-palace",
-      "metro-de-madrid"
+      "walking-tours-madrid"
     ],
     "subsubcategory": "City Center"
   },
@@ -2814,9 +2872,10 @@
       "shopping"
     ],
     "related_records": [
+      "madrid-pride",
       "malasana-neighborhood",
-      "sol-gran-via-neighborhood",
-      "madrid-pride"
+      "metro-de-madrid",
+      "sol-gran-via-neighborhood"
     ],
     "subsubcategory": "City Center"
   },
@@ -2866,8 +2925,9 @@
     "related_records": [
       "el-rastro-flea-market",
       "mercado-san-miguel",
+      "metro-de-madrid",
       "sol-gran-via-neighborhood",
-      "metro-de-madrid"
+      "walking-tours-madrid"
     ],
     "subsubcategory": "Historic"
   },
@@ -2891,8 +2951,9 @@
     ],
     "related_records": [
       "la-latina-neighborhood",
+      "metro-de-madrid",
       "sol-gran-via-neighborhood",
-      "metro-de-madrid"
+      "walking-tours-madrid"
     ],
     "subsubcategory": "Historic"
   },
@@ -3017,9 +3078,10 @@
       "tourist"
     ],
     "related_records": [
-      "walking-tours-madrid",
+      "madrid-city-card",
       "seg-tours-madrid",
-      "sol-gran-via-neighborhood"
+      "sol-gran-via-neighborhood",
+      "walking-tours-madrid"
     ],
     "subsubcategory": "Bus Tours"
   },
@@ -3044,8 +3106,9 @@
     "related_records": [
       "bus-tours-madrid",
       "food-tours-madrid",
-      "sol-gran-via-neighborhood",
-      "la-latina-neighborhood"
+      "la-latina-neighborhood",
+      "lavapies-neighborhood",
+      "sol-gran-via-neighborhood"
     ],
     "subsubcategory": "Walking Tours"
   },
@@ -3148,7 +3211,9 @@
     "related_records": [
       "ave-high-speed-trains",
       "bus-stations-madrid",
+      "el-escorial-day-trip",
       "intercity-buses",
+      "segovia-day-trip",
       "toledo"
     ],
     "subsubcategory": "Day Tours"
@@ -3321,10 +3386,11 @@
       "number"
     ],
     "related_records": [
-      "nie-tie",
       "empadronamiento",
-      "teach-english-spain",
-      "freelancing-spain"
+      "freelancing-spain",
+      "nie-tie",
+      "public-healthcare",
+      "teach-english-spain"
     ],
     "subsubcategory": "Work Permits"
   },
@@ -3547,9 +3613,10 @@
       "digital-nomad"
     ],
     "related_records": [
-      "social-security-number-spain",
+      "coworking-madrid",
       "modelo-720",
-      "nie-tie"
+      "nie-tie",
+      "social-security-number-spain"
     ],
     "subsubcategory": "Freelancing"
   },
@@ -3652,7 +3719,8 @@
     ],
     "related_records": [
       "la-latina-neighborhood",
-      "mercado-san-miguel"
+      "mercado-san-miguel",
+      "vat-refund-spain"
     ],
     "subsubcategory": "Markets"
   },
@@ -3677,7 +3745,8 @@
     ],
     "related_records": [
       "gran-via",
-      "salamanca-neighborhood"
+      "salamanca-neighborhood",
+      "vat-refund-spain"
     ],
     "subsubcategory": "Luxury"
   },
@@ -3985,9 +4054,12 @@
       "official"
     ],
     "related_records": [
-      "madrid-city-card",
+      "madrid-airport-information-desks",
       "madrid-apps",
-      "madrid-airport-information-desks"
+      "madrid-city-card",
+      "official-madrid-city-map",
+      "survival-spanish",
+      "useful-information-madrid"
     ],
     "subsubcategory": "Tourist Offices"
   },
@@ -4011,10 +4083,12 @@
       "museums"
     ],
     "related_records": [
+      "bus-tours-madrid",
       "madrid-tourist-offices",
       "metro-de-madrid",
-      "bus-tours-madrid",
-      "museo-del-prado"
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "museo-thyssen-bornemisza-detail"
     ],
     "subsubcategory": "Tourist Passes"
   },
@@ -4141,6 +4215,7 @@
       "non-eu"
     ],
     "related_records": [
+      "embassies",
       "etias-2026",
       "internships-spain",
       "residencia-permit-spain",
@@ -4168,6 +4243,7 @@
       "blue-card"
     ],
     "related_records": [
+      "embassies",
       "freelancing-spain",
       "residencia-permit-spain",
       "schengen-visa-us",
@@ -4194,9 +4270,14 @@
       "culture"
     ],
     "related_records": [
+      "cheap-eats-madrid",
       "credit-card-acceptance",
       "daily-budgets",
-      "euros-and-atms"
+      "euros-and-atms",
+      "hotels-madrid",
+      "la-latina-tapas-nightlife",
+      "mercado-san-miguel",
+      "taxis-madrid"
     ],
     "subsubcategory": "Etiquette"
   },
@@ -4221,8 +4302,10 @@
     ],
     "related_records": [
       "credit-card-acceptance",
+      "el-rastro-flea-market",
       "euros-and-atms",
-      "salamanca-luxury-shopping"
+      "salamanca-luxury-shopping",
+      "shopping-madrid-overview"
     ],
     "subsubcategory": "Tax Free"
   },
@@ -4326,7 +4409,8 @@
     "related_records": [
       "embassies",
       "emergency-numbers",
-      "lost-passport"
+      "lost-passport",
+      "pharmacies"
     ],
     "subsubcategory": "Crime & Scams"
   },
@@ -4404,6 +4488,7 @@
     "related_records": [
       "emergency-numbers",
       "english-speaking-doctors-madrid",
+      "pharmacies",
       "public-healthcare"
     ],
     "subsubcategory": "Hospitals"
@@ -4453,9 +4538,10 @@
       "children"
     ],
     "related_records": [
-      "universities-madrid",
+      "empadronamiento",
+      "escuela-oficial-idiomas",
       "language-schools-madrid",
-      "escuela-oficial-idiomas"
+      "universities-madrid"
     ],
     "subsubcategory": "Schools"
   },
@@ -4557,6 +4643,7 @@
       "golden-triangle"
     ],
     "related_records": [
+      "madrid-city-card",
       "museo-del-prado",
       "museo-reina-sofia",
       "retiro-neighborhood"
@@ -4794,10 +4881,11 @@
       "bar-crawl"
     ],
     "related_records": [
+      "food-tours-madrid",
       "la-latina-neighborhood",
-      "vermouth-madrid",
       "mercado-san-miguel",
-      "food-tours-madrid"
+      "tipping-spain",
+      "vermouth-madrid"
     ],
     "subsubcategory": "Bars & Pubs"
   },
@@ -5002,9 +5090,10 @@
       "infojobs"
     ],
     "related_records": [
-      "teach-english-spain",
+      "coworking-madrid",
       "freelancing-spain",
-      "spanish-cv-interview"
+      "spanish-cv-interview",
+      "teach-english-spain"
     ],
     "subsubcategory": "Job Search"
   },
@@ -5028,6 +5117,7 @@
       "career"
     ],
     "related_records": [
+      "coworking-madrid",
       "job-search-spain",
       "teach-english-spain"
     ],
@@ -5212,9 +5302,11 @@
       "parks"
     ],
     "related_records": [
-      "retiro-park",
+      "casa-de-campo",
       "madrid-rio",
-      "casa-de-campo"
+      "madrid-uv-index",
+      "madrid-weather",
+      "retiro-park"
     ],
     "subsubcategory": "Outdoor Sports"
   },
@@ -5452,9 +5544,12 @@
       "summer"
     ],
     "related_records": [
-      "madrid-weather",
+      "cycling-mtb-madrid",
       "madrid-aqi",
-      "madrid-time"
+      "madrid-time",
+      "madrid-weather",
+      "retiro-park",
+      "running-madrid"
     ],
     "subsubcategory": "Weather"
   },
@@ -5586,6 +5681,9 @@
       "bicimad",
       "casa-de-campo",
       "madrid-rio",
+      "madrid-uv-index",
+      "madrid-weather",
+      "retiro-park",
       "running-madrid"
     ],
     "subsubcategory": "Outdoor Sports"
@@ -6029,9 +6127,10 @@
       "budget"
     ],
     "related_records": [
-      "hostels-madrid",
       "apart-hotels-madrid",
-      "sol-gran-via-neighborhood"
+      "hostels-madrid",
+      "sol-gran-via-neighborhood",
+      "tipping-spain"
     ],
     "subsubcategory": "Hotels"
   },
@@ -6107,10 +6206,11 @@
       "outlet"
     ],
     "related_records": [
-      "salamanca-luxury-shopping",
+      "bookstores-madrid",
       "el-rastro-flea-market",
       "mercados-madrid",
-      "bookstores-madrid"
+      "salamanca-luxury-shopping",
+      "vat-refund-spain"
     ],
     "subsubcategory": "Shopping Areas"
   },
@@ -6135,10 +6235,11 @@
       "bocadillo"
     ],
     "related_records": [
-      "mercado-san-miguel",
-      "vermouth-madrid",
       "cocido-madrileno",
-      "la-latina-tapas-nightlife"
+      "la-latina-tapas-nightlife",
+      "mercado-san-miguel",
+      "tipping-spain",
+      "vermouth-madrid"
     ],
     "subsubcategory": "Budget Eats"
   },
@@ -6913,9 +7014,10 @@
       "essentials"
     ],
     "related_records": [
-      "madrid-tourist-offices",
       "madrid-apps",
-      "official-madrid-city-map"
+      "madrid-tourist-offices",
+      "official-madrid-city-map",
+      "survival-spanish"
     ]
   },
   {
