@@ -5286,5 +5286,836 @@
       "madrid-uv-index",
       "pharmacies"
     ]
+  },
+  {
+    "id": "swimming-pools-madrid",
+    "title": "Swimming Pools (Piscinas) in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "27 public pools across Madrid. Indoor (year-round) €4-6, outdoor (Jun-Sep) €5-8. Sport Center pools free with membership.",
+    "content": "Madrid has 27 municipal swimming pools plus many private ones. PUBLIC OUTDOOR (summer only, mid-June to early September): (1) Piscina de la Elipa (Calle Pérez de Victoria) — large, popular, €5.60. (2) Piscina de San Blas (Calle de los Hermanos García Noblejas) — family-friendly, €5.60. (3) Piscina de la Mina (Calle Emilio Vargas) — Olympic-size, €5.60. (4) Piscina de Vallecas (Calle Sierra de Gredos) — €5.60. (5) Piscina de Vicálvaro — €5.60. PUBLIC INDOOR (year-round): (1) Centro Deportivo Municipal La Elipa — €5.90/visit. (2) Centro Deportivo Municipal San Blas — €5.90. (3) Centro Deportivo Municipal Orcasitas — €5.90. PRIVATE: (1) Real Canoe Natación Club (Calle de la Felicidad) — €20/visit, €80/month. (2) Piscinas Canal de Isabel II (Calle de la Reina) — €15/visit, modern, popular with expats. (3) Sport Center Madrid (multiple) — €10-15/visit. Tips: (1) Public outdoor pools are crowded in summer — arrive before 11am or after 5pm. (2) Most public pools require a swim cap. (3) Bring a lock for lockers. (4) Public pools are cash-only at the entrance (or use the Madrid app).",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Sports-and-leisure/Swimming-pools",
+    "status": "annual review",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "swimming",
+      "pool",
+      "piscina",
+      "summer",
+      "public"
+    ],
+    "related_records": [
+      "aquopolis-water-park",
+      "running-madrid"
+    ]
+  },
+  {
+    "id": "gyms-fitness-madrid",
+    "title": "Gyms & Fitness Centers in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Low-cost chains: BasicFit (€25/mo), FitUp (€30/mo). Mid-range: Altafit, VivaGym. CrossFit: Reebok CrossFit Valdemoro.",
+    "content": "Madrid has a huge gym scene. LOW-COST CHAINS (no contract, monthly): (1) BasicFit (multiple locations) — €25/month, 24/7 access, basic equipment. (2) FitUp — €30/month, similar to BasicFit. (3) McFit (Calle de Alcalá 65) — €25/month, German chain, 24/7. MID-RANGE: (1) VivaGym (multiple) — €35-45/month, group classes included. (2) Altafit — €40/month, pool at some locations. (3) Holístic Place (Calle de Lagasca) — €60/month, boutique. HIGH-END: (1) Reebok Sports Club (Calle Goya) — €90-120/month, spa, pool, tennis. (2) Home Boutique (Calle de Alcalá) — €80/month, premium. SPECIALTY: (1) CrossFit Madrid (Calle de San Agustín del Guadalix) — €80/month. (2) Box CrossFit Vallecas — €70/month. (3) Yoga Shala Madrid (Calle de la Colegiata) — €60/month. (4) Pilates Madrid (multiple). Tips: (1) Most gyms offer a free trial day — book ahead. (2) Avoid 6-8pm (peak hours). (3) Spanish gyms require a towel and proper athletic shoes. (4) Cancel by sending a burofax (certified letter) — Spanish gyms make cancellation hard. (5) Class booking opens 24 hours ahead — popular classes fill fast. Public sports centers (Centros Deportivos Municipales) are €50-80/month and include pools — great value if you swim.",
+    "official_url": "https://www.basicfit.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "gym",
+      "fitness",
+      "crossfit",
+      "yoga",
+      "pilates"
+    ],
+    "related_records": [
+      "swimming-pools-madrid",
+      "running-madrid",
+      "yoga-madrid"
+    ]
+  },
+  {
+    "id": "golf-madrid",
+    "title": "Golf Courses in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "20+ golf courses around Madrid. Public: Centro Nacional de Golf (€45), Club de Campo Villa de Madrid (€120).",
+    "content": "Madrid has 20+ golf courses within 30km of the center. PUBLIC/SEMIPUBLIC: (1) Centro Nacional de Golf (Calle de Arroyo del Monte, near Mirasierra Metro) — Spain's national golf center, 18 holes, €45 weekday / €65 weekend. Open to all. Booking online. (2) Club de Campo Villa de Madrid (Carretera de Castilla) — private but accepts visitors with a member recommendation, €120 green fee. Hosts the Open de España. (3) Centro Deportivo Municipal Golf (Calle del Arroyo del Fresno) — municipal, 18 holes, €35 weekday / €50 weekend. PRIVATE (members only, visitors with handicap): (1) Real Club de la Puerta de Hierro — most exclusive, €40,000 initiation. (2) Club de Golf Retamares — €15,000 initiation. (3) Centro Nacional de Golf — covered above. PUBLIC DRIVING RANGES: (1) Golf Center San Sebastián de los Reyes — 60 bays, €8/hour. (2) Topgolf Madrid (Alcobendas) — entertainment golf, €15/hour bay rental. Tips: (1) Book 7+ days ahead for weekend tee times. (2) Soft spikes only. (3) Dress code enforced (collared shirt, no denim). (4) Madrid's altitude (667m) makes the ball fly 5-8% further than at sea level. (5) Best season: March-May and September-November (summers too hot, winters cold and wet).",
+    "official_url": "https://www.rfegolf.es/Paginas/Inicio.aspx",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "golf",
+      "course",
+      "driving-range"
+    ],
+    "related_records": [
+      "running-madrid",
+      "swimming-pools-madrid"
+    ]
+  },
+  {
+    "id": "cycling-mtb-madrid",
+    "title": "Cycling & Mountain Biking in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Road cycling in Casa de Campo, MTB in Sierra de Guadarrama. Bike shops: Specialized, Trek Madrid. BiciMAD for city.",
+    "content": "Madrid is surprisingly good for cycling. ROAD CYCLING: (1) Casa de Campo — 15km loop, flat, popular with road cyclists mornings and weekends. (2) Madrid Río — 10km linear park, paved, great for casual rides. (3) Anillo Verde Ciclista — 65km bike path ringing the city, mostly paved. (4) Paseo de la Castellana — wide boulevard, 6km north-south. MOUNTAIN BIKING: (1) Casa de Campo — 1,535 hectares of trails, technical in parts. (2) Parque Regional de la Cuenca Alta del Manzanares — 40km north, serious MTB trails. (3) Sierra de Guadarrama National Park — 50km north, world-class MTB and gravel. Bike rental: (1) BiciMAD (electric city bikes) — €0.10/min, 250+ stations. (2) Bike Madrid (Calle de la Colegiata) — road/MTB rental €25-40/day. (3) Bravo Bike (Calle de los Tres Peces) — €20-35/day. Bike shops: (1) Specialized Madrid (Calle de Alcalá). (2) Trek Madrid (Calle de Padre Damián). (3) Mega Bike (Calle de Atocha). Cycling clubs: (1) Peña Ciclista Madrid — Sunday group rides. (2) Madrid Cycling Club (English-speaking). Tips: (1) Cycling in central Madrid is tricky — narrow streets, aggressive drivers. (2) Helmets mandatory on intercity roads, recommended in city. (3) Bikes on Metro: allowed outside rush hours (no electric bikes on Metro). (4) Bikes on Cercanías: allowed on weekends only.",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Mobility-and-transport/Cycling",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "cycling",
+      "bike",
+      "mtb",
+      "road",
+      "casa-de-campo"
+    ],
+    "related_records": [
+      "bicimad",
+      "casa-de-campo",
+      "madrid-rio",
+      "running-madrid"
+    ]
+  },
+  {
+    "id": "tennis-madrid",
+    "title": "Tennis in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Public courts: Centro de Tenis Chamartín, Parque Tierno Galván. €8-15/hour. Private clubs: Real Club de Tenis, CT Magic.",
+    "content": "Tennis in Madrid: PUBLIC COURTS (bookable by anyone): (1) Centro de Tenis Chamartín (Calle de Mateo Inurria) — 12 clay courts, €12/hour. Book at the center or by phone. (2) Parque Tierno Galván (Calle de Meneses) — 4 hard courts, €8/hour. (3) Centro Deportivo Municipal La Elipa — 6 courts, €10/hour. (4) Canal de Isabel II (Calle de la Reina) — 9 courts, €15/hour, popular. PRIVATE CLUBS (members or guests): (1) Real Club de Tenis de Madrid (Calle de Mateo Inurria) — most prestigious, €8,000 initiation. (2) Club de Tenis Magic (Calle de la Sinfonía) — €2,000 initiation, active expat community. (3) Club de Campo Villa de Madrid — tennis + golf + equestrian. TENIS ESCUELAS (tennis schools, no membership required): (1) Sánchez-Casal Tennis Academy (Calle de San Cipriano) — founded by Emilio Sánchez Vicario, €40/hour private, €20/hour group. (2) Equelite Tennis Academy — Juan Carlos Ferrero's academy. Tips: (1) Most courts are clay (tierra batida) — sliding is part of the game. (2) Book 7+ days ahead for weekend prime times. (3) Public courts require a Madrid resident card for booking (apply at any city office). (4) Spanish tennis is strong — watch local tournaments for high-level amateur tennis. The Madrid Open (April-May) is the city's biggest pro tournament.",
+    "official_url": "https://www.rfetenis.com/web/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "tennis",
+      "court",
+      "club",
+      "clay"
+    ],
+    "related_records": [
+      "madrid-open-tennis",
+      "running-madrid"
+    ]
+  },
+  {
+    "id": "skiing-snowboarding-madrid",
+    "title": "Skiing & Snowboarding near Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Puerto de Navacerrada and Valdesquí — 1 hour from Madrid. Season Dec-March. Day trip from €45 (gear + lift).",
+    "content": "Madrid has skiing 1 hour north in the Sierra de Guadarrama mountains. RESORTS: (1) Valdesquí (Cotos pass, 1 hour by car) — Madrid's largest, 22 runs, 22 km total, all levels. €39 weekday / €45 weekend day pass. Gear rental €25. Open December-March (snow-dependent). (2) Puerto de Navacerrada (Cotos pass, 1 hour) — smaller, 9 runs, mostly intermediate. €35 day pass. (3) La Pinilla (Segovia province, 1.5 hours) — 18 runs, €35 day pass. GETTING THERE: (1) By car: C-604 to Cotos pass, parking €5/day. (2) By public transport: Cercanías C8 to Cercedilla (50 min, €5.60), then bus 684 to Navacerrada (30 min, €3). Or bus 691 from Moncloa directly to Valdesquí (weekends only, €5). GEAR RENTAL: (1) At the resort — €25-30 for skis/poles/boots or snowboard + boots. (2) In Madrid: Barrabes (Calle de Alcalá) — €20/day, better gear. Decathlon (multiple) — €15/day, budget. TIPS: (1) Check snow conditions before going — Spanish ski resorts are snow-dependent. (2) Buy tickets online 1-2 days ahead for weekend savings. (3) Arrive by 9am for parking and lift lines. (4) Madrid's altitude means the resorts are at 1,800-2,200m — sun is intense, wear sunscreen. (5) Best months: January-February (most reliable snow). December and March are hit-or-miss. The Sierra is also great for winter hiking and snowshoeing when there's no skiing.",
+    "official_url": "https://www.valdesqui.es/",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "skiing",
+      "snowboarding",
+      "winter",
+      "sierra",
+      "valdesqui"
+    ],
+    "related_records": [
+      "running-madrid",
+      "el-escorial-day-trip",
+      "segovia-day-trip"
+    ]
+  },
+  {
+    "id": "supermarkets-grocery-madrid",
+    "title": "Supermarkets & Grocery Stores in Madrid",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Main chains: Mercadona (best value), Carrefour (largest), El Corte Inglés (premium), Lidl, Aldi. Open Mon-Sat 9am-9:30pm.",
+    "content": "Madrid's supermarket scene. MAIN CHAINS: (1) Mercadona — Spain's largest, Spanish-owned, best value. ~40 stores in Madrid. Own-brand (Hacendado) is excellent quality. Known for fresh meat/fish counter (ask for what you want). Open Mon-Sat 9am-9:30pm. Closed Sundays. (2) Carrefour — French, largest hypermarkets (Carrefour Planet in Pinto, Alcobendas). Good international section, electronics, clothing. Some open Sundays. (3) El Corte Inglés Supermercados (Supercor, Hipercor) — premium, higher prices but excellent quality. Open Sundays 11am-9pm. Good for international products. (4) Lidl — German discount, good quality own-brand. ~25 stores. (5) Aldi — German discount, similar to Lidl. (6) Dia — Spanish discount, ~80 stores, very cheap. (7) Consum — Spanish, mid-range. (8) Ahorramás — Spanish, ~50 stores. INTERNATIONAL GROCERY: (1) Mantequerías Alemanas (Calle de Ayala) — German products. (2) Tatsumi (Calle del General Yagüe) — Japanese. (3) Seoul (Calle de la Princesa) — Korean. (4) El Mercado de la Cebada — Latin American products. (5) Calle de Lavapiés — Indian, Pakistani, African shops. TIPS: (1) Bring your own bags (€0.10/bag charge). (2) Most supermarkets don't take American Express. (3) Mercadona is cashless at many stores — bring Visa/Mastercard. (4) Self-checkout available at most (English option). (5) Sunday: only El Corte Inglés, Supercor, some Carrefour, and neighborhood 'ultramarinos' (small corner shops) are open.",
+    "official_url": "https://www.mercadona.es/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "supermarket",
+      "grocery",
+      "food",
+      "shopping"
+    ],
+    "related_records": [
+      "mercados-madrid",
+      "post-office-madrid"
+    ]
+  },
+  {
+    "id": "movie-theaters-madrid",
+    "title": "Movie Theaters & Cinema (Cines) in Madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Cinesa, Yelmo, Kinépolis. Original version (V.O.) films at Cinesa Manoteras, Cine Doré. €7-12. Cheap days: Mon-Wed.",
+    "content": "Madrid cinema. MAIN CHAINS: (1) Cinesa — 15+ locations. Cinesa Manoteras (Calle de Manoteras) has the most V.O. (versión original, English with Spanish subtitles) screenings. Cinesa La Gavia (south Madrid) has the largest screen in Spain (Dolby Cinema). €8-11. (2) Yelmo Cines — 10+ locations. Yelmo Ideal (Calle del Doctor Cortezo) is the most central, with V.O. screenings. €7-10. (3) Kinépolis — large multiplexes in Ciudad de la Imagen (Pozuelo) and San Sebastián de los Reyes. €9-12. (4) Odeon Multicines (Calle de la Princesa) — historic, central, popular. €8. V.O. (ORIGINAL VERSION) THEATERS: (1) Cine Doré (Calle de Santa Magdalena 10) — Spanish Film Institute cinema, art house, V.O. always, €3. (2) Cinesa Manoteras — most V.O. screenings in Madrid. (3) Yelmo Ideal — second-most V.O. (4) Cine Estudio Imax (Calle de la Riviera) — IMAX and V.O. (5) Renoir Plaza de España (closed, but check Renoir preciados). CHEAP DAYS: Most theaters have 'día del espectador' (spectator day) on Monday-Wednesday — €5-6 tickets. Some also have cheaper matinees before 5pm. TIPS: (1) For V.O., look for 'V.O.' (versión original), 'V.O.S.' (versión original subtitulada), or 'V.O.S.E.' (versión original subtitulada en español) on listings. (2) Spanish cinemas have assigned seats — pick when booking. (3) Bring a jacket — Spanish cinemas are cold. (4) Popcorn (palomitas) is sweet or salty — order 'salada' for salty. (5) Some screenings have a 10-minute intermission (especially long films).",
+    "official_url": "https://www.cinesa.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "arts",
+      "cinema",
+      "movie",
+      "theater",
+      "v.o.",
+      "films"
+    ],
+    "related_records": [
+      "imax-planetarium-madrid",
+      "teatro-real-madrid"
+    ]
+  },
+  {
+    "id": "casinos-gambling-madrid",
+    "title": "Casinos & Gambling in Madrid",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Casino Gran Madrid (Torrelodones, 30km NW). Bingo halls in city. Sports betting shops everywhere. Dress code: smart casual.",
+    "content": "Madrid's gambling scene. CASINOS: (1) Casino Gran Madrid (Carretera de Castilla, Torrelodones — 30km NW, 30 min by car or shuttle from Plaza de Castilla) — Madrid's main casino. Table games (roulette, blackjack, poker), 200+ slot machines, restaurants, shows. Dress code: smart casual (no sportswear, no shorts after 8pm). Entry €10 (includes drink). Open 4pm-5am daily. Shuttle bus from Plaza de Castilla (free, every 30 min). (2) Casino de Madrid (Calle de Alcalá 15) — private club founded 1836, members only or guests of the restaurant. Beautiful historic building. Restaurant open to non-members (€50-80 tasting menu). BINGO HALLS: (1) Bingo Canoa (Calle de Alcalá 33) — largest, open 11am-3am. (2) Bingo Gran Vía (Calle Gran Vía 39) — central. (3) Bingo Alcalá (multiple). Bingo is popular with older Spaniards. SPORTS BETTING: (1) Sportium, Bet365, William Hill — betting shops throughout the city. (2) Online: all major Spanish-licensed bookmakers (Bet365.es, Bwin.es, etc.). Online gambling is legal and regulated in Spain. LOTTERY: (1) Loterías y Apuestas del Estado — national lottery. El Gordo (Christmas lottery, December 22) is the world's biggest lottery draw (€2.5 billion prize pool). (2) ONCE — Spanish national organization for the blind, daily lottery (€1.50 ticket). Tips: (1) Casinos require ID (passport). (2) Set a budget before gambling. (3) Spanish gambling helpline: 900 200 225.",
+    "official_url": "https://www.casinogranmadridonline.com/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "casino",
+      "gambling",
+      "bingo",
+      "betting",
+      "lottery"
+    ],
+    "related_records": [
+      "malasana-bars-nightlife",
+      "chueca-bars-nightlife"
+    ]
+  },
+  {
+    "id": "salsa-dancing-madrid",
+    "title": "Salsa & Latin Dancing in Madrid",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Strong Latin scene: El Son, Azúcar de Calle, La Chula. Classes €5-10, social dancing Wed-Sun. Bachata, kizomba too.",
+    "content": "Madrid has one of Europe's best salsa scenes, thanks to the Latin American community (especially Colombian, Cuban, Dominican). MAIN VENUES: (1) El Son (Calle de la Cava Baja 25, La Latina) — most authentic, Cuban salsa (casino), open Wed-Sun. Free class at 10pm, social dancing after. €10 entry + drink. (2) Azúcar de Calle (Calle de San Bernardino 19) — popular with both locals and tourists. Salsa, bachata, reggaeton. €10 entry. (3) La Chula (Calle de Sor Ángela de la Cruz 5) — large salsa club, weekend focus. €12 entry. (4) Salas Bar (Calle de la Cava Baja 32) — small, intimate, free entry. (5) El Café de la Palma (Calle de la Palma 62) — Latin nights on Sundays, free entry. SCHOOLS: (1) Bailongu (Calle de la Magdalena 13) — Cuban salsa, group classes €10, private €30. (2) Tropicanabanda (Calle de la Villa de Marín) — Cuban. (3) Salsa Madrid (Calle de Alcalá) — Puerto Rican style. STYLES: (1) Cuban salsa (casino) — circular, the most popular in Madrid. (2) Puerto Rican/LA salsa — linear. (3) Bachata — Dominican, romantic. (4) Kizomba — Angolan, growing fast. (5) Merengue — Dominican, simple. Tips: (1) Latin clubs start late — don't arrive before midnight. (2) Classes usually 9-10pm, social 10pm-3am. (3) Dress smart — Madrid Latin clubs have a dress code (no sportswear). (4) Leads (men) traditionally ask follows (women), but same-sex dancing is welcome. (5) Best nights: Wed (free classes), Fri-Sun (peak).",
+    "official_url": "https://www.esmadrid.com/en/latin-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "salsa",
+      "latin",
+      "dancing",
+      "bachata",
+      "kizomba"
+    ],
+    "related_records": [
+      "la-latina-tapas-nightlife",
+      "la-latina-neighborhood",
+      "chueca-bars-nightlife"
+    ]
+  },
+  {
+    "id": "terrazas-rooftop-bars-madrid",
+    "title": "Terraces & Rooftop Bars (Terrazas)",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Madrid's summer terrazas: Riu Plaza España, Círculo de Bellas Artes, Hotel Urban. €10-15 cocktails. Best at sunset.",
+    "content": "Madrid's terraza (rooftop terrace) culture is one of Europe's best — warm summers, mild evenings, and a culture of seeing and being seen. TOP ROOFTOP BARS: (1) Riu Plaza España Hotel (Calle Gran Vía 137) — highest rooftop in Madrid, 360° views, €10 entry (includes drink). Most Instagrammed. Sunset is peak time — book ahead or arrive by 6pm. (2) Círculo de Bellas Artes (Calle de Alcalá 42) — €5 entry to rooftop (no drink), €12 cocktail. 360° views of Gran Vía and Banco de España. (3) Hotel Urban (Calle de la Carrera de San Jerónimo) — Azotea rooftop, €15 cocktails, exclusive vibe. (4) Dear Hotel (Calle Gran Vía 80) — Planta Azotea, chic, €14 cocktails. (5) Tartan Roof (Calle de Alcalá 6, Círculo de Bellas Artes building) — restaurant and bar, popular with fashion crowd. (6) Gymage Lounge (Calle de la Luna 2, Malasaña) — rooftop pool club, summer only. (7) Radio Hotel ME (Calle de la Gran Vía 1) — Radio rooftop, DJ, young crowd. STREET TERRACES (plaza-side café terraces): (1) Plaza de Santa Ana — central, touristy. (2) Plaza de la Paja (La Latina) — local. (3) Plaza del Dos de Mayo (Malasaña) — hipster. (4) Plaza de Olavide (Chamberí) — upscale local. Tips: (1) Rooftop bars open April-October (some year-round). (2) Sunset (9-10pm in summer) is peak — arrive 1 hour early. (3) Madrid rooftop cocktails are €10-18 — pricier than street bars. (4) Dress smart-casual for hotel rooftops. (5) Some rooftops require reservation (book online 1-2 days ahead).",
+    "official_url": "https://www.esmadrid.com/en/rooftop-bars-madrid",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "terrazas",
+      "rooftop",
+      "bar",
+      "sunset",
+      "summer"
+    ],
+    "related_records": [
+      "malasana-bars-nightlife",
+      "chueca-bars-nightlife",
+      "temple-debod"
+    ]
+  },
+  {
+    "id": "yoga-madrid",
+    "title": "Yoga in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "summary": "Studios: Yoga Shala, Surya, Multiespacio Ser. €10-15 drop-in, €60-90/month. Free classes in Retiro Park weekends.",
+    "content": "Madrid's yoga scene is thriving. TOP STUDIOS: (1) Yoga Shala Madrid (Calle de la Colegiata 7, La Latina) — Ashtanga focus, drop-in €15, monthly €85. English-speaking teachers. (2) Surya Yoga (Calle de Alcalá 55) — Vinyasa, Hatha, drop-in €14, monthly €75. (3) Multiespacio Ser (Calle de la Beneficencia 14) — multiple styles, €12 drop-in. (4) Centro de Yoga Mandala (Calle del Padre Santa María 41) — Iyengar focus, €15 drop-in. (5) Bikram Yoga Madrid (Calle de la Galileo 14) — hot yoga, €18 drop-in, €95/month. (6) Sadhana Yoga (Calle del Carmen 14) — Kundalini focus. FREE YOGA: (1) Retiro Park — weekend mornings (Saturday 11am, Sunday 10am), informal groups meet by the pond near the Crystal Palace. Donation-based. (2) Madrid Río — Sunday mornings, free classes at the Salón de Pinos. (3) Universidad Popular — city-run community centers offer €30-50/month classes. YOGA TEACHER TRAINING: 200-hour YTT programs at Yoga Shala (€2,500, English), Surya (€2,200). Tips: (1) Bring your own mat (or rent €2). (2) Studios provide props (blocks, straps, blankets). (3) Spanish yoga terminology: 'respira' (breathe), 'inhala/exhala', 'postura' (pose), 'namasté'. (4) Most studios have English-speaking teachers — ask when booking. (5) Summer: outdoor yoga is magical in Retiro Park. Check meetup.com for group classes.",
+    "official_url": "https://www.yogashalamadrid.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "sports",
+      "yoga",
+      "studio",
+      "wellness",
+      "meditation",
+      "ashtanga"
+    ],
+    "related_records": [
+      "gyms-fitness-madrid",
+      "retiro-park",
+      "running-madrid"
+    ]
+  },
+  {
+    "id": "hammams-arab-baths-madrid",
+    "title": "Hammams & Arab Baths (Baños Árabes)",
+    "category": "do",
+    "subcategory": "nightlife",
+    "summary": "Hammam Al Ándalus (Calle de Atocha 14) — authentic Arab baths, massage, tea. €40-80. 5 min from Plaza Mayor.",
+    "content": "Hammam Al Ándalus is Madrid's authentic Arab bathhouse, located at Calle de Atocha 14 (5 min walk from Plaza Mayor). Built on the site of an original 16th-century hammam, the modern hammam opened in 2009. What's included: (1) Thermal water circuit — cold pool (16°C), warm pool (36°C), hot pool (40°C), plus steam room (45°C) and salt bath. (2) Massage (50 minutes) — adds €30-50 to the basic entry. (3) Mint tea and water included. (4) Relaxation room with cushions and Arabic music. Sessions: 90 minutes basic (€40 weekday, €50 weekend), 90 minutes + 30-min massage (€70-80), 2-hour + 50-min massage + body scrub (€110). Sessions start every 2 hours (10am, 12pm, 2pm, 4pm, 6pm, 8pm). Book online ahead — popular times sell out. TIPS: (1) Bring a swimsuit (or rent €3). (2) Towels, slippers, and robes provided. (3) Silence is required — it's a relaxation space. (4) No phones in the bath area. (5) Best for jet lag recovery, couples, or rainy days. (6) The hammam is underground — beautiful Arabic architecture, mosaic tiles, marble pools. OTHER WELLNESS: (1) Hotel Riu Plaza España spa (€50 day pass). (2) Four Seasons Madrid spa (€120 treatments). (3) Public: Piscinas de Vicálvaro (cheap spa day €15).",
+    "official_url": "https://www.hammamalandalus.com/en/madrid/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "nightlife",
+      "hammam",
+      "baths",
+      "spa",
+      "wellness",
+      "relaxation"
+    ],
+    "related_records": [
+      "terrazas-rooftop-bars-madrid",
+      "yoga-madrid"
+    ]
+  },
+  {
+    "id": "flamenco-madrid",
+    "title": "Flamenco Shows in Madrid",
+    "category": "do",
+    "subcategory": "traditions",
+    "summary": "Top tablaos: Cardamomo, Casa Patas, Corral de la Morería. €30-50 with drink, €60-90 with dinner.",
+    "content": "Madrid is one of the best places in Spain to see flamenco — performers come from all over Spain (especially Andalusia) to dance in Madrid's tablaos. TOP TABLAOS: (1) Cardamomo (Calle de Echegaray 15, Las Letras) — intimate venue, 60 capacity, top performers. €30 show + drink, €50 with tapas. 2 shows nightly (8pm, 10pm). Reserve ahead. (2) Casa Patas (Calle de Cañizares 10, Lavapiés) — prestigious, founded 1985. Flamenco classes by day, shows by night. €35 show + drink. (3) Corral de la Morería (Calle de la Morería 17, Plaza Mayor area) — oldest (1956), most historic, Michelin-starred restaurant. €50-90 with dinner. (4) Torres Bermejas (Calle de la Flor Baja 9, Gran Vía) — larger venue, Alhambra-style decor. €40-70. (5) Las Carboneras (Plaza del Conde de Miranda 1) — modern, central, good value €30. (6) La Latina (Calle de la Cava Baja 32) — small, in La Latina. WHAT TO EXPECT: A typical show is 60-90 minutes with 4-5 artists: 1-2 dancers (bailaor/bailaora), 1-2 singers (cantaor/cantaora), 1-2 guitarists (tocador). The show is intense and emotional — flamenco is UNESCO intangible cultural heritage. TIPS: (1) Book ahead, especially weekends. (2) Dress smart-casual. (3) Don't talk during the performance — Spaniards take flamenco seriously. (4) Photography is usually not allowed during the show. (5) The 'with dinner' option is a 3-course Spanish meal — worth it for the experience but the food is secondary to the show. (6) For a free flamenco experience, check Sala El Sol (Calle de los Candilejos) on certain nights, or the flamenco peñas (clubs) in Lavapiés.",
+    "official_url": "https://www.cardamomo.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "traditions",
+      "flamenco",
+      "tablao",
+      "dance",
+      "spanish",
+      "unesco"
+    ],
+    "related_records": [
+      "salsa-dancing-madrid",
+      "verbenas-festivals",
+      "chotis-madrid"
+    ]
+  },
+  {
+    "id": "magic-comedy-madrid",
+    "title": "Magic & Comedy Shows in Madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Stand-up: Faena Bar, Comedy Clubhouse. Magic: Mágico Antón, Anuba. Most shows in Spanish; some English comedy nights.",
+    "content": "Madrid's comedy and magic scene. STAND-UP COMEDY (in Spanish unless noted): (1) Faena Bar (Calle de la Colegiata 12) — weekly stand-up, mostly Spanish. €8-12. (2) Comedy Clubhouse (Calle de la Colegiata 12) — Madrid's only dedicated comedy club. Spanish + English nights. €10-15. Check for 'Comedy in English Madrid' nights (monthly). (3) Sala Galileo Galilei (Calle de Galileo 100) — comedy + music, larger venue. €12-20. (4) El Club de la Comedia (multiple venues, including Teatro Alcázar) — established comedy brand. €15-25. (5) Stand Up Madrid (various venues) — showcases, often English/Spanish bilingual. MAGIC SHOWS: (1) Mágico Antón (Calle de San Mateo 4) — small intimate magic theater, weekly shows. €15. Book ahead. (2) Anuba Madrid (Calle de San Vicente Ferrer 47) — close-up magic, dinner shows. €40-60. (3) As de Copas (Calle de la Madera 14) — bar with magic shows some nights, free entry. (4) Teatro Reina Victoria (Calle de Espíritu Santo 5) — hosts touring magic shows. IMPROV: (1) IMPRO Madrid (Calle de la Colegiata 12) — weekly improv shows. €8-12. (2) El Imparcial Teatro (Calle de la Colegiata 13) — improv + theater. TIPS: (1) Most comedy is in Spanish — but the 'English comedy nights' at Comedy Clubhouse are excellent. (2) Magic shows often need no language. (3) Check meetup.com for open mic nights. (4) Spanish humor is loud, physical, and political — different from US/UK. (5) Book ahead for weekend shows.",
+    "official_url": "https://www.comedyclubhouse.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "arts",
+      "comedy",
+      "magic",
+      "stand-up",
+      "improv",
+      "spanish"
+    ],
+    "related_records": [
+      "teatro-real-madrid",
+      "movie-theaters-madrid"
+    ]
+  },
+  {
+    "id": "summer-outdoor-cinema-madrid",
+    "title": "Summer Outdoor Cinema & Events",
+    "category": "do",
+    "subcategory": "arts",
+    "summary": "Cine de Verano (summer cinema): Retiro Park, Matadero, Cine Doré rooftop. June-September. €3-8, some free.",
+    "content": "Madrid's summer outdoor cinema season runs June-September. MAIN VENUES: (1) Cine de Verano en el Retiro (Retiro Park, near Puerta de Alcalá) — nightly screenings in July-August, classic and recent films in V.O. with Spanish subtitles. €6. Bring a blanket or low chair. Food trucks on site. (2) Matadero Madrid (Plaza de Legazpi) — outdoor cinema on the patio, contemporary and art house films. €4-6. Check mataderomadrid.org. (3) Cine Doré (Calle de Santa Magdalena 10) — Spanish Film Institute, rooftop cinema in summer. €3. Art house classics, V.O. (4) Cineteca Matadero (Plaza de Legazpi) — independent cinema, indoor + outdoor in summer. €5. (5) Azotea del Círculo de Bellas Artes (Calle de Alcalá 42) — rooftop cinema some summer weekends. €10. (6) Parque Tierno Galván (Calle de Meneses) — large outdoor cinema, 1,500 seats. €4. Pop, classic, and recent films. OTHER SUMMER EVENTS: (1) Veranos de la Villa (July-August) — Madrid's big summer festival with concerts, theater, dance at venues across the city. Many free. (2) Festival Internacional de Teatro (July) — avant-garde theater. (3) Conciertos de la Almudena (September) — classical music at the cathedral. TIPS: (1) Bring a light jacket — Madrid nights are cool even in summer. (2) Mosquitoes can be a problem near water — bring repellent. (3) Most screenings are V.O. with Spanish subtitles. (4) Buy tickets online — popular screenings sell out. (5) For free screenings, arrive 1 hour early to get a good spot.",
+    "official_url": "https://www.esmadrid.com/en/veranos-villa",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "arts",
+      "cinema",
+      "outdoor",
+      "summer",
+      "free",
+      "retiro"
+    ],
+    "related_records": [
+      "movie-theaters-madrid",
+      "veranos-de-la-villa",
+      "retiro-park"
+    ]
+  },
+  {
+    "id": "phone-tv-internet-providers-madrid",
+    "title": "Phone, Internet & TV Providers",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Main ISPs: Movistar (best, priciest), Orange, Vodafone, Digi (cheap). Fiber €30-50/mo. Mobile+fiber+bundled €50-80/mo.",
+    "content": "Spain's telecom market. INTERNET (fiber): (1) Movistar — Spain's incumbent, best coverage, most expensive. Fiber 600Mbps €50/month, 1Gbps €60. Customer service is Spanish-first. (2) Orange — French, good coverage, mid-priced. Fiber 500Mbps €40/month. English-speaking customer service available. (3) Vodafone — UK-origin, similar to Orange. Fiber 600Mbps €45/month. English support. (4) Digi — Spanish/Romanian, cheapest. Fiber 1Gbps €30/month. Spanish-only support. (5) Lowi (Vodafone's budget brand) — €30/month, 600Mbps fiber. (6) Finetwork — €25/month, 600Mbps. BUNDLES (fiber + mobile + TV): Movistar Fusión €70-100/month (best TV channels, sports). Orange Love €55-80. Vodafone One €60-90. TV: Movistar+ (premium football, movies), DAZN (Premier League, F1), Netflix, Prime Video, HBO Max. MOBILE: Movistar, Orange, Vodafone, Digi, Lowi, Finetwork, Pepephone, Simyo. €10-20/month for 20-50GB. TIPS: (1) Most ISPs require a Spanish bank account (IBAN) for monthly billing. (2) Contracts are typically 12 months — early termination fee €100-200. (3) Fiber installation: 1-2 weeks. Movistar is fastest. (4) Spanish ISPs are notorious for poor customer service — be patient, escalate to English support if available. (5) Compare at comparaiso.es or rankia.com. (6) Speed tests: Madrid fiber is genuinely fast — most homes get 500Mbps+ actual.",
+    "official_url": "https://www.movistar.es/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "internet",
+      "phone",
+      "fiber",
+      "tv",
+      "telecom"
+    ],
+    "related_records": [
+      "sim-cards-madrid"
+    ]
+  },
+  {
+    "id": "satellite-tv-madrid",
+    "title": "Satellite TV (UK TV in Spain)",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Watch UK TV in Spain: Sky, Freesat via satellite; or VPN for streaming. Movistar+ has English Premier League.",
+    "content": "For UK expats in Madrid who want British TV. SATELLITE: (1) Sky UK — requires UK satellite dish (60-80cm in Madrid) and Sky box. UK subscription required (use UK address). All Sky channels: Sky Sports, Sky Cinema, Sky One, etc. €40-80/month. (2) Freesat — free UK satellite TV (BBC, ITV, Channel 4, Channel 5). One-time equipment cost €200-300 (dish + box), no subscription. BBC iPlayer and ITV Hub not geo-blocked when viewed via Freesat. INSTALLATION: Several Madrid companies install UK satellite dishes — search 'Sky TV Madrid' or 'UK satellite Madrid'. Cost €250-400 (dish + box + installation). STREAMING (with VPN): (1) Use a UK VPN (ExpressVPN, NordVPN, Surfshark) to access BBC iPlayer, ITV Hub, Channel 4, My5, UK Netflix. €6-12/month for VPN. (2) Sky Stream — Sky's streaming box, works with UK IP (VPN). €25/month + VPN. (3) NOW TV — streaming-only Sky, UK IP needed. €10-30/month. SPANISH TV WITH ENGLISH: (1) Movistar+ — shows some series and films in V.O. (original version) with Spanish subtitles. Check the 'Versión Original' section. €10/month extra. (2) DAZN — Premier League with English commentary. €15/month. (3) Netflix, Prime Video, HBO Max — switch audio to English in settings. TIPS: (1) BBC iPlayer is getting better at blocking VPNs — use a dedicated IP. (2) Movistar+ is excellent for La Liga, Champions League (English commentary on some matches via Movistar+ Dispositivo).",
+    "official_url": "https://www.sky.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "satellite",
+      "tv",
+      "uk",
+      "sky",
+      "freesat",
+      "vpn"
+    ],
+    "related_records": [
+      "phone-tv-internet-providers-madrid",
+      "movie-theaters-madrid"
+    ]
+  },
+  {
+    "id": "computer-electronics-stores-madrid",
+    "title": "Computer & Electronics Stores",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "PcComponentes (best online), MediaMarkt (large retail), El Corte Inglés (premium), Apple Store Gran Vía.",
+    "content": "Madrid electronics shopping. LARGE RETAIL CHAINS: (1) MediaMarkt — German, large electronics superstores. 8+ locations in Madrid area. Competitive prices, good selection. Open Mon-Sat 10am-10pm, some Sundays. (2) PcComponentes — Spanish online-only, often cheapest prices. Order online, deliver to home or pickup point. Excellent customer service. (3) El Corte Inglés (multiple, especially Castellana and Goya) — premium, higher prices but excellent service and 14-day returns. Open Sundays. (4) Worten (Portuguese) — similar to MediaMarkt, fewer locations. (5) Boulanger (French) — small premium chain. APPLE: (1) Apple Store Gran Vía (Calle Gran Vía 54) — flagship store, opened 2022. Genius Bar, all products. English-speaking staff. Open daily 10am-9pm. (2) Apple Store La Gavia (shopping mall south of Madrid) — smaller. (3) Apple Premium Resellers: K-tuin (multiple), Urule (Calle de Alcalá). COMPUTER PARTS (DIY): (1) PcComponentes (online) — best selection. (2) Coolmod (online) — gaming specialist. (3) Appinformática (Calle de la Princesa) — small retail store. REPAIR: (1) Tech Station (multiple) — phone and computer repair. (2) Mr. Phone (multiple) — phone repair. (3) Apple authorized service: K-tuin, Urule. TIPS: (1) Spanish warranty is 3 years on electronics (EU law). (2) VAT (IVA) 21% included in displayed prices. (3) Compare prices on idealo.es before buying. (4) El Corte Inglés price-matches MediaMarkt and PcComponentes — show them the lower price. (5) Black Friday (November) and Amazon Prime Day (July) have the best sales.",
+    "official_url": "https://www.pccomponentes.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "electronics",
+      "computer",
+      "apple",
+      "media-markt"
+    ],
+    "related_records": [
+      "sim-cards-madrid",
+      "supermarkets-grocery-madrid"
+    ]
+  },
+  {
+    "id": "bookstores-madrid-detail",
+    "title": "Bookstores & Stationery in Madrid",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "Casa del Libro (largest), FNAC, La Central. English books at J&J Books, Coffee & Books. Book Depository for online.",
+    "content": "Madrid bookstores. SPANISH-LANGUAGE: (1) Casa del Libro (Calle Gran Vía 29) — Spain's largest bookstore chain, 7 floors, excellent selection. Open Mon-Sat 10am-9:30pm, Sun 11am-9pm. (2) FNAC (Calle Marqués de Casa Riera 4 / Castellana 28) — French chain, books + electronics + music. Good selection. (3) La Central (Calle de Postigo de San Martín 8 / Calle del Doctor Cortezo) — beautiful independent bookstores, curated selection. (4) Cuspide (Calle de Alcalá 78) — large, well-organized. ENGLISH-LANGUAGE: (1) J&J Books and Coffee (Calle del Espíritu Santo 47, Malasaña) — English used bookstore with café. (2) Coffee & Books (Calle de León 12, Barrio de las Letras) — small English bookstore + café. (3) Books4Spain (online) — Spain-focused English books. (4) El Corte Inglés book sections (especially Castellana) — decent English section. SECOND-HAND: (1) El Rastro flea market (Sundays) — book stalls on Calle de la Mira. (2) Oxfam Books (Calle de Alcalá 67) — charity shop with English books. (3) Libros de Segunda Mano (online) — wallapop.com. STATIONERY: (1) ELCO (Calle de la Princesa) — premium stationery. (2) Staples (multiple) — office supplies. (3) Tobogán (Calle de la Colegiata) — design-focused stationery. ONLINE: (1) Amazon.es — fast delivery, large selection. (2) Book Depository (bookdepository.com) — free shipping worldwide, often cheaper than Amazon for English books. (3) Casa del Libro online. TIPS: (1) Book prices are fixed in Spain (Ley del Libro) — same price everywhere. (2) Amazon Prime in Spain (€20/year) includes free 1-day delivery. (3) Library cards at Bibliotecas Públicas Municipales are free for residents (bring ID and proof of address).",
+    "official_url": "https://www.casadellibro.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "bookstore",
+      "books",
+      "english",
+      "stationery"
+    ],
+    "related_records": [
+      "bookstores-madrid",
+      "el-rastro-flea-market",
+      "language-schools-madrid"
+    ]
+  },
+  {
+    "id": "hotels-madrid",
+    "title": "Hotels in Madrid — Best Areas & Picks",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Top hotels: Riu Plaza España, Four Seasons, Hotel Urban. Best areas: Gran Vía, Salamanca, Letras. €80-500/night.",
+    "content": "Madrid hotels by area and budget. LUXURY (€250-500/night): (1) Four Seasons Hotel Madrid (Calle de Sevilla 3) — opened 2020, 7 historic buildings combined. Spa, rooftop pool, Michelin restaurant Dani. (2) Mandarin Oriental Ritz (Plaza de la Lealtad 5) — restored 1910 building, classic luxury. (3) Hotel Urban (Calle de la Carrera de San Jerónimo 5) — boutique, Egyptian art collection, rooftop pool. (4) Hotel Palace (Calle de Alcalá 19) — historic, 1912, political haunt. (5) Riu Plaza España (Calle Gran Vía 137) — 4-star, rooftop pool and bar, best views. PREMIUM (€120-250): (1) Dear Hotel (Calle Gran Vía 80) — boutique, rooftop pool. (2) Hotel Preciados (Calle Preciados 37) — central, excellent service. (3) Catalonia Plaza Mayor (Calle de Atocha 36) — great location. (4) Only You Boutique (Calle del Pez 21, Malasaña) — trendy. MID-RANGE (€70-120): (1) B&B Hotel Madrid Centro Puerta del Sol (Calle de la Flora 4) — reliable chain. (2) Ibis Styles Madrid City Las Ventas (east, near bullring) — budget. (3) Hostal Central Palace (Calle de Arrieta 2) — views of Royal Palace. BUDGET (€40-70): (1) Room007 — boutique hostels with private rooms, multiple locations. (2) Cat's Hostel (Calle de Cañizares 6) — backpacker, social. (3) Hostel One Paraso — modern, rooftop terrace. BEST AREAS TO STAY: (1) Gran Vía / Sol — tourist center, walkable to everything, but noisy. (2) Barrio de las Letras (Huertas) — literary quarter, upscale, central. (3) Salamanca — upscale, quiet, business. (4) Malasaña — hipster, nightlife. (5) Chamberí — local, residential, family-friendly.",
+    "official_url": "https://www.esmadrid.com/en/hotels-madrid",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "housing",
+      "hotel",
+      "accommodation",
+      "luxury",
+      "budget"
+    ],
+    "related_records": [
+      "hostels-madrid",
+      "apart-hotels-madrid",
+      "sol-gran-via-neighborhood"
+    ]
+  },
+  {
+    "id": "hostels-madrid",
+    "title": "Hostels in Madrid",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "Best hostels: Room007 (boutique), Cat's Hostel (social), The Room — €15-30 dorm, €50-80 private.",
+    "content": "Madrid hostels for budget travelers. TOP HOSTELS: (1) Room007 (multiple locations: Sol, Malasaña, Chamberí) — boutique hostels, modern, clean, professional. Dorms €20-30, privates €60-90. Best for couples and solo travelers wanting privacy and design. (2) Cat's Hostel (Calle de Cañizares 6, Lavapiés) — historic 17th-century building, social atmosphere, bar. Dorms €15-25, privates €40-60. Best for backpackers. (3) The Room Hostel (Calle de la Cabeza 9, La Latina) — small, modern, central. Dorms €20-30, privates €50-70. (4) Hostel One Paraso (Calle de la Cava Baja 32, La Latina) — rooftop terrace, social, popular. Dorms €18-28. (5) Ok Hostel Madrid (Calle de la Cava Baja 34) — modern, near La Latina Metro. Dorms €20-30, privates €60-90. (6) Mucho Madrid (Calle de la Silva 6, Gran Vía area) — small, intimate, central. Dorms €20-30. (7) Way Hostel (Calle de la Silva 4) — design-focused, popular with couples. (8) Sant Jordi Hostels (multiple) — chain, reliable, social. WHAT TO EXPECT: (1) Dorms are 4-12 beds, mixed or female-only. (2) Lockers provided (bring your own padlock). (3) Bed linen included; towel sometimes €1-2 extra. (4) Kitchens available at most. (5) Common rooms and bars for socializing. (6) Free walking tours often organized. (7) Wifi always free. TIPS: (1) Book ahead for weekends and festivals (San Isidro, Pride). (2) Earplugs and eye mask are essential. (3) Most hostels have 24-hour reception — late check-in usually fine. (4) Spanish hostels are stricter on noise than, say, Italian ones — quiet hours are enforced. (5) Hostelworld and Booking.com are the best booking sites.",
+    "official_url": "https://www.hostelworld.com/hostels/Madrid",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "housing",
+      "hostel",
+      "backpacker",
+      "budget",
+      "dorm"
+    ],
+    "related_records": [
+      "hotels-madrid",
+      "apart-hotels-madrid",
+      "shared-housing-flatmates-madrid"
+    ]
+  },
+  {
+    "id": "apart-hotels-madrid",
+    "title": "Apart-Hotels & Serviced Apartments",
+    "category": "living",
+    "subcategory": "housing",
+    "summary": "For stays 1 week - 3 months. Aparthotel Adagio, Room Mate Mario, Aspasios. €80-150/night, weekly discounts.",
+    "content": "Apart-hotels (serviced apartments) are a great option for stays of 1 week to 3 months — more space than a hotel, more service than a regular apartment. MAIN CHAINS: (1) Adagio (multiple locations: Atocha, Marqués de Salamanca, Serrano) — Aparthotel Adagio brand, modern, kitchenette, weekly housekeeping. €80-130/night. Discounts for 7+ night stays. (2) Room Mate Hotels (multiple: Mario, Macarena, Valentina) — boutique hotels with apartment-style suites. €90-150/night. Central locations. (3) Aspasios (Calle de la Princesa 6 / Calle de Alcalá 19) — luxury serviced apartments, €100-180/night. Excellent for business travelers. (4) Pierre & Vacances (Calle de la Princesa) — mid-range, family-friendly. (5) Eurostars (multiple) — modern, business-focused. INDEPENDENT: (1) Sweet Inn (multiple) — boutique apartment-hotel hybrid. (2) Be Madrid Apartments (Calle del Pez) — design apartments. (3) Francisco I Apartments (Calle de la Latina) — budget. AIRBNB ALTERNATIVES: For 1+ month stays, look at: (1) Spotahome (spotahome.com) — verified listings, no in-person visit needed. (2) Housing Anywhere (housinganywhere.com) — expat-focused. (3) Nestpick (nestpick.com) — aggregator. WHAT'S INCLUDED: (1) Kitchenette (stove, fridge, basic cookware). (2) Weekly housekeeping (often not daily). (3) Linen and towels changed weekly. (4) Wifi. (5) Some have pool/gym. (6) Reception hours vary — some 24/7, some 9am-7pm. TIPS: (1) Apart-hotels are cheaper than hotels for 7+ night stays. (2) Best for families (more space, kitchen for kids' food). (3) Best for remote workers (kitchen, separate living area). (4) Check if utilities are included — usually yes for short stays.",
+    "official_url": "https://www.adagio-city.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "housing",
+      "aparthotel",
+      "serviced-apartment",
+      "extended-stay"
+    ],
+    "related_records": [
+      "hotels-madrid",
+      "hostels-madrid",
+      "shared-housing-flatmates-madrid"
+    ]
+  },
+  {
+    "id": "shopping-madrid-overview",
+    "title": "Shopping in Madrid — Where to Buy What",
+    "category": "do",
+    "subcategory": "shopping",
+    "summary": "Gran Vía (high street), Salamanca (luxury), El Rastro (flea), Malasaña (vintage), Plaza Elíptica (outlets).",
+    "content": "Madrid shopping by neighborhood and type. HIGH STREET & CHAINS: (1) Gran Vía — Madrid's main shopping street. Zara flagship, H&M, Primark, Mango, Apple Store. Open Mon-Sat 10am-10pm, some Sundays. (2) Calle Preciados / Calle del Carmen (from Sol to Callao) — pedestrian shopping, El Corte Inglés, FNAC. (3) Calle Fuencarral (Malasaña) — pedestrian, mid-range chains (Nike, Converse, trendy Spanish brands). LUXURY: (1) Calle Serrano (Salamanca) — Madrid's Golden Mile. Loewe, Hermès, Prada, Gucci, Louis Vuitton, Cartier. (2) Calle Ortega y Gasset / Jorge Juan (Salamanca) — additional luxury boutiques. (3) El Corte Inglés Castellana — 7 floors of premium shopping. VINTAGE & SECONDHAND: (1) Malasaña — Calle del Pez, Calle del Espíritu Santo. Magpie Vintage, Madame Cocoa, Humana (chain). (2) El Rastro (Sundays) — antiques, vintage clothes, secondhand books. (3) Hofmann Collection (Calle de la Cruz) — designer consignment. FOOD & MARKETS: (1) Mercado de San Miguel (Plaza Mayor) — gourmet food market. (2) Mercado de San Antón (Chueca) — modern food market. (3) Mercado de Maravillas (Tetuán) — locals' market, 3 floors. SHOPPING MALLS: (1) El Corte Inglés Castellana — Spain's iconic department store. (2) ABC Serrano (Calle de la Princesa) — upscale mall. (3) Príncipe Pío (Gran Vía) — mid-range. (4) Las Rozas Village (30km NW) — outlet shopping, 100+ luxury brands at 30-60% off. (5) The Style Outlets (San Sebastián de los Reyes) — outlets. TIPS: (1) Most shops close Sundays (except tourist areas and December). (2) Rebajas (sales): January 7-February and July-August. (3) Tax free shopping for non-EU residents — see our VAT Refund record. (4) El Corte Inglés price-matches MediaMarkt and others. (5) For Spanish souvenirs: jamón, wine, olive oil, leather goods, fans (abanicos), ceramics.",
+    "official_url": "https://www.esmadrid.com/en/shopping-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "shopping",
+      "overview",
+      "gran-via",
+      "salamanca",
+      "vintage",
+      "outlet"
+    ],
+    "related_records": [
+      "salamanca-luxury-shopping",
+      "el-rastro-flea-market",
+      "mercados-madrid",
+      "bookstores-madrid"
+    ]
+  },
+  {
+    "id": "cheap-eats-madrid",
+    "title": "Cheap Eats in Madrid (Under €12)",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Best budget meals: bocata de calamares (€3.50), menú del día (€10-12), 100 Montaditos (€1-3), El Tigre (free tapas with drink).",
+    "content": "Madrid can be eaten cheaply if you know where. BUDGET OPTIONS: (1) 100 Montaditos — chain of small sandwich bars, mini sandwiches €1-3 each. Mondays and Wednesdays 'everything €1'. 50+ locations. Open until midnight. (2) El Tigre (Calle de las Infantas 12 / Calle de la Gran Vía 4) — free massive tapas with each drink (€5-6 beer + 3 plates of food). Line out the door. (3) Bocata de calamares (fried squid sandwich) — Madrid's classic cheap eat. €3.50 at Plaza Mayor bars (Bar La Campana is famous). (4) Menú del día (menu of the day) — most restaurants offer a 3-course lunch Mon-Fri for €10-12. Includes bread, drink, and coffee or dessert. Excellent value. (5) Mercado de San Antón (Chueca) — food court, tapas €4-7. (6) Tortilla de patatas by the slice — €3-4 at any bar. Juana La Loca (Plaza Puerta de Moros 4) is famous. (7) Churros con chocolate — San Ginés (Pasadizo de San Ginés 5) €4.50. (8) Empanadas — La Cocina de la Montaña (Calle de San Bernardo 81), €2-3 each. (9) Shawarma / falafel — Lavapiés has many at €4-6. (10) Tacos — La Mordida (multiple), €3-4 each. SUPERMARKET PICNIC: Mercadona's Hacendado brand is excellent. Baguette €0.50, jamón serrano €3, manchego cheese €3, wine €3. Picnic in Retiro Park. TIPS: (1) Eat your main meal at lunch (menú del día) — much cheaper than dinner. (2) Tapas are free with drinks in Granada, but NOT in Madrid — Madrid tapas are paid. (3) Caña (small beer) is €1.50-2.50. Vino (wine) €2-4. Vermut €2-4. (4) Avoid restaurants with photos of food outside — tourist traps. (5) Avoid Plaza Mayor and Puerta del Sol restaurants — overpriced. Walk 5 min to La Latina or Huertas for better value.",
+    "official_url": "https://www.esmadrid.com/en/cheap-eats-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "food",
+      "cheap",
+      "budget",
+      "tapas",
+      "menu-del-dia",
+      "bocadillo"
+    ],
+    "related_records": [
+      "mercado-san-miguel",
+      "vermouth-madrid",
+      "cocido-madrileno",
+      "la-latina-tapas-nightlife"
+    ]
+  },
+  {
+    "id": "vegetarian-vegan-madrid",
+    "title": "Vegetarian & Vegan Restaurants in Madrid",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Top veggie spots: Rayen Veggie, El Granero de Lavapiés, Vega (vegan). Most traditional restaurants now have veg options.",
+    "content": "Madrid's vegetarian/vegan scene has exploded. 100% VEGETARIAN/VEGAN: (1) Rayen Veggie (Calle de la Colegiata 4, La Latina) — long-running, all-vegan, Spanish and international. €12-18 main. Open Tue-Sun 1-4pm and 8-11pm. (2) El Granero de Lavapiés (Calle de la Argumosa 11) — vegetarian, macrobiotic, daily menu €12. Cozy, local. (3) Vega (Calle de la Luna 9, Malasaña) — 100% vegan, brunch focus. €10-14. (4) B13 Biorganic (Calle del Cardenal Cisneros 21) — vegan fast-casual, burgers, bowls. €10-14. (5) Ecocentro (Calle del Duque de Alba 4) — vegetarian café + organic shop. €8-12. (6) Arnove (Calle de la Mateo 10) — vegan, Mexican. €10-14. VEGETARIAN-FRIENDLY TRADITIONAL: (1) La Huerta de Lavapiés (Calle de la Argumosa 8) — vegetarian tapas. (2) Al Natural (Calle de las Huertas 33) — vegetarian-friendly traditional. €12-18. (3) TABERNA El Bola (Calle de la Cruz 18) — has good vegetarian tapas. INDIAN/ASIAN (always veg options): (1) Lavapiés — Calle de Lavapiés has 20+ Indian restaurants, all with veg options. Shahi Dal (Calle de Lavapiés 31) is excellent. €10-14 main. (2) Mui Sushi (Calle de la Cruz 23) — vegan sushi. (3) Som dona Dona (Calle del Ave María 38) — Thai, veg options. SUPERMARKET VEG OPTIONS: (1) Mercadona — vegan burgers, soy milk, hummus. (2) Carrefour Bio — organic section with vegan products. (3) El Corte Inglés — best vegan selection. TIPS: (1) Spanish 'vegetariano' often means 'no meat but maybe fish' — clarify 'sin carne ni pescado' (no meat or fish) or 'vegano' for vegan. (2) Tortilla de patatas is vegetarian (eggs + potatoes + onion). (3) Gazpacho and salmorejo are vegan. (4) Patatas bravas are vegan (potatoes + spicy sauce), but ask — some use mayo. (5) Menú del día: ask 'tienen opción vegetariana?' — most restaurants now do.",
+    "official_url": "https://www.happycow.net/spain/madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "food",
+      "vegetarian",
+      "vegan",
+      "plant-based",
+      "lavapies"
+    ],
+    "related_records": [
+      "cheap-eats-madrid",
+      "mercado-san-miguel",
+      "lavapies-neighborhood"
+    ]
+  },
+  {
+    "id": "ice-cream-shops-madrid",
+    "title": "Ice Cream & Gelato in Madrid (Heladerías)",
+    "category": "do",
+    "subcategory": "food",
+    "summary": "Top gelato: Los Alpes, Riche, Savoy. Italian-style gelato €2.50-4/cone. Spanish ice cream (turrón flavor) at Casa Mira.",
+    "content": "Madrid ice cream. TOP GELATERIAS: (1) Los Alpes (Calle de la Concha de la Puebla 18, Malasaña / Calle del General Álvarez de Castro 5) — Spanish-Italian, founded 1932. Best pistachio in Madrid. €3-4 per scoop. Open daily noon-midnight. (2) Riche (Calle de la Concepción Jerónima 22, near Plaza Mayor) — Italian, all natural, daily-made. €3-4 per scoop. (3) Savoy (Calle de Alcalá 49 / multiple) — Spanish gelato chain, reliable. €2.50-3.50. (4) La Romana (Calle de la Misericordia 5, Malasaña) — Italian, fresh ingredients, €3.50. (5) Giovanna (Calle de la Cruz 18) — Italian, organic, €3.50. SPANISH ICE CREAM: (1) Casa Mira (Calle de la Toledo 30 / Calle de Jacometrezo 18) — founded 1890, famous for turrón (nougat) ice cream. €3-4. (2) Tio Pepe (Calle de la Victoria 1) — Spanish brand, classic. CHAINS: (1) Häagen-Dazs (multiple) — premium American, €4-5. (2) Amorino (multiple) — Italian chain, flower-shaped gelato, €4.50. (3) Farggi (multiple) — Spanish chain, mid-range. SEASONAL: (1) Ice cream shops are busier in summer (May-September). (2) Many close or have reduced hours in winter (December-February). (3) Heladerías typically open noon-midnight in summer, 1pm-10pm in winter. TIPS: (1) Look for 'producción propia' (house-made) sign. (2) Italian-style gelato is creamier than American ice cream. (3) Spanish helado is similar to Italian. (4) Try turrón (nougat), horchata (tigernut milk), and mango flavors — Spanish twists. (5) Cono (cone) vs tarrina (cup) — same price usually.",
+    "official_url": "https://www.heladerias-losalpes.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "food",
+      "ice-cream",
+      "gelato",
+      "heladeria",
+      "dessert"
+    ],
+    "related_records": [
+      "mercado-san-miguel",
+      "cheap-eats-madrid",
+      "vermouth-madrid"
+    ]
+  },
+  {
+    "id": "churches-religion-madrid",
+    "title": "Churches, Synagogues, Mosques & Temples",
+    "category": "living",
+    "subcategory": "services",
+    "summary": "English services: St. George's Anglican, Madrid International Church. Mosque: M-30. Synagogue: Beth Yaacov.",
+    "content": "Religious services in Madrid, especially English-language options. CHRISTIAN (English): (1) St. George's Anglican Church (Calle de la Costa Brava 4, near Conde de Orgaz) — Sunday services 10:30am (Eucharist) and 12:30pm. English. Anglican/Episcopal. (2) Madrid International Church (Calle de la Vía de las Dos Castillas 33, Pozuelo) — non-denominational Protestant, English, Sunday 11am. (3) International Church of Madrid (Calle del General Díaz Porlier 9) — non-denominational, English, Sunday 11am. (4) Catholic: Most Catholic churches have Spanish masses. For English Catholic mass: Cathedral of Santa María la Real de la Almudena has occasional English masses — check the schedule. CHRISTIAN (Spanish, all denominations throughout the city). MOSQUES: (1) Abu-Bakr Mosque (Calle de la Anastasio Herrero 3, near Cuatro Caminos) — Madrid's largest mosque, open to visitors. Friday prayers 1:30pm. (2) M-30 Mosque (Calle de la Anastasio Herrero 3) — central. (3) Islamic Cultural Center of Madrid (Calle de la Anastasio Herrero 3) — same building, cultural center. SYNAGOGUES: (1) Beth Yaacov Synagogue (Calle de Balmes 3) — Madrid's main Orthodox synagogue. (2) Conservative synagogue (Calle de la Príncipe de Vergara). HINDU/BUDDHIST: (1) Hindu Temple (Calle de la Orense 34) — small. (2) Buddhist centers: Kadampa Meditation Center Madrid (Calle de la Esperanza 12), Zen Madrid (Calle de la Luna 6). OTHER: (1) LDS (Mormon) meetinghouses in multiple locations. (2) Jehovah's Witnesses: multiple. (3) Bahá'í Center (Calle de la López de Hoyos 14). TIPS: (1) Most religious services are in Spanish — English-language options are listed above. (2) Madrid is predominantly Catholic (60% baptized), but secular in practice (only 15% attend mass regularly). (3) Religious tolerance is high — Madrid has welcomed immigrants from many faiths. (4) Major religious festivals (Eid, Diwali, Hanukkah) are celebrated openly.",
+    "official_url": "https://www.esmadrid.com/en/religion-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "services",
+      "religion",
+      "church",
+      "mosque",
+      "synagogue",
+      "english-services"
+    ],
+    "related_records": [
+      "almudena-cathedral"
+    ]
+  },
+  {
+    "id": "immunizations-vaccines-madrid",
+    "title": "Immunizations & Vaccines in Madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "summary": "Routine vaccines free via public health. Travel vaccines (yellow fever, etc.) at Centro de Vacunación Internacional. €30-80.",
+    "content": "Vaccines in Madrid. ROUTINE VACCINES (free with Spanish Social Security): Children receive all routine childhood vaccines (MMR, DTaP, polio, Hib, hepatitis B, meningococcal C, pneumococcal, varicella, HPV) free at pediatric centers. Adults: tetanus booster (free), flu shot (free for over-65 and risk groups), COVID-19 boosters (free). TRAVEL VACCINES: Centro de Vacunación Internacional (Calle de la Cármen 26, Metro San Bernardo) — Madrid's main travel clinic. Yellow fever (€40), typhoid (€35), hepatitis A (€40), rabies (€80), Japanese encephalitis (€120). Book ahead at mscbs.gob.es. Walk-in for some, appointment for others. Open Mon-Fri 9am-2pm. PRIVATE TRAVEL CLINICS: (1) Hospital Ruber Internacional travel clinic. (2) Centro Médico Madrid Salud. (3) International SOS Madrid. €50-100 consultation + vaccine cost. COVID-19: Spain accepts all WHO-approved vaccines. Vaccination is no longer required for entry, but recommended. Free boosters available at public health centers for residents. WHAT YOU NEED FOR SPAIN: No special vaccines required for Spain from most countries. Routine vaccines (MMR, DTaP, polio) recommended. For longer stays: hepatitis A (food-borne, low risk but recommended), hepatitis B (for healthcare workers or long stays). TICK-BORNE ENCEPHALITIS: Not present in Spain. MALARIA: Not present in Spain. YELLOW FEVER: Not in Spain, but if you're traveling from a yellow-fever-endemic country, you may need proof of vaccination to enter Spain. TIPS: (1) Bring your vaccine records (yellow card) to Spain. (2) Spanish public health centers can translate vaccine records if needed for school enrollment. (3) Pharmacies sell vaccines for travel (with prescription) but administration is at clinics. (4) Travel clinic appointments book up in summer — book 4-6 weeks ahead.",
+    "official_url": "https://www.mscbs.gob.es/profesionales/saludPublica/sanidadExterior/salud/centrosvacunacion.htm",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "healthcare",
+      "vaccine",
+      "immunization",
+      "travel",
+      "covid"
+    ],
+    "related_records": [
+      "english-speaking-doctors-madrid",
+      "hospitals-madrid",
+      "public-healthcare"
+    ]
+  },
+  {
+    "id": "libraries-madrid",
+    "title": "Libraries in Madrid (Bibliotecas)",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "Public libraries free for residents. Biblioteca Nacional (research). English books at International Institute Library.",
+    "content": "Madrid libraries. PUBLIC LIBRARIES (Bibliotecas Públicas Municipales): 26 public libraries across Madrid, all FREE for residents. Get a library card with ID (passport + proof of address like empadronamiento or utility bill). Cards valid for 2 years. Services: book/DVD/CD borrowing (4 weeks, 2 renewals), free wifi, computer use (1 hour sessions, book ahead), study rooms, children's programs, exhibitions. Most open Mon-Fri 9am-9pm, Sat 9am-2pm. Closed Sundays. Largest: (1) Biblioteca Pública Municipal Iván de Vargas (Plaza de los Mostenses 14, Centro). (2) Biblioteca Pública Municipal Francisco Ayala (Calle de Alcalá 50, Retiro). (3) Biblioteca Pública Municipal Mario Vargas Llosa (Centro Cultural Colegio del Rey, Calle de la Villa de Marín). BIBLIOTECA NACIONAL DE ESPAÑA (Paseo de Recoletos 20-22): Spain's national library, founded 1711. Free entry for research (reading room access requires researcher card). Exhibitions open to public (€5). Beautiful 18th-century building. ENGLISH-LANGUAGE LIBRARIES: (1) International Institute Library (Calle de la Miguel Ángel 8, Salamanca) — English-language library, €50/year membership. (2) British Council Library — closed to public, but J&J Books (Calle del Espíritu Santo 47) has English books. (3) Casa Asia library (Calle del Cardenal Cisneros 9) — Asian studies. UNIVERSITY LIBRARIES: Complutense, Carlos III, UPM libraries are open to students and researchers with ID. ARCHIVES: (1) Archivo Histórico Nacional (Calle de la Serrano 115) — historical documents. (2) Archivo Regional de la Comunidad de Madrid (Calle de laRamírez de Prado 3). TIPS: (1) Public libraries are excellent for studying — quiet, free wifi, no time limit. (2) Most have Spanish-only collections, but larger ones have English sections. (3) Bring your library card to any public library in Madrid (cards work system-wide). (4) Download the 'Bibliotecas Madrid' app for reservations and renewals. (5) Children's story time in Spanish, weekly.",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Culture/Libraries",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "education",
+      "library",
+      "biblioteca",
+      "books",
+      "free"
+    ],
+    "related_records": [
+      "bookstores-madrid",
+      "bookstores-madrid-detail",
+      "universities-madrid"
+    ]
+  },
+  {
+    "id": "teacher-training-madrid",
+    "title": "Teacher Training (TEFL, CELTA) in Madrid",
+    "category": "living",
+    "subcategory": "education",
+    "summary": "TEFL courses €1,200-1,800 (4 weeks). CELTA €1,500-1,800. Top providers: Tt Madrid, TEFL Iberia, International House.",
+    "content": "Teacher training for teaching English in Madrid. TEFL (Teach English as a Foreign Language): 120-hour certificate, 4 weeks full-time or 12 weeks part-time. Recognized by most academies. Top providers: (1) Tt Madrid (Calle de la Concepción 6) — established, job guarantee, €1,500. English. (2) TEFL Iberia (Calle de la Duque de Alba 3) — modern, €1,400. (3) International House Madrid (Calle de la Zorrilla 15) — prestigious, €1,800. (4) Oxford TEFL Madrid (Calle de la Almirante 3) — Trinity CertTESOL qualification, €1,500. CELTA (Certificate in English Language Teaching to Adults): Cambridge-certified, more prestigious than TEFL, recognized worldwide. 4 weeks full-time or 12 weeks part-time. Providers: (1) International House Madrid — €1,800. (2) British Council Madrid (Calle del General Martínez Campos 31) — €1,800. (3) Cambridge School Madrid — €1,700. DELTA (Diploma in English Language Teaching to Adults): Cambridge, advanced, for experienced teachers. 3 modules, can take over 1 year. €1,000-1,500 per module. Spanish as Foreign Language (ELE): For teaching Spanish. Instituto Cervantes DELE examiner course (€300-500). FP (Formación Profesional) in Madrid: vocational teacher training through Spanish vocational schools. ONLINE OPTIONS: (1) The TEFL Academy (€500, 168 hours). (2) Premier TEFL (€400-800). (3) International TEFL Academy (€1,200). Online TEFLs are accepted by some academies but the in-person practicum (teaching practice with real students) is what employers value. TIPS: (1) Choose a course with at least 6 hours of practicum. (2) International House and British Council are the most respected names. (3) Many courses offer job placement assistance. (4) TEFL alone is enough for academias; bilingual schools require a teaching license. (5) Online TEFL is cheaper but less competitive for top jobs.",
+    "official_url": "https://www.ttmadrid.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "education",
+      "tefl",
+      "celta",
+      "teacher-training",
+      "teach-english"
+    ],
+    "related_records": [
+      "teach-english-spain",
+      "language-schools-madrid",
+      "universities-madrid"
+    ]
+  },
+  {
+    "id": "hostess-azafata-madrid",
+    "title": "Hostess & Promo Work (Azafata)",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "Event hostess, promo, model work. €8-15/hour. Agencies: Model Management, Hostelería de España. Spanish required.",
+    "content": "Hostess and promo work in Madrid. THE WORK: (1) Event hostess (azafata de eventos) — conferences, trade shows, product launches. Greeting guests, registration, info desk. €8-12/hour, usually 6-8 hour shifts. (2) Promo work (azafata de promoción) — sampling products in stores, street promotions, supermarket demos. €8-12/hour. (3) Model (modelo) — photo shoots, fashion shows, TV extras. €15-50/hour depending on job. (4) Brand ambassador — longer-term, representing a brand. €1,200-1,800/month. AGENCIES: (1) Model Management Madrid (Calle de la Ortega y Gasset 27) — modeling agency. (2) Five Stars (Calle de la Zorrilla 7) — hostess agency for trade shows (IFEMA events). (3) Hostelería de España (industry association) — connects with hotel/event work. (4) Tinto Events (Calle de la Cava Baja 32) — event staffing. (5) Atempo (Calle de la Príncipe de Vergara 32) — promo staffing. REQUIREMENTS: (1) Height: usually 1.65m+ for women, 1.75m+ for men (for fashion events). (2) Spanish: required for most work. English is a plus for international events. (3) Appearance: well-groomed, professional. (4) Photos: portfolio required (headshots + full body). (5) Availability: must be flexible for last-minute bookings. WHERE TO FIND: (1) Sign with 2-3 agencies (non-exclusive). (2) Facebook groups: 'Azafatas Madrid', 'Trabajo Azafata España'. (3) Infojobs.net — search 'azafata' or 'promotor'. (4) LinkedIn. TIPS: (1) Most agencies pay 30-60 days after the event — cash flow is an issue. (2) IFEMA events (fitur, Salón Inmobiliario, etc.) have the most work — January-June and September-November peak. (3) For non-Spanish speakers, focus on international events at IFEMA and hotels. (4) Be reliable — agencies blacklist no-shows. (5) The work is intermittent — combine with English teaching or other gig work for steady income.",
+    "official_url": "https://www.hosteleriadeespana.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "work",
+      "hostess",
+      "azafata",
+      "promo",
+      "model",
+      "events"
+    ],
+    "related_records": [
+      "job-search-spain",
+      "internships-spain"
+    ]
+  },
+  {
+    "id": "journalism-writing-madrid",
+    "title": "Journalism & Writing Jobs in Madrid",
+    "category": "living",
+    "subcategory": "work",
+    "summary": "English-language journalism: El País English, The Local Spain, Marketwatch. Spanish required for most Spanish media.",
+    "content": "Journalism and writing jobs in Madrid. ENGLISH-LANGUAGE MEDIA: (1) El País English edition (elpais.com/english) — Spain's largest newspaper, English section. Hires English-speaking journalists with Spanish fluency. Apply via LinkedIn or directly. (2) The Local Spain (thelocal.es) — English news site, hires English-speaking journalists. (3) EFE News Agency (efe.com) — Spanish news agency, has English service. (4) Marketwatch Madrid bureau — financial news, English. (5) Reuters Madrid — wires service, English. (6) AFP Madrid — French news agency, English service. (7) Madrid No Frills (madridnofrills.com) — independent English blog, takes pitches. (8) Devour Tours blog — food/travel content, English. SPANISH MEDIA (Spanish required): (1) El País, El Mundo, ABC, La Razón — national newspapers. (2) Marca, AS — sports dailies. (3) RTVE — public broadcaster. (4) Mediaset, Atresmedia — commercial TV. (5) Cadena SER, Onda Cero, COPE — radio. TRADE PRESS: (1) Cinco Días (business), Expansión (business), El Economista (business). (2) Hosteltur (tourism), OK Diario (politics). FREELANCE: (1) International media: pitch Spain-related stories to NYT, Guardian, BBC, etc. (2) Content marketing: many startups and agencies hire freelance writers. €0.10-0.30/word. (3) Translation: €0.06-0.12/word. (4) Copywriting: €30-80/hour. PROFESSIONAL ORGANIZATIONS: (1) Federación de Asociaciones de Periodistas de España (FAPE) — Spanish journalism association. (2) Madrid Foreign Press Association (Asociación de Prensa Extranjera) — for foreign correspondents. TIPS: (1) Spanish fluency is essential for most Spanish media jobs. (2) Build a portfolio — start a blog, pitch stories, get clips. (3) Networking: attend Madrid media events (Madrid Press Club, Espacio Fundación Telefónica). (4) Pay is low: €1,500-2,200/month for staff journalists. (5) Freelance is more flexible but unpredictable. (6) International correspondents usually need 5+ years experience and a posting from a home publication.",
+    "official_url": "https://www.apemadrid.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-21",
+    "tags": [
+      "work",
+      "journalism",
+      "writing",
+      "media",
+      "freelance"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "the-local-spain",
+      "job-search-spain"
+    ]
   }
 ]
