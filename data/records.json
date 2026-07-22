@@ -11713,5 +11713,65 @@
       "language-schools-madrid",
       "english-publications-history-madrid"
     ]
+  },
+  {
+    "id": "daves-esl-cafe-spain",
+    "title": "Dave's ESL Cafe — Spain Forum (English Teaching Jobs)",
+    "category": "living",
+    "subcategory": "work",
+    "subsubcategory": "Teach English",
+    "summary": "The #1 global ESL job board with a dedicated Spain forum. English teaching jobs in Madrid and Spain. Active. Free to browse, post, and search.",
+    "content": "Dave's ESL Cafe (eslcafe.com) is the world's largest and longest-running ESL/EFL job board and community — founded in 1995 by Dave Sperling. It has a dedicated Spain forum (forums.eslcafe.com/job/viewforum.php?f=21) where English teaching jobs in Madrid and across Spain are posted. WHAT IT OFFERS: (1) Job board — schools and academies post teaching positions. Free to browse and apply. (2) Spain forum — active discussion board for English teachers in Spain. Questions about visas, academies, salaries, living costs, and teaching experiences. (3) International job board — jobs worldwide. (4) Teacher resources — lesson plans, activities, grammar guides. (5) Student resources — grammar lessons, idioms, phrasal verbs. THE SPAIN FORUM: The Spain section of Dave's ESL Cafe has been one of the primary online gathering places for English teachers in Spain since the late 1990s. Teachers share experiences about specific academies (which ones pay on time, which ones to avoid), discuss visa issues, and post job openings. HISTORY: Dave's ESL Cafe was founded in 1995 — making it one of the oldest still-active ESL websites. It predates LinkedIn, Indeed, and modern job boards. For years, it was THE place to find English teaching jobs abroad. THE IBERENGLISH CONNECTION: IberEnglish, run by Rebecca Gaspar (Director, based in Madrid at C/ Mundillo 3, 28029 Madrid), is a separate English academy and training company. Rebecca may have acquired or managed a Spain-specific ESL site or section at some point — the exact connection is unclear from public records, but IberEnglish is an active Madrid English academy. IBERENGLISH: (1) Active English academy in Madrid (Calle Amalia 9, and C/ Mundillo 3, 28029 Madrid). (2) Offers English classes for kids, teens, and adults. (3) Kids English Club (KEC) — 100% English summer camps. (4) Professional English training for businesses. (5) Director: Rebecca Gaspar (LinkedIn: linkedin.com/in/gasparrebecca). (6) Website: iberenglish.com (active). (7) Phone: 931 521 43. (8) Facebook: facebook.com/iberenglish (5.0 rating). HOW TO USE DAVE'S ESL CAFE FOR MADRID: (1) Browse the Spain forum for job postings. (2) Search for specific academy names to find teacher reviews. (3) Post questions about teaching in Madrid — the community is helpful. (4) Check the international job board for Spain-specific listings. (5) Use the teacher resources for lesson planning. TIPS: (1) Dave's ESL Cafe is free — no registration needed to browse. (2) The Spain forum is less active than it was in the 2000s (LinkedIn and Facebook groups have taken over), but it still has valuable historical posts. (3) For current Madrid teaching jobs, also check: InfoJobs, LinkedIn, Facebook groups ('English Teachers Madrid', 'Madrid Expats'). (4) IberEnglish is an active Madrid academy — contact them directly if you're looking for teaching work or English classes.",
+    "official_url": "https://www.eslcafe.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "work",
+      "esl",
+      "teach-english",
+      "jobs",
+      "esl-cafe",
+      "iberenglish",
+      "rebecca",
+      "forum"
+    ],
+    "related_records": [
+      "job-search-spain",
+      "teach-english-spain",
+      "teacher-training-madrid"
+    ]
+  },
+  {
+    "id": "iberenglish-madrid",
+    "title": "IberEnglish (Madrid English Academy)",
+    "category": "living",
+    "subcategory": "education",
+    "subsubcategory": "Language Schools",
+    "summary": "Active Madrid English academy run by Rebecca Gaspar. Classes for kids, teens, adults. Kids English Club summer camps. Calle Amalia 9, Madrid.",
+    "content": "IberEnglish (iberenglish.com) is an active English academy in Madrid, run by director Rebecca Gaspar. It offers English classes and training for all ages. WHAT THEY OFFER: (1) English classes for kids — after-school and weekend programs. (2) English classes for teens — exam prep (Cambridge, Trinity), school support. (3) English classes for adults — general English, business English, conversation. (4) Kids English Club (KEC) — 100% English summer camps in Madrid. Activities include sports, arts, science, all in English. (5) Professional English training — in-company classes for businesses. (6) Business Basics for Kids — entrepreneurship program for children in English. LOCATIONS: (1) C/ Mundillo 3, 28029 Madrid (main office). (2) Calle Amalia 9, Madrid (academy). Phone: 931 521 43. DIRECTOR: Rebecca Gaspar — experienced in marketing, financial management, and English language training. University of Pennsylvania graduate. LinkedIn: linkedin.com/in/gasparrebecca. Described as 'Gaspar English Language Training Consultant.' HISTORY: IberEnglish has been operating in Madrid for several years. Rebecca Gaspar is listed as Director of IberEnglish LP. The company appears to have grown from a small language school into a broader English education provider, including summer camps and business training. THE ESL CAFE CONNECTION: The user mentioned that Rebecca 'bought' ESL Cafe at some point. This likely refers to a Spain-specific ESL resource or community that Rebecca acquired or managed — not Dave's ESL Cafe (the global site, which is still owned by Dave Sperling). The exact details are unclear from public records, but the connection between IberEnglish and Madrid's English teaching community is well-established. STATUS: Active at iberenglish.com. Facebook page active (facebook.com/iberenglish, 5.0 rating). Currently hiring English teachers (native, qualified). TIPS: (1) If you're looking for English classes in Madrid (for yourself or your children), contact IberEnglish directly. (2) If you're an English teacher looking for work, they're hiring — see their 'Become a Teacher' page at iberenglish.com/web/become-a-teacher. (3) The Kids English Club summer camp is popular — book early (March-April for summer). (4) For the ESL Cafe Spain forum (job board for English teachers), see our Dave's ESL Cafe record.",
+    "official_url": "https://iberenglish.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "education",
+      "academy",
+      "english",
+      "iberenglish",
+      "rebecca-gaspar",
+      "madrid",
+      "kids",
+      "summer-camp"
+    ],
+    "related_records": [
+      "daves-esl-cafe-spain",
+      "teach-english-spain",
+      "teacher-training-madrid",
+      "language-schools-madrid",
+      "bilingual-schools-madrid"
+    ]
   }
 ]
