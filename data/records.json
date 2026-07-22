@@ -1806,7 +1806,7 @@
     "official_url": "https://www.educacionyfp.gob.es/en/servicios-al-ciudadano/catalogo/general/05/050700/ficha/050700-2024.html",
     "status": "annual review",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "work",
       "teaching",
@@ -1817,7 +1817,45 @@
       "language-schools-madrid-education",
       "nie-tie"
     ],
-    "subsubcategory": "Teach English"
+    "subsubcategory": "Teach English",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Teaching English — Paths Compared",
+        "columns": [
+          "Path",
+          "Requirements",
+          "Pay",
+          "Pros/Cons"
+        ],
+        "rows": [
+          [
+            "Academies",
+            "TEFL/CELTA",
+            "€12-18/hr",
+            "Flexible, year-round hiring"
+          ],
+          [
+            "Bilingual schools",
+            "Teaching license",
+            "€1,500-2,500/mo",
+            "Stable, school year"
+          ],
+          [
+            "Auxiliares program",
+            "Bachelor's degree",
+            "€1,000/mo",
+            "Easy entry, 16 hrs/wk"
+          ],
+          [
+            "Private students",
+            "Native English",
+            "€20-30/hr",
+            "Best pay, must find clients"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "museo-del-prado",
@@ -3173,7 +3211,7 @@
     "official_url": "https://www.aemet.es/en/portada",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "live",
       "weather",
@@ -3187,7 +3225,51 @@
       "retiro-park",
       "running-madrid"
     ],
-    "subsubcategory": "Weather"
+    "subsubcategory": "Weather",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Madrid Climate by Season",
+        "columns": [
+          "Season",
+          "Temperature",
+          "Rain",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Spring (Mar-May)",
+            "10-25°C",
+            "Some",
+            "Best time to visit"
+          ],
+          [
+            "Summer (Jun-Sep)",
+            "25-40°C",
+            "Almost none",
+            "Too hot midday"
+          ],
+          [
+            "Autumn (Oct-Nov)",
+            "10-25°C",
+            "Some",
+            "Great — like spring"
+          ],
+          [
+            "Winter (Dec-Feb)",
+            "0-10°C",
+            "Little",
+            "Cold but sunny (300+ days)"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Summer heat warning",
+        "body": "July-August regularly hits 35-40°C. Avoid outdoor activity 2-5pm. Spanish siesta culture exists for a reason — follow it. Drink water constantly — the heat is dry, you may not notice how much you're sweating.",
+        "tone": "danger"
+      }
+    ]
   },
   {
     "id": "madrid-aqi",
@@ -7960,7 +8042,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "shopping",
       "overview",
@@ -7976,7 +8058,51 @@
       "salamanca-luxury-shopping",
       "vat-refund-spain"
     ],
-    "subsubcategory": "Shopping Areas"
+    "subsubcategory": "Shopping Areas",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Shopping by Neighborhood",
+        "columns": [
+          "Area",
+          "What to buy",
+          "Price level"
+        ],
+        "rows": [
+          [
+            "Gran Vía",
+            "High street chains (Zara, H&M, Primark)",
+            "€€"
+          ],
+          [
+            "Calle Serrano (Salamanca)",
+            "Luxury (Loewe, Hermès, Prada)",
+            "€€€€"
+          ],
+          [
+            "Malasaña",
+            "Vintage, indie, craft beer",
+            "€-€€"
+          ],
+          [
+            "El Rastro (Sundays)",
+            "Flea market, antiques, vintage",
+            "€"
+          ],
+          [
+            "El Corte Inglés",
+            "Everything (7 floors, Castellana)",
+            "€€-€€€"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Rebajas (Sales)",
+        "body": "January 7 – February and July – August. Up to 70% off. El Corte Inglés price-matches competitors — show a screenshot of the lower price.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "cheap-eats-madrid",
@@ -8070,7 +8196,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "religion",
@@ -8082,7 +8208,45 @@
     "related_records": [
       "almudena-cathedral"
     ],
-    "subsubcategory": "Community & Faith"
+    "subsubcategory": "Community & Faith",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "English-Language Religious Services",
+        "columns": [
+          "Church",
+          "Denomination",
+          "Address",
+          "Sunday Service"
+        ],
+        "rows": [
+          [
+            "St. George's",
+            "Anglican/Episcopal",
+            "Calle Costa Brava 4",
+            "10:30am, 12:30pm"
+          ],
+          [
+            "Madrid International",
+            "Non-denominational",
+            "Calle Vía Dos Castillas 33",
+            "11am"
+          ],
+          [
+            "International Church",
+            "Non-denominational",
+            "Calle Díaz Porlier 9",
+            "11am"
+          ],
+          [
+            "Almudena Cathedral",
+            "Catholic (English mass)",
+            "Calle Bailén 10",
+            "Occasional"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "immunizations-vaccines-madrid",
@@ -8095,7 +8259,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "healthcare",
       "vaccine",
@@ -8108,7 +8272,37 @@
       "hospitals-madrid",
       "public-healthcare"
     ],
-    "subsubcategory": "Preventive Care"
+    "subsubcategory": "Preventive Care",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Vaccine Quick Facts",
+        "items": [
+          {
+            "label": "Routine vaccines",
+            "value": "Free (Social Security)"
+          },
+          {
+            "label": "Travel vaccines",
+            "value": "Centro de Vacunación Internacional"
+          },
+          {
+            "label": "Yellow fever",
+            "value": "€40"
+          },
+          {
+            "label": "COVID boosters",
+            "value": "Free (residents)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "No special vaccines needed for Spain",
+        "body": "No special vaccines are required for Spain from most countries. Routine vaccines (MMR, DTaP, polio) recommended. Malaria and tick-borne encephalitis are NOT present in Spain.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "libraries-madrid",
@@ -8121,7 +8315,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "education",
       "library",
@@ -8134,7 +8328,31 @@
       "bookstores-madrid-detail",
       "universities-madrid"
     ],
-    "subsubcategory": "Libraries"
+    "subsubcategory": "Libraries",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Library Quick Facts",
+        "items": [
+          {
+            "label": "Public libraries",
+            "value": "26 in Madrid (free)"
+          },
+          {
+            "label": "Library card",
+            "value": "Free (passport + address)"
+          },
+          {
+            "label": "Borrowing",
+            "value": "4 weeks, 2 renewals"
+          },
+          {
+            "label": "WiFi + computers",
+            "value": "Free (1hr sessions)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "teacher-training-madrid",
@@ -8147,7 +8365,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "education",
       "tefl",
@@ -8160,7 +8378,45 @@
       "language-schools-madrid",
       "universities-madrid"
     ],
-    "subsubcategory": "Teacher Training"
+    "subsubcategory": "Teacher Training",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "TEFL vs CELTA Comparison",
+        "columns": [
+          "Course",
+          "Cost",
+          "Duration",
+          "Recognition"
+        ],
+        "rows": [
+          [
+            "TEFL (Tt Madrid)",
+            "€1,500",
+            "4 weeks",
+            "Most academies accept"
+          ],
+          [
+            "CELTA (IH Madrid)",
+            "€1,800",
+            "4 weeks",
+            "Gold standard, worldwide"
+          ],
+          [
+            "Online TEFL",
+            "€400-800",
+            "Self-paced",
+            "Some academies accept"
+          ],
+          [
+            "Trinity CertTESOL",
+            "€1,500",
+            "4 weeks",
+            "Equal to CELTA"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "hostess-azafata-madrid",
@@ -8173,7 +8429,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "work",
       "hostess",
@@ -8186,7 +8442,31 @@
       "job-search-spain",
       "internships-spain"
     ],
-    "subsubcategory": "Other Work"
+    "subsubcategory": "Other Work",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Hostess/Promo Work Quick Facts",
+        "items": [
+          {
+            "label": "Pay",
+            "value": "€8-15/hour"
+          },
+          {
+            "label": "Height requirement",
+            "value": "1.65m+ (women), 1.75m+ (men)"
+          },
+          {
+            "label": "Spanish required",
+            "value": "Yes (English is a plus)"
+          },
+          {
+            "label": "Payment delay",
+            "value": "30-60 days after event"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "journalism-writing-madrid",
@@ -8199,7 +8479,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "work",
       "journalism",
@@ -8212,7 +8492,35 @@
       "the-local-spain",
       "job-search-spain"
     ],
-    "subsubcategory": "Other Work"
+    "subsubcategory": "Other Work",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "English-Language Media in Madrid",
+        "items": [
+          {
+            "title": "El País English",
+            "body": "Spain's largest paper, English edition. elpais.com/english"
+          },
+          {
+            "title": "The Local Spain",
+            "body": "Expat-focused news. thelocal.es"
+          },
+          {
+            "title": "Reuters Madrid",
+            "body": "International wire service. English."
+          },
+          {
+            "title": "EFE News Agency",
+            "body": "Spanish wire, English service."
+          },
+          {
+            "title": "Madrid No Frills",
+            "body": "Independent blog, authentic Madrid. madridnofrills.com"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "cercanias-madrid",
@@ -8662,7 +8970,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "maps",
       "interactive",
@@ -8676,6 +8984,50 @@
       "metro-map-pdf",
       "madrid-apps",
       "madrid-visitors-app"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Best Map Apps for Madrid",
+        "columns": [
+          "App",
+          "Best for",
+          "Offline?",
+          "Cost"
+        ],
+        "rows": [
+          [
+            "Google Maps",
+            "General navigation",
+            "Yes (200MB)",
+            "Free"
+          ],
+          [
+            "Citymapper",
+            "Transit (real-time)",
+            "Partial",
+            "Free"
+          ],
+          [
+            "esMadrid app",
+            "Tourist info + routes",
+            "No",
+            "Free"
+          ],
+          [
+            "Metro de Madrid",
+            "Metro routes + alerts",
+            "Yes",
+            "Free"
+          ],
+          [
+            "EMT Madrid",
+            "Bus arrivals + routes",
+            "No",
+            "Free"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -8849,7 +9201,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "tourist-info",
       "practical",
@@ -8862,6 +9214,82 @@
       "madrid-tourist-offices",
       "official-madrid-city-map",
       "survival-spanish"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Reference",
+        "items": [
+          {
+            "label": "Electricity",
+            "value": "230V, 50Hz, plug C/F (2 round pins)"
+          },
+          {
+            "label": "Currency",
+            "value": "Euro (€)"
+          },
+          {
+            "label": "Time zone",
+            "value": "CET (UTC+1) / CEST (UTC+2) summer"
+          },
+          {
+            "label": "Emergency",
+            "value": "112 (free, multilingual, 24/7)"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Public Holidays (things close)",
+        "columns": [
+          "Date",
+          "Holiday",
+          "What's closed"
+        ],
+        "rows": [
+          [
+            "Jan 1",
+            "New Year",
+            "Everything"
+          ],
+          [
+            "Jan 6",
+            "Three Kings",
+            "Most shops"
+          ],
+          [
+            "May 1",
+            "Labor Day",
+            "Everything"
+          ],
+          [
+            "May 2",
+            "Madrid Day",
+            "Regional offices"
+          ],
+          [
+            "May 15",
+            "San Isidro",
+            "Some shops"
+          ],
+          [
+            "Oct 12",
+            "Hispanic Day",
+            "Most offices"
+          ],
+          [
+            "Dec 25",
+            "Christmas",
+            "Everything"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Tap water is safe",
+        "body": "Madrid tap water is excellent quality (from mountain reservoirs). Bottled water is unnecessary. Bring a reusable bottle.",
+        "tone": "success"
+      }
     ]
   },
   {
@@ -8876,7 +9304,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "tourist-info",
       "culture",
@@ -8889,6 +9317,50 @@
       "tipping-spain",
       "restaurant-spanish",
       "survival-spanish"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Spanish Mealtimes (later than Northern Europe)",
+        "columns": [
+          "Meal",
+          "Time",
+          "What"
+        ],
+        "rows": [
+          [
+            "Breakfast",
+            "7-9am",
+            "Coffee + toast/pastry"
+          ],
+          [
+            "Mid-morning",
+            "11am-noon",
+            "Bocadillo (sandwich)"
+          ],
+          [
+            "Lunch (main meal)",
+            "2-3:30pm",
+            "3 courses, menú del día €10-14"
+          ],
+          [
+            "Afternoon snack",
+            "6-7pm",
+            "Small"
+          ],
+          [
+            "Dinner",
+            "9-11pm",
+            "Lighter than lunch"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "The siesta is mostly gone",
+        "body": "The traditional afternoon nap is mostly gone in Madrid (especially for office workers). Some small shops close 2-5pm, but most stay open. Spanish people do stay up later than Northern Europeans — dinner at 10pm is normal.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -9035,7 +9507,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "grocery",
@@ -9047,6 +9519,54 @@
       "supermarkets-grocery-madrid",
       "mercados-madrid",
       "lavapies-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "International Grocery Stores",
+        "columns": [
+          "Cuisine",
+          "Store/Location",
+          "Neighborhood"
+        ],
+        "rows": [
+          [
+            "British/Irish",
+            "The Irish Shop (Espíritu Santo 1)",
+            "Malasaña"
+          ],
+          [
+            "German",
+            "Mantequerías Alemanas (Ayala 25)",
+            "Salamanca"
+          ],
+          [
+            "Japanese",
+            "Tatsumi (General Yagüe 14)",
+            "Chamberí"
+          ],
+          [
+            "Korean",
+            "Seoul (Princesa 5)",
+            "Centro"
+          ],
+          [
+            "Indian/Pakistani",
+            "Calle Lavapiés (10+ stores)",
+            "Lavapiés"
+          ],
+          [
+            "Latin American",
+            "Mercado de la Cebada",
+            "La Latina"
+          ],
+          [
+            "American",
+            "Taste of America (Modesto Lafuente 45)",
+            "Chamberí"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -9061,7 +9581,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "architect",
@@ -9074,6 +9594,36 @@
       "housing",
       "rental-contracts",
       "moving-shipping-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Renovation Quick Facts",
+        "items": [
+          {
+            "label": "Full renovation (80m²)",
+            "value": "€60,000-120,000"
+          },
+          {
+            "label": "Kitchen",
+            "value": "€8,000-20,000"
+          },
+          {
+            "label": "Bathroom",
+            "value": "€4,000-10,000"
+          },
+          {
+            "label": "Permit (major)",
+            "value": "1-3 months, €300-800"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Never pay more than 30% upfront",
+        "body": "Get 3+ quotes. Check the contractor's license. Get everything in writing. Use a gestor (administrative agent, €200-400) for building permits.",
+        "tone": "warning"
+      }
     ]
   },
   {
@@ -9088,7 +9638,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "meeting-room",
@@ -9099,6 +9649,50 @@
     "related_records": [
       "coworking-madrid",
       "internet-cafes-madrid"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Meeting & Rehearsal Spaces",
+        "columns": [
+          "Space",
+          "Type",
+          "Price",
+          "Location"
+        ],
+        "rows": [
+          [
+            "WeWork",
+            "Meeting rooms",
+            "€15-30/hr",
+            "Velázquez, Castellana"
+          ],
+          [
+            "EL HORNO",
+            "Rehearsal (13 rooms)",
+            "€49/mo",
+            "Calle Esgrima 11"
+          ],
+          [
+            "Espacio Ronda",
+            "Music/theater rehearsal",
+            "€10-15/hr",
+            "Calle Ronda Segovia 39"
+          ],
+          [
+            "Impact Hub",
+            "Meeting + coworking",
+            "€20-40/hr",
+            "Calle Goya 43"
+          ],
+          [
+            "Public libraries",
+            "Meeting rooms",
+            "Free",
+            "26 locations"
+          ]
+        ]
+      }
     ]
   },
   {
