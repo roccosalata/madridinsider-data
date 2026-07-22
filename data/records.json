@@ -1970,7 +1970,8 @@
       "language-schools-madrid",
       "language-schools-madrid-education",
       "nie-tie",
-      "international-school-jobs-madrid"
+      "international-school-jobs-madrid",
+      "gap-year-programs-madrid"
     ],
     "subsubcategory": "Teach English",
     "sections": [
@@ -2899,7 +2900,8 @@
       "sangines",
       "tipping-spain",
       "vermouth-madrid",
-      "culinary-schools-madrid"
+      "culinary-schools-madrid",
+      "cooking-classes-tourists-madrid"
     ],
     "subsubcategory": "Food Markets",
     "sections": [
@@ -3905,7 +3907,8 @@
       "hospitals",
       "empadronamiento",
       "nie-tie",
-      "english-speaking-therapists-madrid"
+      "english-speaking-therapists-madrid",
+      "ivf-fertility-clinics-madrid"
     ],
     "subsubcategory": "Overview",
     "sections": [
@@ -6115,7 +6118,9 @@
       "mercado-san-miguel",
       "la-latina-neighborhood",
       "malasana-neighborhood",
-      "devour-madrid-food-tours"
+      "devour-madrid-food-tours",
+      "cooking-classes-tourists-madrid",
+      "wine-tours-from-madrid"
     ],
     "subsubcategory": "Food Tours",
     "sections": [
@@ -6254,7 +6259,8 @@
       "intercity-buses",
       "segovia-day-trip",
       "toledo",
-      "camino-de-santiago-services"
+      "camino-de-santiago-services",
+      "wine-tours-from-madrid"
     ],
     "subsubcategory": "Day Tours",
     "sections": [
@@ -7496,7 +7502,8 @@
       "chamberi-neighborhood",
       "lavapies-neighborhood",
       "tetuan-cuatro-caminos-neighborhood",
-      "culinary-schools-madrid"
+      "culinary-schools-madrid",
+      "cooking-classes-tourists-madrid"
     ],
     "subsubcategory": "Markets",
     "sections": [
@@ -8291,7 +8298,8 @@
       "work-exchange-spain",
       "english-taught-masters-madrid",
       "international-school-jobs-madrid",
-      "internship-services-madrid"
+      "internship-services-madrid",
+      "gap-year-programs-madrid"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8784,7 +8792,8 @@
       "public-healthcare",
       "english-speaking-therapists-madrid",
       "english-speaking-vets-madrid",
-      "medical-tourism-madrid"
+      "medical-tourism-madrid",
+      "ivf-fertility-clinics-madrid"
     ],
     "subsubcategory": "Private Healthcare"
   },
@@ -8839,7 +8848,8 @@
       "public-healthcare",
       "english-speaking-doctors",
       "hospitals",
-      "medical-tourism-madrid"
+      "medical-tourism-madrid",
+      "ivf-fertility-clinics-madrid"
     ],
     "subsubcategory": "Hospitals"
   },
@@ -10108,7 +10118,8 @@
       "vermouth-madrid",
       "mercado-san-miguel",
       "cocido-madrileno",
-      "wine-certification-spain"
+      "wine-certification-spain",
+      "wine-tours-from-madrid"
     ],
     "subsubcategory": "Drinks Culture"
   },
@@ -10123,7 +10134,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "tennis",
@@ -10134,7 +10145,8 @@
     ],
     "related_records": [
       "real-madrid-bernabeu",
-      "atletico-madrid-wanda-metropolitano"
+      "atletico-madrid-wanda-metropolitano",
+      "tennis-academies-spain"
     ],
     "subsubcategory": "Racquet Sports"
   },
@@ -10626,7 +10638,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "golf",
@@ -10635,7 +10647,8 @@
     ],
     "related_records": [
       "running-madrid",
-      "swimming-pools-madrid"
+      "swimming-pools-madrid",
+      "golf-academies-spain"
     ],
     "subsubcategory": "Golf"
   },
@@ -10759,7 +10772,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "tennis",
@@ -10769,7 +10782,8 @@
     ],
     "related_records": [
       "madrid-open-tennis",
-      "running-madrid"
+      "running-madrid",
+      "tennis-academies-spain"
     ],
     "subsubcategory": "Racquet Sports"
   },
@@ -15675,7 +15689,9 @@
       "mercado-san-miguel",
       "la-latina-neighborhood",
       "malasana-neighborhood",
-      "la-latina-tapas-nightlife"
+      "la-latina-tapas-nightlife",
+      "cooking-classes-tourists-madrid",
+      "wine-tours-from-madrid"
     ],
     "sections": [
       {
@@ -16530,7 +16546,10 @@
       "hot-english-magazine-madrid",
       "teacher-training-madrid",
       "soccer-camps-madrid",
-      "nanny-agencies-madrid"
+      "nanny-agencies-madrid",
+      "tennis-academies-spain",
+      "golf-academies-spain",
+      "equestrian-camps-madrid"
     ],
     "sections": [
       {
@@ -16664,7 +16683,8 @@
       "moving2madrid-relocation",
       "english-summer-camps-madrid",
       "international-chambers-madrid",
-      "nanny-agencies-madrid"
+      "nanny-agencies-madrid",
+      "gap-year-programs-madrid"
     ],
     "sections": [
       {
@@ -17083,7 +17103,9 @@
       "english-summer-camps-madrid",
       "real-madrid-bernabeu",
       "atletico-madrid-wanda-metropolitano",
-      "parque-de-atracciones-madrid"
+      "parque-de-atracciones-madrid",
+      "tennis-academies-spain",
+      "golf-academies-spain"
     ],
     "sections": [
       {
@@ -17450,7 +17472,8 @@
       "menu-del-dia-guide",
       "vermouth-madrid",
       "spanish-food-basics",
-      "wine-certification-spain"
+      "wine-certification-spain",
+      "cooking-classes-tourists-madrid"
     ],
     "sections": [
       {
@@ -17569,7 +17592,8 @@
       "english-speaking-doctors-madrid",
       "hospitals-madrid",
       "healthcare",
-      "english-speaking-therapists-madrid"
+      "english-speaking-therapists-madrid",
+      "ivf-fertility-clinics-madrid"
     ],
     "sections": [
       {
@@ -17952,7 +17976,8 @@
       "teacher-training-madrid",
       "language-schools-madrid",
       "english-summer-camps-madrid",
-      "english-mba-programs-madrid"
+      "english-mba-programs-madrid",
+      "gap-year-programs-madrid"
     ],
     "sections": [
       {
@@ -18120,7 +18145,8 @@
       "vermouth-madrid",
       "culinary-schools-madrid",
       "mercado-san-miguel",
-      "mercados-madrid"
+      "mercados-madrid",
+      "wine-tours-from-madrid"
     ],
     "sections": [
       {
@@ -18362,7 +18388,9 @@
       "museo-reina-sofia",
       "flamenco-dance-intensives-madrid",
       "acting-schools-madrid",
-      "film-schools-madrid"
+      "film-schools-madrid",
+      "art-design-schools-madrid",
+      "fashion-summer-courses-madrid"
     ],
     "sections": [
       {
@@ -18714,7 +18742,8 @@
       "student-visa-spain",
       "job-search-spain",
       "international-school-jobs-madrid",
-      "work-visa-spain"
+      "work-visa-spain",
+      "gap-year-programs-madrid"
     ],
     "sections": [
       {
@@ -18992,7 +19021,8 @@
       "student-visa-spain",
       "job-search-spain",
       "international-chambers-madrid",
-      "work-visa-spain"
+      "work-visa-spain",
+      "gap-year-programs-madrid"
     ],
     "sections": [
       {
@@ -19281,7 +19311,8 @@
     "related_records": [
       "music-summer-programs-madrid",
       "acting-schools-madrid",
-      "museo-del-prado"
+      "museo-del-prado",
+      "art-design-schools-madrid"
     ],
     "sections": [
       {
@@ -19392,7 +19423,8 @@
       "flamenco-madrid",
       "flamenco-tablaos-nightlife",
       "music-summer-programs-madrid",
-      "language-schools-madrid"
+      "language-schools-madrid",
+      "art-design-schools-madrid"
     ],
     "sections": [
       {
@@ -19799,7 +19831,8 @@
       "film-schools-madrid",
       "flamenco-dance-intensives-madrid",
       "music-summer-programs-madrid",
-      "language-exchanges-madrid"
+      "language-exchanges-madrid",
+      "art-design-schools-madrid"
     ],
     "sections": [
       {
@@ -19890,6 +19923,1286 @@
           "Don't expect professional training at Meetup level — that's Act Attack's role",
           "Don't be put off if you're the only non-native English speaker — many Spanish members"
         ]
+      }
+    ]
+  },
+  {
+    "id": "tennis-academies-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Tennis Academies in Spain (International Recruitment)",
+    "summary": "Spain's tennis academies actively recruit international junior players: Sánchez-Casal Academy (Barcelona), Emilio Sánchez Academy, Rafa Nadal Academy (Mallorca). Annual + summer programs. €1,500-€3,000/week residential.",
+    "content": "Spain is one of the world's premier tennis training destinations — home to the Sánchez-Casal Academy (Barcelona, founded 1998 by Emilio Sánchez and Sergio Casal), the Emilio Sánchez Academy (Barcelona), and the Rafa Nadal Academy by Movistar (Manacor, Mallorca, opened 2016). These academies all run aggressive English-language international recruitment, attracting junior players aged 8-25 from 50+ countries. The Sánchez-Casal Academy is the most established, with annual + summer programs combining intensive tennis training (19.5 hours/week) with academic study (11.5 hours/week). Summer camps run June-August with weekly enrollment. The Rafa Nadal Academy in Manacor offers the most premium experience — high-performance tennis training (11.5 hours tennis + 10 hours sports activities), medical insurance, mental skills development, and English or Spanish language classes (8 hours/week with native teachers). Annual programs at the academies run September-June and combine full tennis training with academic curriculum (often through partnerships with international schools). Summer programs run weekly from late May through August. Costs: weekly residential €1,500-€3,000, annual programs €25,000-€45,000. Madrid residents can access these via short flights (1-hour to Barcelona, 1.5-hour to Mallorca) or by attending Madrid-based tennis programs at Madrid Open venue (Caja Mágica) or local clubs. International families use these academies as pathways to ATP/WTA professional development or US college tennis scholarships.",
+    "official_url": "https://emiliosanchezacademy.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "tennis",
+      "tennis-academy",
+      "sanchez-casal",
+      "rafa-nadal",
+      "junior-tennis",
+      "international-students",
+      "summer-camp",
+      "residential",
+      "sports-academy"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "soccer-camps-madrid",
+      "english-summer-camps-madrid",
+      "madrid-open-tennis",
+      "tennis-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = world tennis academy capital",
+        "body": "Spain hosts 3 of the world's top tennis academies, all aggressively recruiting international juniors via English-language marketing. Sánchez-Casal (Barcelona), Emilio Sánchez (Barcelona), Rafa Nadal Academy (Mallorca). Madrid residents reach them in 1-1.5 hours by flight.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Weekly residential",
+            "value": "€1,500-€3,000"
+          },
+          {
+            "label": "Annual program",
+            "value": "€25,000-€45,000"
+          },
+          {
+            "label": "Ages",
+            "value": "8-25 (varies by academy)"
+          },
+          {
+            "label": "Tennis training",
+            "value": "11-20 hours/week"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish instruction"
+          },
+          {
+            "label": "Summer season",
+            "value": "Late May to end of August"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Spanish tennis academies",
+        "items": [
+          {
+            "title": "Sánchez-Casal Academy (Barcelona)",
+            "body": "Founded 1998 by Emilio Sánchez and Sergio Casal. Annual + summer programs. 19.5 hrs tennis + 11.5 hrs academic/week. Most established tennis academy in Spain.",
+            "meta": [
+              "emiliosanchezacademy.com"
+            ]
+          },
+          {
+            "title": "Emilio Sánchez Academy (Barcelona)",
+            "body": "Holiday Camps and intensive programs. International coexistence focus. Ages 8-25. Weekly enrollment.",
+            "meta": [
+              "emiliosanchezacademy.com/barcelona/programs/holiday-camps"
+            ]
+          },
+          {
+            "title": "Rafa Nadal Academy by Movistar (Manacor, Mallorca)",
+            "body": "Opened 2016. Most premium. 11.5 hrs tennis + 10 hrs sports + 8 hrs language/week. Medical insurance included. Annual English assessment.",
+            "meta": [
+              "rafanadalacademy.com/en/junior-programs/summer-camps"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Booking channels",
+        "items": [
+          {
+            "title": "Direct (academy websites)",
+            "body": "Book directly with Sánchez-Casal or Rafa Nadal Academy. Best prices, direct communication."
+          },
+          {
+            "title": "Choices International",
+            "body": "Authorized booking agent for Rafa Nadal Academy summer camps. Handles airport transfers, parent communication, insurance.",
+            "meta": [
+              "choices-international.com/rafa-nadal-academy"
+            ]
+          },
+          {
+            "title": "Tennis Academies (tennis-academies.com)",
+            "body": "Comparison site for tennis camps across Europe. Spain coverage includes all 3 main academies."
+          },
+          {
+            "title": "Ertheo (Golf/Tennis camps)",
+            "body": "Multi-sport camp aggregator. Includes Spanish tennis academies."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish tennis academy",
+        "do": [
+          "Book 4-6 months ahead for summer (June-August) weeks",
+          "Choose Rafa Nadal Academy for most premium experience + language classes",
+          "Choose Sánchez-Casal for most established program + Barcelona location",
+          "Verify the academy's player-to-coach ratio (4:1 or better is good)",
+          "Consider school-year program for serious junior players (US college pathway)"
+        ],
+        "dont": [
+          "Don't expect to see Rafa Nadal himself at his academy — he visits occasionally",
+          "Don't book without video assessment for high-performance programs",
+          "Don't underestimate summer heat in Mallorca/Barcelona — academies have indoor options",
+          "Don't forget travel insurance covering sports injuries"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "From Madrid",
+        "body": "Madrid residents reach Sánchez-Casal (Barcelona) in 2.5 hours by AVE train or 1-hour flight. Rafa Nadal Academy (Manacor, Mallorca) is 1.5-hour flight from Madrid-Barajas + 45-min drive. Madrid also has its own tennis infrastructure at Caja Mágica (Madrid Open venue).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "golf-academies-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Golf Academies & Summer Camps in Spain",
+    "summary": "Spain's golf academies recruit international juniors: Sergio García Golf Academy (Castellón), Sotogrande International School camps (Cádiz), Enforex golf programs. Annual + summer. €1,500-€3,500/week residential.",
+    "content": "Spain is Europe's premier golf training destination — combining world-class courses (Valderrama, Sotogrande, PGA Catalunya) with year-round playable weather. The country's golf academies actively recruit international juniors aged 5-18 through English-language marketing. Sergio García Golf Academy (Borriol, Castellón — 4 hours from Madrid by car/train) offers annual programs for golfers 13-18, run by the Masters champion himself. Sotogrande International School (Cádiz) runs summer camps combining elite golf and tennis training with language learning (English and Spanish) for ages 4-16. Enforex Madrid offers golf as part of its summer camp sports options for international students. The broader Spanish golf camp market includes PG Academy (multilingual coaches), Atalaya Golf (Christmas camps in Costa del Sol), and various Ertheo-listed programs. Costs: weekly residential €1,500-€3,500, annual programs €20,000-€35,000. Madrid residents have several local golf options too — Club de Campo Villa de Madrid (host of the Open de España), Centro Nacional de Golf, and Real Club de la Puerta de Hierro all offer junior programs. For international families wanting serious golf development with academic study, Sotogrande International School is the strongest option — combining IB curriculum with elite golf training. Madrid residents reach Sotogrande (Cádiz) in 5 hours by AVE train + bus, or 1-hour flight to Málaga.",
+    "official_url": "https://www.sggolfacademy.com/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "golf",
+      "golf-academy",
+      "golf-camp",
+      "sergio-garcia",
+      "sotogrande",
+      "junior-golf",
+      "international-students",
+      "summer-camp"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "tennis-academies-spain",
+      "soccer-camps-madrid",
+      "english-summer-camps-madrid",
+      "golf-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = Europe's golf training capital",
+        "body": "Spain hosts world-class golf academies recruiting international juniors. Sergio García Academy (Castellón), Sotogrande International School camps (Cádiz). Madrid residents reach them via AVE train or short flight.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Weekly residential",
+            "value": "€1,500-€3,500"
+          },
+          {
+            "label": "Annual program",
+            "value": "€20,000-€35,000"
+          },
+          {
+            "label": "Ages",
+            "value": "5-18 (varies by program)"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Best for serious players",
+            "value": "Sergio García Golf Academy"
+          },
+          {
+            "label": "Best for golf + school",
+            "value": "Sotogrande International"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Spanish golf academies and camps",
+        "items": [
+          {
+            "title": "Sergio García Golf Academy (Castellón)",
+            "body": "Annual programs for golfers 13-18. Run by Masters champion Sergio García. Most performance-focused Spanish golf academy.",
+            "meta": [
+              "sggolfacademy.com/en"
+            ]
+          },
+          {
+            "title": "Sotogrande International School Summer Camps (Cádiz)",
+            "body": "Ages 4-16. Elite golf + tennis training. Language learning (English + Spanish). IB school year-round. €2,750/week typical.",
+            "meta": [
+              "sis.ac/school-life/summer-camps"
+            ]
+          },
+          {
+            "title": "Enforex Summer Camps (Madrid + Marbella + Salamanca)",
+            "body": "Golf as one of multiple sports options. Combine with Spanish or English language classes. 60% Spanish / 40% international student mix.",
+            "meta": [
+              "enforex.com/summercamps/sports-horseback.html"
+            ]
+          },
+          {
+            "title": "PG Sports Academy Golf Camp",
+            "body": "Multilingual coaching staff (English, Spanish, French, German). Ages 5-17. Madrid and other locations."
+          },
+          {
+            "title": "Atalaya Golf Christmas Camp (Costa del Sol)",
+            "body": "Christmas Junior Golf Camps. Ages 6-17. Combine professional coaching with games. 9am-1pm daily.",
+            "meta": [
+              "atalaya-golf.com/christmas-junior-golf-camp-atalaya"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid-area golf options",
+        "items": [
+          {
+            "title": "Club de Campo Villa de Madrid",
+            "body": "Host of the Open de España. Junior programs. Premium membership."
+          },
+          {
+            "title": "Centro Nacional de Golf",
+            "body": "Public course. Junior clinics and summer camps. Most accessible Madrid option."
+          },
+          {
+            "title": "Real Club de la Puerta de Hierro",
+            "body": "Elite private club. Limited junior program access (membership required)."
+          },
+          {
+            "title": "Enforex Madrid Summer Camp",
+            "body": "Includes golf as optional sport. Day and residential options. International student focus."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish golf academy",
+        "do": [
+          "Book by March for summer programs — popular academies fill by April",
+          "Choose Sergio García Academy for serious competitive players 13+",
+          "Choose Sotogrande International for golf + academic study combination",
+          "Verify the academy's PGA certification and coach credentials",
+          "Combine golf camp with Spanish language classes for full immersion"
+        ],
+        "dont": [
+          "Don't underestimate Madrid summer heat (40°C+) for outdoor programs",
+          "Don't book without confirming the coach-to-player ratio (4:1 or better)",
+          "Don't forget sun protection — Spanish golf is year-round but summer is brutal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "equestrian-camps-madrid",
+    "category": "do",
+    "subcategory": "family",
+    "title": "Horse Riding & Equestrian Camps in Madrid",
+    "summary": "Madrid-area equestrian camps recruit international kids: Equus ELM (Torrejón de Ardoz), Enforex horseback riding, King's College Soto camps. From 1-day experiences to week-long residential. €300-€800/week.",
+    "content": "Madrid has a small but growing equestrian camp ecosystem for children and teens, with multiple operators recruiting international students through English-language marketing. Equus ELM Riding School, located in Torrejón de Ardoz (30 minutes from central Madrid), runs 7-day residential horse riding summer camps for children and teens aged 4+. The camp combines riding lessons with horse care, stable management, and outdoor activities. Enforex Madrid offers horseback riding as one of its summer camp sports options (12 lessons per two-week period). King's College School Soto (Madrid) includes horseback riding in its summer camp options alongside robotics, kayaking, and creative arts — explicitly designed for international campers immersed in English or Spanish. Instituto Hemingway runs an international camp combining horse riding classes with English or Spanish lessons, sports, and outdoor activities. The broader Spanish equestrian camp market includes La Espuela (Madrid area, used by Enforex), Club de Campo Villa de Madrid (riding school for members), and various smaller barns offering summer programs. Costs: €300-€800/week for day camps, €800-€1,500/week for residential. Programs typically run 1-2 weeks. The Madrid region is well-suited for equestrian activities — Sierra de Guadarrama (1 hour north) offers trail riding, and there are 50+ riding schools within 1 hour of central Madrid.",
+    "official_url": "https://www.bookhorseridingholidays.com/equus-elm-riding-school/7-days-children-and-teenagers-horse-riding-holiday-in-madrid-spain",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "equestrian",
+      "horse-riding",
+      "horse-camp",
+      "summer-camp",
+      "kids",
+      "international",
+      "equus-elm",
+      "torrejon"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-summer-camps-madrid",
+      "soccer-camps-madrid",
+      "parque-de-atracciones-madrid",
+      "faunia-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid has a growing equestrian camp scene",
+        "body": "Equus ELM (Torrejón de Ardoz) runs 7-day residential riding camps. Enforex Madrid and King's College Soto include horseback riding in their summer camp options. Madrid region has 50+ riding schools within 1 hour of center.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "4+ (varies by camp)"
+          },
+          {
+            "label": "Day camp cost",
+            "value": "€300-€600/week"
+          },
+          {
+            "label": "Residential cost",
+            "value": "€800-€1,500/week"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (bilingual)"
+          },
+          {
+            "label": "Camp length",
+            "value": "1-2 weeks typical"
+          },
+          {
+            "label": "Programs near Madrid center",
+            "value": "50+ riding schools within 1 hour"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid equestrian camps",
+        "items": [
+          {
+            "title": "Equus ELM Riding School (Torrejón de Ardoz)",
+            "body": "7-day residential camps for children and teens. 30 min from central Madrid. Riding lessons + horse care + outdoor activities.",
+            "meta": [
+              "bookhorseridingholidays.com/equus-elm-riding-school"
+            ]
+          },
+          {
+            "title": "Enforex Madrid Summer Camp (horseback option)",
+            "body": "12 horseback riding lessons per 2-week period. Combine with Spanish/English language classes. Madrid location.",
+            "meta": [
+              "enforex.com/summercamps/sports-horseback.html"
+            ]
+          },
+          {
+            "title": "King's College School Soto Summer Camps",
+            "body": "Madrid area. Horseback riding + robotics + kayaking + creative arts. English or Spanish immersion. Ages 3-15+.",
+            "meta": [
+              "madrid-soto.kingscollegeschools.org/en/summer-camps"
+            ]
+          },
+          {
+            "title": "Instituto Hemingway International Camp",
+            "body": "Combine horse riding with English or Spanish lessons, sports, outdoor activities. International focus."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking equestrian camps in Madrid",
+        "do": [
+          "Book 2-3 months ahead for summer camps (June-September)",
+          "Verify riding helmets are provided (or bring your own for proper fit)",
+          "Choose residential camps for full immersion (Equus ELM 7-day)",
+          "Combine with Spanish language classes for international students",
+          "Ask about the horse-to-camper ratio (1:1 ideal for beginners)"
+        ],
+        "dont": [
+          "Don't expect English-only instruction at all Madrid barns — verify in advance",
+          "Don't underestimate Madrid summer heat — confirm covered/indoor riding options",
+          "Don't book without confirming safety record and instructor certifications"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ivf-fertility-clinics-madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "title": "IVF & Fertility Clinics in Madrid (English-Speaking)",
+    "summary": "Spain is Europe's IVF capital — Madrid hosts 15+ fertility clinics recruiting English-speaking patients. Clínica Tambre (62% success rate, mostly international patients), IVI Madrid, Eugin. IVF €3,500-€5,000 — 50% of US cost.",
+    "content": "Spain is the world's leading destination for IVF and fertility treatments — attracting more international IVF patients than any other country. The combination of permissive laws (embryo donation, no age limit up to 50, donor anonymity), high success rates, English-speaking clinics, and costs 50% lower than the US/UK makes Spain extraordinarily attractive. Madrid hosts 15+ fertility clinics, with several explicitly recruiting international English-speaking patients. Clínica Tambre is Madrid's most international-focused IVF clinic — 62% IVF success rate, multilingual fertility specialists, and a patient base that is largely international. Tambre commits to single embryo transfer (multiple pregnancy rate below 1%) and publishes success rates transparently. IVI (Instituto Valenciano de Infertilidad) has a Madrid clinic and is one of Europe's largest fertility clinic chains, with success rates independently audited by the Spanish Fertility Society (SEF). Eugin (Barcelona-based with Madrid coordination) handles international IVF patients. According to SEF, average Spanish IVF success rates per embryo transfer are 34-35% for women under 40 and 24% for women 40+. Madrid's proximity to Barajas Airport (direct flights from all major European and many US cities) makes it accessible for international patients. IVF cycle costs: €3,500-€5,000 in Madrid vs €12,000-€15,000 in the US. Most clinics offer packages including treatment, monitoring, and embryo transfer; medications add €1,000-€2,000. Spain is particularly attractive for egg donation (large donor pool due to anonymity laws, no waitlist) and for older patients (treatment accepted up to age 50).",
+    "official_url": "https://www.clinicatambre.com/en/success-rates",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "ivf",
+      "fertility",
+      "reproduction",
+      "egg-donation",
+      "english-speaking-clinic",
+      "international-patients",
+      "tambre",
+      "ivi",
+      "eugin",
+      "medical-tourism"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "medical-tourism-madrid",
+      "english-speaking-doctors-madrid",
+      "hospitals-madrid",
+      "healthcare"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = world IVF capital",
+        "body": "Spain attracts more international IVF patients than any other country. Madrid hosts 15+ fertility clinics recruiting English-speaking patients. €3,500-€5,000/cycle vs €12,000-€15,000 US. Tambre 62% success rate.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "IVF cycle cost (Madrid)",
+            "value": "€3,500-€5,000"
+          },
+          {
+            "label": "IVF cycle cost (US)",
+            "value": "€12,000-€15,000"
+          },
+          {
+            "label": "Spain success rate (under 40)",
+            "value": "34-35% per transfer"
+          },
+          {
+            "label": "Spain success rate (40+)",
+            "value": "24% per transfer"
+          },
+          {
+            "label": "Age limit",
+            "value": "50 years (most clinics)"
+          },
+          {
+            "label": "Egg donation waitlist",
+            "value": "Often zero (large donor pool)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid IVF clinics for international patients",
+        "items": [
+          {
+            "title": "Clínica Tambre",
+            "body": "Madrid's most international-focused IVF clinic. 62% success rate. Mostly international patients. Single embryo transfer policy (multiple pregnancy rate <1%).",
+            "meta": [
+              "clinicatambre.com/en/success-rates"
+            ]
+          },
+          {
+            "title": "IVI Madrid (Instituto Valenciano de Infertilidad)",
+            "body": "Europe's largest fertility chain. Madrid clinic. Success rates audited by Spanish Fertility Society.",
+            "meta": [
+              "ivi.es"
+            ]
+          },
+          {
+            "title": "Eugin (Madrid coordination)",
+            "body": "Barcelona-headquartered with Madrid patient coordination. Strong international patient support.",
+            "meta": [
+              "eugin.es"
+            ]
+          },
+          {
+            "title": "Other Madrid IVF clinics",
+            "body": "Bernabeu Institute, Ginefiv, Vithas Fertility, Quironsalud Fertility — all Madrid-based, all accept international patients."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Why choose Spain for IVF",
+        "items": [
+          {
+            "title": "Cost",
+            "body": "50-70% cheaper than US/UK. €3,500-€5,000 vs €12,000-€15,000."
+          },
+          {
+            "title": "Success rates",
+            "body": "Among highest in Europe. Independently audited by SEF. Tambre 62%."
+          },
+          {
+            "title": "Permissive laws",
+            "body": "Embryo donation allowed. No age limit up to 50. Donor anonymity (large donor pool, no waitlist)."
+          },
+          {
+            "title": "English-speaking clinics",
+            "body": "Major Madrid clinics have dedicated international patient coordinators, English-speaking doctors, English-language documentation."
+          },
+          {
+            "title": "Accessibility",
+            "body": "Madrid-Barajas airport has direct flights from all major European and many US cities."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "IVF in Madrid — typical process",
+        "items": [
+          {
+            "title": "Initial consultation",
+            "body": "Free video consultation with most Madrid clinics. Discuss medical history, treatment options, costs.",
+            "tip": "Get consultations from 2-3 clinics before choosing."
+          },
+          {
+            "title": "Pre-treatment testing",
+            "body": "Blood tests, ultrasound, semen analysis. Can be done in home country with results sent electronically."
+          },
+          {
+            "title": "Treatment cycle",
+            "body": "10-14 days in Madrid for the actual IVF cycle. Stimulation injections, monitoring, egg retrieval, embryo transfer.",
+            "tip": "Plan 2-3 weeks in Madrid total."
+          },
+          {
+            "title": "Pregnancy test",
+            "body": "10-14 days after embryo transfer. Can be done in home country with results sent to clinic."
+          },
+          {
+            "title": "Follow-up",
+            "body": "If positive, return to Madrid for 7-week ultrasound. Then transfer to local OB/GYN."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "IVF in Madrid",
+        "do": [
+          "Get consultations from 3+ clinics before choosing (free)",
+          "Verify SEF membership and success rate transparency",
+          "Choose Tambre for most international-focused experience",
+          "Plan 2-3 weeks in Madrid for treatment cycle",
+          "Use clinics with international patient coordinators (most major clinics have them)"
+        ],
+        "dont": [
+          "Don't choose solely on price — verify success rates first",
+          "Don't expect guaranteed success — even top clinics have 35-40% per cycle",
+          "Don't forget to budget for medications (€1,000-€2,000 additional)",
+          "Don't book flights home the day after embryo transfer — rest 24-48 hours"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Spain IVF legal advantages",
+        "body": "Embryo donation allowed (not in all countries). No age limit up to 50 (UK limit is 42). Donor anonymity (means large donor pool, no waitlist). Same-sex couples and single women eligible. Surrogacy NOT allowed in Spain (illegal).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "art-design-schools-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Art & Design Schools in Madrid (English-Taught)",
+    "summary": "IED Madrid (Istituto Europeo di Design) is the leading English-taught art/design school in Madrid. Undergraduate + Master's + Summer courses in fashion, product, interior, graphic design. Summer courses in English from €1,300.",
+    "content": "Madrid has emerged as a serious destination for English-taught art and design education, anchored by IED Madrid (Istituto Europeo di Design). IED is a network of design schools across Europe with a major Madrid campus, offering undergraduate courses, Master's programs, and Summer courses in Design, Fashion, Visual Arts, and Communication. IED Madrid's summer courses are explicitly taught in English and recruit international students — including a 3-week Global Design Summer Course covering Fashion, Product, Interior, and Graphic Design. The Summer Course in Design Experience explores how one concept can be developed into a visual identity, physical object, wearable piece, and spatial experience. IED programs are attended in English, Italian, Spanish, and Portuguese (depending on campus). Madrid's design scene is particularly strong in fashion (with Madrid Fashion Week / Mercedes-Benz Fashion Week Madrid) and product design (with many Spanish design studios headquartered in Madrid). The IED Madrid campus is in the city center, providing easy access to Madrid's museums (Prado, Reina Sofía, Thyssen), galleries, and design studios. Beyond IED, Madrid's design education ecosystem includes TAI (arts university with cinema programs including design), the School of Architecture at UPM (Polytechnic University of Madrid, public tuition), and various smaller specialized schools. Costs: €1,300-€2,500 for summer courses (2-4 weeks), €8,000-€12,000/year for undergraduate, €12,000-€18,000/year for Master's.",
+    "official_url": "https://www.ied.edu/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "design-school",
+      "art-school",
+      "ied",
+      "istituto-europeo-di-design",
+      "fashion",
+      "product-design",
+      "interior-design",
+      "graphic-design",
+      "english-taught",
+      "summer-course"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "fashion-summer-courses-madrid",
+      "music-summer-programs-madrid",
+      "film-schools-madrid",
+      "acting-schools-madrid",
+      "flamenco-dance-intensives-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "IED Madrid is the leading English-taught design school",
+        "body": "Istituto Europeo di Design Madrid offers undergraduate, Master's, and summer courses in design, fashion, visual arts, and communication. Summer courses explicitly in English. €1,300+ for summer, €8,000+/year undergraduate.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Summer course cost",
+            "value": "€1,300-€2,500 (2-4 weeks)"
+          },
+          {
+            "label": "Undergraduate",
+            "value": "€8,000-€12,000/year"
+          },
+          {
+            "label": "Master's",
+            "value": "€12,000-€18,000/year"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (program-dependent)"
+          },
+          {
+            "label": "Top school",
+            "value": "IED Madrid (Istituto Europeo di Design)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "IED Madrid program types",
+        "items": [
+          {
+            "title": "Summer Courses (English-taught)",
+            "body": "3-4 week intensives. €1,300-€2,500. Design Experience, Fashion Experience (Junior), Global Design. All in English.",
+            "meta": [
+              "ied.edu/courses/fashion-summer-spain"
+            ]
+          },
+          {
+            "title": "Undergraduate (3-year)",
+            "body": "Product Design, Interior Design, Graphic Design, Fashion Design. €8,000-€12,000/year. English and Spanish options."
+          },
+          {
+            "title": "Master's (1-year)",
+            "value": "Design, Fashion, Communication Master's. €12,000-€18,000/year. Some in English."
+          },
+          {
+            "title": "Continuing education",
+            "body": "Short courses for professionals. Evenings and weekends."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Other Madrid design education options",
+        "items": [
+          {
+            "title": "TAI (Taller de Artistas Internacionales)",
+            "body": "Madrid arts university. Includes design programs alongside cinema and performing arts."
+          },
+          {
+            "title": "ETSAM (School of Architecture, UPM)",
+            "body": "Public university architecture school. Spanish-taught but prestigious. Public tuition (~€1,500/year)."
+          },
+          {
+            "title": "IE University — Bachelor in Design",
+            "body": "Segovia + Madrid. English-taught design degree. Premium positioning."
+          },
+          {
+            "title": "Madrid's design district",
+            "body": "Calle del Barquillo and surrounding streets host many design studios — internships and networking opportunities."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing an art/design school in Madrid",
+        "do": [
+          "Apply early (Dec-Feb) for September undergraduate start",
+          "Prepare a portfolio (10-15 pieces showing range + focus)",
+          "Choose IED Madrid for broadest English-taught options",
+          "Visit the campus before applying — facilities matter for design",
+          "Combine summer course with cultural immersion (museums, galleries)"
+        ],
+        "dont": [
+          "Don't confuse IED Madrid with IED Barcelona (different campuses, different focus)",
+          "Don't underestimate Spanish — even English programs benefit from local language",
+          "Don't skip the portfolio — most programs require it"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fashion-summer-courses-madrid",
+    "category": "do",
+    "subcategory": "shopping",
+    "title": "Fashion Summer Courses in Madrid (English)",
+    "summary": "IED Madrid offers English-taught fashion summer courses: Fashion Experience Junior (ages 15-17), Global Design Summer, Design Experience. 2-3 week intensives, €1,300+. Madrid Fashion Week access.",
+    "content": "Madrid has a small but growing English-taught fashion summer course market, anchored by IED Madrid (Istituto Europeo di Design). The Fashion Experience Junior course (30 June - 11 July 2026) is designed for ages 15-17, immersing them in fashion design, styling, and art direction — taught in English at IED Madrid. The 3-week Global Design Summer Course covers the four fundamental areas of design (Fashion, Product, Interior, Graphic), allowing students to develop a total design proposal. The Design Experience summer course explores how one concept can be developed into visual identity, physical object, wearable piece, and spatial experience. All IED Madrid summer courses are taught in English by industry professionals. Madrid's fashion scene is anchored by Mercedes-Benz Fashion Week Madrid (IFEMA exhibition center, February and September), which attracts international press and buyers. Beyond IED, fashion summer options include TAI's fashion communication program, and various independent styling and design workshops. Madrid is also home to major Spanish fashion brands (Inditex/Zara headquarters in Arteixo but design offices in Madrid; Loewe flagship and design team in Madrid; Mango design team in Barcelona but retail presence in Madrid). For international fashion students wanting a Spanish alternative to Milan or Paris, Madrid offers lower costs, growing international recognition, and access to Spanish-language fashion industry. IED Madrid fashion summer courses typically cost €1,300-€2,500 for 2-3 week intensives.",
+    "official_url": "https://www.ied.edu/courses/fashion-summer-spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "fashion",
+      "summer-course",
+      "ied-madrid",
+      "english-taught",
+      "fashion-design",
+      "styling",
+      "art-direction",
+      "junior-program"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "art-design-schools-madrid",
+      "music-summer-programs-madrid",
+      "mercados-madrid",
+      "el-corte-ingles-castellana"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "IED Madrid = English-taught fashion summer courses",
+        "body": "IED Madrid runs 2-3 week fashion summer intensives in English: Fashion Experience Junior (ages 15-17), Global Design, Design Experience. €1,300+. Includes Madrid Fashion Week access opportunities.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "2-3 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,300-€2,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught"
+          },
+          {
+            "label": "Ages (Junior course)",
+            "value": "15-17"
+          },
+          {
+            "label": "Credits",
+            "value": "10 ECTS (some courses)"
+          },
+          {
+            "label": "Next sessions",
+            "value": "June-July 2026"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "IED Madrid fashion summer courses",
+        "items": [
+          {
+            "title": "Fashion Experience — Junior",
+            "body": "30 June - 11 July 2026. Ages 15-17. English. €1,300. Design, styling, art direction immersion.",
+            "meta": [
+              "fashionunited.com/education/courses/1225-summer-course-in-fashion-experience-junior-ied-madrid-spain"
+            ]
+          },
+          {
+            "title": "Global Design Summer Course",
+            "body": "3-week intensive. Covers Fashion, Product, Interior, Graphic design. Develop total design proposal. English-taught.",
+            "meta": [
+              "goabroad.com/providers/ied-istituto-europeo-di-design/programs/global-design-summer-course-madrid-190170"
+            ]
+          },
+          {
+            "title": "Design Experience",
+            "body": "3 weeks. English-taught. Develop one concept into visual identity, physical object, wearable piece, and spatial experience.",
+            "meta": [
+              "ied.edu/courses/madrid/summer-courses/design-experience"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid fashion ecosystem",
+        "items": [
+          {
+            "title": "Mercedes-Benz Fashion Week Madrid",
+            "body": "IFEMA exhibition center. February + September. Spanish designers showcase. International press and buyers."
+          },
+          {
+            "title": "Loewe Foundation",
+            "body": "Madrid-based. Cultural programming, exhibitions. Loewe flagship store on Calle Serrano."
+          },
+          {
+            "title": "Inditex design offices",
+            "body": "Zara, Massimo Dutti, Bershka design teams. Madrid presence (headquarters in Arteixo, Galicia)."
+          },
+          {
+            "title": "Calle Serrano luxury shopping",
+            "body": "Madrid's Golden Mile. International luxury brands + Spanish designers. See salamanca-neighborhood record."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Fashion summer courses in Madrid",
+        "do": [
+          "Apply by March for June/July start",
+          "Choose Fashion Experience Junior for ages 15-17",
+          "Choose Global Design for cross-disciplinary exposure",
+          "Combine course with Madrid Fashion Week (if timing aligns)",
+          "Bring a sketchbook and basic art supplies"
+        ],
+        "dont": [
+          "Don't expect luxury accommodations — IED student housing is basic",
+          "Don't skip the cultural visits — Madrid's museums inform design thinking",
+          "Don't underestimate Madrid summer heat (40°C+) — choose morning classes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooking-classes-tourists-madrid",
+    "category": "do",
+    "subcategory": "food",
+    "title": "Cooking Classes for Tourists in Madrid (English)",
+    "summary": "Short tourist-format cooking classes in Madrid with English instruction: Devour Tours workshop, City Experiences, Viator, Musement. Market visit + paella/tapas cooking. €80-€150 per person.",
+    "content": "Short tourist-format cooking classes are one of Madrid's most popular English-language tourism products. Unlike the formal culinary school programs (see culinary-schools-madrid record), these are 2-4 hour hands-on classes designed for tourists wanting to learn paella, tapas, or specific Spanish dishes. The format is consistent across operators: market visit (typically Mercado de San Miguel or a neighborhood market), then a hands-on cooking class in a teaching kitchen, ending with eating what you've prepared with wine. Devour Tours runs a Spanish cooking workshop starting with a market stroll for a '360° view of local ingredients' — they're Madrid's top-rated operator (see devour-madrid-food-tours record). City Experiences (cityexperiences.com) offers a Paella and Tapas Cooking Class with traditional market tour and vermouth tasting. Viator's 'Madrid Cooking Class and Market Visit: Paella and Tapas' has 5.0 stars from 550 reviews at €99 per person. Musement offers a similar format. Most classes teach: paella valenciana (the authentic version), tortilla de patatas, gazpacho, croquetas, patatas bravas. Wine pairings are always included. Classes typically run €80-€150 per person, last 3-4 hours, and cap at 8-12 participants. Most operators run classes in English daily, with morning (10am) and evening (5pm) starts. Booking 1-2 weeks ahead is recommended in peak season (April-October). Many classes are vegetarian-friendly (with advance notice) but vegan options are limited. Gluten-free options exist but require advance notice. These classes are explicitly designed for English-speaking tourists — instructors are bilingual, recipes are provided in English, and the atmosphere is social and fun rather than rigorous culinary training.",
+    "official_url": "https://devourtours.com/blog/cooking-classes-in-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "cooking-class",
+      "tourist",
+      "short-format",
+      "paella",
+      "tapas",
+      "english-speaking",
+      "market-visit",
+      "culinary-experience"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "devour-madrid-food-tours",
+      "food-tours-madrid",
+      "culinary-schools-madrid",
+      "mercado-san-miguel",
+      "mercados-madrid",
+      "spanish-food-basics"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid cooking classes — tourist format",
+        "body": "2-4 hour hands-on classes for English-speaking tourists. Market visit + paella/tapas cooking + wine. €80-€150 per person. Book 1-2 weeks ahead for peak season.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Class length",
+            "value": "2-4 hours"
+          },
+          {
+            "label": "Cost per person",
+            "value": "€80-€150"
+          },
+          {
+            "label": "Group size",
+            "value": "8-12 participants typical"
+          },
+          {
+            "label": "Languages",
+            "value": "English (daily)"
+          },
+          {
+            "label": "Booking lead time",
+            "value": "1-2 weeks peak season"
+          },
+          {
+            "label": "Includes",
+            "value": "Market visit, cooking, eating, wine"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid cooking classes for tourists",
+        "items": [
+          {
+            "title": "Devour Tours Spanish Cooking Workshop",
+            "body": "Market stroll + hands-on cooking class. Madrid's top-rated operator. English-speaking instructors. Includes eating + wine.",
+            "meta": [
+              "devourtours.com/blog/cooking-classes-in-madrid"
+            ]
+          },
+          {
+            "title": "City Experiences Paella and Tapas Cooking Class",
+            "body": "Market tour + vermouth tasting + paella/tapas cooking. English-language classes daily.",
+            "meta": [
+              "cityexperiences.com/madrid/madrid-cooking-class"
+            ]
+          },
+          {
+            "title": "Viator Madrid Cooking Class and Market Visit",
+            "body": "5.0 stars from 550 reviews. €99 per person. Paella, tapas, dessert. 3-4 hours.",
+            "meta": [
+              "viator.com/tours/Madrid/Spanish-Cooking-Class-in-Madrid-with-Market-Visit/d566-39034P15"
+            ]
+          },
+          {
+            "title": "Musement Spanish Cooking Class + Market Visit",
+            "body": "Buy groceries at local market, learn to cook traditional dishes. Full culinary experience.",
+            "meta": [
+              "musement.com/us/madrid/spanish-cooking-class-and-visit-to-a-local-madrid-s-market-420179"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What you'll typically cook",
+        "items": [
+          {
+            "title": "Paella Valenciana",
+            "body": "The authentic version — chicken, rabbit, garrofón beans, saffron. Not seafood paella (which is a separate Valencian tradition)."
+          },
+          {
+            "title": "Tortilla de Patatas",
+            "body": "Spanish omelette. Eggs, potatoes, onions (or without onions — the great Spanish debate)."
+          },
+          {
+            "title": "Gazpacho",
+            "body": "Cold tomato soup. Blended tomatoes, peppers, cucumber, bread, garlic, olive oil, vinegar."
+          },
+          {
+            "title": "Croquetas",
+            "body": "Bechamel fritters. Often jamón (ham) or chicken filling."
+          },
+          {
+            "title": "Patatas Bravas",
+            "body": "Fried potato cubes with spicy brava sauce and aioli."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking a Madrid cooking class",
+        "do": [
+          "Book 1-2 weeks ahead in peak season (April-October)",
+          "Tell the operator about food allergies at booking",
+          "Choose a class with market visit — adds authentic context",
+          "Tip the instructor 10% if you had a great experience",
+          "Bring an appetite — you eat what you cook"
+        ],
+        "dont": [
+          "Don't expect professional-level training — these are tourist experiences",
+          "Don't book a class over 12 people — too crowded to actually cook",
+          "Don't expect vegan options without advance notice",
+          "Don't skip breakfast assuming you'll eat immediately — cooking takes 2+ hours before eating"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wine-tours-from-madrid",
+    "category": "see",
+    "subcategory": "tours",
+    "title": "Wine Tours from Madrid (Ribera del Duero, Rioja)",
+    "summary": "Guided wine tours from Madrid to Ribera del Duero (1.5 hours) and Rioja (3 hours). English-speaking guides. Wine Tourism Spain, Winerist, Wine Tours Rioja. Day trips €150-€300 per person.",
+    "content": "Madrid is the ideal base for wine tourism in central Spain — within 1.5-3 hours' drive of two of Spain's most prestigious wine regions: Ribera del Duero and Rioja. Multiple English-speaking tour operators run guided day trips and multi-day tours from Madrid. Wine Tourism Spain (winetourismspain.com) runs private luxury guided wine tours of Ribera del Duero with friendly wine experts, handling all driving and logistics. Winerist operates a 'Ribera del Duero Wine Tasting Tour from Madrid' (10-11 hours, 3 winery visits, bilingual guide, tastings of minimum 3 wines per winery). Wine Tours Rioja offers combined Rioja + Ribera del Duero private tours for the most comprehensive Spanish wine experience. TripAdvisor's Ribera del Duero Wineries Guided Tour from Madrid has 412 reviews at 5.0 stars — visit 3 local wineries, learn about the winemaking process, taste multiple wines. Viator's similar tour has the same format. Ribera del Duero is closer to Madrid (1.5 hours by car) and produces Spain's most prestigious Tempranillo reds — Vega Sicilia (Spain's most expensive wine) is from this region. Rioja is 3 hours from Madrid and offers a broader range of styles plus more traditional bodegas (some designed by famous architects like Frank Gehry's Marqués de Riscal). Day trip costs: €150-€300 per person depending on group size and inclusions. Multi-day tours (2-3 days) typically cost €600-€1,500 per person including accommodation. Most tours include: transportation from Madrid, English-speaking guide, 2-3 winery visits, tastings at each winery, and often lunch. Madrid also has wine tasting classes and wine bars for those who don't want to leave the city — see wine-certification-spain record.",
+    "official_url": "https://www.winerist.com/wine-tours/spain/ribera-del-duero/ribera-del-duero-wine-tour-from-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "wine-tour",
+      "ribera-del-duero",
+      "rioja",
+      "wine-tasting",
+      "day-trip",
+      "english-speaking-guide",
+      "wine-tourism",
+      "tempranillo"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "day-tours-from-madrid",
+      "wine-certification-spain",
+      "spanish-wines-madrid",
+      "devour-madrid-food-tours",
+      "food-tours-madrid",
+      "toledo",
+      "segovia-day-trip"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = ideal base for wine tourism",
+        "body": "Ribera del Duero (1.5 hrs) and Rioja (3 hrs) are within day-trip distance from Madrid. Multiple English-speaking operators run guided tours. €150-€300 per person for day trips.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ribera del Duero from Madrid",
+            "value": "1.5 hours by car"
+          },
+          {
+            "label": "Rioja from Madrid",
+            "value": "3 hours by car"
+          },
+          {
+            "label": "Day trip cost",
+            "value": "€150-€300 per person"
+          },
+          {
+            "label": "Multi-day (2-3 days)",
+            "value": "€600-€1,500 per person"
+          },
+          {
+            "label": "Winery visits typical",
+            "value": "3 per day trip"
+          },
+          {
+            "label": "Wines per tasting",
+            "value": "3+ per winery"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top wine tour operators from Madrid",
+        "items": [
+          {
+            "title": "Wine Tourism Spain",
+            "body": "Private luxury guided wine tours of Ribera del Duero. Wine expert guides. All logistics handled.",
+            "meta": [
+              "winetourismspain.com/wine-tours/ribera-del-duero"
+            ]
+          },
+          {
+            "title": "Winerist Ribera del Duero from Madrid",
+            "body": "10-11 hour day trip. 3 winery visits. Local bilingual expert guide. €200-€300 per person.",
+            "meta": [
+              "winerist.com/wine-tours/spain/ribera-del-duero/ribera-del-duero-wine-tour-from-madrid"
+            ]
+          },
+          {
+            "title": "Wine Tours Rioja (combined Rioja + Ribera)",
+            "body": "Private tour combining both regions. Most comprehensive Spanish wine tour.",
+            "meta": [
+              "winetoursrioja.com/rioja-and-ribera-de-duero-wine-tour"
+            ]
+          },
+          {
+            "title": "TripAdvisor/Viator Ribera del Duero from Madrid",
+            "body": "5.0 stars from 412 reviews. 3 wineries. Wine tasting at each. Bilingual guide.",
+            "meta": [
+              "tripadvisor.com/AttractionProductReview-g187514-d11474775"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What you'll taste",
+        "items": [
+          {
+            "title": "Ribera del Duero",
+            "body": "Spain's most prestigious Tempranillo reds. Vega Sicilia (Spain's most expensive wine). Robust, age-worthy reds. Higher altitude gives freshness."
+          },
+          {
+            "title": "Rioja",
+            "body": "Broader range of styles. Traditional (long oak aging) vs modern (more fruit-forward). White, rosé, and red. Marqués de Riscal, CVNE, La Rioja Alta."
+          },
+          {
+            "title": "Madrid region wines",
+            "body": "D.O. Vinos de Madrid — lesser known but improving. Arganda, Navalcarnero, San Martín sub-regions. Local wineries within 30-60 min of Madrid."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Wine tours from Madrid",
+        "do": [
+          "Book 1-2 weeks ahead in peak season (April-October)",
+          "Choose Ribera del Duero for 1-day trip (closer to Madrid)",
+          "Choose Rioja for 2-3 day trip (more wineries, better experience)",
+          "Eat breakfast before the tour — tasting on empty stomach is rough",
+          "Buy wine at wineries — often cheaper than retail and not available elsewhere"
+        ],
+        "dont": [
+          "Don't drink and drive — use a tour operator or hire a driver",
+          "Don't expect to spit out wine — Spanish tasting culture swallows",
+          "Don't book tours on Sundays — some wineries closed",
+          "Don't underestimate the drive time — Madrid traffic can add 30-45 min"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "day-tours-from-madrid (general day trips), wine-certification-spain (WSET courses in Madrid), spanish-wines-madrid (Spanish wine basics), devour-madrid-food-tours (food tours in Madrid).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "gap-year-programs-madrid",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Gap Year Programs in Madrid (English-Speaking)",
+    "summary": "Madrid-based gap year programs recruiting international students: UC3M Gap Year (€10,000/semester), RVF Teach English, Go Overseas programs, TEFL Iberia gap year. 1 semester to 9 months.",
+    "content": "Madrid has emerged as a popular gap year destination for English-speaking students, with several programs explicitly recruiting international 18-25 year olds. The most formal is the UC3M (Carlos III University) Gap Year Program — 1 semester (4 months) or full year, certified content up to 30 ECTS credits, taught in English. UC3M Gap Year tuition is €10,000 per semester. The program allows international students to fully immerse in Spanish university life by choosing courses in either Spanish or English. Go Overseas lists multiple gap year programs in Madrid including 'Teach English in Spain with RVF | Get Paid to Travel and Explore' — a year-long program combining TEFL certification with paid teaching placement. TEFL Iberia runs gap year programs in Spain lasting 3-9 months, 25 hours per week, costing €8,235-€15,090 — these typically combine TEFL certification with Spanish language learning and cultural immersion. GoAbroad lists additional Madrid gap year options. The gap year market targets: (1) recent high school graduates wanting a structured year abroad before college, (2) college students taking a gap year, (3) recent graduates wanting international experience before entering the workforce. Madrid's appeal for gap years: lower cost than London/Paris, safe city, growing international community, Spanish language learning opportunity, easy European travel. Most programs include: housing, language classes, cultural activities, and either academic credit or work placement. Programs typically run September-December (fall semester), January-April (spring semester), or June-August (summer intensive).",
+    "official_url": "https://www.uc3m.es/C3IS/gap-year/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "gap-year",
+      "international-students",
+      "uc3m",
+      "english-taught",
+      "young-adults",
+      "cultural-immersion",
+      "study-abroad"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-taught-masters-madrid",
+      "english-mba-programs-madrid",
+      "student-visa-spain",
+      "internship-services-madrid",
+      "aupair-spain-madrid",
+      "teach-english-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is a growing gap year destination",
+        "body": "Multiple gap year programs recruit English-speaking students: UC3M Gap Year (€10K/semester), RVF Teach English, TEFL Iberia (3-9 months, €8K-15K). 1 semester to 9 months.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "UC3M Gap Year tuition",
+            "value": "€10,000/semester"
+          },
+          {
+            "label": "UC3M duration",
+            "value": "1 semester (4 months) or 1 year"
+          },
+          {
+            "label": "UC3M credits",
+            "value": "Up to 30 ECTS"
+          },
+          {
+            "label": "TEFL Iberia gap year",
+            "value": "€8,235-€15,090 (3-9 months)"
+          },
+          {
+            "label": "Typical ages",
+            "value": "18-25"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish immersion"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid gap year programs",
+        "items": [
+          {
+            "title": "UC3M Gap Year Program",
+            "body": "1 semester or 1 year. Up to 30 ECTS credits. Choose Spanish or English courses. €10,000/semester. Most formal Madrid gap year.",
+            "meta": [
+              "uc3m.es/C3IS/gap-year/en"
+            ]
+          },
+          {
+            "title": "RVF Teach English in Spain",
+            "body": "Year-long program. TEFL certification + paid teaching placement. Get paid to travel and explore Spain.",
+            "meta": [
+              "gooverseas.com/gap-year/spain/madrid"
+            ]
+          },
+          {
+            "title": "TEFL Iberia Gap Year",
+            "body": "3-9 months. 25 hours/week. TEFL certification + Spanish language + cultural immersion. €8,235-€15,090.",
+            "meta": [
+              "tefl-iberia.com/blog/best-gap-year-programs-in-spain"
+            ]
+          },
+          {
+            "title": "GoAbroad Madrid gap year listings",
+            "body": "Aggregator. Multiple program options. Compare providers.",
+            "meta": [
+              "goabroad.com/gap-year/search/spain/madrid/gap-year-1"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What gap year programs typically include",
+        "items": [
+          {
+            "title": "Housing",
+            "body": "Homestay, student residence, or shared apartment. Homestays offer most immersion."
+          },
+          {
+            "title": "Language classes",
+            "body": "Spanish language courses. Usually 4-10 hours/week."
+          },
+          {
+            "title": "Cultural activities",
+            "body": "Madrid museum visits, flamenco shows, cooking classes, weekend excursions to Toledo/Segovia."
+          },
+          {
+            "title": "Academic credit OR work placement",
+            "body": "UC3M gives ECTS credits. TEFL programs give teaching placement. RVF gives paid teaching work."
+          },
+          {
+            "title": "On-ground support",
+            "body": "Program coordinator, 24/7 emergency support, orientation."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Madrid gap year",
+        "do": [
+          "Apply 6-9 months ahead for September start",
+          "Choose UC3M for academic credit + university experience",
+          "Choose TEFL Iberia or RVF for paid teaching + TEFL certification",
+          "Choose homestay housing for Spanish immersion",
+          "Budget €10,000-€20,000 for full year (program + living)"
+        ],
+        "dont": [
+          "Don't expect luxury — gap year housing is basic",
+          "Don't skip the language classes — Spanish makes Madrid life easier",
+          "Don't book without reading reviews on Go Overseas / GoAbroad",
+          "Don't forget student visa (if non-EU) — see student-visa-spain record"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Why Madrid for a gap year?",
+        "body": "Lower cost than London/Paris. Safe city (one of Europe's safest capitals). Growing international community. Spanish language learning. Easy European travel (1-2 hour flights to all major European cities). Mild climate (except July-August heat).",
+        "tone": "info"
       }
     ]
   }
