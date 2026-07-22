@@ -960,7 +960,7 @@
     "content": "20 essential Spanish phrases for Madrid. GREETINGS: (1) 'Hola, buenas' — Hello (casual, any time of day). (2) 'Buenos días' — Good morning. (3) 'Buenas tardes' — Good afternoon. (4) 'Buenas noches' — Good evening/night. (5) 'Adiós' / 'Hasta luego' — Goodbye / See you later. POLITE: (6) 'Por favor' — Please. (7) 'Gracias' — Thank you. (8) 'De nada' — You're welcome. (9) 'Perdone' — Excuse me / Sorry. (10) '¿Habla inglés?' — Do you speak English? RESTAURANT: (11) 'La carta, por favor' — The menu, please. (12) 'La cuenta, por favor' — The bill, please. (13) 'Para mí...' — For me... (ordering). (14) 'Sin gluten' — Gluten-free. DIRECTIONS: (15) '¿Dónde está...?' — Where is...? (16) '¿Dónde está el baño?' — Where is the bathroom? (17) '¿Cuánto cuesta?' — How much? NUMBERS: (18) 'Uno, dos, tres' — One, two, three. (19) 'Una cerveza, por favor' — One beer, please. EMERGENCY: (20) '¡Ayuda! Necesito un médico' — Help! I need a doctor. TIP: Download Google Translate, set Spanish offline, and use camera mode to translate menus and signs. Most Spaniards in tourist areas speak some English — but trying Spanish first goes a long way.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "language",
       "spanish"
@@ -973,7 +973,80 @@
       "useful-information-madrid"
     ],
     "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm",
-    "subsubcategory": "Phrases"
+    "subsubcategory": "Phrases",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "20 phrases that will transform your Madrid experience",
+        "body": "Most Madrileños speak some English, but starting any interaction with 'Hola, buenos días' and a few words of Spanish changes everything. Service improves, prices drop, locals warm up. Print this list and carry it.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Phrases",
+            "value": "20 essentials"
+          },
+          {
+            "label": "Time to learn",
+            "value": "30 minutes"
+          },
+          {
+            "label": "Pronunciation",
+            "value": "Phonetic — sounds like it's spelled"
+          },
+          {
+            "label": "Politeness matters",
+            "value": "Always say 'por favor' and 'gracias'"
+          },
+          {
+            "label": "Slow & clear",
+            "value": "Spaniards appreciate effort over fluency"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "20 essential Spanish phrases",
+        "items": [
+          {
+            "title": "Greetings",
+            "body": "Hola (hello) · Buenos días (good morning) · Buenas tardes (good afternoon) · Buenas noches (good evening/night) · Adiós (goodbye)"
+          },
+          {
+            "title": "Politeness",
+            "body": "Por favor (please) · Gracias (thank you) · De nada (you're welcome) · Perdón (excuse me/sorry) · Disculpe (excuse me, formal)"
+          },
+          {
+            "title": "Basic needs",
+            "body": "¿Dónde está...? (where is...?) · ¿Cuánto cuesta? (how much?) · La cuenta, por favor (the bill, please) · ¿Habla inglés? (do you speak English?) · No entiendo (I don't understand)"
+          },
+          {
+            "title": "Emergencies",
+            "body": "¡Ayuda! (help!) · Necesito un médico (I need a doctor) · Llame a la policía (call the police) · ¿Dónde está el baño? (where's the bathroom?)"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Speaking Spanish in Madrid",
+        "do": [
+          "Start every interaction with 'Hola, buenos días' or 'Buenas tardes'",
+          "Use 'usted' (formal you) with elderly people and authorities",
+          "Say 'gracias' when leaving any shop, café, or restaurant",
+          "Pronounce 'c' and 'z' like 'th' (Castilian Spanish) — Madrid accent",
+          "Carry a translation app for complex conversations"
+        ],
+        "dont": [
+          "Don't use Latin American Spanish pronunciation (seseo) — sounds out of place in Madrid",
+          "Don't skip 'por favor' — Spaniards notice and judge",
+          "Don't shout or repeat slowly if not understood — try different words",
+          "Don't assume everyone speaks English — many older Madrileños don't"
+        ]
+      }
+    ]
   },
   {
     "id": "emergency-numbers",
@@ -3427,7 +3500,7 @@
     "official_url": "https://www.museodelprado.es/en/whats-on/exhibitions",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "exhibitions",
       "prado"
@@ -3437,7 +3510,83 @@
       "reina-sofia-current",
       "thyssen-current"
     ],
-    "subsubcategory": "Museum Exhibitions"
+    "subsubcategory": "Museum Exhibitions",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Prado's temporary exhibitions are world-class",
+        "body": "Beyond its permanent collection, the Prado hosts 3-4 major temporary exhibitions per year. These are usually themed around Spanish masters or comparative exhibitions with other European collections. Always book ahead.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Major exhibitions per year",
+            "value": "3-4"
+          },
+          {
+            "label": "Average run",
+            "value": "3-4 months"
+          },
+          {
+            "label": "Ticket supplement",
+            "value": "€4-€8 above general admission"
+          },
+          {
+            "label": "Free hours",
+            "value": "Mon-Sat 6-8pm, Sun 5-7pm"
+          },
+          {
+            "label": "Booking",
+            "value": "Recommended for opening weeks"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Current/upcoming Prado exhibitions",
+        "items": [
+          {
+            "title": "Check official site",
+            "body": "Exhibition schedule changes. Visit museodelprado.es/en/whats-on/exhibitions for current list."
+          },
+          {
+            "title": "Velázquez exhibitions",
+            "body": "Prado has world's largest Velázquez collection. Periodic thematic exhibitions of his work."
+          },
+          {
+            "title": "Goya exhibitions",
+            "body": "Major Goya shows every 2-3 years. Often feature Black Paintings or Disasters of War series."
+          },
+          {
+            "title": "International collaborations",
+            "body": "Joint exhibitions with Louvre, Met, National Gallery. Comparative Spanish-Italian or Spanish-Flemish themes."
+          },
+          {
+            "title": "Conservation reveals",
+            "body": "When the Prado restores a major work, they often display it with the conservation process explained."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Prado temporary exhibitions",
+        "do": [
+          "Book online for opening weeks — sells out",
+          "Visit during free hours (Mon-Sat 6-8pm) — but expect crowds",
+          "Get the audio guide for temporary exhibitions — usually excellent",
+          "Combine with permanent collection visit on same ticket",
+          "Check the Prado's YouTube channel for exhibition preview videos"
+        ],
+        "dont": [
+          "Don't expect to walk in during peak times — book ahead",
+          "Don't try to see both permanent + temporary in one visit — 4+ hours, exhausting",
+          "Don't miss the exhibition catalog gift shop — high quality, unique"
+        ]
+      }
+    ]
   },
   {
     "id": "reina-sofia-current",
@@ -3449,7 +3598,7 @@
     "official_url": "https://www.museoreinasofia.es/en/exhibitions",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "exhibitions",
       "reina-sofia"
@@ -3459,7 +3608,83 @@
       "prado-current",
       "thyssen-current"
     ],
-    "subsubcategory": "Museum Exhibitions"
+    "subsubcategory": "Museum Exhibitions",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Reina Sofía specializes in 20th-century and contemporary art",
+        "body": "Beyond Picasso's Guernica (permanent), Reina Sofía hosts major exhibitions of contemporary and 20th-century art. Strong on Spanish artists (Picasso, Dalí, Miró) and international contemporary.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Major exhibitions per year",
+            "value": "5-6"
+          },
+          {
+            "label": "Average run",
+            "value": "3-5 months"
+          },
+          {
+            "label": "Ticket",
+            "value": "€10 general, €8 temporary only"
+          },
+          {
+            "label": "Free hours",
+            "value": "Mon/Wed/Thu/Fri 7-9pm, Sat 2:30-9pm, Sun mornings"
+          },
+          {
+            "label": "Closed",
+            "value": "Tuesdays"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What Reina Sofía exhibitions cover",
+        "items": [
+          {
+            "title": "Picasso and contemporaries",
+            "body": "Regular Picasso-themed shows, often tied to Guernica research. Joint shows with Musée Picasso Paris."
+          },
+          {
+            "title": "Spanish surrealism",
+            "body": "Dalí, Miró, Buñuel themed exhibitions. Often collaborate with Dalí Theatre-Museum in Figueres."
+          },
+          {
+            "title": "International contemporary",
+            "body": "Major contemporary artists — Ai Weiwei, Anselm Kiefer, Doris Salcedo retrospectives."
+          },
+          {
+            "title": "Latin American art",
+            "body": "Strong Latin American collection. Regular exhibitions of Latin American contemporary artists."
+          },
+          {
+            "title": "Video and installation art",
+            "body": "Strong in time-based media. Specialized galleries for video art."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Reina Sofía",
+        "do": [
+          "Visit Guernica first (room 206, 2nd floor) — most popular, gets crowded",
+          "Allow 3 hours for permanent + 1 temporary exhibition",
+          "Use free hours for budget visits (Mon/Wed/Thu/Fri 7-9pm)",
+          "Check the museum's Nouvel building (modern extension) for contemporary shows",
+          "Take the elevator to 4th floor terrace — great views of Atocha"
+        ],
+        "dont": [
+          "Don't visit on Tuesday — closed",
+          "Don't miss the Dalí collection — many visitors go straight to Guernica and skip it",
+          "Don't expect chronological layout — Reina Sofía is thematic, can be confusing"
+        ]
+      }
+    ]
   },
   {
     "id": "thyssen-current",
@@ -4302,7 +4527,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "connectivity",
       "sim",
@@ -4314,7 +4539,84 @@
       "public-wifi-madrid",
       "coworking-madrid"
     ],
-    "subsubcategory": "Mobile"
+    "subsubcategory": "Mobile",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish SIM cards are cheap and easy",
+        "body": "A Spanish SIM card costs €10-€15 with generous data (10-30 GB). Available at any Movistar, Vodafone, Orange, or Yoigo store. No contract required — pay-as-you-go with auto-renewal.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€10-€15 starter"
+          },
+          {
+            "label": "Data included",
+            "value": "10-30 GB"
+          },
+          {
+            "label": "Required document",
+            "value": "Passport + NIE (if you have one)"
+          },
+          {
+            "label": "Activation",
+            "value": "Instant (in-store)"
+          },
+          {
+            "label": "Top-up",
+            "value": "Online, in-store, or at tobacco shops"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spanish mobile operators",
+        "items": [
+          {
+            "title": "Movistar",
+            "body": "Largest network, best coverage. Premium prices (€15-€25/mo). Best for rural travel."
+          },
+          {
+            "title": "Vodafone",
+            "body": "Strong in Madrid and Barcelona. Good international roaming. €12-€20/mo."
+          },
+          {
+            "title": "Orange",
+            "body": "Good value mid-range. €10-€15/mo. Decent coverage in cities."
+          },
+          {
+            "title": "Yoigo",
+            "body": "Budget option, owned by MásMóvil. €8-€12/mo. Limited rural coverage."
+          },
+          {
+            "title": "Low-cost MVNOs",
+            "body": "Pepephone, Lowi, Digi, Simyo — €8-€15/mo. Use same networks as above."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Getting a Spanish SIM",
+        "do": [
+          "Bring your passport (and NIE if you have one)",
+          "Compare 2-3 operators before buying",
+          "Ask about porting your existing Spanish number (if you have one)",
+          "Check if your phone is unlocked (especially US iPhones)",
+          "Keep the SIM card holder — has the PUK code"
+        ],
+        "dont": [
+          "Don't buy from airport kiosks — overpriced (€30+)",
+          "Don't expect English at every store — Movistar and Vodafone have most English speakers",
+          "Don't assume your US/UK eSIM works on Spanish networks — verify roaming fees",
+          "Don't forget to top up monthly — pay-as-you-go deactivates after 90 days unused"
+        ]
+      }
+    ]
   },
   {
     "id": "esim-madrid",
@@ -4351,7 +4653,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "connectivity",
       "wifi",
@@ -4364,7 +4666,84 @@
       "coworking-madrid",
       "internet-cafes-madrid"
     ],
-    "subsubcategory": "Internet"
+    "subsubcategory": "Internet",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Free WiFi is everywhere in Madrid",
+        "body": "Madrid has extensive free WiFi — cafes, libraries, parks, metro stations, and the city's free municipal WiFi network. Quality varies but you can always find a connection.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Madrid municipal WiFi",
+            "value": "Free in 200+ public locations"
+          },
+          {
+            "label": "Metro WiFi",
+            "value": "Free at all stations (Vodafone-funded)"
+          },
+          {
+            "label": "Library WiFi",
+            "value": "Free, fast, requires library card or visitor pass"
+          },
+          {
+            "label": "Cafe WiFi",
+            "value": "Free at Starbucks, McDonald's, most independent cafes"
+          },
+          {
+            "label": "Park WiFi",
+            "value": "Free in Retiro, Madrid Río, Plaza Mayor"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to find free WiFi",
+        "items": [
+          {
+            "title": "Madrid Municipal WiFi",
+            "body": "Network: 'MAD-WIFI-FREE'. Available in 200+ public spaces including libraries, civic centers, and major parks."
+          },
+          {
+            "title": "Metro WiFi",
+            "body": "Network: 'VODAFONE-METRO'. Free at all metro stations (not on trains). 30-min session limit."
+          },
+          {
+            "title": "Public libraries",
+            "body": "Biblioteca Nacional, regional libraries. Free, fast. Need library card or visitor pass."
+          },
+          {
+            "title": "Cafes",
+            "body": "All Starbucks (free, no purchase needed). Most independent cafes — ask '¿Tienen WiFi?'. McDonald's, Burger King always free."
+          },
+          {
+            "title": "Coworking spaces",
+            "body": "WeWork, Impact Hub, Tinder Space. €10-€25/day for day pass with fast WiFi."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Public WiFi in Madrid",
+        "do": [
+          "Use a VPN on public WiFi — Madrid has high cybercrime rates",
+          "Carry a portable battery — WiFi drains phone battery fast",
+          "Download offline maps (Google Maps, Citymapper) before leaving WiFi",
+          "Ask '¿Tienen WiFi?' at cafes — most will share the password",
+          "Use Madrid's municipal WiFi network for sensitive browsing"
+        ],
+        "dont": [
+          "Don't do online banking on unsecured public WiFi",
+          "Don't expect fast WiFi at hotels — Spanish hotel WiFi is notoriously slow",
+          "Don't rely on cafe WiFi for video calls — bandwidth is shared",
+          "Don't forget your library card — fastest free WiFi in Madrid"
+        ]
+      }
+    ]
   },
   {
     "id": "coworking-madrid",
@@ -7274,7 +7653,80 @@
       "madrid-barajas-airport",
       "metro-closures"
     ],
-    "subsubcategory": "Metro Alerts"
+    "subsubcategory": "Metro Alerts",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Lines 6, 7, 9B, and 10 under renovation Summer 2026",
+        "body": "Madrid Metro is running major renovation works through Summer 2026 (June-September). Multiple lines have partial closures with free shuttle bus replacements. Plan extra time.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Affected lines",
+            "value": "L6 (full closure), L7 (partial), L9B (partial), L10 (partial)"
+          },
+          {
+            "label": "Duration",
+            "value": "June-September 2026"
+          },
+          {
+            "label": "Replacement",
+            "value": "Free shuttle buses (EMT-operated)"
+          },
+          {
+            "label": "Frequency",
+            "value": "Buses every 5-10 min during metro hours"
+          },
+          {
+            "label": "Info source",
+            "value": "metromadrid.es/en/avisos"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Affected sections",
+        "items": [
+          {
+            "title": "Line 6 (Circular)",
+            "body": "Full closure June-August. Replaced by EMT shuttle buses following the circular route."
+          },
+          {
+            "title": "Line 7",
+            "body": "Partial closure between Pitis and Arroyo de la Vega. Shuttle bus covers affected stations."
+          },
+          {
+            "title": "Line 9B (Tres Olivos branch)",
+            "body": "Closure between Tres Olivos and Mirasierra. Use the main L9 line plus shuttle bus."
+          },
+          {
+            "title": "Line 10",
+            "body": "Partial closure between Tres Olivos and Hospital Infanta Sofía. Shuttle bus replacement."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Coping with metro closures",
+        "do": [
+          "Check metromadrid.es/en/avisos before any metro trip",
+          "Allow 30-60 min extra for journeys crossing closed sections",
+          "Use Cercanías trains as alternative (passes through central Madrid)",
+          "Consider EMT buses (€1.50 single) — usually faster than shuttles",
+          "Use BiciMAD e-bikes for short trips during closures"
+        ],
+        "dont": [
+          "Don't expect shuttle buses to match metro speed — they're 50-100% slower",
+          "Don't try to drive instead — Madrid summer traffic is brutal",
+          "Don't rely on Google Maps transit directions — they don't always reflect closures",
+          "Don't forget your Metrobolsillo or Tarjeta Transporte — works on shuttles"
+        ]
+      }
+    ]
   },
   {
     "id": "emt-bus-detours",
@@ -7287,7 +7739,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "now",
       "transit",
@@ -7300,7 +7752,83 @@
       "metro-closures-summer-2026",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Bus Alerts"
+    "subsubcategory": "Bus Alerts",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid bus routes change frequently",
+        "body": "Madrid EMT buses are detoured regularly for marathons, festivals, demonstrations, and construction. Check the EMT app or @EMTmadrid Twitter for current detours before relying on a specific route.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Frequency of detours",
+            "value": "Multiple per week"
+          },
+          {
+            "label": "Major events",
+            "value": "Marathon, Madrid Pride, San Silvestre"
+          },
+          {
+            "label": "Best source",
+            "value": "EMT Madrid app + Twitter @EMTmadrid"
+          },
+          {
+            "label": "Detour duration",
+            "value": "Few hours to several days"
+          },
+          {
+            "label": "Fares during detours",
+            "value": "Same as normal"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Common detour triggers",
+        "items": [
+          {
+            "title": "Marathons and races",
+            "body": "Madrid Marathon (April), San Silvestre (Dec 31). Major street closures 6am-2pm."
+          },
+          {
+            "title": "Madrid Pride (MADO)",
+            "body": "Late June/early July. Center city closures for 10 days. Many bus routes diverted."
+          },
+          {
+            "title": "Demonstrations",
+            "body": "Frequent in Puerta del Sol and Plaza de Cibeles. Usually Saturdays. Closures 10am-2pm."
+          },
+          {
+            "title": "Veranos de la Villa",
+            "body": "Summer festival. Stage setups cause detours near Sabatini Gardens and other venues."
+          },
+          {
+            "title": "Construction",
+            "body": "Ongoing street works throughout the year. Usually small detours, weeks at a time."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Using buses during detours",
+        "do": [
+          "Download the EMT Madrid app — real-time detour info",
+          "Follow @EMTmadrid on Twitter — most up-to-date info",
+          "Allow 15-30 min extra during known event days",
+          "Use Metro as backup — unaffected by street-level detours",
+          "Check bus stop signs — temporary detour notices posted"
+        ],
+        "dont": [
+          "Don't rely on Google Maps transit info during events — may be outdated",
+          "Don't expect drivers to announce detours — read the stop signs",
+          "Don't wait more than 30 min for a diverted bus — find alternative route"
+        ]
+      }
+    ]
   },
   {
     "id": "cercanias-delays",
@@ -9013,7 +9541,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "language",
       "spanish",
@@ -9025,7 +9553,59 @@
       "survival-spanish",
       "emergency-spanish"
     ],
-    "subsubcategory": "Phrases"
+    "subsubcategory": "Phrases",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Restaurant Spanish — order like a local",
+        "body": "Eating out is Madrid's national sport. Knowing a few key phrases transforms your meal experience — better service, correct orders, no surprises on the bill.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Ordering essentials",
+        "items": [
+          {
+            "title": "Getting seated",
+            "body": "Una mesa para dos, por favor (a table for two, please) · ¿Tienen mesa? (do you have a table?) · La carta, por favor (the menu, please)"
+          },
+          {
+            "title": "Ordering",
+            "body": "Para mí... (for me...) · Quería... (I would like...) · Para beber... (to drink...) · ¿Qué nos recomienda? (what do you recommend?)"
+          },
+          {
+            "title": "Dietary restrictions",
+            "body": "Soy vegetariano/a (I'm vegetarian) · Soy celíaco/a (I'm celiac) · Sin gluten (gluten-free) · Sin lactosa (lactose-free) · Sin picante (no spice)"
+          },
+          {
+            "title": "During the meal",
+            "body": "Está delicioso (it's delicious) · ¿Nos trae...? (could you bring us...?) · Otro vino, por favor (another wine, please)"
+          },
+          {
+            "title": "Paying",
+            "body": "La cuenta, por favor (the bill, please) · ¿Aceptan tarjetas? (do you accept cards?) · Con tarjeta (with card) · En efectivo (in cash) · Está todo bien (everything is fine, no issues)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Common menu terms",
+        "items": [
+          {
+            "title": "Meal types",
+            "body": "Desayuno (breakfast) · Comida (lunch, main meal) · Cena (dinner) · Tapas (small plates) · Ración (larger sharing plate) · Menú del día (set lunch menu)"
+          },
+          {
+            "title": "Cooking methods",
+            "body": "A la plancha (grilled) · Frito (fried) · Al horno (baked) · A la parrilla (barbecued) · Crudo (raw)"
+          },
+          {
+            "title": "Common dishes",
+            "body": "Tortilla (Spanish omelette) · Gazpacho (cold tomato soup) · Paella (rice dish) · Jamón ibérico (cured ham) · Pulpo (octopus) · Churros (fried dough)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "emergency-spanish",
@@ -9038,7 +9618,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "language",
       "spanish",
@@ -9052,7 +9632,80 @@
       "restaurant-spanish",
       "emergency-numbers"
     ],
-    "subsubcategory": "Phrases"
+    "subsubcategory": "Phrases",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Memorize these — they could save a life",
+        "body": "If you have a medical emergency, get robbed, or witness a crime in Madrid, you need to communicate fast. Memorize these phrases and store the emergency number (112) in your phone.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Emergency Numbers in Spain",
+        "items": [
+          {
+            "label": "General emergency",
+            "value": "112 (English-speaking operators)"
+          },
+          {
+            "label": "Police (national)",
+            "value": "091 (Policía Nacional)"
+          },
+          {
+            "label": "Police (municipal)",
+            "value": "092 (Policía Municipal)"
+          },
+          {
+            "label": "Ambulance",
+            "value": "061 (SAMUR)"
+          },
+          {
+            "label": "Fire",
+            "value": "080 (Bomberos)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Emergency phrases",
+        "items": [
+          {
+            "title": "Medical",
+            "body": "Necesito un médico (I need a doctor) · Llame a una ambulancia (call an ambulance) · Estoy enfermo/a (I'm sick) · ¿Dónde está el hospital más cercano? (where's the nearest hospital?) · Soy alérgico a... (I'm allergic to...)"
+          },
+          {
+            "title": "Crime",
+            "body": "¡Ayuda! (help!) · Me han robado (I've been robbed) · Llame a la policía (call the police) · Necesito denunciar (I need to report a crime) · ¿Dónde está la comisaría? (where's the police station?)"
+          },
+          {
+            "title": "Fire",
+            "body": "¡Fuego! (fire!) · Llame a los bomberos (call the fire department) · Salgan todos (everybody out) · ¿Dónde está la salida de emergencia? (where's the emergency exit?)"
+          },
+          {
+            "title": "Lost",
+            "body": "Estoy perdido/a (I'm lost) · ¿Dónde estoy? (where am I?) · No encuentro mi hotel (I can't find my hotel) · ¿Puede ayudarme? (can you help me?)"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "In a Madrid emergency",
+        "do": [
+          "Call 112 first — English-speaking operators, free from any phone",
+          "Carry your embassy's emergency number in your phone",
+          "Get travel insurance that covers medical evacuation",
+          "Save your ICE (In Case of Emergency) contact in your phone",
+          "Know the address of your nearest hospital (see hospitals-madrid record)"
+        ],
+        "dont": [
+          "Don't call 091 unless life-threatening — 112 handles all emergencies",
+          "Don't speak only English to non-emergency responders — they may not understand",
+          "Don't wait to report a crime — file a denuncia within 72 hours for insurance",
+          "Don't try to drive yourself to the hospital — call 061 ambulance instead"
+        ]
+      }
+    ]
   },
   {
     "id": "shared-housing-flatmates-madrid",
