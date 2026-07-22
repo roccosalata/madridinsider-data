@@ -3554,7 +3554,97 @@
       "empadronamiento",
       "moving2madrid-relocation"
     ],
-    "subsubcategory": "Renting"
+    "subsubcategory": "Renting",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's rental market is tight — start early",
+        "body": "Madrid has a housing shortage. Rent for a 1-bedroom in central Madrid (Centro, Chamberí, Salamanca) is €1,200-€1,800/month. Expect to provide 2 months deposit + 1 month agency fee + proof of income 3x rent.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "1BR central",
+            "value": "€1,200-€1,800/mo"
+          },
+          {
+            "label": "1BR suburbs",
+            "value": "€700-€1,100/mo"
+          },
+          {
+            "label": "Deposit",
+            "value": "2 months (by law)"
+          },
+          {
+            "label": "Agency fee",
+            "value": "1 month + VAT (paid by tenant)"
+          },
+          {
+            "label": "Typical lease",
+            "value": "5-7 years (residential)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to search",
+        "items": [
+          {
+            "title": "Idealista",
+            "body": "Spain's #1 property portal. Largest selection, English interface. Premium account needed for some listings.",
+            "meta": [
+              "idealista.com"
+            ]
+          },
+          {
+            "title": "Fotocasa",
+            "body": "Second-largest portal. Often has listings not on Idealista.",
+            "meta": [
+              "fotocasa.es"
+            ]
+          },
+          {
+            "title": "Pisos.com",
+            "body": "Third portal. Spanish-only interface but useful for cross-checking."
+          },
+          {
+            "title": "Spotahome",
+            "body": "Mid-term rentals (1-12 months). Verified listings with video tours. Popular with expats.",
+            "meta": [
+              "spotahome.com"
+            ]
+          },
+          {
+            "title": "Moving2Madrid",
+            "body": "English-speaking buyer's/tenant's agent. Useful if you can't visit properties in person.",
+            "meta": [
+              "moving2madrid.com"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Renting in Madrid",
+        "do": [
+          "Use Idealista's filter 'última semana' to catch fresh listings",
+          "Have your NIE and proof of income ready before viewing",
+          "Verify the landlord actually owns the property (Nota Simple from Land Registry)",
+          "Consider Chamberí, Malasaña, or Retiro over Centro for better value",
+          "Use a bilingual contract if Spanish isn't fluent — request it in writing"
+        ],
+        "dont": [
+          "Don't pay any deposit before signing the contract and seeing the property in person",
+          "Don't accept a 'short-term' contract for long-term housing — it's often illegal",
+          "Don't wire money to 'hold' a property you haven't seen",
+          "Don't sign a Spanish contract you don't fully understand",
+          "Don't assume utilities are included — they almost never are"
+        ]
+      }
+    ]
   },
   {
     "id": "healthcare",
@@ -3581,7 +3671,75 @@
       "nie-tie",
       "english-speaking-therapists-madrid"
     ],
-    "subsubcategory": "Overview"
+    "subsubcategory": "Overview",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish healthcare is excellent and affordable",
+        "body": "Spain's healthcare system ranks in the top 10 globally (WHO). Public healthcare (Sanidad) is free for residents and EU citizens with EHIC. Private healthcare is high-quality and significantly cheaper than US/UK private.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Public healthcare",
+            "value": "Free with social security (residents) or EHIC (EU)"
+          },
+          {
+            "label": "Private consultation",
+            "value": "€50-€120"
+          },
+          {
+            "label": "Private insurance",
+            "value": "€40-€150/mo (Sanitas, Adeslas, Asisa)"
+          },
+          {
+            "label": "Emergency",
+            "value": "112 — free for everyone, including tourists"
+          },
+          {
+            "label": "Pharmacy",
+            "value": "Many OTC drugs that require Rx in US/UK"
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Accessing public healthcare as a resident",
+        "items": [
+          {
+            "title": "Get your NIE/TIE",
+            "body": "Foreigner ID required before any public healthcare access.",
+            "tip": "See nie-tie record."
+          },
+          {
+            "title": "Register on the Padrón",
+            "body": "Required for healthcare access. See padron-empadronamiento record.",
+            "tip": "Bring your empadronamiento certificate to the healthcare center."
+          },
+          {
+            "title": "Get a Social Security number",
+            "body": "If employed, your employer does this. If self-employed, you do it. See social-security-number-spain record."
+          },
+          {
+            "title": "Register at your local Centro de Salud",
+            "body": "Bring NIE + empadronamiento + social security number. You'll be assigned a primary care doctor (médico de cabecera)."
+          },
+          {
+            "title": "Get your Tarjeta Sanitaria",
+            "body": "Health card arrives by mail in 2-4 weeks. Use it for all public healthcare access."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Private insurance recommendation",
+        "body": "If you're not yet in the social security system (recently arrived, freelancer with no contributions, retiree), get private insurance. Sanitas, Adeslas, and Asisa all have English-speaking customer service. Cigna Global and Bupa are expat-friendly international options. See english-speaking-doctors-madrid for clinic recommendations.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "banking",
@@ -3593,7 +3751,7 @@
     "official_url": "https://www.bankinter.com/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-22",
     "tags": [
       "banking",
       "accounts",
@@ -3609,7 +3767,64 @@
       "fintech-banking-spain",
       "banking-spain"
     ],
-    "subsubcategory": "Bank Accounts"
+    "subsubcategory": "Bank Accounts",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Non-residents can open accounts with just a passport",
+        "body": "If you don't yet have your NIE, you can still open a 'cuenta no residente' (non-resident account) at BBVA, Santander, CaixaBank, or Bankinter with just your passport. Once you have your NIE, switch to a resident account (lower fees).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Non-resident account",
+            "value": "Passport only, €15-30/quarter fee"
+          },
+          {
+            "label": "Resident account",
+            "value": "NIE required, often free"
+          },
+          {
+            "label": "Major banks",
+            "value": "BBVA, Santander, CaixaBank, Bankinter"
+          },
+          {
+            "label": "Fintech alternatives",
+            "value": "N26, Revolut (Spanish IBAN, free, English app)"
+          },
+          {
+            "label": "ATM withdrawal fee",
+            "value": "Free at bank's own ATMs; €2-4 at competitors'"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish bank",
+        "do": [
+          "Compare 2-3 banks before opening — fees vary wildly",
+          "Ask about waivable quarterly fees (often waived with direct deposit)",
+          "Get a Spanish IBAN — needed for utilities, phone, gym, etc.",
+          "Consider N26 or Revolut if you want a fully English app experience",
+          "Set up SMS alerts for transactions over €50 (free at most banks)"
+        ],
+        "dont": [
+          "Don't pay €30/quarter maintenance without asking for a waiver",
+          "Don't assume your US/UK bank card will work everywhere — Spanish merchants reject some foreign cards",
+          "Don't use Bankinter's standard account without asking about their 'uenta móvil' (no-fee mobile-only account)",
+          "Don't forget to update your bank with your NIE once you get it"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "fintech-banking-spain (N26, Revolut, Bunq), spanish-iban-explained (IBAN format + SEPA transfers), transfers-spain (Wise, Remitly, Western Union).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "ride-sharing-madrid",
@@ -4374,7 +4589,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "sol",
@@ -4389,7 +4604,85 @@
       "royal-palace",
       "walking-tours-madrid"
     ],
-    "subsubcategory": "City Center"
+    "subsubcategory": "City Center",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's beating heart — loud, crowded, essential",
+        "body": "Sol and Gran Vía is the tourist and commercial core of Madrid. Loud, busy at all hours, and not where locals choose to live — but you cannot visit Madrid without spending time here. Best for short-stay visitors who want to be walking distance from major sights.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Sol (Km 0)",
+            "value": "Center of Spain's radial road network"
+          },
+          {
+            "label": "Gran Vía",
+            "value": "Madrid's 'Broadway' — theaters, cinemas, shopping"
+          },
+          {
+            "label": "Hotels",
+            "value": "€120-€300/night (tourist premium)"
+          },
+          {
+            "label": "Airbnb",
+            "value": "€90-€180/night"
+          },
+          {
+            "label": "Metro stops",
+            "value": "Sol (L1, L2, L3), Gran Vía (L1, L5), Callao (L3, L5)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What's here",
+        "items": [
+          {
+            "title": "Puerta del Sol",
+            "body": "Madrid's central square. Km 0 plaque, statue of the Bear and the Strawberry Tree (Madrid's symbol), Casa de Correos (New Year's Eve countdown)."
+          },
+          {
+            "title": "Gran Vía",
+            "body": "Madrid's main commercial boulevard. Theaters, cinemas, hotels, fast fashion. Often compared to Times Square."
+          },
+          {
+            "title": "Plaza Mayor",
+            "body": "Historic 17th-century arcaded square. Tourist restaurants (overpriced) and street performers. 5-minute walk from Sol."
+          },
+          {
+            "title": "Plaza de España",
+            "body": "Recently renovated. Cervantes monument. New park space. Western end of Gran Vía."
+          },
+          {
+            "title": "Barrio de Malasaña border",
+            "body": "Northern edge of Sol blends into Malasaña — Madrid's hipster neighborhood."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting or staying in Sol/Gran Vía",
+        "do": [
+          "Stay here for first-time visits — walking distance to Prado, Royal Palace, Plaza Mayor",
+          "Visit Sol at night — illuminated and atmospheric",
+          "Use Sol Metro as your navigation anchor (3 lines intersect here)",
+          "Walk Gran Vía end-to-end at sunset for the best photos",
+          "Check out Mercado de San Miguel for tapas (touristy but excellent)"
+        ],
+        "dont": [
+          "Don't eat at restaurants with picture menus in Plaza Mayor — overpriced and mediocre",
+          "Don't expect quiet at night — Gran Vía is loud until 3am on weekends",
+          "Don't buy souvenirs on Gran Vía — overpriced, same stuff in El Corte Inglés",
+          "Don't drive here — pedestrian priority, parking impossible",
+          "Don't miss the rooftop bar at Hotel Riu Plaza España for skyline views"
+        ]
+      }
+    ]
   },
   {
     "id": "malasana-neighborhood",
@@ -4764,7 +5057,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "tour",
       "day-trip",
@@ -4780,7 +5073,93 @@
       "segovia-day-trip",
       "toledo"
     ],
-    "subsubcategory": "Day Tours"
+    "subsubcategory": "Day Tours",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "3 UNESCO World Heritage sites within 1 hour of Madrid",
+        "body": "Toledo, Segovia, and El Escorial are all reachable as day trips from Madrid. Each offers a fundamentally different experience (medieval capital, Roman aqueduct, royal monastery). All three are UNESCO World Heritage Sites.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Toledo (AVE)",
+            "value": "30 min by high-speed train"
+          },
+          {
+            "label": "Segovia (AVE)",
+            "value": "30 min by high-speed train"
+          },
+          {
+            "label": "El Escorial (Cercanías)",
+            "value": "1 hr by commuter train"
+          },
+          {
+            "label": "Ávila (ALSA coach)",
+            "value": "1h 30 min by coach"
+          },
+          {
+            "label": "Cuenca (AVE)",
+            "value": "55 min by high-speed train"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top day trips from Madrid",
+        "items": [
+          {
+            "title": "Toledo",
+            "body": "Medieval capital of Spain. Cathedral, Alcázar, El Greco paintings. Mix of Christian, Jewish, and Muslim heritage. 30 min by AVE from Atocha.",
+            "meta": [
+              "See toledo record"
+            ]
+          },
+          {
+            "title": "Segovia",
+            "body": "Roman aqueduct (2,000 years old, still standing), fairy-tale Alcázar, Gothic cathedral. 30 min by AVE.",
+            "meta": [
+              "See segovia-day-trip record"
+            ]
+          },
+          {
+            "title": "El Escorial",
+            "body": "Royal Monastery built by Philip II. Burial place of Spanish kings. Library is one of the world's most beautiful. 1 hr by Cercanías.",
+            "meta": [
+              "See el-escorial-day-trip record"
+            ]
+          },
+          {
+            "title": "Ávila",
+            "body": "Best-preserved medieval walls in Europe. Birthplace of St. Teresa. 1.5 hr by ALSA coach from Estación Sur."
+          },
+          {
+            "title": "Cuenca",
+            "body": "Casas Colgadas (hanging houses) over a river gorge. 55 min by AVE. Striking landscape."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Day trip logistics",
+        "do": [
+          "Book AVE trains 1-2 weeks ahead for cheaper fares (€15-€25 vs €40+ day-of)",
+          "Start early — 7-8am trains get you there for a full day",
+          "Use Renfe's Spain Pass if doing 3+ day trips in a month",
+          "Book a guided walking tour in each city — €15-€25, excellent value",
+          "Eat lunch outside the main tourist squares — same food, half the price"
+        ],
+        "dont": [
+          "Don't try to do Toledo AND Segovia in the same day — pick one",
+          "Don't rent a car for these trips — trains are faster and easier",
+          "Don't book the bus tour from Madrid — you'll spend 4 hours on a bus for 3 hours in town",
+          "Don't visit on Mondays — most museums and many restaurants closed"
+        ]
+      }
+    ]
   },
   {
     "id": "parque-de-atracciones-madrid",
@@ -5020,7 +5399,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "bureaucracy",
       "padron",
@@ -5037,7 +5416,94 @@
       "healthcare",
       "housing"
     ],
-    "subsubcategory": "Local Registration"
+    "subsubcategory": "Local Registration",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Required for ALL Madrid residents — including Spanish citizens",
+        "body": "Empadronamiento (also called Padrón Municipal) is the local register of residents. It is mandatory for everyone living in Madrid, regardless of nationality. You must register within 30 days of moving to a new address.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "Free"
+          },
+          {
+            "label": "Processing time",
+            "value": "Same day (with appointment)"
+          },
+          {
+            "label": "Validity",
+            "value": "Permanent (renew if you move)"
+          },
+          {
+            "label": "Required for",
+            "value": "Healthcare, schools, voting, marriage"
+          },
+          {
+            "label": "Where",
+            "value": "Any Citizen Service Office (Oficina de Atención al Ciudadano)"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "What to bring",
+        "items": [
+          {
+            "title": "Passport + NIE",
+            "body": "Original + photocopy of each. If you don't have NIE yet, passport alone works."
+          },
+          {
+            "title": "Proof of address",
+            "body": "Rental contract, property deed, OR a signed 'autorización' from the person whose name is on the lease/deed (must be present in person)."
+          },
+          {
+            "title": "Completed form",
+            "body": "Available at the office or download from sede.madrid.es. Spanish only — bring a Spanish speaker if needed."
+          },
+          {
+            "title": "Appointment confirmation",
+            "body": "Book at sede.madrid.es — required for most offices. Walk-ins accepted at Plaza Mayor office for empadronamiento only."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "The process",
+        "items": [
+          {
+            "title": "Book an appointment",
+            "body": "Visit sede.madrid.es and select 'Empadronamiento'. Choose any Oficina de Atención al Ciudadano. Book 1-2 weeks ahead in peak season.",
+            "tip": "Early morning slots have shorter waits."
+          },
+          {
+            "title": "Gather documents",
+            "body": "Passport + NIE + proof of address + completed form. Photocopies required.",
+            "tip": "Make photocopies BEFORE arriving — copy machines at offices are unreliable."
+          },
+          {
+            "title": "Attend appointment",
+            "body": "Arrive 10 minutes early. Take a number. The clerk reviews documents and issues a volante (temporary cert) on the spot.",
+            "tip": "The full certificado takes 1-2 weeks to arrive by mail."
+          },
+          {
+            "title": "Receive certificado",
+            "body": "The full certificado de empadronamiento arrives by mail in 1-2 weeks. Keep it — needed for healthcare, schools, voting."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "If you move within Madrid",
+        "body": "You must re-register at your new address within 30 days. Same process, same documents. The old address is automatically de-registered.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "banking-spain",
@@ -5189,7 +5655,96 @@
       "english-speaking-lawyers-madrid",
       "international-chambers-madrid"
     ],
-    "subsubcategory": "Freelancing"
+    "subsubcategory": "Freelancing",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's autónomo system is straightforward but expensive",
+        "body": "Freelancing in Spain (autónomo) means registering with the tax authority (Agencia Tributaria) and paying a monthly social security fee (cuota). The monthly fee is the same regardless of income — €290-€415/mo (2026 rates) — which is the biggest shock for new freelancers.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Monthly social security",
+            "value": "€290-€415 (2026 rates)"
+          },
+          {
+            "label": "Income tax (IRPF)",
+            "value": "19% (under €12,000) to 47% (over €300,000)"
+          },
+          {
+            "label": "VAT (IVA)",
+            "value": "21% standard, 10% reduced, 4% super-reduced"
+          },
+          {
+            "label": "Flat-rate regime",
+            "value": "Available first 5 years (lower taxes)"
+          },
+          {
+            "label": "Invoice requirement",
+            "value": "Must issue factura for all income"
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Becoming autónomo in Spain",
+        "items": [
+          {
+            "title": "Get your NIE",
+            "body": "Foreigner ID number required. See nie-tie record.",
+            "tip": "Apply at the Oficina de Extranjería — 2-4 week wait."
+          },
+          {
+            "title": "Register with Agencia Tributaria",
+            "body": "Submit Modelo 036 or 037 to declare your activity (epígrafe IAE). Free, online via certificado digital.",
+            "tip": "Use a gestor to do this for €50-€100 — worth it."
+          },
+          {
+            "title": "Register with Social Security",
+            "body": "Submit TA.0521 form within 30 days of starting activity. Sets up monthly direct debit.",
+            "tip": "Choose RETA (régimen especial de trabajadores autónomos)."
+          },
+          {
+            "title": "Get a certificado digital",
+            "body": "Required to file taxes online. Issue by FNMT. Free.",
+            "tip": "Bring your NIE certificate and passport to an authorized registry office."
+          },
+          {
+            "title": "Set up invoicing",
+            "body": "Every invoice must include your NIF, client's NIF, sequential number, date, IVA breakdown, and IRPF retention.",
+            "tip": "Use Holded, Anfix, or Quipu for Spanish-compliant invoicing."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Freelancing in Spain",
+        "do": [
+          "Use a gestor (administrative agent) — €30-€80/mo, handles all tax filings",
+          "Apply for the tarifa plana (€65/mo reduced rate) if first-time autónomo",
+          "Keep all receipts (gastos deducibles) — every €1 deductible saves €0.30+ in tax",
+          "Open a separate business bank account — simplifies accounting",
+          "Get liability insurance (seguro de responsabilidad civil) — €200-€400/year"
+        ],
+        "dont": [
+          "Don't skip social security payments — debt accrues with interest and penalties",
+          "Don't forget to file quarterly IVA and annual IRPF returns (your gestor handles this)",
+          "Don't invoice without including IRPF retention if applicable (7% standard)",
+          "Don't mix personal and business expenses in the same account",
+          "Don't expect to claim home office deductions easily — strict requirements"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "modelo-720 (foreign asset declaration if you have foreign accounts), social-security-number-spain, english-speaking-lawyers-madrid (for contract review), international-chambers-madrid (networking).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "el-escorial-monastery",
@@ -5332,7 +5887,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "shopping",
       "market",
@@ -5347,7 +5902,88 @@
       "lavapies-neighborhood",
       "tetuan-cuatro-caminos-neighborhood"
     ],
-    "subsubcategory": "Markets"
+    "subsubcategory": "Markets",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Skip Mercado de San Miguel — these are better",
+        "body": "Mercado de San Miguel is Madrid's most famous market but is now a tourist trap with prices 3x normal. The real Madrid market experience is at neighborhood mercados where locals actually shop.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Total Madrid markets",
+            "value": "46 neighborhood markets"
+          },
+          {
+            "label": "Best for food tourism",
+            "value": "Mercado de San Miguel (despite prices)"
+          },
+          {
+            "label": "Best for locals",
+            "value": "Mercado de Vallehermoso, Mercado de San Antón"
+          },
+          {
+            "label": "Best for cheap eats",
+            "value": "Mercado de Mostenses"
+          },
+          {
+            "label": "Oldest operating market",
+            "value": "Mercado de la Cebada (1870)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid markets",
+        "items": [
+          {
+            "title": "Mercado de San Miguel",
+            "body": "Plaza de San Miguel (next to Plaza Mayor). Iconic iron-and-glass market. Tapas bars, oysters, jamón. Tourist prices but unmissable atmosphere.",
+            "meta": [
+              "mercado-san-miguel record"
+            ]
+          },
+          {
+            "title": "Mercado de San Antón",
+            "body": "Chueca. Rooftop restaurant with grill-your-own-purchase concept. Modern market with gourmet stalls."
+          },
+          {
+            "title": "Mercado de Vallehermoso",
+            "body": "Chamberí. Local market with gourmet section. Excellent tapas bars on the upper floor. Less crowded than San Miguel."
+          },
+          {
+            "title": "Mercado de la Cebada",
+            "body": "La Latina. Oldest operating market (1870). Huge, local, cheap. Best for fresh produce and seafood."
+          },
+          {
+            "title": "Mercado de Mostenses",
+            "body": "Centro (near Gran Vía). Latin American market. Best for cheap eats — empanadas, arepas, fresh juices."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Madrid market tips",
+        "do": [
+          "Visit Mercado de San Miguel before noon to avoid tourist crowds",
+          "Eat at the tapas bars inside the markets — fresher than any restaurant",
+          "Browse the produce sections first to see what's in season",
+          "Take cash — many stalls don't accept cards",
+          "Try the oysters at Mercado de San Miguel (€2-€3 each, excellent quality)"
+        ],
+        "dont": [
+          "Don't buy produce at Mercado de San Miguel — 3x normal prices",
+          "Don't expect English at neighborhood markets — bring a translation app",
+          "Don't touch produce without asking (pídalo — ask for it)",
+          "Don't visit on Sundays — many stalls closed",
+          "Don't miss the rooftop at Mercado de San Antón — best market restaurant view"
+        ]
+      }
+    ]
   },
   {
     "id": "bookstores-madrid",
@@ -5649,7 +6285,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "tourist-info",
       "office",
@@ -5664,7 +6300,90 @@
       "survival-spanish",
       "useful-information-madrid"
     ],
-    "subsubcategory": "Tourist Offices"
+    "subsubcategory": "Tourist Offices",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Free maps, free WiFi, expert English-speaking advice",
+        "body": "Madrid's official tourist offices are underused by English-speaking visitors. Staff speak excellent English, they have free high-quality printed maps (better than Google Maps for the historic center), and they sell discount passes that pay for themselves in 2 attractions.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Main office",
+            "value": "Plaza Mayor 27 (ground floor arcades)"
+          },
+          {
+            "label": "Airport office",
+            "value": "Barajas T1 and T4 arrivals"
+          },
+          {
+            "label": "Atocha office",
+            "value": "Atocha station (ground floor)"
+          },
+          {
+            "label": "Hours (main office)",
+            "value": "Daily 9:30am-8:30pm"
+          },
+          {
+            "label": "Languages spoken",
+            "value": "English, French, German, Italian, Japanese"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's official tourist offices",
+        "items": [
+          {
+            "title": "Plaza Mayor (main office)",
+            "body": "Plaza Mayor 27. Ground-floor arcade. Largest office, most staff, full range of services. Daily 9:30am-8:30pm."
+          },
+          {
+            "title": "Barajas Airport — T1",
+            "body": "Arrivals hall. Open 9am-8pm. First stop for arriving visitors — pick up maps, buy Madrid City Tour bus tickets."
+          },
+          {
+            "title": "Barajas Airport — T4",
+            "body": "Arrivals hall. Open 9am-8pm. Same services as T1."
+          },
+          {
+            "title": "Atocha Station",
+            "body": "Ground floor. Open 9am-8pm. Useful for day-trip planning (Toledo, Segovia info)."
+          },
+          {
+            "title": "Calle Duque de Medinaceli",
+            "body": "Near Paseo del Prado. Smaller office, shorter lines than Plaza Mayor."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Using Madrid's tourist offices",
+        "do": [
+          "Visit on day 1 — pick up maps, ask for current recommendations, buy passes",
+          "Ask about the Madrid City Card — includes transport + 50+ museums",
+          "Get the free 'Madrid Audio Guides' (esmadrid.com/en/audio-guides) — 7 walking routes",
+          "Ask about temporary exhibitions — staff know what's currently on",
+          "Pick up the printed 'Madrid Essential Guide' — better than any app"
+        ],
+        "dont": [
+          "Don't expect them to book restaurant reservations — they only do tourist services",
+          "Don't buy hop-on-hop-off bus tickets at the airport — official site is cheaper",
+          "Don't rely on the small offices for complex itineraries — go to Plaza Mayor",
+          "Don't skip them — they have free WiFi and clean restrooms"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Online resources",
+        "body": "esmadrid.com (official Madrid tourism portal) has comprehensive English content. Also see madrid-city-card, madrid-apps, madrid-visitors-app records.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "madrid-city-card",
@@ -5865,7 +6584,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "money",
       "tipping",
@@ -5882,7 +6601,65 @@
       "mercado-san-miguel",
       "taxis-madrid"
     ],
-    "subsubcategory": "Etiquette"
+    "subsubcategory": "Etiquette",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain is NOT a 20% tipping culture",
+        "body": "Tipping in Spain is optional and modest. Locals round up or leave €1-€2 for good service. The 20% American tipping norm does NOT apply — service is included in prices by Spanish law.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Restaurant tip",
+            "value": "€1-€2 or round up (5-10%)"
+          },
+          {
+            "label": "Bar tip",
+            "value": "Coins only — €0.50-€1"
+          },
+          {
+            "label": "Taxi tip",
+            "value": "Round up to nearest €1-€2"
+          },
+          {
+            "label": "Hotel housekeeping",
+            "value": "€1-€2/night"
+          },
+          {
+            "label": "Tour guide",
+            "value": "€5-€10 per person for excellent tour"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Where to tip (and where not to)",
+        "do": [
+          "Tip €1-€2 at sit-down restaurants when service was good",
+          "Round up taxi fares (€8.40 → €9)",
+          "Tip tour guides €5-€10 if the tour was excellent (especially free walking tours)",
+          "Leave €1-€2/night for hotel housekeeping at end of stay",
+          "Tip delivery drivers €1-€2"
+        ],
+        "dont": [
+          "Don't tip 20% — it's excessive and may embarrass the server",
+          "Don't tip at bars for coffee/beer — coins only if anything",
+          "Don't tip at fast food or counter service",
+          "Don't tip taxi drivers more than rounding up",
+          "Don't feel obligated — Spanish servers are paid a living wage, tipping is genuinely optional"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Free walking tours — the exception",
+        "body": "SANDEMANs and other 'free' walking tours operate on a tips-only model. Tip €5-€10 per person for a good 2-3 hour tour. Guides depend on tips for income.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "vat-refund-spain",
@@ -7586,7 +8363,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "cycling",
@@ -7604,7 +8381,85 @@
       "retiro-park",
       "running-madrid"
     ],
-    "subsubcategory": "Cycling"
+    "subsubcategory": "Cycling",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's cycling infrastructure is improving fast",
+        "body": "Once a car-dominated city, Madrid has invested heavily in cycling infrastructure since 2018. The city now has 300+ km of bike lanes, BiciMAD electric bike share, and excellent mountain biking in the surrounding Sierra de Guadarrama.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Bike lanes in Madrid",
+            "value": "300+ km"
+          },
+          {
+            "label": "BiciMAD cost",
+            "value": "€0.50/30min (annual €25 sub)"
+          },
+          {
+            "label": "BiciMAD e-bikes",
+            "value": "4,000+ across 600 stations"
+          },
+          {
+            "label": "Mountain biking",
+            "value": "Sierra de Guadarrama (1hr from Madrid)"
+          },
+          {
+            "label": "Bike rental (city)",
+            "value": "€15-€25/day"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to ride",
+        "items": [
+          {
+            "title": "Madrid Río",
+            "body": "10km linear park along the Manzanares River. Dedicated bike paths. Family-friendly. Connects to Casa de Campo."
+          },
+          {
+            "title": "Casa de Campo",
+            "value": "1,700 hectare urban forest. Mixed gravel/paved paths. Mostly flat."
+          },
+          {
+            "title": "Retiro Park",
+            "body": "Small but iconic. 4km perimeter loop. Crowded on weekends — go early morning."
+          },
+          {
+            "title": "Anillo Verde Ciclista",
+            "body": "65km ring-route around Madrid. Mostly segregated bike paths. Full loop is a full-day ride."
+          },
+          {
+            "title": "Sierra de Guadarrama (MTB)",
+            "body": "Mountain biking 1hr north of Madrid by car/Cercanías. Trails for all levels. Popular: Cercedilla, Navacerrada, Rascafría."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Cycling in Madrid",
+        "do": [
+          "Wear a helmet (legally required on intercity roads, strongly recommended in city)",
+          "Use BiciMAD for short trips — easier than owning a bike in central Madrid",
+          "Lock your bike with a U-lock (cable locks are useless in Madrid)",
+          "Take Cercanías trains with bikes (allowed outside rush hour) to reach Sierra trails",
+          "Join Ciclabile Madrid or Madrid en Bici Facebook groups for route tips"
+        ],
+        "dont": [
+          "Don't ride on sidewalks — €90 fine",
+          "Don't ride the wrong way on bike lanes — Spanish police enforce strictly",
+          "Don't leave a bike locked overnight on the street — theft is common",
+          "Don't underestimate the summer heat (40°C+) — ride early morning or after 8pm",
+          "Don't attempt Sierra de Guadarrama trails without checking weather — snow through May"
+        ]
+      }
+    ]
   },
   {
     "id": "tennis-madrid",
@@ -9164,7 +10019,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "coach",
@@ -9181,6 +10036,78 @@
       "left-luggage-bus-station",
       "metro-de-madrid",
       "bus-stations-vs-coach-stations"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "3 stations — make sure you go to the right one",
+        "body": "Madrid has 3 main coach stations serving different regions. Going to the wrong one means missing your bus. Always confirm the departure station on your ALSA ticket.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Estación Sur (Méndez Álvaro)",
+            "value": "Intercity + international (south/east)"
+          },
+          {
+            "label": "Moncloa",
+            "value": "Castilla y León + Madrid commuter routes"
+          },
+          {
+            "label": "Plaza Elíptica",
+            "value": "South Madrid region + Toledo"
+          },
+          {
+            "label": "Main operator",
+            "value": "ALSA (alsaprimeraplus.com)"
+          },
+          {
+            "label": "Metro to all 3",
+            "value": "Direct lines from city center"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "The 3 stations explained",
+        "items": [
+          {
+            "title": "Estación Sur de Autobuses (Méndez Álvaro)",
+            "body": "Madrid's main intercity coach station. ALSA hub for all of southern/eastern Spain, plus Lisbon, Morocco. Metro: Méndez Álvaro (L1, L6).",
+            "meta": [
+              "estacionautobusesmadrid.com"
+            ]
+          },
+          {
+            "title": "Intercambiador de Moncloa",
+            "body": "Castilla y León destinations (Segovia, Ávila, Salamanca). Also Madrid commuter routes (Mountain passes, El Escorial). Metro: Moncloa (L3, L6)."
+          },
+          {
+            "title": "Plaza Elíptica",
+            "body": "South Madrid destinations + Toledo high-frequency service. Metro: Plaza Elíptica (L6, L11)."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Coach travel in Madrid",
+        "do": [
+          "Book ALSA tickets online at alsaprimeraplus.com — cheaper than station purchase",
+          "Arrive 20-30 minutes early — buses board 10 min before departure",
+          "Bring ID — drivers check passports for international routes",
+          "Use the ALSA SUPRA service for premium routes (wider seats, WiFi, snacks)",
+          "Take the Cercanías train to Toledo if ALSA is full — same speed, similar price"
+        ],
+        "dont": [
+          "Don't go to Estación Sur for Segovia — that's Moncloa",
+          "Don't assume buses run on holidays — check the calendar",
+          "Don't expect USB chargers on all buses (only ALSA Premium and SUPRA)",
+          "Don't store valuables in checked luggage — keep passport/meds with you"
+        ]
+      }
     ]
   },
   {
