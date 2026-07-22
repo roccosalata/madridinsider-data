@@ -8993,5 +8993,555 @@
       "arguelles-moncloa-neighborhood",
       "tetuan-cuatro-caminos-neighborhood"
     ]
+  },
+  {
+    "id": "clamores-jazz-club",
+    "title": "Clamores Jazz Club",
+    "category": "do",
+    "subcategory": "arts",
+    "subsubcategory": "Jazz & Blues",
+    "summary": "Historic jazz club in Malasaña since 1981. Jam sessions, modern jazz. €10-12 entry. Calle de Alburquerque 14.",
+    "content": "Clamores (Calle de Alburquerque 14, Malasaña, Metro Bilbao L1/L4) is one of Madrid's oldest jazz clubs, founded in 1981. Unlike Café Central (which is more touristy and expensive), Clamores is a locals' jazz club — intimate, dark, and serious about the music. The programming leans modern: contemporary jazz, fusion, and Latin jazz. Jam sessions on Wednesdays are legendary — local musicians show up to sit in. ENTRY: €10-12 (includes first drink). HOURS: Tue-Sat 9pm-2am, closed Sun-Mon. Two sets nightly: 10pm and midnight. TIPS: (1) The room is small (80 capacity) — arrive by 9:30pm for a good seat. (2) No food, just drinks. (3) The crowd is older and serious about jazz — don't talk during performances. (4) Cheaper and more authentic than Café Central. (5) Metro Bilbao (L1, L4), 5 min walk.",
+    "official_url": "https://www.clamoresmadrid.com/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "arts",
+      "jazz",
+      "music",
+      "live",
+      "malasana"
+    ],
+    "related_records": [
+      "jazz-blues-madrid",
+      "cafe-central-jazz"
+    ]
+  },
+  {
+    "id": "gran-via-theaters-musicals",
+    "title": "Gran Vía Theaters & Musicals",
+    "category": "do",
+    "subcategory": "arts",
+    "subsubcategory": "Opera & Theater",
+    "summary": "Gran Vía is Madrid's Broadway — musicals, plays, concerts at Lope de Vega, Coliseum, Compac. €20-60 tickets.",
+    "content": "Gran Vía is Madrid's theater district — Spain's equivalent of London's West End or New York's Broadway. 6 major theaters line the street, hosting long-running musicals, touring plays, and concerts. MAIN THEATERS: (1) Teatro Lope de Vega (Gran Vía 57) — largest, hosts big musicals (The Lion King ran here for years). €25-60. (2) Teatro Coliseum (Gran Vía 78) — musicals and concerts. €20-50. (3) Teatro Compac Gran Vía (Gran Vía 66) — plays and cultural events. €15-45. (4) Teatro Häagen-Dazs Calderón (Calle de la Atocha 18) — large venue, concerts and musicals. €20-60. (5) Nuevo Teatro Alcalá (Calle de la Jorge Juan 62) — off-Gran Vía, plays and comedy. €15-40. BOOKING: (1) At the theater box office (cheapest, no booking fee). (2) Online at entradas.com or ataquilla.com (€2-3 booking fee). (3) El Corte Inglés ticket counters (in-store, no fee). (4) Last-minute: Taquilla de Última Hora at Plaza de la Independencia — same-day tickets at 50% off (cash only, queue from 5pm). TIPS: (1) Wednesday is the cheapest day (día del espectador, €5-8 cheaper). (2) Spanish musicals are in Spanish — check if the show is suitable for non-Spanish speakers. (3) Some theaters have obstructed-view seats — check the seating chart. (4) Dress code: smart casual (no shorts or flip-flops).",
+    "official_url": "https://www.entradas.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "arts",
+      "theater",
+      "musical",
+      "gran-via",
+      "broadway"
+    ],
+    "related_records": [
+      "teatro-real-madrid",
+      "gran-via",
+      "movie-theaters-madrid"
+    ]
+  },
+  {
+    "id": "warner-beach-water-park",
+    "title": "Warner Beach Water Park (Summer)",
+    "category": "do",
+    "subcategory": "family",
+    "subsubcategory": "Water Parks",
+    "summary": "Warner Park's summer water area. Wave pool, slides, kids' zones. Included in Warner Park ticket. May-September only.",
+    "content": "Warner Beach is the water park section of Parque Warner Madrid (San Martín de la Vega, 30km south). Open May-September only, included in the main park ticket (no extra charge). FEATURES: (1) Wave pool (ola mecánica) — the main attraction. (2) 5 water slides (toboganes) ranging from gentle to thrilling. (3) Kids' splash zone ( zona infantil) with mini slides and fountains. (4) Lazy river (río lento). (5) Sun loungers and umbrellas (free). The water area is smaller than Aquópolis but convenient if you're already at Warner Park for the roller coasters. HOURS: 11am-7pm (water section), same as main park. TIPS: (1) Bring swimsuits and towels — you can rent lockers (€5) for your belongings. (2) The wave pool is the most popular — go early before it gets crowded. (3) Water shoes recommended (the ground gets hot). (4) No outside food allowed in the water area. (5) The water area closes earlier than the main park (7pm vs 8pm).",
+    "official_url": "https://www.parquewarner.com/en/water-park",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "family",
+      "water-park",
+      "warner",
+      "summer",
+      "kids"
+    ],
+    "related_records": [
+      "aquopolis-water-park",
+      "warner-park-madrid",
+      "parque-de-atracciones-madrid"
+    ]
+  },
+  {
+    "id": "faunia-madrid",
+    "title": "Faunia Nature Park",
+    "category": "do",
+    "subcategory": "family",
+    "subsubcategory": "Animals & Nature",
+    "summary": "Interactive nature park with 4 ecosystems. 1,000+ animals, tropical forest, polar ecosystem. €18 adult, €14 child. South Madrid.",
+    "content": "Faunia (Avenida de las Comunidades 28, Metro Valdebernardo L9) is a nature and wildlife theme park — different from the Zoo Aquarium (which is a traditional zoo). Faunia is organized by ecosystem: (1) Tropical Forest — monkeys, birds, reptiles in a heated greenhouse. (2) Polar Ecosystem — penguins and cold-climate animals. (3) Temperate Forest — European wildlife. (4) Desert — reptiles and arid-climate animals. Plus: butterfly house, aquarium, and interactive animal encounters. ADMISSION: €18 adult, €14 child (3-10), under 3 free. Online discount: €15 adult. HOURS: Daily 10am-6pm (until 8pm summer). Allow 3-4 hours. BEST FOR: Kids 3-10 (more interactive than the zoo, less walking). TIPS: (1) The penguin feeding (2pm daily) is the highlight. (2) Bring a picnic — food inside is overpriced. (3) Less crowded than Zoo Aquarium. (4) Good rainy-day option (many exhibits are indoors). (5) Metro Valdebernardo (L9), 25 min from Sol.",
+    "official_url": "https://www.faunia.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "family",
+      "animals",
+      "nature",
+      "kids",
+      "rainy-day"
+    ],
+    "related_records": [
+      "zoo-aquarium-madrid",
+      "parque-de-atracciones-madrid"
+    ]
+  },
+  {
+    "id": "marionetas-titere-madrid",
+    "title": "Puppet Shows & Children's Theater",
+    "category": "do",
+    "subcategory": "family",
+    "subsubcategory": "Family Shows",
+    "summary": "Puppet theaters (títeres) and kids' shows at Retiro Park, Teatro del Príncipe, weekend festivals. €3-8. Mostly Spanish.",
+    "content": "Puppet shows (títeres) and children's theater in Madrid. OUTDOOR (free or cheap): (1) Retiro Park — weekend puppet shows at the 'Títere' kiosk near the Puerta de Alcalá entrance. Free or €2-3 donation. Saturdays and Sundays at 12pm and 1pm. In Spanish but visual enough for non-Spanish speakers. (2) Plaza de las Comendadoras (Calle de la Princessa) — summer weekend puppet shows. Free. (3) Various neighborhood festivals — look for 'teatro infantil' in event listings. INDOOR: (1) Teatro del Príncipe (Calle del Príncipe 25) — children's theater and puppet shows. €5-8. Weekends. (2) Sala Cuarta Pared (Calle de la Ercilla 17, Lavapiés) — experimental children's theater. €4-6. (3) Centro Cultural Conde Duque (Calle del Conde Duque 11) — weekend family programming. €3-5. FESTIVALS: (1) Festival de Títeres de Madrid (May) — city-wide puppet festival, many free shows. (2) Teatralia (March) — children's theater festival. TIPS: (1) Retiro Park puppet shows are the best free family activity in Madrid. (2) Arrive 15 min early for outdoor shows — they get crowded. (3) Most shows are in Spanish, but puppetry is visual — kids don't need to understand the language. (4) Bring a blanket to sit on for outdoor shows.",
+    "official_url": "https://www.esmadrid.com/en/kids-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "family",
+      "puppet",
+      "theater",
+      "kids",
+      "retiro",
+      "free"
+    ],
+    "related_records": [
+      "retiro-park",
+      "imax-planetarium-madrid",
+      "madrid-kids-museums"
+    ]
+  },
+  {
+    "id": "natural-sciences-museum-madrid",
+    "title": "Natural Sciences Museum (Dinosaurs!)",
+    "category": "do",
+    "subcategory": "family",
+    "subsubcategory": "Museums for Kids",
+    "summary": "Museo de Ciencias Naturales — dinosaurs, minerals, taxidermy, planetarium. €7 adult, €3 child. Near Nuevos Ministerios.",
+    "content": "Museo Nacional de Ciencias Naturales (Calle de José Gutiérrez Abascal 2, Metro Gregorio Marañón L7) is Madrid's natural history museum. Founded 1771. HIGHLIGHTS FOR KIDS: (1) Dinosaur hall — full-size T. rex skeleton, Megatherium, Triceratops. The star attraction. (2) Mineral gallery — 15,000+ specimens, fluorescent minerals, giant crystals. (3) Biodiversity wing — taxidermy animals from around the world, interactive displays. (4) Mediterranean ecosystem — local fauna and flora. (5) Temporary exhibitions — rotating science and nature shows. ADMISSION: €7 adult, €3 child (6-18), under 6 free. Free on Sunday mornings (9:30am-2pm). HOURS: Tue-Fri 10am-5pm, Sat-Sun 10am-8pm. Closed Mondays, Jan 1, May 1, Dec 25. Allow 2-3 hours. TIPS: (1) The dinosaur hall is the highlight — go there first. (2) The museum is smaller than London's or NYC's natural history museums — don't expect a full day. (3) Free Sunday mornings get crowded — arrive at 9:30am. (4) Most signage is in Spanish — but dinosaurs speak for themselves. (5) Combine with the Sorolla Museum (15 min walk) or Nuevos Ministerios shopping.",
+    "official_url": "https://www.mcn.csic.es/en",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "family",
+      "museum",
+      "dinosaurs",
+      "science",
+      "kids",
+      "natural-history"
+    ],
+    "related_records": [
+      "madrid-kids-museums",
+      "museo-arqueologico-madrid"
+    ]
+  },
+  {
+    "id": "mercado-san-anton",
+    "title": "Mercado de San Antón (Chueca)",
+    "category": "do",
+    "subcategory": "food",
+    "subsubcategory": "Food Markets",
+    "summary": "Modern food market in Chueca. Ground floor fresh produce, 2nd floor tapas bars, rooftop restaurant. €4-8/tapa.",
+    "content": "Mercado de San Antón (Calle de Augusto Figueroa 24, Chueca, Metro Chueca L5) is a modern food market — less touristy than San Miguel, more popular with locals. 3 FLOORS: (1) Ground floor — traditional market stalls selling fresh produce, meat, fish, bread. The fish counter is excellent. (2) 2nd floor — food court with 8+ stalls: oysters, croquetas, sushi, paella, burgers, wine. Order at any stall, sit at shared tables. €4-8/tapa, €8-14/main. (3) Rooftop — La Cocina de San Antón restaurant (sit-down, €15-25 mains). The rooftop has great views over Chueca. HOURS: Mon-Sat 10am-midnight, Sun 10am-5pm. TIPS: (1) Less crowded than San Miguel — you can actually sit down. (2) The oyster bar (ground floor, stall 12) is excellent — €2.50/oyster. (3) The rooftop restaurant requires a reservation on weekends. (4) Good for lunch — order from 2-3 stalls and share. (5) The market is in the heart of Chueca — combine with shopping or pre-dinner drinks.",
+    "official_url": "https://www.mercadosananton.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "food",
+      "market",
+      "chueca",
+      "tapas",
+      "rooftop"
+    ],
+    "related_records": [
+      "mercado-san-miguel",
+      "mercados-madrid",
+      "chueca-neighborhood"
+    ]
+  },
+  {
+    "id": "menu-del-dia-guide",
+    "title": "Menú del Día — The Best Lunch Deal",
+    "category": "do",
+    "subcategory": "food",
+    "subsubcategory": "Budget Eats",
+    "summary": "3-course lunch with bread, drink, and coffee for €10-14. Weekdays only. The best value meal in Madrid. Look for 'menú del día' signs.",
+    "content": "The menú del día (menu of the day) is the best value meal in Madrid — a 3-course lunch for €10-14, including bread, a drink (beer, wine, water, or soda), and coffee or dessert. Available at most restaurants Monday-Friday. HOW IT WORKS: (1) The restaurant posts 3-5 options for each course (primer plato, segundo plato, postre). (2) You choose one from each. (3) The waiter brings bread and a drink (usually a small beer, glass of wine, or bottled water). (4) After the main course, you get coffee or dessert. WHAT TO EXPECT: First course — soup, salad, pasta, rice, or vegetables (€4-5 value). Second course — meat, fish, or chicken with sides (€8-12 value). Dessert — flan, ice cream, fruit, or coffee (€2-3 value). Total value: €14-20. You pay: €10-14. SAVING: 30-50%. WHERE TO FIND: (1) Look for chalkboards outside restaurants saying 'Menú del día €X'. (2) Almost every neighborhood restaurant offers it — avoid tourist areas (Sol, Plaza Mayor) where it's €15-18 and worse quality. (3) Best areas: Chamberí, Salamanca, La Latina, Malasaña. TIPS: (1) The menú is only at lunch (1-4pm) — don't expect it at dinner. (2) Weekdays only — some restaurants offer it Saturday but not Sunday. (3) The drink is included — get a small beer (caña) or a glass of house wine (vino de la casa). (4) If you don't want coffee, ask for dessert instead (or vice versa). (5) The menú changes daily — ask '¿Qué hay de primer plato?' (What's the first course?).",
+    "official_url": "https://www.esmadrid.com/en/eating-madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "food",
+      "budget",
+      "menu-del-dia",
+      "lunch",
+      "value"
+    ],
+    "related_records": [
+      "cheap-eats-madrid",
+      "cocido-madrileno",
+      "vermouth-madrid"
+    ]
+  },
+  {
+    "id": "gluten-free-madrid",
+    "title": "Gluten-Free & Celiac in Madrid",
+    "category": "do",
+    "subcategory": "food",
+    "subsubcategory": "Special Diets",
+    "summary": "Madrid is increasingly celiac-friendly. 'Sin gluten' signs everywhere. Dedicated GF restaurants: Celicioso, Fitzpatrick. Most restaurants accommodate.",
+    "content": "Madrid is one of Europe's most celiac-friendly cities — Spanish awareness of celiac disease (enfermedad celíaca) is high, and 'sin gluten' (gluten-free) options are everywhere. DEDICATED GF RESTAURANTS: (1) Celicioso (Calle de la Hortaleza 4, Centro) — 100% gluten-free bakery + café. Bread, pastries, pizzas, sandwiches. €4-8. The best GF baked goods in Madrid. (2) Fitzpatrick (Calle de la Sagasta 22, Malasaña) — 100% GF Irish pub. Burgers, fish & chips, beer (GF Estrella Damm). €8-14. (3) La Panzanella (Calle de la Cardenal Cisneros 11) — GF Italian. Pizza, pasta. €9-14. GF-FRIENDLY CHAINS: (1) 100 Montaditos — has a GF menu (ask for 'menú sin gluten'). Mini sandwiches on GF bread. (2) Foster's Hollywood — American-style, has GF menu. (3) VIPS — has GF options. SUPERMARKETS: (1) Mercadona — GF section with pasta, bread, crackers, beer. Look for 'Sin Gluten' signs. (2) Carrefour Bio — largest GF selection. (3) El Corte Inglés — premium GF section. TIPS: (1) Say 'Soy celíaco' (I'm celiac) or 'Sin gluten, por favor' (gluten-free, please) — most restaurant staff understand. (2) Spanish law requires restaurants to declare allergens on menus — look for 'AL' (altramuces), 'C' (cereales), 'G' (gluten) codes. (3) The Spanish Celiac Association (FACE) has a restaurant guide at face-online.org. (4) Farmacias sell GF bread and products if you're in a pinch. (5) Spanish tortilla (potato omelet) is naturally GF — but confirm no flour was added.",
+    "official_url": "https://www.celicioso.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "food",
+      "gluten-free",
+      "celiac",
+      "sin-gluten",
+      "special-diet"
+    ],
+    "related_records": [
+      "vegetarian-vegan-madrid",
+      "cheap-eats-madrid",
+      "supermarkets-grocery-madrid"
+    ]
+  },
+  {
+    "id": "churros-porras-madrid",
+    "title": "Churros, Porras & Chocolaterías",
+    "category": "do",
+    "subcategory": "food",
+    "subsubcategory": "Desserts & Sweets",
+    "summary": "Beyond San Ginés: churros, porras (thicker), chocolate a la taza. Best: San Ginés, Chocolatería 1902, Valor. €3-5.",
+    "content": "Churros con chocolate is Madrid's most iconic food experience — and there's more to it than just San Ginés. CHURROS vs PORRAS: Churros are thin, ridged, and crispy. Porras are thicker, softer, and smoother (like a giant churro). Both are fried dough, served with thick dark chocolate for dipping. Most churrerías serve both — try a mix. BEST CHOCOLATERÍAS: (1) Chocolatería San Ginés (Pasadizo de San Ginés 5) — the famous one, open 24h, €4.50. See our separate record. (2) Chocolatería 1902 (Calle de la Bon Salvador 7) — older than San Ginés (1902!), less touristy, better chocolate. €4. (3) Chocolatería Valor (multiple locations) — Spanish chain, reliable, €3.50. Good for hot chocolate to go. (4) Chocolatería de la San Martín (Calle de la San Martín 4) — neighborhood spot, €3.50. (5) Federico's Churrería (Calle de la Duque de Alba 4, La Latina) — locals' favorite for breakfast, €3. WHAT TO ORDER: 'Churros con chocolate' (6 churros + chocolate, €4-4.50). 'Porras con chocolate' (3 porras + chocolate, €4-4.50). 'Mixto' (3 churros + 2 porras, €4.50). 'Chocolate a la taza' (just chocolate, €3). The chocolate is thick, dark, and bittersweet — not like hot chocolate, more like a dipping sauce. Eat with your hands. Dip, bite, repeat. TIPS: (1) Go at 4am on a Saturday — it's a Madrid tradition after a night out. (2) The chocolate is very thick — if you want it thinner, ask for 'chocolate más claro'. (3) Coffee is also served with churros for breakfast — 'café con churros' (€3-4). (4) The line at San Ginés looks long but moves fast (5-10 min). (5) For a less touristy experience, go to Chocolatería 1902 or any neighborhood churrería.",
+    "official_url": "https://www.chocolateriasangines.com/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "food",
+      "churros",
+      "chocolate",
+      "porras",
+      "dessert",
+      "breakfast"
+    ],
+    "related_records": [
+      "sangines",
+      "ice-cream-shops-madrid",
+      "mercado-san-miguel"
+    ]
+  },
+  {
+    "id": "bingo-madrid",
+    "title": "Bingo Halls in Madrid",
+    "category": "do",
+    "subcategory": "nightlife",
+    "subsubcategory": "Casinos & Gaming",
+    "summary": "Bingo is popular with older Spaniards. Bingo Canoa (Alcalá 33), Bingo Gran Vía. €5-10 for a session. Tobacco + drinks.",
+    "content": "Bingo halls are a Madrid institution — mostly older Spaniards, smoky, social, and surprisingly fun. MAIN HALLS: (1) Bingo Canoa (Calle de Alcalá 33, Metro Sevilla L2) — largest, most central. Sessions every 2 hours from 12pm. €5-10 per session (includes bingo cards + a drink). Open daily 11am-3am. (2) Bingo Gran Vía (Calle Gran Vía 39, Metro Gran Vía L1/L5) — central, touristy. €6-12. (3) Bingo Alcalá (Calle de Alcalá 350, Metro Suanzes L5) — local, east Madrid. €4-8. (4) Bingo Leganés (south Madrid) — for locals. WHAT TO EXPECT: (1) Sessions last 60-90 minutes, with 8-12 games per session. (2) Cards (cartones) cost €1-3 each — buy 2-4 for a session. (3) Electronic bingo machines available (more expensive but more cards). (4) Drinks and tapas served at your table (included in the session price). (5) The atmosphere is smoky (despite smoking bans, some bingo halls still allow it or have smoking areas). (6) Prizes range from €20 (line) to €500+ (full house). TIPS: (1) Bingo is in Spanish — learn the numbers 1-90 or use an electronic machine. (2) The atmosphere is older and local — not a tourist activity. (3) Go with Spanish-speaking friends for the full experience. (4) Free drink + tapa included — the €5-10 session is good value even if you don't win. (5) Most halls are open from 11am to 3am.",
+    "official_url": "https://www.bingocanoa.com/",
+    "status": "evergreen",
+    "english_friendly": false,
+    "english_level": "spanish-only",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "nightlife",
+      "bingo",
+      "gaming",
+      "casino"
+    ],
+    "related_records": [
+      "casinos-gambling-madrid"
+    ]
+  },
+  {
+    "id": "circulo-bellas-artes-rooftop",
+    "title": "Círculo de Bellas Artes Rooftop",
+    "category": "do",
+    "subcategory": "nightlife",
+    "subsubcategory": "Rooftops & Terraces",
+    "summary": "Best 360° views of Madrid from this cultural center rooftop. €5 entry (no drink required). Café, bar, sunset spot. Calle Alcalá 42.",
+    "content": "The Círculo de Bellas Artes (Calle de Alcalá 42, Metro Banco de España L2) is a cultural center with the best rooftop terrace in Madrid for value. Unlike hotel rooftops (Riu €10, Hotel Urban €15), the Círculo charges just €5 to go up — and you don't have to buy a drink. THE ROOFTOP: 360° views over Gran Vía, Banco de España, Plaza de Cibeles, and the Retiro. The rooftop has: (1) An open-air bar (drinks €6-10, coffee €2). (2) Lounge chairs and tables. (3) A small rooftop café serving snacks. (4) An iconic statue of Minerva (the rooftop's symbol). (5) The highest publicly accessible viewpoint in central Madrid (7th floor + rooftop). ENTRY: €5 general (includes access to rooftop + current art exhibitions). €4 reduced. Open Tue-Sun 10am-9pm (until 2pm in August). TIPS: (1) Best time: 1 hour before sunset for golden light photos. (2) The rooftop is the best value view in Madrid — €5 vs €10-15 at hotel rooftops. (3) No dress code (unlike hotel rooftops). (4) The building itself (1926, architect Antonio Palacios) is beautiful — a neo-baroque masterpiece. (5) Combine with a walk down Gran Vía or a visit to the Bank of Spain (across the street). (6) The rooftop hosts occasional concerts and events — check cbmadrid.es. (7) For the absolute highest view in Madrid: the Riu Plaza España rooftop (€10, 27th floor) is higher but more expensive and crowded.",
+    "official_url": "https://www.circulobellasartes.com/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "nightlife",
+      "rooftop",
+      "views",
+      "sunset",
+      "terrazza",
+      "cheap"
+    ],
+    "related_records": [
+      "terrazas-rooftop-bars-madrid",
+      "gran-via",
+      "puerta-de-alcala"
+    ]
+  },
+  {
+    "id": "spa-madrid",
+    "title": "Spas & Wellness Centers in Madrid",
+    "category": "do",
+    "subcategory": "nightlife",
+    "subsubcategory": "Wellness & Relaxation",
+    "summary": "Day spas: Four Seasons Spa, Riu Plaza España spa, public spas at municipal sports centers. €30-120. Massage, thermal circuits.",
+    "content": "Spas and wellness centers in Madrid. LUXURY HOTEL SPAS: (1) Four Seasons Spa (Calle de Sevilla 3) — Madrid's most luxurious spa. 4 treatment rooms, thermal circuit (pool, sauna, steam room, ice fountain). Day pass €120 (includes robe, slippers, water). Massages €150-250. (2) Riu Plaza España Hotel Spa (Gran Vía 137) — 21st floor spa with pool and city views. Day pass €50. (3) Hotel Urban Spa (Carrera de San Jerónimo 5) — small but chic. Day pass €40. PUBLIC/ AFFORDABLE: (1) Centro Deportivo Municipal La Elipa — municipal sports center with spa (pool, sauna, steam room). €8/visit. Very basic but clean. (2) Centro Deportivo Municipal San Blas — similar, €8/visit. (3) Piscinas de Vicálvaro — has a small spa area, €6. INDEPENDENT SPAS: (1) Tantra Spa Madrid (Calle de la Orense 31) — massages and treatments, €40-80. (2) Bangkok Thai Spa (Calle de la Príncipe de Vergara 50) — Thai massage, €50-90. (3) Watermassage (multiple) — water massage beds, €15-25. HAMMAM: See our Hammam Al Ándalus record (€40-110, Arab baths with thermal circuit). TIPS: (1) The Four Seasons is the best splurge — book 1 week ahead. (2) Municipal sports center spas are basic but €8 is unbeatable. (3) For just a massage (no spa access), Thai and tantric spas are €40-80. (4) Most hotel spas require advance booking — call ahead. (5) Bring a swimsuit for any spa with a pool or thermal circuit.",
+    "official_url": "https://www.fourseasons.com/madrid/sp/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "nightlife",
+      "spa",
+      "wellness",
+      "massage",
+      "relaxation",
+      "luxury"
+    ],
+    "related_records": [
+      "hammams-arab-baths-madrid",
+      "yoga-madrid",
+      "terrazas-rooftop-bars-madrid"
+    ]
+  },
+  {
+    "id": "el-corte-ingles-castellana",
+    "title": "El Corte Inglés Castellana (Flagship)",
+    "category": "do",
+    "subcategory": "shopping",
+    "subsubcategory": "Shopping Areas",
+    "summary": "Spain's iconic department store. 7 floors: fashion, food, electronics, books, toys, gourmet. Price-matches competitors. Open Sundays.",
+    "content": "El Corte Inglés Castellana (Paseo de la Castellana 53, Metro Nuevos Ministerios L6/L8/L10) is Spain's largest department store and a Madrid institution. 7 FLOORS: (1) Basement — supermarket (Hipercor), gourmet food hall, wine cellar. (2) Ground floor — cosmetics, perfumes, accessories. (3) 1st floor — women's fashion (Spanish and international brands). (4) 2nd floor — men's fashion, sports. (5) 3rd floor — home, electronics, toys. (6) 4th floor — books, music, stationery (best English book section in Madrid). (7) 5th floor — restaurants, cafeteria. SERVICES: (1) Price matching — show a lower price from MediaMarkt, FNAC, or Amazon.es and they'll match it. (2) Tax-free shopping — non-EU residents can claim 15-21% VAT back (see our VAT Refund record). (3) Gift wrapping (free). (4) English-speaking customer service. (5) Foreign currency exchange (fair rates). (6) Restaurant and cafeteria (6th floor, good value lunch menú €12-15). HOURS: Mon-Sat 10am-10pm, Sun 11am-9pm (one of the few stores open Sundays). TIPS: (1) The gourmet food hall (basement) is excellent for Spanish products: jamón, cheese, wine, olive oil. (2) The book section (4th floor) has the best English book selection in Madrid. (3) Price matching is real — show them a screenshot of the lower price on your phone. (4) The cafeteria (5th floor) has great views of Castellana and a €12 lunch menú. (5) Other El Corte Inglés locations: Goya, Preciados, Princesa — Castellana is the largest. (6) Look for 'rebajas' (sale) signs in January and July.",
+    "official_url": "https://www.elcorteingles.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "shopping",
+      "department-store",
+      "el-corte-ingles",
+      "castellana",
+      "sundays"
+    ],
+    "related_records": [
+      "shopping-madrid-overview",
+      "salamanca-luxury-shopping",
+      "bookstores-madrid"
+    ]
+  },
+  {
+    "id": "loewe-flagship-madrid",
+    "title": "Loewe Flagship Store (Spanish Luxury)",
+    "category": "do",
+    "subcategory": "shopping",
+    "subsubcategory": "Luxury",
+    "summary": "Spain's most famous luxury brand, founded 1846. Flagship at Calle Serrano 26. Leather goods, fashion, €200-5,000+. Tax-free available.",
+    "content": "Loewe (Calle de Serrano 26, Metro Serrano L4) is Spain's most prestigious luxury brand — founded in Madrid in 1846 as a leather cooperative. The flagship store on Serrano is a must-visit for luxury shoppers. THE STORE: 3 floors in a beautifully restored 19th-century building. Ground floor: leather bags (Amazona, Puzzle, Flamenco — €500-2,500), accessories, small leather goods. 1st floor: women's ready-to-wear (€800-5,000+). 2nd floor: men's collection and the Loewe Foundation art space (free exhibitions). LOEWO HISTORY: Founded 1846, the brand has been the official supplier to the Spanish Royal Family since 1905. Creative director Jonathan Anderson (since 2013) has transformed Loewe into one of fashion's most innovative houses. The Puzzle bag (designed by Anderson) is the iconic modern piece. THE AMAZONA (1975) is the classic. PRICES: Small leather goods (cardholders, wallets) €200-400. Bags €500-2,500. Ready-to-wear €800-5,000+. Scarves and accessories €150-400. TAX-FREE: Non-EU residents can claim 15-21% VAT back on purchases over €90. Ask for the 'Tax Free form' at checkout — see our VAT Refund record. TIPS: (1) The store itself is beautiful — worth visiting even if you're just browsing. (2) The Loewe Foundation art space (2nd floor) is free and shows rotating contemporary art. (3) Staff are multilingual and not pushy. (4) The gift wrapping is legendary — exquisite boxes and ribbons. (5) For vintage Loewe, check the resale market (Vestiaire Collective, The RealReal). (6) Other Loewe locations: Gran Vía 28, El Corte Inglés Castellana.",
+    "official_url": "https://www.loewe.com/eng/en/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "shopping",
+      "luxury",
+      "loewe",
+      "spanish",
+      "leather",
+      "serrano"
+    ],
+    "related_records": [
+      "salamanca-luxury-shopping",
+      "vat-refund-spain",
+      "el-corte-ingles-castellana"
+    ]
+  },
+  {
+    "id": "el-rastro-antiques-madrid",
+    "title": "El Rastro Antiques & Collectibles",
+    "category": "do",
+    "subcategory": "shopping",
+    "subsubcategory": "Specialty Shops",
+    "summary": "The antiques section of El Rastro flea market. Calle Ribera de Curtidores, Sundays 9am-3pm. Vintage posters, furniture, religious art.",
+    "content": "The antiques section of El Rastro flea market is on Calle Ribera de Curtidores (La Latina, Metro La Latina L5) — the main street of the market, closest to Plaza de Cascorro. This is where serious collectors go. WHAT YOU'LL FIND: (1) Vintage Spanish posters (travel posters from the 1930s-1960s, film posters, political posters) — €20-200. (2) Antique fans (abanicos) — hand-painted, Spanish-made, €15-80. (3) Religious art (retablos, santos, crucifixes) — €30-300. (4) Old photographs of Madrid — €10-50. (5) Antique furniture (chairs, tables, mirrors) — €50-500. (6) Vintage watches and jewelry — €20-500. (7) Books and maps — €5-100. (8) Military memorabilia (medals, uniforms) — €20-200. (9) Vinyl records — €5-30. (10) Toys and tin soldiers — €10-100. TIPS: (1) Go early (9-10am) for the best finds — serious collectors arrive at 9am sharp. (2) Bargaining is expected on items over €20 — offer 60-70% of the asking price and negotiate. (3) Bring cash (most stalls don't take cards). (4) Check for damage before buying — 'antique' can mean 'broken'. (5) The best stalls are permanent shops on Ribera de Curtidores (open Sundays only for the market, but their inventory is curated). (6) For authentic vintage posters, look for the specialist stalls near Calle de la Mira. (7) Watch your wallet — El Rastro is Madrid's #1 pickpocket spot.",
+    "official_url": "https://www.esmadrid.com/en/el-rastro",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "shopping",
+      "antiques",
+      "el-rastro",
+      "vintage",
+      "collectibles",
+      "sunday"
+    ],
+    "related_records": [
+      "el-rastro-flea-market",
+      "la-latina-neighborhood",
+      "la-latina-tapas-nightlife"
+    ]
+  },
+  {
+    "id": "estudiantes-basketball",
+    "title": "Movistar Estudiantes Basketball",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Basketball",
+    "summary": "Madrid's historic basketball club (founded 1948). Currently in LEB Oro (2nd division). Smaller, intimate atmosphere. €10-25 tickets.",
+    "content": "Movistar Estudiantes is Madrid's second basketball club (after Real Madrid Baloncesto). Founded in 1948 by students at the Instituto Ramiro de Maeztu (hence 'Estudiantes' = Students). Currently in LEB Oro (second division) after financial difficulties, but with a passionate fan base. VENUE: Polideportivo Antonio Magariños (Calle de Serrano 37, Metro Rubén Darío L5). Capacity 2,000 — one of the most intimate basketball venues in Spain. You're right on top of the action. TICKETS: €10-25. Buy at the door or at estudiantes.cl. Season: October-May. HOURS: Games typically Saturday 6pm or Sunday 12:30pm. TIPS: (1) The atmosphere at Magariños is legendary — small, loud, and passionate. Even in the second division, the fans are some of the most devoted in Spanish basketball. (2) Estudiantes has produced NBA players: Carlos Jiménez, Felipe Reyes (who later became a Real Madrid legend). (3) The venue is inside a school — the entrance is on Serrano, look for the 'Magariños' sign. (4) Tickets are cheap and available at the door — no need to book ahead. (5) For top-level basketball, see our Real Madrid Baloncesto record (EuroLeague, €20-60).",
+    "official_url": "https://www.estudiantes.cl/",
+    "status": "dynamic",
+    "english_friendly": true,
+    "english_level": "english-partial",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "sports",
+      "basketball",
+      "estudiantes",
+      "leb-oro"
+    ],
+    "related_records": [
+      "basketball-madrid",
+      "real-madrid-bernabeu"
+    ]
+  },
+  {
+    "id": "parkrun-madrid",
+    "title": "Parkrun & Free Group Runs in Madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "subsubcategory": "Running",
+    "summary": "Free weekly 5K parkrun at Casa de Campo (Sat 9am). Plus Hash House Harriers, Madrid Running Club. Free, social, all levels.",
+    "content": "Free organized running in Madrid. PARKRUN: Free 5K timed run every Saturday at 9am in Casa de Campo (start near the lake). Register free at parkrun.es. Barcode system — scan after the run for your time. 100-300 runners weekly. All levels welcome (walkers too). Post-run coffee at the lake café. FREE, social, well-organized. OTHER FREE GROUP RUNS: (1) Madrid Hash House Harriers — 'a drinking club with a running problem'. Runs every 2 weeks, various locations. €3 (includes beer). Facebook: 'Madrid HHH'. Social, fun, not competitive. (2) Madrid Running Club — meets Thursday 7pm at Puerta del Sol. 5-10km easy run through the center. Free. English-speaking. (3) Lululemon Community Run — Saturday 10am from Lululemon Gran Vía store. 5km, free, free swag. (4) Nike Run Club — Tuesday 7pm from Nike Gran Vía. Free, coach-led. (5) Madrid Trail Running — weekend trail runs in the Sierra de Guadarrama. Facebook group. RUNNING STORES WITH GROUP RUNS: (1) Running Company (Calle de la Hermanos García Noblejas 49) — Thursday 7pm. (2) Boston Runners (Calle de la Alcalá 110) — Wednesday 7pm. TIPS: (1) Parkrun is the best — free, timed, and the Casa de Campo route is beautiful. (2) Summer: run before 9am (too hot after). (3) Winter: mornings can be near freezing — dress in layers. (4) All groups welcome beginners — don't be intimidated. (5) For race registration, see our Running in Madrid record.",
+    "official_url": "https://www.parkrun.es/",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "sports",
+      "running",
+      "parkrun",
+      "free",
+      "group",
+      "casa-de-campo"
+    ],
+    "related_records": [
+      "running-madrid",
+      "casa-de-campo",
+      "cycling-mtb-madrid"
+    ]
+  },
+  {
+    "id": "madrid-tourist-map-pdf",
+    "title": "Printable Tourist Map PDF (esMadrid)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Official Maps",
+    "summary": "Free printable PDF tourist map from esMadrid. Shows attractions, Metro, tourist offices. Download before you go.",
+    "content": "The official esMadrid printable tourist map is the best free map for visitors. DOWNLOAD: esmadrid.com/en/madrid-city-map — PDF available in English, Spanish, French, German. WHAT IT SHOWS: (1) Central Madrid (inside the M-30 ring) in detail. (2) Major tourist attractions marked with icons. (3) Metro lines (color-coded). (4) Tourist offices (i symbol). (5) Police stations. (6) Hospitals. (7) Parks. (8) Main streets and plazas named. PRINTING TIPS: (1) Print at A3 size (11x17) for readability — A4 is too small for the detail. (2) Print in color — the Metro line colors are essential. (3) Print double-sided: central map on one side, greater Madrid inset on the other. (4) Laminate if you can — it'll survive a week in your pocket. ALTERNATIVES: (1) Pick up a free paper copy at any Tourist Office (Plaza Mayor, airport, Atocha). (2) Download the esMadrid app (English) for the same map with GPS. (3) Google Maps offline download (200MB, covers all of Madrid). TIPS: (1) The official map is more accurate than Google Maps for pedestrian zones and one-way streets in the old town. (2) The PDF works offline — no data needed. (3) Save it to your phone AND print a copy (phones die). (4) The map is updated annually — check the date on the PDF.",
+    "official_url": "https://www.esmadrid.com/en/madrid-city-map",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "maps",
+      "tourist",
+      "pdf",
+      "printable",
+      "free",
+      "official"
+    ],
+    "related_records": [
+      "official-madrid-city-map",
+      "interactive-maps-madrid",
+      "metro-map-pdf"
+    ]
+  },
+  {
+    "id": "citymapper-madrid",
+    "title": "Citymapper Madrid (Transit App)",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "Digital Maps",
+    "summary": "Best transit app for Madrid. Real-time Metro, bus, Cercanías, BiciMAD, Uber, taxi. Free. Shows which Metro car to board.",
+    "content": "Citymapper (free app, English) is the best transit app for Madrid — better than Google Maps for public transport. FEATURES: (1) Real-time arrivals for Metro, EMT buses, and Cercanías. (2) Compares all transport options: fastest, cheapest, fewest transfers. (3) Shows which Metro car to board for fastest exit (unique feature). (4) Includes BiciMAD (bike share), Uber, Cabify, and taxi options. (5) Live disruption alerts. (6) Offline mode for previously searched routes. (7) 'Get off' alarm — tells you when your stop is coming. HOW TO USE: (1) Download the app (iOS/Android). (2) Set your location to Madrid. (3) Enter your destination. (4) Citymapper shows all options with real-time arrivals and total journey time. (5) Choose your preferred option and follow the step-by-step directions. VS GOOGLE MAPS: Citymapper is better for transit (more accurate real-time, better route comparison, Metro car recommendations). Google Maps is better for walking and driving directions. Use both. VS EMT APP: Citymapper includes Metro and Cercanías (EMT app is buses only). TIPS: (1) Download the app before you arrive — it works immediately. (2) The 'get off' alarm is essential for tired travelers — set it and relax. (3) Citymapper's 'cheapest' option often suggests walking + Metro combinations that save €2-3. (4) The app works in 80+ cities worldwide — useful for your entire trip.",
+    "official_url": "https://citymapper.com/madrid",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "maps",
+      "digital",
+      "citymapper",
+      "app",
+      "transit",
+      "real-time"
+    ],
+    "related_records": [
+      "interactive-maps-madrid",
+      "madrid-apps",
+      "metro-map-pdf",
+      "emt-bus-map"
+    ]
+  },
+  {
+    "id": "retiro-park-map",
+    "title": "Retiro Park Map & Self-Guided Walk",
+    "category": "essentials",
+    "subcategory": "maps",
+    "subsubcategory": "District Maps",
+    "summary": "Free map of Retiro Park — 118 hectares. Shows lake, Crystal Palace, Rose Garden, fountains, playgrounds. Printable PDF + app.",
+    "content": "Retiro Park map and self-guided walking route. THE MAP: Available free at: (1) The park's main entrance (Puerta de Alcalá side) — printed paper map. (2) esMadrid.com — downloadable PDF. (3) The esMadrid app — interactive GPS map. SELF-GUIDED WALK (2 hours, 4km): Start at Puerta de Alcalá entrance → (1) Walk down the Paseo de la Argentina (Statue Walk) — statues of Spanish kings. → (2) Estanque Grande (rowing lake) — rent a boat (€6/45 min) or just admire the Alfonso XII monument. → (3) Palacio de Cristal (Crystal Palace) — 1887 glass pavilion, free art exhibitions. → (4) Rosaleda (Rose Garden) — 4,000+ roses, best May-June. → (5) Fuente del Ángel Caído (Fountain of the Fallen Angel) — world's only public Lucifer statue. → (6) Parterre (French garden) — geometric hedges and fountains. → (7) Exit at Puerta de España (west side, near Atocha). PARK FACILITIES ON THE MAP: (1) 3 children's playgrounds (marked with swing icons). (2) 2 cafés (Pabellón del Jardín, near the lake; Florida Park, north entrance). (3) BiciMAD station (bike rental). (4) Public toilets (5 locations, marked). (5) Drinking fountains (10+ locations). (6) Exercise equipment (free, near the north entrance). TIPS: (1) The park is huge — a map is essential if you want to find specific sights. (2) Pick up the free paper map at the main entrance. (3) The Crystal Palace sometimes has long lines — check the map for alternative exits. (4) For jogging: the perimeter is 4.5km, flat, and marked. (5) The Rose Garden is best in May-June — check the map for the exact location (southeast corner).",
+    "official_url": "https://www.esmadrid.com/en/parks-gardens/parque-del-retiro",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "maps",
+      "retiro",
+      "park",
+      "walking",
+      "self-guided",
+      "free"
+    ],
+    "related_records": [
+      "retiro-park",
+      "walking-maps-madrid",
+      "official-madrid-city-map"
+    ]
   }
 ]
