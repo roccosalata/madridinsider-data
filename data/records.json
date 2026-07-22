@@ -439,7 +439,7 @@
     "official_url": "https://www.emtmadrid.es/English",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "bus",
@@ -452,7 +452,45 @@
       "metro-de-madrid",
       "taxis-madrid"
     ],
-    "subsubcategory": "Metro & City Transit"
+    "subsubcategory": "Metro & City Transit",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Key Bus Lines for Tourists",
+        "columns": [
+          "Line",
+          "Route",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "1, 2, 46",
+            "North-south through center",
+            "Main city routes"
+          ],
+          [
+            "27, 45",
+            "To museums (Prado, Reina Sofía)",
+            "Culture route"
+          ],
+          [
+            "74",
+            "To El Rastro (Sundays)",
+            "Flea market"
+          ],
+          [
+            "203",
+            "Airport Express (24/7)",
+            "€5, to Atocha/Cibeles"
+          ],
+          [
+            "N1-N28",
+            "Night buses from Cibeles",
+            "€1.50, midnight-6am"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "taxis-madrid",
@@ -464,7 +502,7 @@
     "official_url": "https://www.taximadrid.org/english",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "taxi"
@@ -478,7 +516,37 @@
       "taxi-companies-madrid",
       "tipping-spain"
     ],
-    "subsubcategory": "Taxis & Ride-Sharing"
+    "subsubcategory": "Taxis & Ride-Sharing",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Taxi Quick Facts",
+        "items": [
+          {
+            "label": "Initial fare",
+            "value": "€2.40 (daytime)"
+          },
+          {
+            "label": "Per km (city)",
+            "value": "€1.10"
+          },
+          {
+            "label": "Airport flat rate",
+            "value": "€30 (inside M-30)"
+          },
+          {
+            "label": "Night rate",
+            "value": "11pm-6am (+€1.30/km)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Always use the meter",
+        "body": "Refuse fixed prices except the airport flat rate (€30 inside M-30, displayed in the taxi). Madrid taxis are honest — scams are rare. Tip: round up to the nearest euro.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "left-luggage",
@@ -557,7 +625,7 @@
     "official_url": "https://www.renfe.com/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "train",
@@ -572,7 +640,57 @@
       "segovia-day-trip",
       "toledo"
     ],
-    "subsubcategory": "Trains & Rail"
+    "subsubcategory": "Trains & Rail",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "AVE Routes from Madrid",
+        "columns": [
+          "Destination",
+          "Time",
+          "From",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Barcelona",
+            "2h 30m",
+            "€25",
+            "Book 60+ days ahead"
+          ],
+          [
+            "Seville",
+            "2h 30m",
+            "€20",
+            "Most popular route"
+          ],
+          [
+            "Valencia",
+            "1h 40m",
+            "€18",
+            "Cheapest AVE route"
+          ],
+          [
+            "Málaga",
+            "2h 30m",
+            "€25",
+            "Costa del Sol gateway"
+          ],
+          [
+            "Zaragoza",
+            "1h 15m",
+            "€15",
+            "Fastest AVE from Madrid"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Cheaper alternatives",
+        "body": "Ouigo (ouigo.com) and Iryo (iryo.eu) compete with Renfe on Madrid-Barcelona and Madrid-Valencia. Fares from €9. Same travel time, less legroom.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "schengen-visa-us",
@@ -1391,7 +1509,7 @@
     "official_url": "https://www.idealista.com/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "housing",
       "rentals",
@@ -1403,7 +1521,37 @@
       "rental-contracts",
       "nie-tie"
     ],
-    "subsubcategory": "Finding a Place"
+    "subsubcategory": "Finding a Place",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Inventory",
+            "value": "300,000+ listings in Madrid"
+          },
+          {
+            "label": "Language",
+            "value": "English version available"
+          },
+          {
+            "label": "Cost",
+            "value": "Free to search"
+          },
+          {
+            "label": "Agent fee",
+            "value": "1 month's rent + VAT"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Act fast",
+        "body": "Good apartments get 10+ inquiries in the first hour. Set up email alerts, have your documents ready (passport, NIE, proof of income), and prepare a brief intro message in Spanish. Visit apartments within 24-48 hours of seeing the listing.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "fotocasa",
@@ -1819,7 +1967,7 @@
     "official_url": "https://www.museoreinasofia.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "museums",
       "reina-sofia",
@@ -1832,7 +1980,31 @@
       "museo-del-prado",
       "museo-thyssen-bornemisza-detail"
     ],
-    "subsubcategory": "Golden Triangle"
+    "subsubcategory": "Golden Triangle",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Reina Sofía Quick Facts",
+        "items": [
+          {
+            "label": "Star artwork",
+            "value": "Picasso's Guernica (Room 206)"
+          },
+          {
+            "label": "Admission",
+            "value": "€12"
+          },
+          {
+            "label": "Free entry",
+            "value": "Mon/Wed-Sat 7-9pm, Sun 1:30-2:30pm"
+          },
+          {
+            "label": "Closed",
+            "value": "Tuesdays"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "royal-palace",
@@ -2472,7 +2644,7 @@
     "official_url": "https://www.avila.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "day-trips",
       "avila",
@@ -2484,7 +2656,31 @@
       "segovia-day-trip",
       "toledo"
     ],
-    "subsubcategory": "Ávila"
+    "subsubcategory": "Ávila",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Ávila Day Trip Quick Facts",
+        "items": [
+          {
+            "label": "Walls",
+            "value": "2,516m long, 88 towers"
+          },
+          {
+            "label": "Train from Madrid",
+            "value": "1h 10min"
+          },
+          {
+            "label": "Altitude",
+            "value": "1,131m (colder than Madrid)"
+          },
+          {
+            "label": "Wall walk entry",
+            "value": "€5"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "mercado-san-miguel",
@@ -2817,7 +3013,7 @@
     "official_url": "https://www.veranosdelavilla.com",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "events",
       "summer",
@@ -2828,7 +3024,45 @@
       "traditions-summary",
       "madrid-pride"
     ],
-    "subsubcategory": "Summer Festivals"
+    "subsubcategory": "Summer Festivals",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Veranos de la Villa Venues",
+        "columns": [
+          "Venue",
+          "What's on",
+          "Capacity"
+        ],
+        "rows": [
+          [
+            "Puerta del Ángel",
+            "Big concerts (international)",
+            "10,000"
+          ],
+          [
+            "Matadero Madrid",
+            "Contemporary, dance",
+            "500-1,000"
+          ],
+          [
+            "Conde Duque",
+            "Intimate concerts",
+            "300"
+          ],
+          [
+            "Templo de Debod",
+            "Sunset concerts",
+            "200"
+          ],
+          [
+            "Various plazas",
+            "Neighborhood events",
+            "Varies"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "august-verbenas",
@@ -2863,7 +3097,7 @@
     "official_url": "https://www.madridorgullo.com",
     "status": "annual review",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "events",
       "pride",
@@ -2875,7 +3109,37 @@
       "neighborhoods-guide",
       "veranos-de-la-villa"
     ],
-    "subsubcategory": "Annual Festivals"
+    "subsubcategory": "Annual Festivals",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Madrid Pride Quick Facts",
+        "items": [
+          {
+            "label": "Attendance",
+            "value": "2+ million over 5 days"
+          },
+          {
+            "label": "When",
+            "value": "Late June / early July"
+          },
+          {
+            "label": "Parade day",
+            "value": "Saturday evening"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (all events)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Book accommodation 6+ months ahead",
+        "body": "Hotels in Chueca and center fill up and prices double for Pride weekend. Book by January for late June Pride. Chueca is the epicenter — Plaza de Chueca has the main stage.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "madrid-time",
