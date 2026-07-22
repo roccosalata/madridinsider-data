@@ -4770,7 +4770,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "la-latina",
@@ -4785,7 +4785,84 @@
       "sol-gran-via-neighborhood",
       "walking-tours-madrid"
     ],
-    "subsubcategory": "Historic"
+    "subsubcategory": "Historic",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's tapas capital — and the best Sunday market",
+        "body": "La Latina is the spiritual home of Madrid tapas culture. Cava Baja street has the highest density of tapas bars in Madrid. The Sunday El Rastro flea market takes over the neighborhood's streets.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Tapas, El Rastro flea market, traditional Madrid"
+          },
+          {
+            "label": "Main tapas street",
+            "value": "Cava Baja + Cava Alta"
+          },
+          {
+            "label": "El Rastro",
+            "value": "Sundays 9am-3pm, Plaza de Cascorro"
+          },
+          {
+            "label": "Metro",
+            "value": "La Latina (L5), Tirso de Molina (L1)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€1,000-€1,500/mo"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in La Latina",
+        "items": [
+          {
+            "title": "Tapas crawl on Cava Baja",
+            "body": "Most famous tapas street in Madrid. Start at Txakolina, move to Casa Lucas, end at Juana La Loca. See la-latina-tapas-nightlife record."
+          },
+          {
+            "title": "El Rastro flea market",
+            "body": "Every Sunday 9am-3pm. Madrid's oldest market (15th century). Antiques, clothes, electronics, junk. Pickpocket-heavy — watch your wallet."
+          },
+          {
+            "title": "Plaza de la Paja",
+            "body": "Charming medieval square. Almudena Cathedral's original site (before moving to Royal Palace)."
+          },
+          {
+            "title": "Vitoria Gardens",
+            "body": "Small park with great tapas bar terraces surrounding it. Local hangout."
+          },
+          {
+            "title": "San Francisco el Grande",
+            "body": "18th-century basilica with a Goya painting. Less visited than other major churches."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting La Latina",
+        "do": [
+          "Go on Sunday morning for El Rastro, then tapas after 1pm",
+          "Walk between bars — don't sit at one for the whole evening",
+          "Order vermut (vermouth) as your first drink — it's the Madrid tradition",
+          "Try tortilla de patatas at Juana La Loca (legendary)",
+          "Bring cash — many tapas bars don't accept cards"
+        ],
+        "dont": [
+          "Don't eat at bars with picture menus on Plaza de Cascorro — overpriced",
+          "Don't keep your wallet in your back pocket at El Rastro — pickpockets",
+          "Don't drive here — narrow medieval streets, no parking",
+          "Don't go for dinner before 9pm — bars empty out, tapas culture starts late"
+        ]
+      }
+    ]
   },
   {
     "id": "lavapies-neighborhood",
@@ -4848,7 +4925,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "retiro",
@@ -4862,7 +4939,87 @@
       "museo-thyssen-bornemisza-detail",
       "retiro-park"
     ],
-    "subsubcategory": "Residential"
+    "subsubcategory": "Residential",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's most desirable residential neighborhood",
+        "body": "Retiro (also called Jerónimos) is the elegant neighborhood east of the Prado, anchored by Retiro Park. Quiet, safe, walkable, with some of Madrid's best museums and restaurants. Rent here is among Madrid's highest.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Retiro Park, Prado, upscale residential"
+          },
+          {
+            "label": "Main streets",
+            "value": "Paseo del Prado, Calle de Alcalá"
+          },
+          {
+            "label": "Metro",
+            "value": "Retiro (L2), Atocha (L1), Banco de España (L2)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€1,400-€2,000/mo"
+          },
+          {
+            "label": "Walk score",
+            "value": "98/100 (Walker's Paradise)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Retiro neighborhood",
+        "items": [
+          {
+            "title": "Retiro Park",
+            "body": "118 hectare park. Rowing lake, Crystal Palace, Rosaleda (rose garden). See retiro-park record.",
+            "meta": [
+              "Free entry"
+            ]
+          },
+          {
+            "title": "Museo del Prado",
+            "body": "World-class art museum. Velázquez, Goya, El Bosco. See museo-del-prado record."
+          },
+          {
+            "title": "Puerta de Alcalá",
+            "body": "Iconic 18th-century triumphal arch at Plaza de la Independencia. Free to view."
+          },
+          {
+            "title": "Casa de Campo access",
+            "body": "Walk south through Retiro Park to reach Madrid Río and eventually Casa de Campo (the city's largest park)."
+          },
+          {
+            "title": "Calle Serrano shopping",
+            "body": "Madrid's most exclusive shopping street. Luxury brands. Borders Salamanca neighborhood to the north."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Living in or visiting Retiro",
+        "do": [
+          "Stay here if you want quiet luxury within walking distance of museums",
+          "Walk through Retiro Park every day — it's the neighborhood's defining feature",
+          "Visit the Prado early morning or late afternoon — fewer crowds",
+          "Eat at Casa González (Calle del Piamonte 9) — historic deli with excellent wine",
+          "Use Atocha station — 10-minute walk from anywhere in the neighborhood"
+        ],
+        "dont": [
+          "Don't expect budget accommodation — Retiro is expensive",
+          "Don't visit the Prado without booking online first — long ticket lines",
+          "Don't miss the Crystal Palace in Retiro Park — most photographed spot",
+          "Don't try to drive — street parking is impossible"
+        ]
+      }
+    ]
   },
   {
     "id": "arguelles-moncloa-neighborhood",
@@ -4952,7 +5109,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "tour",
       "walking",
@@ -4966,7 +5123,93 @@
       "lavapies-neighborhood",
       "sol-gran-via-neighborhood"
     ],
-    "subsubcategory": "Walking Tours"
+    "subsubcategory": "Walking Tours",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Free walking tours operate on a tips-only model",
+        "body": "SANDEMANs New Europe and other 'free' tour operators run daily English-language tours in Madrid. Guides work for tips only — tip €5-€10 per person for a good 2-3 hour tour. The tours are genuinely free; you're not obligated to tip if the tour was poor.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Free tours",
+            "value": "SANDEMANs, GuruWalk, Civitatis"
+          },
+          {
+            "label": "Tip range",
+            "value": "€5-€15 per person"
+          },
+          {
+            "label": "Tour length",
+            "value": "2-3 hours typical"
+          },
+          {
+            "label": "Group size",
+            "value": "15-30 people (free); 8-12 (paid)"
+          },
+          {
+            "label": "Languages",
+            "value": "English, Spanish daily; French/German weekly"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid walking tour operators",
+        "items": [
+          {
+            "title": "SANDEMANs New Europe Madrid",
+            "body": "Birthplace of the free walking tour concept. Daily 11am and 2pm English tours from Plaza Mayor. Tip-based.",
+            "meta": [
+              "neweuropetours.eu"
+            ]
+          },
+          {
+            "title": "Devour Madrid Food Tours",
+            "body": "Premium paid food tours. €60-€120 per person. Small groups (8-12). See devour-madrid-food-tours record.",
+            "meta": [
+              "devourtours.com"
+            ]
+          },
+          {
+            "title": "GuruWalk",
+            "body": "Aggregator for free and paid walking tours. Multiple Madrid options. Various meeting points and times.",
+            "meta": [
+              "guruwalk.com"
+            ]
+          },
+          {
+            "title": "Madrid Free Walking Tour (OgoTours)",
+            "body": "Long-running independent free tour. English and Spanish daily. Smaller groups than SANDEMANs."
+          },
+          {
+            "title": "Madrid Urban Adventures",
+            "body": "Paid small-group tours by the Intrepid group. Themed tours (tapas, flamenco, Civil War)."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Walking tour tips",
+        "do": [
+          "Book free tours online in advance — saves wait time at meeting point",
+          "Tip €5-€10 per person for a 2-3 hour free tour (more if excellent)",
+          "Wear comfortable shoes — Madrid is hilly and cobblestoned",
+          "Bring water in summer — Madrid hits 40°C (104°F)",
+          "Ask guides for restaurant recommendations — they know the local spots"
+        ],
+        "dont": [
+          "Don't take a free tour without intending to tip — guides depend on it",
+          "Don't book the same day for paid food tours — they sell out 3-7 days ahead",
+          "Don't expect private tour experience on free tours — groups are large",
+          "Don't forget sun protection in summer (May-September)"
+        ]
+      }
+    ]
   },
   {
     "id": "seg-tours-madrid",
@@ -5018,7 +5261,90 @@
       "malasana-neighborhood",
       "devour-madrid-food-tours"
     ],
-    "subsubcategory": "Food Tours"
+    "subsubcategory": "Food Tours",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Food tours are the best 3-hour introduction to Madrid",
+        "body": "A good Madrid food tour teaches you tapas etiquette, introduces you to vermut culture, and shows you neighborhoods you'd never find alone. Worth the €60-€120 for first-time visitors; less essential for return visitors.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Price range",
+            "value": "€60-€120 per person"
+          },
+          {
+            "label": "Tour length",
+            "value": "3-4 hours typical"
+          },
+          {
+            "label": "Group size",
+            "value": "8-12 people (premium); 15-20 (budget)"
+          },
+          {
+            "label": "Tastings",
+            "value": "5-8 stops, full meal equivalent"
+          },
+          {
+            "label": "Top operator",
+            "value": "Devour Madrid (TripAdvisor #1)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid food tour operators",
+        "items": [
+          {
+            "title": "Devour Madrid Food Tours",
+            "body": "TripAdvisor #1, founded 2012 by Lauren Aloise. Tapas, market, neighborhood tours. €60-€120. See devour-madrid-food-tours record.",
+            "meta": [
+              "Premium"
+            ]
+          },
+          {
+            "title": "Madrid Food Tour",
+            "body": "Independent operator. La Latina tapas focus. Smaller groups than Devour."
+          },
+          {
+            "title": "Spanish Sabores",
+            "body": "Run by an American expat. Combines food tours with cooking classes. Personalized approach."
+          },
+          {
+            "title": "Viator Madrid food tours",
+            "body": "Aggregator. Multiple operators, including Devour's 'Ultimate Spanish Cuisine Food Tour'.",
+            "meta": [
+              "Aggregator"
+            ]
+          },
+          {
+            "title": "Airbnb Experiences",
+            "body": "Locals offering home-cooked meals and neighborhood food walks. Variable quality — read reviews."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking a food tour",
+        "do": [
+          "Book Devour Madrid 1-2 weeks ahead in shoulder season, 3-4 weeks ahead in peak",
+          "Tell the operator about food allergies at booking — they accommodate well",
+          "Skip lunch before a 6pm tapas tour — you'll eat a full meal's worth",
+          "Tip 10-15% for an excellent guide (uncommon in Spain but appreciated)",
+          "Bring a camera — the food and neighborhoods are photogenic"
+        ],
+        "dont": [
+          "Don't book a free 'food tour' — they're often just bar crawls with no food education",
+          "Don't book a 30+ person tour — too large to hear the guide",
+          "Don't eat a big meal before any food tour — you'll regret it",
+          "Don't expect fine dining — food tours are about traditional, casual Madrid food"
+        ]
+      }
+    ]
   },
   {
     "id": "bike-tours-madrid",
@@ -5321,7 +5647,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "bureaucracy",
       "social-security",
@@ -5335,7 +5661,98 @@
       "public-healthcare",
       "teach-english-spain"
     ],
-    "subsubcategory": "Work Permits"
+    "subsubcategory": "Work Permits",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Required before starting ANY work in Spain",
+        "body": "The número de afiliación a la Seguridad Social is your Spanish social security number. You need it before starting any job (employee or autónomo), and it's required for healthcare access, retirement benefits, and unemployment.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "Free"
+          },
+          {
+            "label": "Processing time",
+            "value": "Same day (in person); 1-2 days (online)"
+          },
+          {
+            "label": "Required for",
+            "value": "Employment, autónomo, healthcare, pensions"
+          },
+          {
+            "label": "Where to apply",
+            "value": "Tesorería General de la Seguridad Social (TGSS) office or online"
+          },
+          {
+            "label": "Lifelong number",
+            "value": "Same number for life — never changes"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "What to bring",
+        "items": [
+          {
+            "title": "Passport + NIE",
+            "body": "Original + photocopy of each. NIE is mandatory for non-Spanish applicants."
+          },
+          {
+            "title": "Application form TA.1",
+            "body": "Available at TGSS offices or download. Complete in Spanish."
+          },
+          {
+            "title": "Employer contract",
+            "body": "If employed, your employer provides this. If autónomo, you self-declare."
+          },
+          {
+            "title": "Empadronamiento",
+            "body": "Proof of Madrid address (padrón certificate). See padron-empadronamiento record."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Getting your social security number",
+        "items": [
+          {
+            "title": "Get your NIE first",
+            "body": "Social security requires NIE. See nie-tie record.",
+            "tip": "Allow 2-4 weeks for NIE processing."
+          },
+          {
+            "title": "Find your TGSS office",
+            "body": "Search 'Tesorería General Seguridad Social Madrid' — multiple offices across the city. Or apply online with certificado digital."
+          },
+          {
+            "title": "Book appointment (or walk in)",
+            "body": "Most offices accept walk-ins for new registrations. Bring all documents.",
+            "tip": "Go early morning — shorter lines."
+          },
+          {
+            "title": "Submit form TA.1",
+            "body": "Clerk reviews documents, issues número de afiliación on the spot.",
+            "tip": "The number starts with your birth year + sequence."
+          },
+          {
+            "title": "Give number to employer",
+            "body": "Employer needs it to register you for social security contributions."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "freelancing-spain (autónomo process), healthcare (public healthcare access requires SS number), padron-empadronamiento, nie-tie.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "residencia-permit-spain",
@@ -6529,7 +6946,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "visas",
       "student",
@@ -6543,7 +6960,122 @@
       "residencia-permit-spain",
       "schengen-visa-us"
     ],
-    "subsubcategory": "Long-Stay Visas"
+    "subsubcategory": "Long-Stay Visas",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Apply 2-3 months before your program starts",
+        "body": "Student visas are processed by Spanish consulates in your home country. Processing time is 4-8 weeks. Do NOT arrive in Spain on a tourist visa planning to convert — you must return home and reapply.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Visa type",
+            "value": "Visado de Estudiante"
+          },
+          {
+            "label": "Processing time",
+            "value": "4-8 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€60-€160 (varies by nationality)"
+          },
+          {
+            "label": "Validity",
+            "value": "Duration of program + 90 days"
+          },
+          {
+            "label": "Work allowed",
+            "value": "Part-time (20 hrs/week) with authorization"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "Required documents",
+        "items": [
+          {
+            "title": "Valid passport",
+            "body": "Must be valid for entire period of stay. Bring original + photocopy."
+          },
+          {
+            "title": "Acceptance letter",
+            "body": "From a Spanish educational institution. Must specify program duration, hours/week, and that fees are paid."
+          },
+          {
+            "title": "Proof of financial means",
+            "body": "€7,200/year (IPREM × 12) via bank statements, scholarship letter, or sponsor letter notarized."
+          },
+          {
+            "title": "Health insurance",
+            "body": "Private insurance with coverage in Spain. Public healthcare is NOT sufficient. Sanitas, Adeslas, Asisa all issue Spanish-consulate-acceptable letters."
+          },
+          {
+            "title": "Medical certificate",
+            "body": "Recent (within 3 months) doctor's letter stating no contagious diseases. Must be notarized/apostilled."
+          },
+          {
+            "title": "Criminal record check",
+            "body": "From your home country (and any country you've lived in for 5+ years). Apostilled and translated to Spanish by a sworn translator."
+          },
+          {
+            "title": "Visa application form",
+            "body": "Two copies, completed in Spanish or English, signed."
+          },
+          {
+            "title": "Passport photos",
+            "body": "Two recent (within 6 months), white background, 26x32mm."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "The process",
+        "items": [
+          {
+            "title": "Get accepted to a Spanish school",
+            "body": "Must have an official acceptance letter before applying. See universities-madrid or language-schools-madrid records."
+          },
+          {
+            "title": "Gather documents",
+            "body": "Allow 4-6 weeks for apostilles, translations, and notarizations. Start immediately after acceptance.",
+            "tip": "Sworn translators are listed on the Spanish consulate website."
+          },
+          {
+            "title": "Book a consulate appointment",
+            "body": "Apply at the Spanish consulate with jurisdiction over your residence. Some consulates have 2-4 week wait times for appointments.",
+            "tip": "Check the consulate website weekly for cancellations."
+          },
+          {
+            "title": "Submit application in person",
+            "body": "Some consulates require in-person submission; others allow mail-in. Bring all originals + photocopies."
+          },
+          {
+            "title": "Wait 4-8 weeks",
+            "body": "Processing time varies by consulate and season. Don't book flights until visa is approved."
+          },
+          {
+            "title": "Get your visa",
+            "body": "Pick up in person or by mail. Visa is a sticker in your passport — DO NOT remove it."
+          },
+          {
+            "title": "Apply for TIE within 30 days of arrival",
+            "body": "Once in Spain, apply for the Tarjeta de Identidad de Extranjero (TIE) at the Oficina de Extranjería. See nie-tie record.",
+            "tip": "Book this appointment BEFORE arriving in Spain — wait times are 2-4 weeks."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Working on a student visa",
+        "body": "Students can work part-time (up to 20 hours/week) with prior authorization from the Oficina de Extranjería. The employer must apply for the authorization. Full-time work during school breaks is allowed.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "work-visa-spain",
@@ -6556,7 +7088,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "visas",
       "work",
@@ -6571,7 +7103,99 @@
       "schengen-visa-us",
       "teach-english-spain"
     ],
-    "subsubcategory": "Long-Stay Visas"
+    "subsubcategory": "Long-Stay Visas",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Most work visas require a job offer FIRST",
+        "body": "Unlike some countries, Spain does not have a 'job-seeker' visa. You must have a job offer from a Spanish employer who has already proven they couldn't find an EU candidate. Exceptions: Highly Qualified Professional (HQP) visa, EU Blue Card, and Entrepreneur visa.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Standard work visa",
+            "value": "Requires employer sponsorship + labor market test"
+          },
+          {
+            "label": "Highly Qualified Professional (HQP)",
+            "value": "Fast-track, no labor market test, ~3 weeks"
+          },
+          {
+            "label": "EU Blue Card",
+            "value": "For highly-paid professionals, EU-wide mobility"
+          },
+          {
+            "label": "Entrepreneur visa",
+            "value": "For founders of innovative startups"
+          },
+          {
+            "label": "Processing time",
+            "value": "Standard: 3-6 months. HQP: 20 days"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Work visa types",
+        "items": [
+          {
+            "title": "Standard Work Visa",
+            "body": "Employer applies on your behalf. Must prove no EU candidate could fill the role. 3-6 month processing. Initial visa 1 year, renewable.",
+            "meta": [
+              "Most common path"
+            ]
+          },
+          {
+            "title": "Highly Qualified Professional (HQP)",
+            "body": "Fast-track for managers, technicians, scientists. No labor market test. ~20 day processing. Employer must be approved by UAF-GE.",
+            "meta": [
+              "Fastest path"
+            ]
+          },
+          {
+            "title": "EU Blue Card",
+            "body": "For highly-paid professionals (€50,000+ salary). EU-wide mobility after 18 months. Renewable, family reunion allowed.",
+            "meta": [
+              "Premium option"
+            ]
+          },
+          {
+            "title": "Entrepreneur Visa",
+            "body": "For founders of 'innovative' startups. Requires approval of business plan by ENISA. Path to residency.",
+            "meta": [
+              "For founders"
+            ]
+          },
+          {
+            "title": "Non-Lucrative Visa",
+            "body": "For retirees and those with passive income. NO work allowed. Minimum €33,000/year income. See schengen-visa-us for related info.",
+            "meta": [
+              "No work"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Work visa process",
+        "do": [
+          "Get a job offer in writing before applying",
+          "Ask employer about HQP visa eligibility — much faster than standard",
+          "Have all documents apostilled and translated by sworn translator",
+          "Apply for TIE within 30 days of arriving in Spain",
+          "Bring your family — most work visas allow family reunion"
+        ],
+        "dont": [
+          "Don't enter Spain on a tourist visa planning to convert — you must return home",
+          "Don't start working before your visa/TIE is approved — illegal and grounds for deportation",
+          "Don't expect fast processing — standard work visas take 3-6 months",
+          "Don't assume your US/UK degree is automatically recognized — may need homologación"
+        ]
+      }
+    ]
   },
   {
     "id": "tipping-spain",
@@ -6904,7 +7528,107 @@
       "forocio-study-abroad",
       "accent-global-madrid"
     ],
-    "subsubcategory": "Universities"
+    "subsubcategory": "Universities",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid has 6 major universities + English-taught options",
+        "body": "Madrid's higher education ecosystem includes public universities (Complutense, Carlos III, Autónoma, Rey Juan Carlos, Politécnica) and private universities (IE University, Nebrija, Comillas). For English-speaking students, Carlos III has the most English-taught degrees; IE University is fully English.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Public universities",
+            "value": "5 (Complutense, UC3M, UAM, URJC, UPM)"
+          },
+          {
+            "label": "Private universities",
+            "value": "10+ (IE, Nebrija, Comillas, etc.)"
+          },
+          {
+            "label": "Undergraduate tuition (public)",
+            "value": "€1,200-€1,800/yr (EU); €3,000-€6,000/yr (non-EU)"
+          },
+          {
+            "label": "Undergraduate tuition (private)",
+            "value": "€8,000-€30,000/yr"
+          },
+          {
+            "label": "Top English-taught options",
+            "value": "IE University, UC3M (bilingual), Nebrija"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's major universities",
+        "items": [
+          {
+            "title": "Universidad Complutense de Madrid (UCM)",
+            "body": "Largest and oldest (founded 1299). 80,000+ students. Strong in humanities, sciences, medicine. Spanish-taught; some English electives.",
+            "meta": [
+              "Public"
+            ]
+          },
+          {
+            "title": "Universidad Carlos III de Madrid (UC3M)",
+            "body": "Most English-taught/bilingual programs in Madrid. 21+ bilingual degrees. Strong in business, law, engineering. Campuses in Getafe and Leganés.",
+            "meta": [
+              "Public",
+              "Most English options"
+            ]
+          },
+          {
+            "title": "Universidad Autónoma de Madrid (UAM)",
+            "body": "Strong research university. Cantoblanco campus (north Madrid). Strong in sciences, law, philosophy.",
+            "meta": [
+              "Public"
+            ]
+          },
+          {
+            "title": "IE University",
+            "body": "Fully English undergraduate programs. Business, international relations, architecture, law. €25,000-€30,000/yr. Highly international student body.",
+            "meta": [
+              "Private",
+              "English-primary"
+            ]
+          },
+          {
+            "title": "Universidad Nebrija",
+            "body": "100% English Master's in Bilingual Education. Smaller, personalized. Strong in applied linguistics and tourism.",
+            "meta": [
+              "Private"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Applying to Madrid universities",
+        "do": [
+          "Apply via UNEDasiss if non-EU — handles credential validation and Spanish university applications",
+          "Check DELE/SIELE Spanish language requirements for Spanish-taught programs",
+          "Apply for the Becas MEC scholarship (Spanish government) — opens March each year",
+          "Consider UC3M if you want bilingual (English/Spanish) programs at public prices",
+          "Apply early to IE University (rolling admissions, fills by April)"
+        ],
+        "dont": [
+          "Don't assume Spanish-language programs have English support — most don't",
+          "Don't confuse Universidad Autónoma de Madrid (UAM) with Universidad Autónoma de Barcelona (UAB)",
+          "Don't expect US-style campus life — Spanish universities are commuter schools",
+          "Don't forget to apply for student visa (see student-visa-spain) before arriving"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "english-taught-degrees-madrid (in leads.json — promote to record), student-visa-spain, bilingual-schools-madrid (K-12), teacher-training-madrid (TEFL), language-schools-madrid (Spanish for foreigners).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "bilingual-schools-madrid",
@@ -7690,7 +8414,94 @@
       "teach-english-spain",
       "international-chambers-madrid"
     ],
-    "subsubcategory": "Job Search"
+    "subsubcategory": "Job Search",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish job market has high unemployment — but English speakers have an edge",
+        "body": "Spain's overall unemployment is ~12%, but English-speaking professionals in tech, finance, and education face much better odds. The 'expat tax' (lower salary than home country) is real — expect 30-50% less than US/UK equivalent roles.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "General unemployment",
+            "value": "~12%"
+          },
+          {
+            "label": "Tech/English-speaking roles",
+            "value": "Much lower — closer to 4-5%"
+          },
+          {
+            "label": "Average salary",
+            "value": "€25,000-€40,000 (Madrid)"
+          },
+          {
+            "label": "Tech salary",
+            "value": "€35,000-€70,000 (Madrid)"
+          },
+          {
+            "label": "SEPE (job service)",
+            "value": "Free public employment service"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to search for English-speaking jobs",
+        "items": [
+          {
+            "title": "LinkedIn",
+            "body": "Best for professional roles in Madrid. Filter by 'Madrid' + 'English'. Most international companies post here first."
+          },
+          {
+            "title": "InfoJobs",
+            "body": "Spain's largest job board. Spanish interface but has English-language listings. Filter 'idioma: inglés'.",
+            "meta": [
+              "infojobs.net"
+            ]
+          },
+          {
+            "title": "Tecnoempleo",
+            "body": "Tech-focused job board. Madrid tech scene posts heavily here. Good for English-speaking developers."
+          },
+          {
+            "title": "English-language schools",
+            "body": "TEFL/ESL jobs. See daves-esl-cafe-spain record. Also direct applications to language academies (see iberenglish-madrid, teacher-training-madrid)."
+          },
+          {
+            "title": "International chambers",
+            "body": "AmCham Spain and British Chamber member directories. See international-chambers-madrid record."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Job searching in Madrid",
+        "do": [
+          "Tailor your CV to Spanish format (photo, personal details, no age discrimination protection)",
+          "Get your degree homologated (homologación) if required for the role",
+          "Apply directly on company career pages — often more responsive than job boards",
+          "Network at AmCham/British Chamber events (see international-chambers-madrid)",
+          "Consider teaching English while job-searching — immediate income, builds network"
+        ],
+        "dont": [
+          "Don't expect US/UK salaries — Madrid pays 30-50% less",
+          "Don't use US-style 1-page CV without photo — Spanish CVs are 2-3 pages with photo",
+          "Don't expect quick responses — Spanish hiring is slow (4-8 weeks typical)",
+          "Don't forget Spanish skills help even at English-speaking companies",
+          "Don't ignore SEPE (sepe.es) — free public employment service with Spanish listings"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "daves-esl-cafe-spain (teaching English), teach-english-spain (government programs), international-chambers-madrid (networking), spanish-cv-interview (CV format), freelancing-spain (autónomo alternative).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "spanish-cv-interview",
@@ -12372,6 +13183,81 @@
       "la-latina-tapas-nightlife",
       "madrid-clubs-electronic",
       "night-buses-buhos-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid nightlife starts late and ends late",
+        "body": "Madrid's nightlife is legendary — and starts later than anywhere else in Europe. Dinner at 10pm, drinks at midnight, clubs at 2am, home at 6am. If you arrive at a club at 11pm, you'll be alone.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Dinner time",
+            "value": "9:30-11pm"
+          },
+          {
+            "label": "Pre-club drinks",
+            "value": "Midnight-2am"
+          },
+          {
+            "label": "Club entry",
+            "value": "1:30-3am"
+          },
+          {
+            "label": "Club closing",
+            "value": "6am (weekend)"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Madrid nightlife etiquette",
+        "do": [
+          "Eat dinner late (10pm) to align with the Spanish schedule",
+          "Start with tapas or vermut at a bar (10pm-midnight)",
+          "Move to a cocktail bar or speakeasy (midnight-2am)",
+          "Hit the club around 2-3am — peak time is 3-5am",
+          "Tip bartenders €1-€2 per round (coins, not percentages)",
+          "Dress smart-casual — Madrid clubs have dress codes (no sportswear, no flip-flops)"
+        ],
+        "dont": [
+          "Don't arrive at a club before 1:30am — you'll be the only one there",
+          "Don't expect to be home before 4am on a weekend — Madrid nights are long",
+          "Don't order cocktails at tapas bars — they're for wine, beer, and vermut",
+          "Don't wear shorts or sandals to clubs — you'll be turned away",
+          "Don't pre-game too hard — Spanish drinks are strong and the night is long"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Nightlife areas in Madrid",
+        "items": [
+          {
+            "title": "Huertas",
+            "body": "Plaza de Santa Ana area. Tourist-friendly, English-speaking bars. Good for first-timers."
+          },
+          {
+            "title": "Malasaña",
+            "body": "Hipster neighborhood. Indie bars, craft cocktails, vintage vibe. Best for under-35s."
+          },
+          {
+            "title": "Chueca",
+            "body": "LGBTQ+ district. Dance bars, drag shows. Famous for Madrid Pride (see madrid-pride record)."
+          },
+          {
+            "title": "Salamanca",
+            "body": "Upscale. Cocktail bars, luxury clubs. Older, wealthier crowd."
+          },
+          {
+            "title": "Kapital / Joy Eslava",
+            "body": "Mega-clubs near Atocha and Gran Vía. 7 floors at Kapital. Tourist-heavy but iconic."
+          }
+        ]
+      }
     ]
   },
   {
