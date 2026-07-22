@@ -11653,5 +11653,36 @@
       "expat-publications-madrid",
       "english-publications-history-madrid"
     ]
+  },
+  {
+    "id": "welcome-to-madrid-org-historical",
+    "title": "WelcomeToMadrid.org (Historical — Donald's Madrid Portal)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Background",
+    "summary": "Defunct English-language Madrid portal run by 'Donald'. Part of the early Madrid English web ecosystem with Madrid Insider, MultiMadrid, MadridMan, In Madrid, and Madrid Flatmate.",
+    "content": "WelcomeToMadrid.org was an English-language Madrid portal run by 'Donald' (last name unknown). It was part of the early-2000s English-language Madrid web ecosystem. WHAT IT WAS: Based on Wayback Machine analysis (2007 snapshot), WelcomeToMadrid.org appears to have been a link directory/portal that connected the various English-language Madrid websites. The site's metadata listed all the known English Madrid resources as keywords: madridflatmate, multimadrid, madridman, madridinsider, in-madrid, aerocity — suggesting it served as a hub or portal for the English-speaking Madrid community. THE ECOSYSTEM: In the early 2000s, a small ecosystem of English-language Madrid websites existed: (1) Madrid Insider (madridinsider.com) — the original directory/list of lists. (2) MultiMadrid.com — virtual tours, webcam, forums. (3) MadridMan.com — personal guide, trip reports. (4) In Madrid — monthly English newspaper. (5) Madrid Flatmate — accommodation service. (6) WelcomeToMadrid.org — Donald's portal, connecting these sites. (7) The Broadsheet — print magazine. These sites cross-linked to each other and served different niches (directory, visual tours, personal guide, news, housing, portal). Donald's site appears to have been the 'connector' that linked them all together. STATUS: The domain welcometomadrid.org is no longer active. By 2012, it was a hosting placeholder. The .com variant was briefly a Spanish apartment rental site (2010). The .net variant was a Spanish WordPress blog (2016). None of these appear to be Donald's original site. LEGACY: WelcomeToMadrid.org represents the early-2000s era when English-language Madrid content was scattered across multiple small websites, each run by passionate individuals. These sites needed a portal to connect them — Donald's site served that role. Today, the need for such a portal is filled by search engines (Google), social media (Facebook groups), and comprehensive directories like Madrid Insider (our site — 306 records). WHO FILLS THE VOID: Madrid Insider (our site) now serves as the comprehensive directory that WelcomeToMadrid.org aspired to be — but with 306 records, official links, live weather, search, and structured sections. TIPS: (1) The domain is defunct — don't try to visit it. (2) For the current English-language Madrid ecosystem, see our History of English-Language Publishing in Madrid record. (3) The Wayback Machine has a 2007 snapshot at web.archive.org/web/20071213185307/http://www.welcometomadrid.org/.",
+    "official_url": "https://web.archive.org/web/20071213185307/http://www.welcometomadrid.org/",
+    "status": "archived",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "historical",
+      "welcome-to-madrid",
+      "donald",
+      "portal",
+      "defunct",
+      "ecosystem"
+    ],
+    "related_records": [
+      "english-publications-history-madrid",
+      "multimadrid-com-historical",
+      "madridman-com",
+      "madrid-flatmate-historical",
+      "the-broadsheet-madrid",
+      "in-madrid-magazine"
+    ]
   }
 ]
