@@ -712,7 +712,9 @@
       "etias-2026",
       "schengen-visa-uk",
       "passport-requirements",
-      "embassies"
+      "embassies",
+      "spain-golden-visa-ended",
+      "aupair-spain-madrid"
     ],
     "subsubcategory": "Schengen Visa",
     "sections": [
@@ -779,7 +781,7 @@
     "official_url": "https://www.gov.uk/foreign-travel-advice/spain/entry-requirements",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "visa",
       "schengen",
@@ -789,7 +791,9 @@
       "embassies",
       "etias-2026",
       "passport-requirements",
-      "schengen-visa-us"
+      "schengen-visa-us",
+      "spain-golden-visa-ended",
+      "aupair-spain-madrid"
     ],
     "subsubcategory": "Schengen Visa"
   },
@@ -2880,7 +2884,7 @@
     "official_url": "https://www.mercadodesanmiguel.es/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "mercado",
@@ -2891,7 +2895,8 @@
       "plaza-mayor",
       "sangines",
       "tipping-spain",
-      "vermouth-madrid"
+      "vermouth-madrid",
+      "culinary-schools-madrid"
     ],
     "subsubcategory": "Food Markets",
     "sections": [
@@ -3068,7 +3073,7 @@
     "official_url": "https://www.realmadrid.com/en",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "football",
@@ -3076,7 +3081,8 @@
       "bernabeu"
     ],
     "related_records": [
-      "rayo-vallecas"
+      "rayo-vallecas",
+      "soccer-camps-madrid"
     ],
     "subsubcategory": "Football",
     "sections": [
@@ -4756,7 +4762,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "connectivity",
       "coworking",
@@ -4768,7 +4774,8 @@
       "internet-cafes-madrid",
       "job-search-spain",
       "public-wifi-madrid",
-      "spanish-cv-interview"
+      "spanish-cv-interview",
+      "digital-nomads-madrid"
     ],
     "subsubcategory": "Internet"
   },
@@ -6238,7 +6245,8 @@
       "el-escorial-day-trip",
       "intercity-buses",
       "segovia-day-trip",
-      "toledo"
+      "toledo",
+      "camino-de-santiago-services"
     ],
     "subsubcategory": "Day Tours",
     "sections": [
@@ -7142,7 +7150,9 @@
       "nie-tie",
       "social-security-number-spain",
       "english-speaking-lawyers-madrid",
-      "international-chambers-madrid"
+      "international-chambers-madrid",
+      "digital-nomad-visa-spain-services",
+      "digital-nomads-madrid"
     ],
     "subsubcategory": "Freelancing",
     "sections": [
@@ -7389,7 +7399,8 @@
       "chueca-neighborhood",
       "chamberi-neighborhood",
       "lavapies-neighborhood",
-      "tetuan-cuatro-caminos-neighborhood"
+      "tetuan-cuatro-caminos-neighborhood",
+      "culinary-schools-madrid"
     ],
     "subsubcategory": "Markets",
     "sections": [
@@ -8179,7 +8190,9 @@
       "etias-2026",
       "internships-spain",
       "residencia-permit-spain",
-      "schengen-visa-us"
+      "schengen-visa-us",
+      "aupair-spain-madrid",
+      "work-exchange-spain"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8322,7 +8335,8 @@
       "freelancing-spain",
       "residencia-permit-spain",
       "schengen-visa-us",
-      "teach-english-spain"
+      "teach-english-spain",
+      "digital-nomad-visa-spain-services"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8610,7 +8624,8 @@
       "survival-spanish",
       "spanish-learning-resources",
       "language-exchanges-madrid",
-      "english-summer-camps-madrid"
+      "english-summer-camps-madrid",
+      "aupair-spain-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -8666,7 +8681,8 @@
       "pharmacies",
       "public-healthcare",
       "english-speaking-therapists-madrid",
-      "english-speaking-vets-madrid"
+      "english-speaking-vets-madrid",
+      "medical-tourism-madrid"
     ],
     "subsubcategory": "Private Healthcare"
   },
@@ -8706,7 +8722,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "healthcare",
       "hospital",
@@ -8720,7 +8736,8 @@
       "pharmacies",
       "public-healthcare",
       "english-speaking-doctors",
-      "hospitals"
+      "hospitals",
+      "medical-tourism-madrid"
     ],
     "subsubcategory": "Hospitals"
   },
@@ -9295,7 +9312,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "football",
@@ -9305,7 +9322,8 @@
     ],
     "related_records": [
       "real-madrid-bernabeu",
-      "metro-de-madrid"
+      "metro-de-madrid",
+      "soccer-camps-madrid"
     ],
     "subsubcategory": "Football"
   },
@@ -10880,7 +10898,8 @@
     "related_records": [
       "gyms-fitness-madrid",
       "retiro-park",
-      "running-madrid"
+      "running-madrid",
+      "yoga-teacher-training-spain"
     ],
     "subsubcategory": "Fitness & Wellness"
   },
@@ -14544,7 +14563,89 @@
       "coworking-madrid",
       "freelancing-spain",
       "malasana-neighborhood",
-      "sim-cards-madrid"
+      "sim-cards-madrid",
+      "digital-nomad-visa-spain-services",
+      "public-wifi-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is a top digital nomad destination",
+        "body": "Madrid combines fast WiFi, low cost of living, the Ley de Startups tax break, and a growing nomad community. The Digital Nomad Visa (2023) gives non-EU remote workers 24% flat tax for 6 years. See digital-nomad-visa-spain-services record.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Typical monthly budget",
+            "value": "€1,500-€2,500 (single)"
+          },
+          {
+            "label": "Coworking day pass",
+            "value": "€15-€25"
+          },
+          {
+            "label": "Coffee + fast WiFi café",
+            "value": "€2.50"
+          },
+          {
+            "label": "Best neighborhoods",
+            "value": "Malasaña, Chamberí, Retiro"
+          },
+          {
+            "label": "Tax rate (Ley de Startups)",
+            "value": "24% flat for 6 years"
+          },
+          {
+            "label": "Internet speed (avg)",
+            "value": "300 Mbps (fiber) home; 100 Mbps coworking"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's top coworking spaces for nomads",
+        "items": [
+          {
+            "title": "WeWork",
+            "body": "Multiple Madrid locations. Most international nomad-friendly. Day passes available. English-speaking community managers.",
+            "meta": [
+              "See coworking-madrid record"
+            ]
+          },
+          {
+            "title": "Tinder Space",
+            "body": "Malasaña. Boutique. Day passes. Strong startup community."
+          },
+          {
+            "title": "Impact Hub Madrid",
+            "body": "Social enterprise focus. Multiple locations. International crowd."
+          },
+          {
+            "title": "Rootside",
+            "body": "Malasaña. Hipster coworking. English-speaking. Strong coffee culture."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Digital nomad life in Madrid",
+        "do": [
+          "Get the Digital Nomad Visa for 24% flat tax (vs 47% max)",
+          "Choose Malasaña or Chamberí for nomad density + walkability",
+          "Join 'Digital Nomads Madrid' Facebook group (10K+ members)",
+          "Use Wise or Revolut for banking (English apps, low fees)",
+          "Get private health insurance (Sanitas, Adeslas) — public healthcare slow"
+        ],
+        "dont": [
+          "Don't try to work from Spanish cafes without buying something",
+          "Don't underestimate August heat (40°C+) — choose coworking with A/C",
+          "Don't expect fast WiFi at traditional bars — modern cafés only",
+          "Don't skip the Spanish bank account — Wise alone won't cover all utilities"
+        ]
+      }
     ]
   },
   {
@@ -15675,7 +15776,9 @@
       "rental-contracts",
       "modelo-720",
       "moving2madrid-relocation",
-      "freelancing-spain"
+      "freelancing-spain",
+      "digital-nomad-visa-spain-services",
+      "spain-golden-visa-ended"
     ],
     "sections": [
       {
@@ -16298,7 +16401,8 @@
       "universities-madrid",
       "language-schools-madrid",
       "hot-english-magazine-madrid",
-      "teacher-training-madrid"
+      "teacher-training-madrid",
+      "soccer-camps-madrid"
     ],
     "sections": [
       {
@@ -16400,6 +16504,1128 @@
         "heading": "Madrid summer heat warning",
         "body": "Madrid in July and August regularly exceeds 38°C (100°F). For day camps, verify the facility has air-conditioned indoor space for the hottest hours (1-5pm). For residential camps, prefer those in the Madrid mountains (Sierra de Guadarrama) where temperatures are 5-8°C cooler.",
         "tone": "warning"
+      }
+    ]
+  },
+  {
+    "id": "aupair-spain-madrid",
+    "category": "living",
+    "subcategory": "work",
+    "title": "Au Pair in Spain — Programs for English Speakers",
+    "summary": "Spanish families actively recruit English-speaking au pairs (18-30) for childcare and English immersion. Programs run 2-12 months. Pocket money €70-100/week + room and board. Madrid is the largest au pair market in Spain.",
+    "content": "The au pair program is one of the largest English-language recruitment channels into Spain. Spanish families — particularly upper-middle-class families in Madrid, Barcelona, and Bilbao — actively recruit native English speakers aged 18-30 to live with them, provide childcare (25-30 hours/week), and expose their children to English. In exchange, the au pair receives free room and board, pocket money (€70-100/week), and often Spanish language classes. The program is regulated by the European Agreement on Au Pair Placement. Madrid is Spain's largest au pair market because of the concentration of bilingual families, international schools, and disposable income. Au Pair in Spain (aupairinspain.com), based in Madrid, is the largest placement agency and explicitly markets to English-speaking candidates through Go Overseas and other channels. Summer placements (June-September) are most popular and easiest to arrange; year-long placements (September-June) suit recent graduates wanting a gap year. Au pairs come on a student visa and must enroll in a Spanish language course (typically 4 hours/week).",
+    "official_url": "https://www.aupairinspain.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "au-pair",
+      "aupair",
+      "childcare",
+      "live-in",
+      "gap-year",
+      "english-native",
+      "young-adults",
+      "student-visa",
+      "families"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "student-visa-spain",
+      "language-schools-madrid",
+      "moving2madrid-relocation",
+      "english-summer-camps-madrid",
+      "international-chambers-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Why Spanish families want English-speaking au pairs",
+        "body": "English fluency is the #1 priority for upper-middle-class Spanish families. Bilingual children have a significant advantage in Spanish private schools and future job markets. A native English speaker in the home is considered the gold standard — worth €400-500/week in equivalent childcare + tutoring costs.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Age range",
+            "value": "18-30 years old"
+          },
+          {
+            "label": "Hours/week",
+            "value": "25-30 hours childcare + 2 evenings babysitting"
+          },
+          {
+            "label": "Pocket money",
+            "value": "€70-100/week (€280-400/mo)"
+          },
+          {
+            "label": "Room & board",
+            "value": "Free (private room, all meals)"
+          },
+          {
+            "label": "Spanish classes",
+            "value": "Often paid by host family"
+          },
+          {
+            "label": "Program length",
+            "value": "2-12 months (summer = June-Sept)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified au pair programs and platforms",
+        "items": [
+          {
+            "title": "Au Pair in Spain",
+            "body": "Madrid-based agency. CULTURE & FRIENDS SL. Largest placement organization in Spain. Explicitly markets in English. Pre-screened families.",
+            "meta": [
+              "aupairinspain.com"
+            ]
+          },
+          {
+            "title": "AuPair.com",
+            "body": "Largest au pair platform. Free for au pairs to create profile, message families. Direct placement (no agency fee). Self-managed matching.",
+            "meta": [
+              "aupair.com/en/jobs-aupair-spain-state/madrid.php"
+            ]
+          },
+          {
+            "title": "Go Overseas — Au Pair Spain",
+            "body": "Directory of vetted programs with reviews. Useful for comparing agencies.",
+            "meta": [
+              "gooverseas.com/gap-year/au-pair/spain"
+            ]
+          },
+          {
+            "title": "Facebook: Au pair Madrid",
+            "body": "Active Facebook groups where Spanish families post directly. Faster but riskier (no agency vetting)."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Becoming an au pair in Spain",
+        "do": [
+          "Use Au Pair in Spain (the agency) for first-time au pairs — they vet families",
+          "Get everything in writing: hours, pay, duties, time off, Spanish class contribution",
+          "Skype/video call the family multiple times before accepting",
+          "Ask to speak to the previous au pair (red flag if they refuse)",
+          "Apply for the student visa yourself — don't trust the family to handle it",
+          "Enroll in a Spanish course before arriving — required for the visa"
+        ],
+        "dont": [
+          "Don't accept 'pocket money' below €70/week — that's the regulated minimum",
+          "Don't agree to more than 30 hours/week childcare + 2 evenings babysitting",
+          "Don't pay agency fees as an au pair — reputable agencies charge families only",
+          "Don't take a placement without a written contract",
+          "Don't expect weekends off automatically — negotiate this upfront"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Madrid-specific tip",
+        "body": "Madrid families typically want au pairs who can drive (for school runs) and have lifeguard certification (for summer pool season). If you have these, you'll get premium placements.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "digital-nomad-visa-spain-services",
+    "category": "essentials",
+    "subcategory": "visas",
+    "title": "Spain Digital Nomad Visa — Application Services",
+    "summary": "Spain's Digital Nomad Visa (Ley de Startups, January 2023) lets non-EU remote workers live in Spain with a special 24% flat tax rate. Multiple English-speaking consultancies help applicants navigate the complex process.",
+    "content": "Spain's Digital Nomad Visa, introduced under the Ley de Startups in January 2023, is one of Europe's most attractive visa programs for remote workers. It allows non-EU citizens who work remotely for non-Spanish companies to live in Spain with a special tax regime: 24% flat tax (vs. up to 47% standard rate) for up to 6 years, on income up to €600,000/year. The minimum income requirement is approximately €2,829/month (2026 rate, set at 200% of Spain's minimum wage). The visa can be applied for at a Spanish consulate abroad (3-month processing) or directly in Spain via the Unidad de Grandes Empresas (UGE — faster, 20 days). A whole ecosystem of English-speaking consultancies has emerged to help applicants navigate the paperwork — these firms explicitly market in English and recruit remote workers globally. Major players include Lexidy (law firm, full service), Pellicer Heredia (Madrid-based immigration), and Migrun (tech-focused, faster process). Most charge €1,500-€3,500 for end-to-end visa application support. The visa allows family reunion and is renewable.",
+    "official_url": "https://www.lexidy.com/services/spain/immigration/digital-nomad",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "digital-nomad",
+      "remote-work",
+      "visa",
+      "ley-de-startups",
+      "tax",
+      "uge",
+      "immigration",
+      "consultants",
+      "non-eu"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "digital-nomads-madrid",
+      "work-visa-spain",
+      "freelancing-spain",
+      "english-speaking-lawyers-madrid",
+      "coworking-madrid",
+      "nie-tie"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's most attractive visa for remote workers",
+        "body": "The Digital Nomad Visa offers a 24% flat tax rate (vs. up to 47% standard), 6-year tax holiday, and family reunion. Available to non-EU citizens working remotely for non-Spanish companies. Minimum income: ~€2,829/month (2026).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Minimum income",
+            "value": "€2,829/mo (200% Spanish minimum wage, 2026)"
+          },
+          {
+            "label": "Flat tax rate",
+            "value": "24% (vs. up to 47% standard)"
+          },
+          {
+            "label": "Tax holiday length",
+            "value": "6 years maximum"
+          },
+          {
+            "label": "Visa length",
+            "value": "3 years initial, renewable 2 years"
+          },
+          {
+            "label": "Family reunion",
+            "value": "Yes — spouse + children under 18"
+          },
+          {
+            "label": "Apply abroad",
+            "value": "Spanish consulate, 3-month processing"
+          },
+          {
+            "label": "Apply in Spain",
+            "value": "UGE (Unidad Grandes Empresas), 20-day processing"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking digital nomad visa services",
+        "items": [
+          {
+            "title": "Lexidy",
+            "body": "Full-service international law firm. Spain Digital Nomad Visa specialist. English-speaking. Pricing transparent on website. Highly rated on Reddit r/digitalnomad.",
+            "meta": [
+              "lexidy.com/services/spain/immigration/digital-nomad"
+            ]
+          },
+          {
+            "title": "Pellicer Heredia",
+            "body": "Madrid-based immigration law firm. Detailed English-language guide on their site. €2,000-€3,500 typical fee.",
+            "meta": [
+              "pellicerheredia.com/en/digital-nomad-visa-spain"
+            ]
+          },
+          {
+            "title": "Migrun",
+            "body": "Tech-focused visa consultancy. From €530. Free 15-min consultation. Faster, more digital-native approach.",
+            "meta": [
+              "migrun.tech/spain"
+            ]
+          },
+          {
+            "title": "Reddit r/digitalnomad",
+            "body": "Active community with consultant recommendations, real experiences, and warnings about bad operators. Start here before choosing a service.",
+            "meta": [
+              "reddit.com/r/digitalnomad"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Application process",
+        "items": [
+          {
+            "title": "Verify eligibility",
+            "body": "Must work remotely for non-Spanish company (or self-employed serving non-Spanish clients). Last degree obtained ≥1 year ago if employed. No criminal record past 5 years.",
+            "tip": "Check the official criteria at exteriores.gob.es first."
+          },
+          {
+            "title": "Choose application route",
+            "body": "Consular route (apply abroad, 3-month processing, 1-year visa) or UGE route (apply in Spain on tourist visa, 20-day processing, 3-year residency).",
+            "tip": "UGE route is faster but riskier — must apply within 90 days of arrival."
+          },
+          {
+            "title": "Gather documents",
+            "body": "Passport, criminal record check (apostilled + translated), proof of remote income (last 3 months), contract with non-Spanish employer, health insurance, qualification proof.",
+            "tip": "Apostille processing takes 4-8 weeks — start immediately."
+          },
+          {
+            "title": "Choose a consultancy (recommended)",
+            "body": "Application is complex. Most successful applicants use Lexidy, Pellicer Heredia, or Migrun. Compare quotes from 2-3 before committing.",
+            "tip": "Ask each service about UGE vs consular route recommendations for your situation."
+          },
+          {
+            "title": "Submit application",
+            "body": "Consular route: in person at Spanish consulate with jurisdiction. UGE route: in person at UGE office (Madrid or Barcelona).",
+            "tip": "Book consular appointments early — some consulates have 2-3 month wait times."
+          },
+          {
+            "title": "Get approved",
+            "body": "Consular: 3-month processing, get visa sticker in passport. UGE: 20-day processing, get resolution letter.",
+            "tip": "Once approved, you have 30 days to enter Spain (consular) or apply for TIE (UGE)."
+          },
+          {
+            "title": "Apply for TIE",
+            "body": "Within 30 days of arrival (consular) or 30 days of UGE approval, apply for Tarjeta de Identidad de Extranjero at Oficina de Extranjería.",
+            "tip": "Book TIE appointment BEFORE arriving in Spain — wait times 2-4 weeks."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Digital nomad visa tips",
+        "do": [
+          "Apply via UGE if you can — 20 days vs 3 months",
+          "Have 6+ months of income proof before applying (consulates vary)",
+          "Get a Spanish bank account setup early — needed for direct debit of taxes",
+          "Use a Spanish-speaking gestoria for annual tax filings — required",
+          "Join the Digital Nomads Madrid Facebook group for real-time tips"
+        ],
+        "dont": [
+          "Don't apply via consulate if you're already in Spain — must return home first",
+          "Don't underestimate document preparation — apostilles take weeks",
+          "Don't expect English at the Oficina de Extranjería — bring a translator",
+          "Don't skip the TIE application — visa alone is insufficient for residency"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "work-exchange-spain",
+    "category": "living",
+    "subcategory": "work",
+    "title": "Work Exchange in Spain (Workaway + WWOOF)",
+    "summary": "Work exchange platforms connect English-speaking travelers with Spanish hosts offering room and board in exchange for 4-5 hours work/day. Workaway has 8,000+ Spain hosts; WWOOF Spain focuses on organic farms.",
+    "content": "Work exchange is one of the most accessible ways for English speakers to spend extended time in Spain on a budget. The model: work 4-5 hours per day for a host (typically 5 days/week) in exchange for free accommodation and meals. No money changes hands. Two platforms dominate the Spain market: Workaway (generalist — hostels, eco-villages, language schools, families, artists) and WWOOF Spain (specialized — organic farms, vineyards, permaculture projects). Workaway has 8,000+ hosts across Spain, the largest national network in Europe after Italy and France. WWOOF Spain has 200+ verified organic farms. Both platforms market explicitly in English and attract young English-speaking travelers (18-35) wanting to experience 'real' Spain. Typical stays: 1-4 weeks, though some hosts accept 3-6 months. Work exchange does not require a visa for stays under 90 days (tourist visa suffices), but longer stays require proper visas. Common work: hostel reception, gardening, child care, English practice (conversation partner), painting, eco-building, harvest help. Madrid region has 200+ Workaway hosts, particularly hostels, language schools, and permaculture projects in the surrounding countryside.",
+    "official_url": "https://www.workaway.info/en/destination/europe/es",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "workaway",
+      "wwoof",
+      "work-exchange",
+      "volunteer",
+      "budget-travel",
+      "young-travelers",
+      "hostels",
+      "organic-farming",
+      "cultural-exchange"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "aupair-spain-madrid",
+      "student-visa-spain",
+      "language-exchanges-madrid",
+      "language-schools-madrid",
+      "schengen-visa-us"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Budget travel with cultural depth",
+        "body": "Work exchange is the most affordable way for English speakers to spend 1-12 weeks in Spain. Free room and board in exchange for 4-5 hours work/day. Workaway is the largest platform with 8,000+ Spain hosts; WWOOF Spain specializes in organic farms.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Workaway Spain hosts",
+            "value": "8,000+ (largest in Europe)"
+          },
+          {
+            "label": "WWOOF Spain farms",
+            "value": "200+ organic farms"
+          },
+          {
+            "label": "Work commitment",
+            "value": "4-5 hrs/day, 5 days/week"
+          },
+          {
+            "label": "Typical stay",
+            "value": "1-4 weeks (some 3-6 months)"
+          },
+          {
+            "label": "Workaway membership",
+            "value": "€44/year (single), €56/year (couple)"
+          },
+          {
+            "label": "WWOOF Spain membership",
+            "value": "€30/year (single)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Platforms compared",
+        "items": [
+          {
+            "title": "Workaway",
+            "body": "Generalist. Hostels, families, eco-villages, NGOs, artists, language schools. Largest Spain network. Best for hostel work + language practice.",
+            "meta": [
+              "workaway.info"
+            ]
+          },
+          {
+            "title": "WWOOF Spain",
+            "body": "Specialist for organic farming. Vineyards, olive groves, permaculture, vegetable farms. Best for rural immersion + sustainable agriculture.",
+            "meta": [
+              "wwoof.es"
+            ]
+          },
+          {
+            "title": "Worldpackers",
+            "body": "Competitor to Workaway. Smaller Spain network but more vetted hosts. Better for first-time work exchangers.",
+            "meta": [
+              "worldpackers.com"
+            ]
+          },
+          {
+            "title": "HelpStay",
+            "body": "Smaller platform focused on Europe. Some Spain hosts.",
+            "meta": [
+              "helpstay.com"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Work exchange in Spain",
+        "do": [
+          "Read host reviews carefully — most important signal",
+          "Video call the host before committing (always)",
+          "Start with a 2-week stay — easier to leave if mismatch",
+          "Choose hostels in Madrid city if you want nightlife + social scene",
+          "Choose farms/rural hosts for deeper Spanish immersion",
+          "Verify visa requirements — work exchange is NOT a tourist activity in Spain"
+        ],
+        "dont": [
+          "Don't accept 'informal' arrangements outside the platform — no protection",
+          "Don't expect payment — work exchange is room/board only",
+          "Don't stay beyond 90 days on a tourist visa — technically illegal",
+          "Don't take a placement without seeing photos of accommodation",
+          "Don't expect to learn fluent Spanish at hostels — too much English spoken"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Visa legality",
+        "body": "Work exchange exists in a legal gray area in Spain. Strictly speaking, you need a working visa, not a tourist visa. In practice, most short stays (1-4 weeks) go unchallenged. For stays 90+ days, get a proper visa (student, working holiday, or non-lucrative).",
+        "tone": "warning"
+      }
+    ]
+  },
+  {
+    "id": "soccer-camps-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Soccer Camps in Madrid (Real Madrid + Atlético)",
+    "summary": "Madrid's two world-famous football clubs run summer soccer camps (ages 6-17) recruiting international kids with English-language marketing. Real Madrid Foundation Campus Experience + Atlético de Madrid camps. €600-€1,500/week.",
+    "content": "Madrid is one of the world's most powerful magnets for youth soccer — home to both Real Madrid and Atlético de Madrid, two of the biggest clubs on the planet. Both run official summer camps that aggressively recruit international kids aged 6-17 through English-language marketing. Real Madrid Foundation's 'Campus Experience' is held at the Real Madrid City training complex in Valdebebas; it's the closest most kids will get to the first team's facilities. Atlético de Madrid's camps run at their training facilities and the Metropolitano Stadium. Both camps are staffed by club coaches and often feature appearances from former players. Programs are 1-2 weeks, residential or day camp, with prices ranging from €600 (day camp, 1 week) to €1,500+ (residential, 2 weeks). Spanish and English are both used — the camps are explicitly bilingual, making them a great option for English-speaking kids wanting to immerse in Spanish football culture without full language immersion. Beyond the official club camps, third-party operators like 'Soccer Camps International' and 'Looking for Soccer' aggregate bookings and offer additional services like airport pickup. These are heavily marketed in English to US, UK, and Asian parents.",
+    "official_url": "https://campusexperiencermf.com/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "soccer",
+      "football",
+      "camp",
+      "real-madrid",
+      "atletico-madrid",
+      "kids",
+      "summer-camp",
+      "youth",
+      "residential",
+      "international"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-summer-camps-madrid",
+      "real-madrid-bernabeu",
+      "atletico-madrid-wanda-metropolitano",
+      "parque-de-atracciones-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Two of the biggest football brands in the world",
+        "body": "Real Madrid and Atlético de Madrid both run official summer camps for international kids. The camps are explicitly bilingual (English/Spanish) and aggressively marketed to US, UK, and Asian parents through English-language channels. Booking opens in January-February for the following summer.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "6-17 years old"
+          },
+          {
+            "label": "Program length",
+            "value": "1-2 weeks (residential or day camp)"
+          },
+          {
+            "label": "Day camp cost",
+            "value": "€600-€800/week"
+          },
+          {
+            "label": "Residential cost",
+            "value": "€1,200-€1,500/week"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (bilingual)"
+          },
+          {
+            "label": "Season",
+            "value": "Late June to mid-August"
+          },
+          {
+            "label": "Booking opens",
+            "value": "January-February (sells out by April)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Official and authorized camps",
+        "items": [
+          {
+            "title": "Campus Experience Real Madrid Foundation",
+            "body": "Official Real Madrid camp. Held at Real Madrid City (Valdebebas training complex). Club coaches. Former player appearances. Residential and day camp options.",
+            "meta": [
+              "campusexperiencermf.com/en"
+            ]
+          },
+          {
+            "title": "Atlético de Madrid Football Camps",
+            "body": "Official Atlético camp. Held at Atlético training facilities + Metropolitano Stadium. International recruitment focus. Boys and girls.",
+            "meta": [
+              "campusatleticodemadrid.com/en"
+            ]
+          },
+          {
+            "title": "Soccer Camps International",
+            "body": "Authorized booking agent for both Real Madrid and Atlético camps. English-language website. Handles airport pickup, insurance, parent communication.",
+            "meta": [
+              "soccercampsinternational.com/spain-soccer-camps"
+            ]
+          },
+          {
+            "title": "Looking for Soccer",
+            "body": "European soccer camp comparison site. Multiple Madrid options including both clubs' camps and third-party alternatives.",
+            "meta": [
+              "looking-for-soccer.com/en-us/region-soccer-camp/spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking soccer camps",
+        "do": [
+          "Book by February for early-July dates — most popular weeks sell out first",
+          "Choose residential camp for full immersion (kids stay at camp facility)",
+          "Book through authorized agents (Soccer Camps International) for airport pickup + insurance",
+          "Send soccer cleats + shin guards from home (expensive in Madrid)",
+          "Get travel insurance that covers sports injuries"
+        ],
+        "dont": [
+          "Don't expect to see first-team players — camps use youth coaches",
+          "Don't book directly with third-party operators without verifying official status",
+          "Don't underestimate Madrid summer heat (40°C) — choose camps with indoor facilities",
+          "Don't assume English-only — camps are bilingual, basic Spanish helps kids integrate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yoga-teacher-training-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Yoga Teacher Training (YTT) in Spain",
+    "summary": "Spain hosts dozens of 200-hour Yoga Alliance-certified YTT programs taught in English, recruiting international students. Sivananda (Madrid), Wild Warrior Yoga, and many more. €2,000-€4,000 for 200-hour certification.",
+    "content": "Spain has become one of Europe's premier destinations for Yoga Teacher Training (YTT) — 200-hour and 500-hour certification programs taught in English and marketed to international students. The combination of sunny climate, lower cost of living than the US/UK, and established yoga lineage schools (Sivananda since 1969) has made Spain a magnet for aspiring yoga teachers worldwide. Most YTT programs run as 21-28 day residential intensives in scenic locations: Andalusia (mountains), Valencia coast, Ibiza, and Madrid outskirts. Programs cost €2,000-€4,000 for 200-hour certification, including accommodation, meals, and Yoga Alliance registration. The Sivananda Yoga Vedanta Spain organization runs the most established Madrid-area YTT, with courses taught in English and Spanish (separate sessions). Other major operators include Wild Warrior Yoga (Ashtanga Vinyasa focus, residential), and many smaller boutique programs. The market is heavily advertised in English on platforms like BookYogaTeacherTraining.com and BookRetreats.com, which list 30+ Spain-based YTT options. For English-speaking yoga students wanting certification without traveling to India, Spain is often the preferred destination.",
+    "official_url": "https://www.sivananda.es/en/yoga-teacher-training-in-spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "yoga",
+      "yoga-teacher-training",
+      "ytt",
+      "yoga-alliance",
+      "sivananda",
+      "ashtanga",
+      "residential",
+      "certification",
+      "wellness",
+      "english-taught"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "yoga-madrid",
+      "gyms-fitness-madrid",
+      "language-schools-madrid",
+      "spa-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = Europe's yoga teacher training capital",
+        "body": "Spain hosts dozens of English-taught 200-hour YTT programs per year. The combination of climate, lower cost than US/UK, and Sivananda lineage (since 1969) makes Spain the preferred destination for English-speaking yoga students seeking certification.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "200-hour YTT cost",
+            "value": "€2,000-€4,000 (incl. room & board)"
+          },
+          {
+            "label": "Program length",
+            "value": "21-28 days residential intensive"
+          },
+          {
+            "label": "Certification",
+            "value": "Yoga Alliance (international standard)"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (separate sessions)"
+          },
+          {
+            "label": "Top locations",
+            "value": "Madrid (Sivananda), Andalusia, Valencia, Ibiza"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified YTT programs in Spain",
+        "items": [
+          {
+            "title": "Sivananda Yoga Vedanta Spain",
+            "body": "Oldest yoga lineage in Spain (since 1969). Madrid-area residential YTT. Course taught in English (separate Spanish sessions). Yoga Alliance certified.",
+            "meta": [
+              "sivananda.es/en/yoga-teacher-training-in-spain"
+            ]
+          },
+          {
+            "title": "Wild Warrior Yoga",
+            "body": "200hr Ashtanga Vinyasa YTT. Yoga Alliance certified residential program. English-taught.",
+            "meta": [
+              "wildwarrioryoga.com/yoga-teacher-training-200hr-spain"
+            ]
+          },
+          {
+            "title": "BookYogaTeacherTraining.com",
+            "body": "Largest YTT marketplace. 12+ Madrid-area options, 30+ Spain-wide. Compare prices, dates, reviews.",
+            "meta": [
+              "bookyogateachertraining.com/all/c/yoga-alliance/d/europe/spain/madrid"
+            ]
+          },
+          {
+            "title": "BookRetreats",
+            "body": "Alternative marketplace. Lists 30+ 200hr YTT programs around Madrid with reviews.",
+            "meta": [
+              "bookretreats.com/s/ttc/200-hours-yoga-teacher-training/madrid"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a YTT in Spain",
+        "do": [
+          "Verify Yoga Alliance certification — required for international teaching",
+          "Read reviews on BookYogaTeacherTraining before booking",
+          "Choose by lineage/style (Sivananda, Ashtanga, Vinyasa, Hatha) — not just location",
+          "Bring your own mat — many programs charge for mat rental",
+          "Plan for 1-2 weeks rest after — YTT intensives are physically demanding"
+        ],
+        "dont": [
+          "Don't book the cheapest program — quality varies wildly",
+          "Don't expect luxury accommodation — most YTTs are simple shared rooms",
+          "Don't underestimate the intensity — 6am-9pm daily for 3-4 weeks",
+          "Don't expect to teach immediately after — YTT is foundational, practice required"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "camino-de-santiago-services",
+    "category": "see",
+    "subcategory": "day-trips",
+    "title": "Camino de Santiago Services (English-Speaking)",
+    "summary": "Camino de Santiago pilgrimage attracts 350,000+ walkers annually. English-speaking service providers handle luggage transfers, accommodation booking, and guided tours. Pilbeo, CaminoWays, Jacotrans, Caminofácil among the main operators.",
+    "content": "The Camino de Santiago is one of the world's great pilgrimages — a 780km walk across northern Spain to the cathedral of Santiago de Compostela, where St. James is reputedly buried. Each year, 350,000+ pilgrims walk at least the final 100km, with growing numbers from English-speaking countries (US, UK, Australia, Ireland, Canada). The Camino has spawned an entire service industry in northern Spain, much of it marketed in English: luggage transfer services (so you walk with just a daypack), accommodation booking (albergues, pensiones, paradores), guided tours, bike rental, and end-to-end tour packages. Major English-speaking operators include Pilbeo (luggage transfer across all Camino routes), CaminoWays (Irish-based, full service), Jacotrans (Spanish company with English site, since 2006), and Caminofácil (luggage + taxi service). Typical costs: luggage transfer €5-7/bag/stage, full guided tour packages €1,500-€3,500 for 2-week Camino Francés. Madrid is the main flight hub for international Camino pilgrims — most arrive at Madrid-Barajas and take the train to Pamplona or Sarria (popular starting points). Madrid Insider is well-positioned to serve the Camino pilgrim audience.",
+    "official_url": "https://www.pilbeo.com/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "camino",
+      "santiago",
+      "pilgrimage",
+      "walking",
+      "luggage-transfer",
+      "tour",
+      "guided",
+      "northern-spain",
+      "english-speaking"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "day-tours-from-madrid",
+      "toledo",
+      "segovia-day-trip",
+      "el-escorial-day-trip"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "350,000+ pilgrims per year — growing English-speaking audience",
+        "body": "The Camino de Santiago is one of the world's most popular pilgrimages. 350,000+ people walk it annually, with growing numbers from US, UK, Canada, Australia. Madrid is the main international flight hub for Camino pilgrims.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Annual pilgrims",
+            "value": "350,000+ (receiving Compostela)"
+          },
+          {
+            "label": "Camino Francés length",
+            "value": "780km (St-Jean-Pied-de-Port → Santiago)"
+          },
+          {
+            "label": "Typical walk time",
+            "value": "30-35 days for full Camino Francés"
+          },
+          {
+            "label": "Minimum for Compostela",
+            "value": "100km walking (last 100km from Sarria)"
+          },
+          {
+            "label": "Luggage transfer cost",
+            "value": "€5-7/bag/stage"
+          },
+          {
+            "label": "Full guided package",
+            "value": "€1,500-€3,500 (2-week Camino Francés)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking Camino service providers",
+        "items": [
+          {
+            "title": "Pilbeo",
+            "body": "Luggage transfer across all Camino routes. Up to 20kg per bag. English website. Book online.",
+            "meta": [
+              "pilbeo.com/en"
+            ]
+          },
+          {
+            "title": "CaminoWays",
+            "body": "Irish-based full-service Camino tour operator. Custom itineraries, luggage transfer, accommodation booking.",
+            "meta": [
+              "caminoways.com"
+            ]
+          },
+          {
+            "title": "Jacotrans",
+            "body": "Spanish luggage transfer specialist since 2006. English website. Camino Francés, Portugués, Norte.",
+            "meta": [
+              "jacotrans.es/en"
+            ]
+          },
+          {
+            "title": "Caminofácil",
+            "body": "Luggage transfer + taxi service for pilgrims. All Camino routes. English website.",
+            "meta": [
+              "caminofacil.net/en"
+            ]
+          },
+          {
+            "title": "CaminoBound",
+            "body": "Comparison site for Camino services. Luggage transfer, bike rental, accommodation.",
+            "meta": [
+              "caminobound.com"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Planning a Camino from Madrid",
+        "do": [
+          "Fly into Madrid-Barajas — best international hub for Camino access",
+          "Take the train from Madrid-Chamartín to Pamplona (Camino Francés start) or Sarria (last 100km)",
+          "Book luggage transfer in advance — much harder to arrange mid-walk",
+          "Get your Pilgrim's Credential (credencial) at any church or pilgrim office",
+          "Walk the last 100km from Sarria if you have only 7 days — minimum for Compostela"
+        ],
+        "dont": [
+          "Don't try to walk the full Camino Francés in less than 30 days — too punishing",
+          "Don't carry more than 10% of your body weight in your backpack",
+          "Don't book accommodation for every night in advance — flexibility is part of Camino culture",
+          "Don't skip the Pilgrim's Mass at Santiago Cathedral — emotional endpoint"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "culinary-schools-madrid",
+    "category": "do",
+    "subcategory": "food",
+    "title": "Culinary Schools in Madrid (English-Taught)",
+    "summary": "Madrid's culinary schools recruit international students with English-language programs: Le Cordon Bleu Madrid (Spanish Cuisine Diploma in English), A Punto Cookery School, CIB (The Culinary School). From 1-day classes to full diplomas.",
+    "content": "Madrid has emerged as a serious culinary education destination, with several schools actively recruiting international students through English-language programs. The most prestigious is Le Cordon Bleu Madrid (part of the global network), which offers a Spanish Cuisine Diploma taught in both Spanish and English — the only place in the world this diploma is offered. The diploma runs 9 months and costs €18,000-€22,000. A Punto Cookery School in Chueca offers traditional Spanish cookery courses in English, from 1-day classes (€80-€150) to multi-week intensives. CIB (The Culinary School) in Madrid is an international school teaching aspiring chefs, with English-language programs. Instituto Hemingway offers flexible cooking classes in English starting any Monday. The Madrid culinary school ecosystem is much smaller than Barcelona's (which has more international culinary schools), but it offers a more authentic Spanish-cuisine focus — particularly for paella, tapas, jamón, and vermouth culture. Madrid Insider should consider partnering with Le Cordon Bleu and A Punto for referral arrangements: international culinary students are exactly the audience that finds Madrid Insider useful.",
+    "official_url": "https://www.cordonbleu.edu/madrid/home/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "culinary",
+      "cooking-school",
+      "le-cordon-bleu",
+      "chef-training",
+      "spanish-cuisine",
+      "english-taught",
+      "international-students"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "mercados-madrid",
+      "mercado-san-miguel",
+      "menu-del-dia-guide",
+      "vermouth-madrid",
+      "spanish-food-basics"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's culinary schools market in English",
+        "body": "Le Cordon Bleu Madrid is the only school in the world offering the Spanish Cuisine Diploma in English. A Punto and other schools offer short courses for tourists. International recruitment is a core market for Madrid culinary education.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Le Cordon Bleu Madrid diploma",
+            "value": "9 months, €18,000-€22,000"
+          },
+          {
+            "label": "A Punto 1-day class",
+            "value": "€80-€150"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (depends on program)"
+          },
+          {
+            "label": "Best for serious study",
+            "value": "Le Cordon Bleu Madrid"
+          },
+          {
+            "label": "Best for tourists",
+            "value": "A Punto (Chueca)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified culinary schools in Madrid",
+        "items": [
+          {
+            "title": "Le Cordon Bleu Madrid",
+            "body": "Prestigious French culinary school. Only school in the world offering Spanish Cuisine Diploma in English. 9-month program. Professional-level training.",
+            "meta": [
+              "cordonbleu.edu/madrid/home/en"
+            ]
+          },
+          {
+            "title": "A Punto Cookery School",
+            "body": "Chueca. Traditional Spanish cookery in English. 1-day to multi-week. Tourist-friendly.",
+            "meta": [
+              "apuntolibreria.com"
+            ]
+          },
+          {
+            "title": "CIB (The Culinary School)",
+            "body": "International culinary school in Madrid. English programs for aspiring chefs.",
+            "meta": [
+              "cib.education/en"
+            ]
+          },
+          {
+            "title": "Instituto Hemingway",
+            "body": "Bilbao-based with Madrid presence. Cooking classes in English. Start any Monday. Flexible.",
+            "meta": [
+              "institutohemingway.com"
+            ]
+          },
+          {
+            "title": "esMadrid Cooking Schools list",
+            "body": "Official Madrid tourism portal's list of cooking schools. Useful for cross-checking.",
+            "meta": [
+              "esmadrid.com/en/cooking-schools-madrid"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a culinary school in Madrid",
+        "do": [
+          "Choose Le Cordon Bleu Madrid for professional chef training (only English Spanish Cuisine Diploma)",
+          "Choose A Punto for tourist-level 1-day classes in central Madrid",
+          "Verify the program is taught in English before booking",
+          "Book 2-3 months ahead for Le Cordon Bleu diploma programs",
+          "Combine a 1-day class with a market tour (Mercado de San Miguel) for full experience"
+        ],
+        "dont": [
+          "Don't expect cheap — Le Cordon Bleu diploma is €18,000+",
+          "Don't confuse Instituto Hemingway (Bilbao-based) with Madrid-only schools",
+          "Don't book tourist classes without checking reviews on TripAdvisor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "medical-tourism-madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "title": "Medical Tourism in Madrid (English-Speaking)",
+    "summary": "Madrid is a major medical tourism destination, recruiting English-speaking patients for dental work, fertility treatments, cosmetic surgery, and oncology. Costs 40-70% lower than US/UK. Clinics: 32Dental, Acibadem Madrid, multiple IVF clinics.",
+    "content": "Spain is one of Europe's leading medical tourism destinations — and Madrid is its healthcare hub. English-speaking patients from the US, UK, Ireland, and Middle East travel to Madrid for dental work (40-60% cheaper than US/UK), fertility treatments (IVF at 50% of US cost, with high success rates), cosmetic surgery (50-70% cheaper than UK), bariatric surgery, and oncology second opinions. The medical tourism market in Spain is estimated at €500M+ annually and growing. Major Madrid medical tourism operators include 32Dental (English-speaking dental clinic in Madrid, explicitly recruiting dental tourists via their English website), Acibadem International (Madrid office coordinates international patients for Turkish-Spanish hospital group), and dozens of IVF clinics (Madrid has 15+ fertility clinics). Spain is particularly attractive for IVF because of permissive embryo donation laws, no age limit for treatment (up to 50), and lower costs. For dental tourists, the savings on implants and crowns can fund the entire trip. The market is heavily advertised in English through platforms like Health-Tourism.com, TreatmentAbroad.com, and MeetYourClinic.com.",
+    "official_url": "https://32dental.es/travel-to-madrid?lang=en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "medical-tourism",
+      "dental-tourism",
+      "fertility",
+      "ivf",
+      "cosmetic-surgery",
+      "english-speaking-clinics",
+      "international-patients"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-speaking-doctors-madrid",
+      "hospitals-madrid",
+      "healthcare",
+      "english-speaking-therapists-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = #1 in world healthcare + affordable for tourists",
+        "body": "Spain ranks #1 globally in healthcare (WHO). Madrid medical costs are 40-70% lower than US/UK. Growing market in dental, fertility, cosmetic surgery for English-speaking patients.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Dental implant cost",
+            "value": "€1,200-€1,800 (vs €3,500-€5,000 US)"
+          },
+          {
+            "label": "IVF cycle cost",
+            "value": "€3,500-€5,000 (vs €12,000-€15,000 US)"
+          },
+          {
+            "label": "Cosmetic surgery cost",
+            "value": "40-70% lower than UK"
+          },
+          {
+            "label": "Languages",
+            "value": "English widely spoken in major Madrid clinics"
+          },
+          {
+            "label": "Wait times",
+            "value": "Typically 1-4 weeks (vs 6-12 months UK NHS)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking medical tourism operators in Madrid",
+        "items": [
+          {
+            "title": "32Dental",
+            "body": "English-speaking dental clinic in Madrid. Explicitly recruits dental tourists. Implants, crowns, full mouth restoration.",
+            "meta": [
+              "32dental.es/travel-to-madrid?lang=en"
+            ]
+          },
+          {
+            "title": "Acibadem International — Madrid Office",
+            "body": "Coordinates international patients for Acibadem hospital group (Spanish-Turkish). Oncology, orthopedics, IVF, cosmetic.",
+            "meta": [
+              "acibademinternational.com/international-offices/office-spain-madrid"
+            ]
+          },
+          {
+            "title": "Health-Tourism.com — Madrid",
+            "body": "Directory of Madrid medical tourism providers. Browse by specialty.",
+            "meta": [
+              "health-tourism.com/medical-tourism-spain/madrid"
+            ]
+          },
+          {
+            "title": "MeetYourClinic — Spain",
+            "body": "Medical tourism platform connecting English-speaking patients with Spanish clinics. Madrid specialists.",
+            "meta": [
+              "meetyourclinic.com/destinations/spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Medical tourism in Madrid",
+        "do": [
+          "Verify clinic credentials (Spanish Medical Association registration)",
+          "Ask for case studies and before/after photos",
+          "Get everything in writing (treatment plan, costs, recovery time)",
+          "Plan 7-14 day stay for major procedures (post-op recovery in Madrid)",
+          "Get travel insurance that covers medical tourism complications"
+        ],
+        "dont": [
+          "Don't book solely on price — verify clinic reputation and credentials",
+          "Don't skip the consultation — many clinics offer free video consults",
+          "Don't fly within 24-48 hours after surgery (DVT risk)",
+          "Don't assume your US/UK insurance covers foreign treatment"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Spain IVF advantage",
+        "body": "Spain is Europe's IVF capital: permissive laws (embryo donation, no age limit up to 50), high success rates, English-speaking clinics, and lower costs. Madrid has 15+ fertility clinics. Eugin, IVI, Bernabeu all have Madrid offices.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "spain-golden-visa-ended",
+    "category": "essentials",
+    "subcategory": "visas",
+    "title": "Spain Golden Visa — ENDED April 2025 (Historical)",
+    "summary": "Spain's Golden Visa program (€500K real estate investment → residency) was cancelled in April 2025. This record documents the historical program and current alternatives for investors. No new applications accepted.",
+    "content": "Spain's Golden Visa program, launched in 2013, allowed non-EU citizens to obtain Spanish residency by investing €500,000+ in Spanish real estate, €2M in Spanish public debt, €1M in Spanish company shares, or creating a business of 'general interest.' The program was cancelled effective April 3, 2025, when Spain's government published the relevant implementing regulation in the BOE (Boletín Oficial del Estado). No new Golden Visa applications are accepted. Existing Golden Visa holders retain their residency rights and can renew under the previous rules. The program was cancelled due to housing affordability concerns — the government argued that foreign investors were inflating Spanish real estate prices, particularly in Madrid, Barcelona, and the Costa del Sol. For investors who previously would have used the Golden Visa, current alternatives include: (1) the Digital Nomad Visa (see digital-nomad-visa-spain-services record), (2) the Non-Lucrative Visa (passive income, no work allowed), (3) the Entrepreneur Visa (innovative startup founders), and (4) the HQP (Highly Qualified Professional) visa. These alternatives do not offer the same fast-track residency-by-investment model. Several immigration law firms that previously specialized in Golden Visa applications (Delcanto Chambers, Balcells Group, Pellicer Heredia) have pivoted to these alternative visa services.",
+    "official_url": "https://www.exteriores.gob.es/Consulados/toronto/en/ServiciosConsulares/Paginas/Consular/Visado-de-inversor.aspx",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "golden-visa",
+      "investor-visa",
+      "ended",
+      "historical",
+      "alternatives",
+      "real-estate",
+      "investment"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "legacy",
+    "related_records": [
+      "digital-nomad-visa-spain-services",
+      "work-visa-spain",
+      "schengen-visa-us",
+      "schengen-visa-uk",
+      "english-speaking-lawyers-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Golden Visa cancelled April 3, 2025",
+        "body": "Spain's Golden Visa program is no longer accepting new applications. The program was cancelled due to housing affordability concerns. Existing visa holders retain rights. Investors should consider alternatives.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Historical Program (2013-2025)",
+        "items": [
+          {
+            "label": "Program ran",
+            "value": "September 2013 to April 2025"
+          },
+          {
+            "label": "Minimum investment",
+            "value": "€500,000 real estate (most popular)"
+          },
+          {
+            "label": "Other options",
+            "value": "€2M public debt, €1M shares, business"
+          },
+          {
+            "label": "Residency",
+            "value": "Initial 2 years + 5-year renewals"
+          },
+          {
+            "label": "Work rights",
+            "value": "Yes (full work authorization)"
+          },
+          {
+            "label": "Cancelled",
+            "value": "April 3, 2025 (BOE publication)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Current alternatives for investors",
+        "items": [
+          {
+            "title": "Digital Nomad Visa",
+            "body": "For remote workers/entrepreneurs. 24% flat tax. Min income €2,829/mo. See digital-nomad-visa-spain-services record.",
+            "meta": [
+              "Best alternative"
+            ]
+          },
+          {
+            "title": "Non-Lucrative Visa",
+            "body": "For retirees and those with passive income. NO work allowed. Min income €33,000/year. 1-year initial, renewable."
+          },
+          {
+            "title": "Entrepreneur Visa",
+            "body": "For founders of 'innovative' startups. Requires ENISA approval of business plan. Path to residency."
+          },
+          {
+            "title": "HQP Visa (Highly Qualified Professional)",
+            "body": "For senior managers, technicians, scientists. Fast-track (20 days). Employer must be approved."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Existing Golden Visa holders",
+        "body": "If you obtained your Golden Visa before April 3, 2025, your residency rights are preserved. You can renew under the previous rules. Contact an immigration lawyer (see english-speaking-lawyers-madrid) for renewal questions.",
+        "tone": "info"
       }
     ]
   }
