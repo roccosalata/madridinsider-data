@@ -1351,7 +1351,7 @@
     "official_url": "https://extranjeros.inclusion.gob.es/",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "paperwork",
       "nie",
@@ -1366,7 +1366,8 @@
       "housing",
       "public-healthcare",
       "rental-contracts",
-      "teach-english-spain"
+      "teach-english-spain",
+      "english-speaking-lawyers-madrid"
     ],
     "subsubcategory": "Foreigner ID",
     "sections": [
@@ -1644,7 +1645,8 @@
       "idealista",
       "fotocasa",
       "neighborhoods-guide",
-      "nie-tie"
+      "nie-tie",
+      "english-speaking-lawyers-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
     "subsubcategory": "Renting",
@@ -3564,7 +3566,7 @@
     "official_url": "https://www.comunidad.madrid/servicios/salud",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-22",
     "tags": [
       "healthcare",
       "overview",
@@ -3576,7 +3578,8 @@
       "pharmacies",
       "hospitals",
       "empadronamiento",
-      "nie-tie"
+      "nie-tie",
+      "english-speaking-therapists-madrid"
     ],
     "subsubcategory": "Overview"
   },
@@ -4991,7 +4994,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "bureaucracy",
       "taxes",
@@ -5001,7 +5004,8 @@
     "related_records": [
       "nie-tie",
       "banking-spain",
-      "residencia-permit-spain"
+      "residencia-permit-spain",
+      "english-speaking-lawyers-madrid"
     ],
     "subsubcategory": "Taxes"
   },
@@ -5170,7 +5174,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "work",
       "freelance",
@@ -5181,7 +5185,9 @@
       "coworking-madrid",
       "modelo-720",
       "nie-tie",
-      "social-security-number-spain"
+      "social-security-number-spain",
+      "english-speaking-lawyers-madrid",
+      "international-chambers-madrid"
     ],
     "subsubcategory": "Freelancing"
   },
@@ -5970,7 +5976,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "language",
       "school",
@@ -5981,7 +5987,8 @@
     "related_records": [
       "survival-spanish",
       "spanish-learning-resources",
-      "language-exchanges-madrid"
+      "language-exchanges-madrid",
+      "english-summer-camps-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -6023,7 +6030,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "healthcare",
       "doctor",
@@ -6035,7 +6042,9 @@
       "dentists-madrid",
       "hospitals-madrid",
       "pharmacies",
-      "public-healthcare"
+      "public-healthcare",
+      "english-speaking-therapists-madrid",
+      "english-speaking-vets-madrid"
     ],
     "subsubcategory": "Private Healthcare"
   },
@@ -6144,7 +6153,8 @@
       "language-schools-madrid",
       "language-schools-madrid-education",
       "universities-madrid",
-      "awc-madrid"
+      "awc-madrid",
+      "english-summer-camps-madrid"
     ],
     "subsubcategory": "Schools"
   },
@@ -6888,7 +6898,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "work",
       "jobs",
@@ -6900,7 +6910,8 @@
       "coworking-madrid",
       "freelancing-spain",
       "spanish-cv-interview",
-      "teach-english-spain"
+      "teach-english-spain",
+      "international-chambers-madrid"
     ],
     "subsubcategory": "Job Search"
   },
@@ -7100,7 +7111,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "running",
@@ -7113,7 +7124,8 @@
       "madrid-rio",
       "madrid-uv-index",
       "madrid-weather",
-      "retiro-park"
+      "retiro-park",
+      "gyms-fitness-madrid"
     ],
     "subsubcategory": "Running"
   },
@@ -7422,7 +7434,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "swimming",
@@ -7433,7 +7445,8 @@
     ],
     "related_records": [
       "aquopolis-water-park",
-      "running-madrid"
+      "running-madrid",
+      "gyms-fitness-madrid"
     ],
     "subsubcategory": "Water Sports"
   },
@@ -7448,7 +7461,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "gym",
@@ -7462,7 +7475,81 @@
       "running-madrid",
       "yoga-madrid"
     ],
-    "subsubcategory": "Fitness & Wellness"
+    "subsubcategory": "Fitness & Wellness",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish gym chains are inexpensive — use them",
+        "body": "Madrid gym chains (BasicFit, Altafit, VivaGym, FitUp) cost €25-€40/month with no long-term contract. Most locations have English-speaking staff at the front desk. Classes are usually in Spanish but the instructors will cue in English if you ask.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Low-cost chains",
+            "value": "BasicFit €25, FitUp €30, Altafit €35"
+          },
+          {
+            "label": "Mid-range",
+            "value": "VivaGym €40-€50"
+          },
+          {
+            "label": "CrossFit boxes",
+            "value": "€80-€120/mo (Reebok CrossFit Valdemoro, CrossFit Singular Box)"
+          },
+          {
+            "label": "Personal trainer",
+            "value": "€35-€80/session"
+          },
+          {
+            "label": "English-speaking PTs",
+            "value": "Available — see list below"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "English-speaking personal trainers in Madrid",
+        "items": [
+          {
+            "title": "David Hughes Champion Center",
+            "body": "Award-winning English-speaking personal training team. Madrid center.",
+            "meta": [
+              "https://www.davidhughes.es/english-speaking-personal-trainer-madrid"
+            ]
+          },
+          {
+            "title": "EasyFit Madrid",
+            "body": "Personal trainers who speak English. High-quality training in English-language environment.",
+            "meta": [
+              "https://easyfitmadrid.com/english-training-in-madrid"
+            ]
+          },
+          {
+            "title": "Empawer Fitness",
+            "body": "Personal training in Madrid center. Customized planning, direct communication with coach.",
+            "meta": [
+              "https://empawerfitness.com/en"
+            ]
+          },
+          {
+            "title": "Locallista directory",
+            "body": "Maintains a curated list of English-speaking fitness trainers in Madrid. Useful starting point.",
+            "meta": [
+              "https://www.locallista.com/en/mad/fitness-trainers"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Free outdoor options",
+        "body": "Madrid's parks (Retiro, Casa de Campo, Parque Juan Carlos I) have free calisthenics parks and are popular with running groups. Free yoga sessions happen in Retiro on summer weekends. See running-madrid and yoga-madrid records for details.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "golf-madrid",
@@ -7769,7 +7856,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "yoga",
@@ -8610,7 +8697,8 @@
     ],
     "related_records": [
       "almudena-cathedral",
-      "awc-madrid"
+      "awc-madrid",
+      "st-georges-anglican-madrid"
     ],
     "subsubcategory": "Community & Faith",
     "sections": [
@@ -12238,7 +12326,9 @@
       "rental-contracts",
       "nie-tie",
       "empadronamiento",
-      "neighborhoods-guide"
+      "neighborhoods-guide",
+      "english-speaking-lawyers-madrid",
+      "english-speaking-vets-madrid"
     ],
     "sections": [
       {
@@ -12317,6 +12407,763 @@
         "heading": "Alternative options",
         "body": "Other English-speaking relocation services in Madrid include MADRIDEM (madridem.com), PropXper (propxper.com), and Help in Spain (spain-help.com). Compare quotes from 2-3 before committing — pricing models vary significantly.",
         "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "english-speaking-lawyers-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "English-Speaking Lawyers in Madrid",
+    "summary": "Madrid-based law firms with English-speaking attorneys for expats: property, immigration, inheritance, tax, business. Most offer initial consultations in English.",
+    "content": "Spanish legal matters — buying property, navigating inheritance, resolving a tax dispute, setting up a business, dealing with residency — are complicated enough in your native language. Doing them in Spanish, when the stakes are often five or six figures, is risky. Madrid has a small but solid ecosystem of English-speaking law firms built specifically for the expat market. Some are full-service firms with 20+ years of experience; others are boutique practices focused on one area (typically immigration or property). Most offer an initial consultation in English (often free or credited against any engagement). The biggest mistake expats make is using a 'friend's recommendation' from a Facebook group without verifying the lawyer's bar registration (colegiado) number — always ask for it and check it against the Madrid Bar Association (ICAM) registry. The second-biggest mistake is using a notary (notario) for legal advice — Spanish notaries are public officials who authenticate documents, not advocates; they cannot advise you on strategy.",
+    "official_url": "https://www.icam.es/en/",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "lawyer",
+      "legal",
+      "abogado",
+      "notary",
+      "expat-services",
+      "property",
+      "immigration",
+      "tax",
+      "inheritance",
+      "business"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "nie-tie",
+      "rental-contracts",
+      "modelo-720",
+      "moving2madrid-relocation",
+      "freelancing-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Lawyer vs Notary (Notario) — critical distinction",
+        "body": "In Spain, a notario is a public official who authenticates documents and verifies identity — they do NOT give legal advice. You bring your own lawyer to draft and review documents BEFORE the notary. If you show up to a notary without your own lawyer, you are unprotected.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Typical consultation",
+            "value": "€100-€200/hr (often free initial 30 min)"
+          },
+          {
+            "label": "Property purchase",
+            "value": "€1,500-€3,000 flat fee"
+          },
+          {
+            "label": "NIE / residency",
+            "value": "€300-€800"
+          },
+          {
+            "label": "Inheritance case",
+            "value": "€2,000-€5,000+ (1-3% of estate)"
+          },
+          {
+            "label": "Verify colegiado",
+            "value": "icam.es (Ilustre Colegio de Abogados de Madrid)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking law firms",
+        "items": [
+          {
+            "title": "My Lawyer in Spain",
+            "body": "Independent firm of English-speaking Spanish lawyers. Fast-Track option includes Notary and Apostille fees. Property, immigration, inheritance.",
+            "meta": [
+              "https://mylawyerinspain.com"
+            ]
+          },
+          {
+            "title": "Pérez Legal Group",
+            "body": "English-speaking lawyers with offices across Spain. 20+ years serving expats. Property and business focus.",
+            "meta": [
+              "https://perezlegalgroup.com"
+            ]
+          },
+          {
+            "title": "Power Abogados",
+            "body": "Bilingual Spanish & US nationality lawyers in Madrid. 20+ years advising foreigners of all nationalities.",
+            "meta": [
+              "https://www.powersabogados.com/en/english-speaking-lawyers-spain"
+            ]
+          },
+          {
+            "title": "Platinum Legal Spain",
+            "body": "English-speaking legal and immigration practice built for expats. Visas, property, tax, wills, inheritance, business.",
+            "meta": [
+              "https://platinumlegalspain.com"
+            ]
+          },
+          {
+            "title": "Spain Lawyer",
+            "body": "Online provider of legal services for English-speaking individuals and businesses. 807 505 207 hotline.",
+            "meta": [
+              "https://www.spainlawyer.com"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a lawyer in Madrid",
+        "do": [
+          "Verify the lawyer's colegiado number on icam.es before signing anything",
+          "Ask for a written fee agreement in English before any work begins",
+          "Get a fixed-fee quote for property purchases (avoid hourly billing for routine work)",
+          "Use a specialist — immigration lawyers for visas, property lawyers for conveyancing",
+          "Ask for a free initial consultation — most firms offer 30 minutes"
+        ],
+        "dont": [
+          "Don't use a 'friend of a friend' recommended in a Facebook group without verifying credentials",
+          "Don't expect a Spanish notary to give you legal advice — they cannot, by law",
+          "Don't sign anything in Spanish without an English translation reviewed by your own lawyer",
+          "Don't pay full fees upfront — typically 50% on engagement, 50% on completion",
+          "Don't assume EU-qualified lawyers can practice in Spain — they need to register with ICAM"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "When you absolutely need a lawyer",
+        "body": "Property purchase (always), inheritance from a Spanish-domiciled deceased (always), non-lucrative visa application (recommended), Golden Visa investment (always), business formation (recommended), tax dispute with Agencia Tributaria (always), divorce with Spanish-domiciled spouse (always).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "english-speaking-therapists-madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "title": "English-Speaking Therapists & Counselors in Madrid",
+    "summary": "Madrid-based English-speaking therapists, psychologists, and counselors for the expat community. Individual, couples, and family therapy. Online and in-person options.",
+    "content": "Mental health support is one of the most-overlooked practical needs for expats. Moving countries amplifies stress, isolation, and identity questions — and doing therapy in a second language, particularly about culturally specific family dynamics, is significantly less effective than therapy in your native tongue. Madrid has a small but growing ecosystem of English-speaking therapists, ranging from US-licensed psychologists (who see clients online) to locally trained Spanish psychotherapists who work in English. There are also several dedicated directories — Expat Therapy 4U, It's Complicated, Counselling Madrid — that maintain verified lists of English-speaking practitioners. Note that Spanish public healthcare (Sanidad) does offer psychological services, but in Spanish and with long waitlists; private English-speaking therapy typically costs €70-€120/session. Many expats also use online platforms (BetterHelp, Talkspace) to access English-speaking therapists licensed in their home country, which can be more affordable and culturally attuned.",
+    "official_url": "https://www.expatherapy4u.com/find-an-english-speaking-therapist-in-spain/find-an-english-speaking-therapist-in-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "therapist",
+      "psychologist",
+      "counselor",
+      "mental-health",
+      "expat",
+      "therapy",
+      "anxiety",
+      "depression",
+      "couples"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-speaking-doctors-madrid",
+      "healthcare",
+      "english-speaking-lawyers-madrid",
+      "awc-madrid",
+      "language-exchanges-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Why this matters for expats",
+        "body": "Expat depression and anxiety rates are significantly higher than baseline. Language barriers, social isolation, visa stress, and the loss of home-country support networks all contribute. Doing therapy in Spanish when you're already stressed is often counterproductive — find an English-speaking therapist.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Typical session cost",
+            "value": "€70-€120 (50 min)"
+          },
+          {
+            "label": "Online session cost",
+            "value": "€50-€90 (BetterHelp, Talkspace cheaper)"
+          },
+          {
+            "label": "First session",
+            "value": "Often free or reduced (15-30 min intro)"
+          },
+          {
+            "label": "Insurance coverage",
+            "value": "Private insurance often covers 8-20 sessions/year"
+          },
+          {
+            "label": "Wait time",
+            "value": "1-3 weeks (private); 3-6 months (public Sanidad)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking therapists & directories",
+        "items": [
+          {
+            "title": "Expat Therapy 4U",
+            "body": "Curated directory of English-speaking therapists across Spain. Madrid-specific filter. Verified practitioners only.",
+            "meta": [
+              "https://www.expatherapy4u.com"
+            ]
+          },
+          {
+            "title": "Counselling Madrid",
+            "body": "Team of English-speaking counselors, therapists, psychotherapists, and psychologists. Individual and couples work.",
+            "meta": [
+              "https://www.counsellingmadrid.org"
+            ]
+          },
+          {
+            "title": "Expats in Therapy",
+            "body": "Multilingual therapy for expats. Psychology MSc and Gestalt Psychotherapist. English-speaking. Couples and individual therapy.",
+            "meta": [
+              "https://www.expatsintherapy.es"
+            ]
+          },
+          {
+            "title": "Oak and Stone Therapy",
+            "body": "US-licensed English-speaking therapists (East Asian, Korean, Taiwanese American focus). Online therapy for expats.",
+            "meta": [
+              "https://www.oakandstonetherapy.com"
+            ]
+          },
+          {
+            "title": "It's Complicated",
+            "body": "Therapist directory with Madrid location filter and language filter. International network of licensed professionals.",
+            "meta": [
+              "https://complicated.life/find-a-therapist/madrid"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Finding the right therapist",
+        "do": [
+          "Use the free intro session to interview 2-3 therapists before committing",
+          "Ask about their experience with expat-specific issues (culture shock, repatriation anxiety)",
+          "Check if your private health insurance covers mental health (Sanitas, Adeslas, Asisa often do)",
+          "Consider online therapy if you're new in Madrid — easier than navigating in-person appointments",
+          "Ask about sliding-scale fees if cost is a barrier — many therapists offer them"
+        ],
+        "dont": [
+          "Don't wait until crisis point — most expats benefit from preventive therapy in the first 6 months",
+          "Don't assume a Spanish-trained therapist understands your home-country cultural context",
+          "Don't use unlicensed 'life coaches' for clinical issues — verify psychology licensure",
+          "Don't expect Spanish public healthcare to provide therapy in English (it won't)"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Crisis resources",
+        "body": "If you are in immediate danger, call 112 (Spanish emergency services, English-speaking operators). For mental health crises, Teléfono de la Esperanza (717 003 717) is a Spanish-language helpline; English-language crisis support is available via the Samaritans English-speaking line (+44 116 123 from Spain).",
+        "tone": "danger"
+      }
+    ]
+  },
+  {
+    "id": "international-chambers-madrid",
+    "category": "living",
+    "subcategory": "work",
+    "title": "International Chambers of Commerce in Madrid",
+    "summary": "Madrid-based international business chambers: AmCham Spain (American, founded 1917), British Chamber of Commerce in Spain. Networking, advocacy, events for the international business community.",
+    "content": "International chambers of commerce are an underutilized resource for English-speaking professionals building careers or businesses in Madrid. The two largest — AmCham Spain (American Chamber of Commerce in Spain) and the British Chamber of Commerce in Spain — both maintain Madrid offices with active event calendars, member directories, and advocacy programs. AmCham Spain was founded in 1917 and is one of the oldest American chambers outside the US; it focuses on competitiveness, productivity, and internationalization of the Spanish economy, with strong ties to US-Spain trade. The British Chamber, with a Madrid office at +34 91 576 33 28 (madrid@britchamber.com), serves a similar function for UK-Spain trade and runs regular networking events in Madrid. Both chambers are valuable for: (1) new arrivals looking to build a professional network, (2) Spanish companies seeking US/UK partners, (3) US/UK companies entering the Spanish market, and (4) job seekers targeting international firms. Membership is typically corporate (€500-€5,000/year depending on company size) but many events are open to non-members at a higher per-event rate.",
+    "official_url": "https://www.amchamspain.com/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "business",
+      "networking",
+      "chamber-of-commerce",
+      "amcham",
+      "british-chamber",
+      "professional",
+      "international",
+      "advocacy"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "job-search-spain",
+      "journalism-writing-madrid",
+      "freelancing-spain",
+      "expat-publications-madrid",
+      "awc-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Why a chamber matters even if you're not a corporate member",
+        "body": "Chamber events are one of the few places in Madrid where you'll find a density of English-speaking business professionals in one room. Even as a non-member paying per-event rates, attending 3-4 AmCham or British Chamber events per year is one of the highest-leverage networking activities available to an English-speaking professional in Madrid.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "AmCham Spain founded",
+            "value": "1917 (107 years)"
+          },
+          {
+            "label": "AmCham contact",
+            "value": "amcham@amchamspain.com"
+          },
+          {
+            "label": "British Chamber Madrid",
+            "value": "madrid@britchamber.com / +34 91 576 33 28"
+          },
+          {
+            "label": "Typical membership",
+            "value": "€500-€5,000/year (corporate)"
+          },
+          {
+            "label": "Per-event fee (non-member)",
+            "value": "€50-€150"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What the chambers offer",
+        "items": [
+          {
+            "title": "AmCham Spain",
+            "body": "American Chamber of Commerce in Spain. Founded 1917. Networking, advocacy, US-Spain trade support. Strong presence at Madrid events. Most active business chamber in Spain.",
+            "meta": [
+              "https://www.amchamspain.com/en"
+            ]
+          },
+          {
+            "title": "British Chamber of Commerce in Spain",
+            "body": "Madrid office serves central Spain. UK-Spain trade focus. Post-Brexit relevance has grown. Regular Madrid networking events.",
+            "meta": [
+              "https://www.britishchamberspain.com/en"
+            ]
+          },
+          {
+            "title": "Chamber events",
+            "body": "Both chambers run monthly networking events, sector-specific roundtables, and an annual gala. Many are open to non-members at higher fees."
+          },
+          {
+            "title": "Member directory",
+            "body": "Both chambers publish member directories — useful for identifying potential employers, clients, or partners in the international business community."
+          },
+          {
+            "title": "Advocacy",
+            "body": "Both chambers lobby the Spanish government on behalf of international business interests. Their policy papers and position statements are public and useful for understanding regulatory trends."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Getting value from chamber membership",
+        "do": [
+          "Attend 2-3 events as a non-member before deciding whether to join",
+          "Target sector-specific roundtables (more useful than generic networking events)",
+          "Use the member directory to identify companies to approach for jobs or partnerships",
+          "Volunteer at chamber events — fastest way to meet the regulars",
+          "Read chamber policy papers if you work in a regulated industry"
+        ],
+        "dont": [
+          "Don't pay corporate membership until you've attended several events and confirmed ROI",
+          "Don't expect chambers to find you a job — they facilitate, they don't place",
+          "Don't confuse chambers with consulates — chambers are private non-profits, not government bodies"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "st-georges-anglican-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "St George's Anglican Church Madrid",
+    "summary": "English-language Anglican church in Madrid's Barrio de Salamanca (Calle de Núñez de Balboa 43). Sunday services at 8:30, 10:30, and 11:30. Founded for the English-speaking community, welcoming all nationalities.",
+    "content": "St George's Anglican Church is the longest-established English-language church in Madrid, located in the heart of Barrio de Salamanca at Calle de Núñez de Balboa 43. The church is part of the Diocese in Europe (Church of England) and serves a diverse congregation of British expats, American residents, English-speaking Spaniards, and short-term visitors. Sunday services follow a traditional Anglican pattern: said Holy Communion at 8:30am, Family Service at 10:00am, and Sung Eucharist at 11:30am. Wednesday Evening Prayer is held at 7:30pm. The church is also a hub for English-language community life beyond worship — it hosts coffee mornings, charity events, study groups, and serves as a meeting point for newly-arrived English-speaking residents looking to build a social network. St George's is explicitly inclusive and welcomes visitors regardless of faith background; many expats attend for the community rather than the theology. The church is featured on TripAdvisor as a Madrid attraction (4.5 stars) and on A Church Near You (the Church of England's congregation finder).",
+    "official_url": "https://www.stgeorgesmadrid.org",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "church",
+      "anglican",
+      "english-language",
+      "religion",
+      "community",
+      "salamanca",
+      "church-of-england",
+      "expat"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "evergreen",
+    "related_records": [
+      "churches-religion-madrid",
+      "awc-madrid",
+      "almudena-cathedral",
+      "international-chambers-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "A community hub, not just a church",
+        "body": "Many St George's regulars are expats who initially came for the Sunday service and stayed for the community. The church's coffee mornings, charity events, and study groups are one of the most reliable ways for English-speaking newcomers to build a social network in Madrid.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Address",
+            "value": "Calle de Núñez de Balboa 43, 28001 Madrid"
+          },
+          {
+            "label": "Neighborhood",
+            "value": "Barrio de Salamanca (Recoletos)"
+          },
+          {
+            "label": "Metro",
+            "value": "Velázquez (L4), Nuñez de Balboa (L5/L9)"
+          },
+          {
+            "label": "Denomination",
+            "value": "Church of England (Diocese in Europe)"
+          },
+          {
+            "label": "TripAdvisor rating",
+            "value": "4.5 stars"
+          }
+        ]
+      },
+      {
+        "type": "stats",
+        "heading": "Service Times",
+        "items": [
+          {
+            "label": "Sunday 8:30am",
+            "value": "Said Holy Communion"
+          },
+          {
+            "label": "Sunday 10:00am",
+            "value": "Family Service"
+          },
+          {
+            "label": "Sunday 11:30am",
+            "value": "Sung Eucharist (with hymns)"
+          },
+          {
+            "label": "Wednesday 7:30pm",
+            "value": "Evening Prayer"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What St George's offers",
+        "items": [
+          {
+            "title": "Sunday worship (3 services)",
+            "body": "Said Communion (quiet, traditional), Family Service (kid-friendly), Sung Eucharist (full choir and hymns)."
+          },
+          {
+            "title": "Midweek Evening Prayer",
+            "body": "Wednesday 7:30pm. Smaller group, contemplative. Some sessions held online."
+          },
+          {
+            "title": "Community events",
+            "body": "Coffee mornings after Sunday services, charity fundraisers, study groups, seasonal festivals (Christmas fayre, Easter events)."
+          },
+          {
+            "title": "Pastoral support",
+            "body": "The clergy provide pastoral care, hospital visits, and support to English-speaking expats in difficulty — a genuinely useful resource for newcomers in crisis."
+          },
+          {
+            "title": "Weddings & baptisms",
+            "body": "Available for English-speaking Anglicans. Common for mixed Spanish-UK/US couples wanting an English-language ceremony."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting St George's",
+        "do": [
+          "Arrive 10 minutes early to find a seat — Sung Eucharist at 11:30 is the most popular service",
+          "Stay for coffee after the service — that's where the community networking happens",
+          "Check stgeorgesmadrid.org for special services (Christmas, Easter, Remembrance Sunday)",
+          "Bring kids to the 10am Family Service if you have them — it's designed for them"
+        ],
+        "dont": [
+          "Don't expect the service to be in Spanish — St George's is explicitly English-language",
+          "Don't worry about dressing up — Madrid Anglican congregation is business-casual",
+          "Don't be put off if you're not Anglican — the church is welcoming to all faith backgrounds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "english-speaking-vets-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "English-Speaking Veterinarians in Madrid",
+    "summary": "Madrid-based veterinary clinics with English-speaking staff for expat pet owners. Routine care, emergencies, CEXGAN pet certificates for travel, house calls. AAH Veterinary Services serves English speakers for 25+ years.",
+    "content": "If you're moving to Madrid with a pet — or adopting one once you're there — finding an English-speaking vet is one of the most practical things you can do. Spanish vet care is generally excellent and significantly cheaper than in the US or UK, but the consultation experience is much smoother when you can describe your pet's symptoms in your native language. Madrid has a small but reliable ecosystem of English-speaking veterinary clinics, several with decades of experience serving the expat community. The longest-running is AAH Veterinary Services (Avenida de Europa 4), which has served the English-speaking public of Madrid for over 25 years and provides veterinary care, house calls, grooming, and boarding. Other options include Barvet (which offers the CEXGAN pet travel certificate service in English and is contactable via WhatsApp at +34 635 72 30 22), Centro Veterinario Ricanco in Prosperidad (Chamberí), and El Chincol. If you need a pet passport or CEXGAN certificate to travel within the EU with your animal, English-speaking vets handle this routinely. Most clinics offer emergency after-hours numbers; for true emergencies, Hospital Veterinario Puchol (Puchol 22, Madrid) is one of the best 24/7 facilities in the city.",
+    "official_url": "https://barvet.es/cexgan-english-speaking-vet",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "vet",
+      "veterinarian",
+      "pet",
+      "dog",
+      "cat",
+      "animal",
+      "cexgan",
+      "expat",
+      "house-calls"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-speaking-doctors-madrid",
+      "english-speaking-lawyers-madrid",
+      "english-speaking-therapists-madrid",
+      "moving2madrid-relocation"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish vet care is high quality and affordable",
+        "body": "Don't be discouraged by the language barrier — Madrid vet care is excellent. Routine consultations cost €30-€50 (vs €80-€150 in the US/UK), and emergency facilities are well-equipped. The English-speaking vet network in Madrid is small but reliable.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Routine consultation",
+            "value": "€30-€50"
+          },
+          {
+            "label": "Vaccinations",
+            "value": "€20-€40 each"
+          },
+          {
+            "label": "CEXGAN certificate (EU travel)",
+            "value": "€40-€80"
+          },
+          {
+            "label": "Emergency visit",
+            "value": "€80-€150"
+          },
+          {
+            "label": "24/7 emergency hospital",
+            "value": "Hospital Veterinario Puchol"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking vets in Madrid",
+        "items": [
+          {
+            "title": "AAH Veterinary Services",
+            "body": "Avenida de Europa 4. Serving English-speaking public of Madrid for 25+ years. Vet care, house calls, grooming, boarding. International pet shipping.",
+            "meta": [
+              "Yelp: AAH Veterinary Services Madrid"
+            ]
+          },
+          {
+            "title": "Barvet",
+            "body": "Full CEXGAN service in English. WhatsApp +34 635 72 30 22. Useful for EU pet travel paperwork.",
+            "meta": [
+              "https://barvet.es/cexgan-english-speaking-vet"
+            ]
+          },
+          {
+            "title": "Centro Veterinario Rican",
+            "body": "Prosperidad neighborhood (Chamberí). Run by brothers Carlos and Ricardo. Modern clinic with English-speaking staff.",
+            "meta": [
+              "https://centroveterinariorican.com/en/about-us"
+            ]
+          },
+          {
+            "title": "Gattos Animal Hospital",
+            "body": "Near the Prado. Recommended by expat community. Pet shop, grooming, and vet services combined.",
+            "meta": [
+              "Expat-recommended"
+            ]
+          },
+          {
+            "title": "Hospital Veterinario Puchol",
+            "body": "Puchol 22. 24/7 emergency facility. Best-equipped for true emergencies.",
+            "meta": [
+              "Emergency only"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Pet care tips for Madrid expats",
+        "do": [
+          "Get a CEXGAN certificate (EU pet passport) if you plan to travel with your pet within the EU",
+          "Register with a vet within the first month of arrival — don't wait for an emergency",
+          "Ask about microchipping — required by Spanish law for dogs and cats",
+          "Keep the 24/7 emergency hospital number saved separately from your regular vet"
+        ],
+        "dont": [
+          "Don't walk dogs off-leash in Madrid parks — strictly enforced, fines €150-€600",
+          "Don't assume your US/UK pet insurance works in Spain — most don't",
+          "Don't bring pets into Spain without checking current rabies/titer rules — non-EU imports require 3-month wait",
+          "Don't leave dogs in cars — Spanish summers are brutal and animal cruelty laws are strict"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Pet import paperwork",
+        "body": "If bringing a pet from outside the EU: (1) Microchip (ISO 11784/85), (2) Rabies vaccination at least 21 days before travel, (3) Animal health certificate issued by an official vet within 10 days of travel, (4) Tapeworm treatment (dogs only) 24-120 hours before arrival. Allow 3+ months lead time.",
+        "tone": "warning"
+      }
+    ]
+  },
+  {
+    "id": "english-summer-camps-madrid",
+    "category": "do",
+    "subcategory": "family",
+    "title": "English-Language Summer Camps in Madrid",
+    "summary": "Summer camps in and around Madrid operating in English: Enforex, The Village Kids, LAE Kids, International College Spain. Ages 2-18. Day camps and residential options. June-September.",
+    "content": "English-language summer camps in Madrid are popular with two audiences: expat parents who want their kids in an English-speaking environment during the long Spanish summer break (late June to mid-September), and Spanish parents who want their kids immersed in English. The market is well-developed, with options ranging from language-immersion day camps in central Madrid to residential camps in the surrounding mountains. The largest operators are Enforex (with camps across Spain, including Madrid, for ages 5-18, mixing Spanish and English learners), The Village Kids (an international camp for ages 8-12 with English as the main language, two-week sessions), and LAE Kids (Spanish summer camp in Madrid with small groups and weekly excursions). International College Spain runs an English-language day camp for ages 2-11. Most camps run weekly sessions from late June through late August, with prices ranging from €200-€500/week for day camps to €800-€1,500/week for residential. Booking opens in January-February for the following summer, and the most popular weeks (early July) sell out by March.",
+    "official_url": "https://www.enforex.com/summercamps",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "summer-camp",
+      "kids",
+      "children",
+      "english-language",
+      "day-camp",
+      "residential",
+      "family",
+      "international-school"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "bilingual-schools-madrid",
+      "universities-madrid",
+      "language-schools-madrid",
+      "hot-english-magazine-madrid",
+      "teacher-training-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Book early — popular weeks sell out by March",
+        "body": "Spanish summer break runs late June to mid-September, and most working parents need camp coverage for at least 4-6 weeks. Early July sessions sell out first. Booking opens in January-February for the following summer.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "2-18 (varies by camp)"
+          },
+          {
+            "label": "Sessions",
+            "value": "1-2 weeks typical"
+          },
+          {
+            "label": "Day camp cost",
+            "value": "€200-€500/week"
+          },
+          {
+            "label": "Residential cost",
+            "value": "€800-€1,500/week"
+          },
+          {
+            "label": "Season",
+            "value": "Late June to late August"
+          },
+          {
+            "label": "Booking opens",
+            "value": "January-February"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-language summer camps",
+        "items": [
+          {
+            "title": "Enforex Summer Camps",
+            "body": "Major operator with camps across Spain including Madrid. Ages 5-18. Mix of Spanish and English learners (60% Spanish, 40% international). 20 language lessons per week.",
+            "meta": [
+              "https://www.enforex.com/summercamps"
+            ]
+          },
+          {
+            "title": "The Village Kids",
+            "body": "International summer camp for ages 8-12. English is the main language. Two-week sessions. Located outside Madrid (residential).",
+            "meta": [
+              "https://campthevillage.com/en/international-summer-camp-in-spain"
+            ]
+          },
+          {
+            "title": "LAE Kids Spanish Summer Camp",
+            "body": "Madrid-based. Small groups, full immersion. Weekly excursions. Spanish-language focus with English-speaking staff.",
+            "meta": [
+              "https://laekids.com/spanish-summer-camp"
+            ]
+          },
+          {
+            "title": "International College Spain Summer Camp",
+            "body": "Ages 2-11. Day camp. English-language delivery. School facilities in Madrid.",
+            "meta": [
+              "https://mumabroad.com/english-summer-camps-madrid-2025"
+            ]
+          },
+          {
+            "title": "Don Quijote Summer Camps",
+            "body": "Language camps (Spanish or English) across Spain. 20 lessons per week. Workshops and cultural activities.",
+            "meta": [
+              "https://www.donquijote.org/specialized-spanish-courses/summer-camps"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a summer camp",
+        "do": [
+          "Book by March if you need early-July dates — those sell out first",
+          "Ask about the counselor-to-camper ratio (8:1 or better is good for under-10s)",
+          "Verify the camp has liability insurance and asks for medical info",
+          "Consider a mix: 2 weeks residential + 2-4 weeks day camp for variety",
+          "Check if the camp offers airport pickup if you're an international family"
+        ],
+        "dont": [
+          "Don't wait until May — most popular camps are full by then",
+          "Don't assume all 'English' camps are staffed by native speakers — ask",
+          "Don't book a residential camp for a child under 8 unless they've done overnights before",
+          "Don't forget sun protection — Madrid summers regularly hit 40°C (104°F)"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Madrid summer heat warning",
+        "body": "Madrid in July and August regularly exceeds 38°C (100°F). For day camps, verify the facility has air-conditioned indoor space for the hottest hours (1-5pm). For residential camps, prefer those in the Madrid mountains (Sierra de Guadarrama) where temperatures are 5-8°C cooler.",
+        "tone": "warning"
       }
     ]
   }
