@@ -11478,5 +11478,121 @@
       "the-broadsheet-madrid",
       "the-local-spain"
     ]
+  },
+  {
+    "id": "multimadrid-com-historical",
+    "title": "MultiMadrid.com (Historical — Virtual Madrid Tours)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Background",
+    "summary": "Defunct Madrid website (2001-2015). Featured live Plaza Mayor webcam, 360° panoramas, virtual tours of 40+ Madrid landmarks, events, and Spain forums.",
+    "content": "MultiMadrid.com was a pioneering English-language Madrid website created by Jeremy (jeremy@multimadrid.com). It was active from approximately 2001 to 2015. TAGLINE: 'You Never Have to Leave Madrid!' — 'The ultimate virtual tour of Madrid.' WHAT IT OFFERED: (1) Live Plaza Mayor Webcam — one of the first live webcams in Madrid, showing the iconic Plaza Mayor in real time. (2) 360° Panoramic Virtual Tours — interactive 360-degree panoramas of 40+ Madrid landmarks, including Plaza Mayor, Puerta del Sol, Royal Palace, Prado, Temple of Debod, Atocha Station, El Rastro, and more. Users could 'walk' through Madrid virtually. (3) Madrid Photography — extensive photo galleries of Madrid monuments, plazas, fountains, and streets. (4) Madrid Videos — video clips of Madrid events and landmarks. (5) Events Calendar — San Isidro, Semana Santa, Carnavales, La Vuelta cycling, Madrid Marathon, Book Fair, Dos de Mayo. (6) Spain Forums — active message board (spaintalk.multimadrid.org) with forums on Madrid travel, living in Spain, accommodation, and classifieds. (7) Spain Chatrooms — real-time chat for Spain enthusiasts. (8) Spain Classifieds — housing, jobs, services. (9) Screensavers and E-cards — Madrid-themed digital products. (10) Guestbook — visitor comments. LANDMARKS COVERED (40+): Plaza Mayor, Puerta del Sol, Plaza de la Villa, Plaza de España, Plaza de Oriente, Plaza de Cibeles, Plaza de Colón, El Prado, Puerta de Alcalá, Palacio Real, Temple of Debod, Post Office (Correos), Jardines Sabatini, La Almudena, Atocha Station, Congress Building, El Rastro, and more. EVENTS COVERED: San Isidro, Semana Santa, Carnavales, La Vuelta (cycling), Madrid Marathon, Book Fair, Dos de Mayo, International Poetry Day, National Stamp Fair. STATUS: The domain multimadrid.com now redirects to a blank page. The site appears to have ceased around 2015. The Wayback Machine has snapshots from 2005-2012. THE VOID: MultiMadrid.com was unique in its visual approach — it was the 'virtual tour' of Madrid before Google Street View existed. The 360° panoramas and live webcam were groundbreaking for their time. The Spain Forums (spaintalk.multimadrid.org) were an active community. WHO FILLS THE VOID NOW: (1) Virtual tours: Google Street View, Google Earth. (2) Live webcam: EarthCam ( Plaza Mayor), SkylineWebcams. (3) Madrid photography: Instagram (#madrid), Flickr. (4) Events: esMadrid.com, Madrid Metropolitan. (5) Forums: Reddit (r/Madrid), Facebook groups. (6) Classifieds: Idealista, InfoJobs. (7) Madrid directory: Madrid Insider (our site — 300 records). TIPS: (1) MultiMadrid.com is defunct — don't try to visit it. (2) The Wayback Machine has archived snapshots at web.archive.org/web/*/multimadrid.com. (3) The site's creator Jeremy was an early Madrid digital pioneer — his work deserves recognition.",
+    "official_url": "https://web.archive.org/web/20051219150212/http://www.multimadrid.com/",
+    "status": "archived",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "historical",
+      "multimadrid",
+      "webcam",
+      "virtual-tour",
+      "panorama",
+      "defunct"
+    ],
+    "related_records": [
+      "english-publications-history-madrid",
+      "madrid-metropolitan",
+      "the-broadsheet-madrid",
+      "in-madrid-magazine"
+    ]
+  },
+  {
+    "id": "madridman-com",
+    "title": "MadridMan.com (English Madrid Guide)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Magazines & Blogs",
+    "summary": "Long-running English-language Madrid guide by 'MadridMan'. Hotel reviews, restaurant picks, trip reports, Madrid links. Active at madridman.com.",
+    "content": "MadridMan.com is a long-running English-language Madrid guide website created and maintained by 'MadridMan' (a passionate American Madrid enthusiast). The site has been active since at least 2000 and appears to still be operational at madridman.com. WHAT IT OFFERS: (1) Madrid Hotels — curated hotel recommendations with personal reviews. (2) Madrid Restaurants — restaurant picks with English-friendliness notes. MadridMan specifically notes which restaurants have English menus and English-speaking staff. (3) Madrid Trip Reports — detailed personal trip reports from MadridMan's multiple visits (2000, 2001, 2002, etc.). These are time-capsule views of Madrid through the years. (4) Favorite Madrid Links — comprehensive directory of Madrid-related websites, resources, and services. (5) Madrid Photos — personal photography from visits. (6) Spain Travel Tips — practical advice for Spain travelers. WHAT MAKES IT UNIQUE: (1) Personal voice — MadridMan writes from the perspective of a passionate repeat visitor, not a professional travel writer. (2) Long history — the site has been active for 20+ years, providing a historical record of how Madrid has changed. (3) English-friendliness focus — MadridMan specifically notes which restaurants and hotels accommodate English speakers, which aligns perfectly with our mission. (4) Detailed restaurant reviews — includes specifics like 'Spanish staff speaks English, most all speak some English. Reservations for lunch and especially dinner is absolutely necessary. Menus in Spanish and English.' STATUS: The site appears to still be active, though the design is dated (early-2000s HTML). The content is personal and opinionated — not a comprehensive directory like Madrid Insider, but a valuable personal perspective. HOW IT COMPARES TO MADRID INSIDER: MadridMan is a personal blog/trip report site with deep personal experience. Madrid Insider is a structured directory with 300 records, official links, and live data. They complement each other — MadridMan for personal recommendations and trip reports, Madrid Insider for comprehensive resource directory. TIPS: (1) Check MadridMan's restaurant page for personal recommendations with English-friendliness notes. (2) His trip reports are fascinating historical documents — read the 2000 trip report to see how Madrid has changed. (3) His 'Favorite Links' page is a time-capsule of early-2000s Madrid web resources. (4) The site design is old-school but the content is genuine and useful.",
+    "official_url": "http://www.madridman.com/",
+    "status": "legacy",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "blog",
+      "english",
+      "madridman",
+      "personal",
+      "trip-reports",
+      "hotels"
+    ],
+    "related_records": [
+      "multimadrid-com-historical",
+      "english-publications-history-madrid",
+      "expat-publications-madrid",
+      "hotels-madrid"
+    ]
+  },
+  {
+    "id": "semana-santa-madrid",
+    "title": "Semana Santa (Holy Week) in Madrid",
+    "category": "now",
+    "subcategory": "events",
+    "subsubcategory": "Annual Festivals",
+    "summary": "Madrid's Holy Week processions (March/April). 20+ brotherhoods parade through the center. Free. Less intense than Seville but still impressive.",
+    "content": "Semana Santa (Holy Week) in Madrid is the week before Easter. Madrid's processions are less famous than Seville's but still impressive and more accessible (fewer crowds). WHEN: The week before Easter Sunday (March or April, varies by year). 2026 dates: March 28 – April 5. WHAT HAPPENS: 20+ religious brotherhoods (cofradías) parade through the streets of central Madrid, carrying elaborate floats (pasos) depicting scenes from the Passion of Christ. The processions are solemn, accompanied by drums and trumpets, and many participants wear traditional hooded robes (capirotes). KEY PROCESSIONS: (1) Viernes de Dolores (Friday before Palm Sunday) — opening procession, Plaza de la Villa. (2) Domingo de Ramos (Palm Sunday) — Palm Sunday procession from Iglesia de San Nicolás. (3) Jueves Santo (Holy Thursday) — the most important day, multiple processions in the evening. (4) Viernes Santo (Good Friday) — morning and evening processions, including the solemn 'Procesión del Silencio' (silent procession) at midnight. (5) Sábado Santo (Holy Saturday) — quiet day, no processions. (6) Domingo de Resurrección (Easter Sunday) — joyful closing procession. WHERE TO WATCH: (1) Plaza Mayor — processions pass through here. (2) Calle de Bailén — near the Cathedral. (3) Plaza de la Villa — starting point for many processions. (4) Anywhere along the route — just stand on the sidewalk. SCHEDULE: Published annually at esmadrid.com/en/easter-week-madrid. Processions typically start at 7-8pm and last 2-4 hours. TIPS: (1) It's FREE — just show up and watch from the sidewalk. (2) Be respectful — this is a religious event, not a parade. Keep quiet during processions. (3) Dress modestly. (4) Arrive 30 min early for good viewing spots. (5) The midnight 'Procesión del Silencio' on Good Friday is the most atmospheric. (6) Madrid's Semana Santa is less crowded than Seville's — you can actually see the processions without fighting through crowds. (7) Many restaurants and shops close on Good Friday. (8) The floats are works of art — some date back to the 17th century.",
+    "official_url": "https://www.esmadrid.com/en/easter-week-madrid",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "events",
+      "semana-santa",
+      "holy-week",
+      "easter",
+      "religious",
+      "procession",
+      "free"
+    ],
+    "related_records": [
+      "san-isidro-festival",
+      "verbenas-festivals",
+      "madrid-pride",
+      "bullfights-madrid"
+    ]
+  },
+  {
+    "id": "carnavales-madrid",
+    "title": "Carnavales de Madrid (Carnival)",
+    "category": "now",
+    "subcategory": "events",
+    "subsubcategory": "Annual Festivals",
+    "summary": "Madrid's Carnival (February). Costumes, parades, street music, the 'Burial of the Sardine' on Ash Wednesday. Free. Less wild than Rio or Tenerife.",
+    "content": "Carnavales de Madrid is the city's Carnival celebration, held in February (the week before Lent). Madrid's carnival is less famous than Rio, Tenerife, or Cadiz, but it's a fun, family-friendly celebration. WHEN: The week before Ash Wednesday (February, varies by year). 2026 dates: February 6-17. WHAT HAPPENS: (1) Opening speech (pregón) — Thursday evening, usually at Plaza de la Villa or Plaza Mayor. A celebrity gives the opening speech. (2) Costume parades — Saturday and Sunday, people in costumes parade through the center. (3) Street music — bands and performers in plazas. (4) Children's carnival — Sunday morning, kids' costume parade. (5) Gastronomy — special carnival foods (torrijas, huevos estrellados). (6) Burial of the Sardine (Entierro de la Sardina) — Ash Wednesday evening. THE BURIAL OF THE SARDINE: The most unique Madrid carnival event. On Ash Wednesday, a mock funeral procession marches through the streets, 'mourning' a sardine. People dress in black (widows' costumes), wail dramatically, and carry a coffin with a sardine inside. The procession ends at the Casa de Campo lake, where the sardine is 'buried' (thrown in the lake). The tradition dates to the 18th century and is both absurd and wonderful. WHERE: (1) Plaza Mayor — opening ceremony and events. (2) Calle de la Latina and La Latina neighborhood — main parade route. (3) Casa de Campo — Burial of the Sardine endpoint. (4) Various cultural centers — indoor events. SCHEDULE: Published at esmadrid.com/en/carnival-madrid. Most events are FREE. TIPS: (1) Wear a costume — even a simple mask or hat makes you part of the fun. (2) The Burial of the Sardine (Ash Wednesday evening) is the highlight — don't miss it. (3) Less crowded than other Madrid festivals — you can actually move around. (4) Family-friendly — kids love the costumes. (5) Many bars have special carnival menus and drinks. (6) Madrid's carnival is more low-key than Cadiz or Tenerife — if you want wild carnival, go to those cities.",
+    "official_url": "https://www.esmadrid.com/en/carnival-madrid",
+    "status": "annual review",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "events",
+      "carnaval",
+      "carnival",
+      "february",
+      "costume",
+      "sardine",
+      "free"
+    ],
+    "related_records": [
+      "semana-santa-madrid",
+      "san-isidro-festival",
+      "verbenas-festivals",
+      "madrid-pride"
+    ]
   }
 ]
