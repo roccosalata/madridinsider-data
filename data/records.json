@@ -4695,7 +4695,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "malasana",
@@ -4707,7 +4707,84 @@
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "City Center"
+    "subsubcategory": "City Center",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's hipster heart",
+        "body": "Malasaña is where Madrid's alternative culture lives. Birthplace of the 1980s La Movida madrileña, today it's craft beer bars, vintage shops, tattoo parlors, and the city's best coffee. If you want to live where young Madrileños want to live, this is it.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Movida madrileña, vintage, craft beer"
+          },
+          {
+            "label": "Main squares",
+            "value": "Plaza del Dos de Mayo, Plaza de San Ildefonso"
+          },
+          {
+            "label": "Metro",
+            "value": "Bilbao (L1, L4), Tribunal (L1, L10), San Bernardo (L2, L4)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€1,100-€1,600/mo"
+          },
+          {
+            "label": "Best for",
+            "value": "Ages 25-40, creative professionals"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Malasaña",
+        "items": [
+          {
+            "title": "Plaza del Dos de Mayo",
+            "body": "Neighborhood's main square. Statue of Daoíz y Velarde (1808 resistance heroes). Surrounded by bars with terraces."
+          },
+          {
+            "title": "Calle Fuencarral",
+            "body": "Pedestrian shopping street. International brands + Spanish chains. Borders Malasaña on the east."
+          },
+          {
+            "title": "Mercado de San Ildefonso",
+            "body": "Modern food market. Smaller than San Miguel, less touristy. Great for tapas hopping."
+          },
+          {
+            "title": "Vintage shopping",
+            "body": "Calle del Pez and Calle del Espíritu Santo have Madrid's best vintage stores. William Vintage, Magpie, Ropa Corazón."
+          },
+          {
+            "title": "Craft beer bars",
+            "body": "Fábrica Maravillas (Calle Estudios), La Cervecería Alemana, and various microbreweries."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Malasaña",
+        "do": [
+          "Go on Friday or Saturday night — bars are busiest from 11pm-2am",
+          "Wander Calle del Pez for the most photogenic stretch",
+          "Try a vermut at Bodegas Ricla — old-school Madrid bar unchanged since 1920s",
+          "Stay here if you want nightlife and don't mind noise",
+          "Visit the Museo del Romanticismo for a quiet afternoon contrast"
+        ],
+        "dont": [
+          "Don't expect quiet — Malasaña is loud until 3am on weekends",
+          "Don't drive — narrow streets, no parking, pedestrian priority",
+          "Don't miss the street art along Calle de la Palma",
+          "Don't expect luxury — Malasaña is deliberately scruffy"
+        ]
+      }
+    ]
   },
   {
     "id": "chueca-neighborhood",
@@ -4720,7 +4797,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "chueca",
@@ -4733,7 +4810,84 @@
       "metro-de-madrid",
       "sol-gran-via-neighborhood"
     ],
-    "subsubcategory": "City Center"
+    "subsubcategory": "City Center",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's LGBTQ+ capital and chic shopping district",
+        "body": "Chueca is Madrid's most cosmopolitan neighborhood — home to the LGBTQ+ community, fashion boutiques, and the city's most stylish cocktail bars. It hosts Madrid Pride (one of the world's largest Pride events) every July.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "LGBTQ+ culture, fashion, Madrid Pride"
+          },
+          {
+            "label": "Main square",
+            "value": "Plaza de Chueca, Plaza del Rey"
+          },
+          {
+            "label": "Metro",
+            "value": "Chueca (L5), Gran Vía (L1, L5), Tribunal (L1, L10)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€1,200-€1,700/mo"
+          },
+          {
+            "label": "Madrid Pride",
+            "value": "Late June / early July (see madrid-pride record)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Chueca",
+        "items": [
+          {
+            "title": "Mercado de San Antón",
+            "body": "Modern market with rooftop grill restaurant. Best market food experience in Madrid."
+          },
+          {
+            "title": "Calle Hortaleza shopping",
+            "body": "Independent boutiques, Spanish designers,concept stores."
+          },
+          {
+            "title": "Plaza de Chueca",
+            "body": "Heart of LGBTQ+ Madrid. Bar terraces,drag shows at night. Always busy."
+          },
+          {
+            "title": "Barrio de las Letras border",
+            "body": "Southeast corner of Chueca blends into Barrio de las Letras (Literary Quarter) — Cervantes' home."
+          },
+          {
+            "title": "Sundays at El Mercado de los Encants",
+            "body": "Not in Chueca itself but the flea market draws Chueca's hipster crowd every Sunday."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Chueca",
+        "do": [
+          "Visit during Madrid Pride (late June/early July) — neighborhood becomes a massive street party",
+          "Eat at Mercado de San Antón's rooftop grill — buy fresh seafood downstairs, they cook it",
+          "Cocktail crawl on Calle de la Reina — Madrid's best craft cocktail bars",
+          "Shop Spanish designers on Calle Hortaleza",
+          "Bring cash for the smaller tapas bars"
+        ],
+        "dont": [
+          "Don't expect quiet — Chueca is loud and proud, especially on weekends",
+          "Don't drive — pedestrian-priority streets, no parking",
+          "Don't be put off by the LGBTQ+ vibe if you're straight — Chueca welcomes everyone",
+          "Don't miss the rooftop at Círculo de Bellas Artes (border of Chueca) for sunset"
+        ]
+      }
+    ]
   },
   {
     "id": "salamanca-neighborhood",
@@ -4746,7 +4900,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "salamanca",
@@ -4757,7 +4911,84 @@
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Upscale"
+    "subsubcategory": "Upscale",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's most elegant and expensive neighborhood",
+        "body": "Salamanca is Madrid's Mayfair — wide tree-lined boulevards, designer boutiques, embassies, and the city's most expensive real estate. If you want quiet luxury and don't mind paying for it, this is where to stay.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Calle Serrano luxury shopping, embassies, upscale residential"
+          },
+          {
+            "label": "Main streets",
+            "value": "Calle Serrano, Calle Velázquez, Calle de Ortega y Gasset"
+          },
+          {
+            "label": "Metro",
+            "value": "Serrano (L4), Velázquez (L4), Retiro (L2)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€1,500-€2,200/mo (most expensive in Madrid)"
+          },
+          {
+            "label": "Best for",
+            "value": "Quiet luxury, families, executives"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Salamanca",
+        "items": [
+          {
+            "title": "Calle Serrano shopping",
+            "body": "Madrid's 'Golden Mile'. Loewe, Hermès, Cartier, plus Spanish designers. Free to window-shop."
+          },
+          {
+            "title": "Plaza de Colón",
+            "body": "Large plaza with Columbus monument. Borders the National Library and Archaeological Museum."
+          },
+          {
+            "title": "St George's Anglican Church",
+            "body": "Calle de Núñez de Balboa 43. English-language services. See st-georges-anglican-madrid record."
+          },
+          {
+            "title": "Café de Oriente",
+            "body": "Elegant café near Plaza de Oriente (technically border of Salamanca). Famous for breakfast."
+          },
+          {
+            "title": "Parque del Retiro access",
+            "body": "Southeast corner of Salamanca borders Retiro Park. Walk through Puerta de Alcalá."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Salamanca",
+        "do": [
+          "Stay here if you want quiet, safe, walkable luxury within walking distance of museums",
+          "Window-shop on Calle Serrano even if you can't afford to buy",
+          "Eat at Sala de Despiece (Calle Piamonte 13) — trendy tasting menu, near border",
+          "Walk to Retiro Park in 5 minutes from anywhere in the neighborhood",
+          "Visit the National Archaeological Museum (free on Sunday afternoons)"
+        ],
+        "dont": [
+          "Don't expect budget anything — Salamanca is the most expensive neighborhood in Madrid",
+          "Don't expect nightlife — quiet residential, bars close early",
+          "Don't confuse with Barrio de Salamanca in other Spanish cities (this is the Madrid one)",
+          "Don't miss Loewe's flagship store on Calle Serrano — Spanish luxury brand founded 1846"
+        ]
+      }
+    ]
   },
   {
     "id": "la-latina-neighborhood",
@@ -4875,7 +5106,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "lavapies",
@@ -4888,7 +5119,84 @@
       "sol-gran-via-neighborhood",
       "walking-tours-madrid"
     ],
-    "subsubcategory": "Historic"
+    "subsubcategory": "Historic",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's most multicultural neighborhood",
+        "body": "Lavapiés is where Madrid meets the world — Indian curry houses, Senegalese restaurants, Latin American bars, and the city's most alternative arts scene. Gentrifying fast but still grittier than neighboring neighborhoods.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Multicultural food, alternative arts, international community"
+          },
+          {
+            "label": "Main square",
+            "value": "Plaza de Lavapiés, Plaza de Tirso de Molina"
+          },
+          {
+            "label": "Metro",
+            "value": "Lavapiés (L3), Tirso de Molina (L1), Antón Martín (L1)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€900-€1,400/mo (still relatively affordable)"
+          },
+          {
+            "label": "Best for",
+            "value": "Artists, students, foodies, expats"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Lavapiés",
+        "items": [
+          {
+            "title": "Calle del Ave María",
+            "body": "Main dining street. Indian, Nepalese, Mexican, Senegalese. Best ethnic food in Madrid."
+          },
+          {
+            "title": "La Casa Encendida",
+            "body": "Contemporary arts center. Free exhibitions, rooftop garden, cultural events. Ruta del Arte walk."
+          },
+          {
+            "title": "Sala El Sol",
+            "body": "Historic live music venue. Flamenco, world music, rock. Still operating after 50+ years."
+          },
+          {
+            "title": "Taberna Almendro 13",
+            "body": "Legendary tapas bar. Always packed. Try their huevos rotos."
+          },
+          {
+            "title": "Cine Doré",
+            "body": "Beautiful art-nouveau cinema. Filmoteca Española. €2.50 tickets for classic film screenings."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Lavapiés",
+        "do": [
+          "Eat Indian food on Calle del Ave María — best value in Madrid",
+          "Visit La Casa Encendida on a Sunday afternoon — free entry, lively crowd",
+          "Book a film at Cine Doré — beautiful venue, classic films in original version",
+          "Wander the side streets — best street art in Madrid",
+          "Stay here if you want an authentic, multicultural Madrid experience"
+        ],
+        "dont": [
+          "Don't expect polished — Lavapiés is deliberately rough around the edges",
+          "Don't walk alone late at night on empty side streets — use main lit streets",
+          "Don't expect traditional Madrid tapas — most restaurants are international",
+          "Don't miss San Lorenzo Market — small, local, far less touristy than San Miguel"
+        ]
+      }
+    ]
   },
   {
     "id": "chamberi-neighborhood",
@@ -4901,7 +5209,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "chamberi",
@@ -4912,7 +5220,84 @@
       "malasana-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Residential"
+    "subsubcategory": "Residential",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "The authentic local's Madrid",
+        "body": "Chamberí is what Madrileños mean when they say 'a real neighborhood.' No tourist buses, no picture-menu restaurants — just tree-lined streets, local markets, excellent tapas, and the city's best metro museum. Increasingly popular with American and British expats who want quiet Madrid.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Local life, Mercado de Chamberí, Andén 0 museum"
+          },
+          {
+            "label": "Main streets",
+            "value": "Calle de Fuencarral (north end), Calle de Cardenal Cisneros"
+          },
+          {
+            "label": "Metro",
+            "value": "Chamberí (L1), Bilbao (L1, L4), Alonso Martínez (L4, L5, L10)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€1,100-€1,500/mo"
+          },
+          {
+            "label": "Best for",
+            "value": "Long-term expats, families, locals"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Chamberí",
+        "items": [
+          {
+            "title": "Andén 0 — Estación de Chamberí",
+            "body": "Ghost metro station preserved from 1919. Closed in 1966, reopened as museum. Free entry. Beautiful vintage tile work."
+          },
+          {
+            "title": "Mercado de Chamberí",
+            "body": "Local market. Much less touristy than San Miguel. Excellent tapas bars on upper floor."
+          },
+          {
+            "title": "Museo Sorolla",
+            "body": "Artist Joaquín Sorolla's house-museum. Free on Sunday mornings. Small but exquisite garden."
+          },
+          {
+            "title": "Calle Ponzano",
+            "body": "Northern edge of Chamberí. Madrid's most famous tapas street for locals. Dozens of bars in 4-block stretch."
+          },
+          {
+            "title": "Plaza de Olavide",
+            "body": "Charming local plaza. Quiet cafes, families, dog walkers. Closed to traffic."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Chamberí",
+        "do": [
+          "Visit Andén 0 on a Saturday morning — small museum, low crowds",
+          "Eat at Mercado de Vallehermoso (border of Chamberí) — locals' market",
+          "Tapas crawl on Calle Ponzano on a Thursday evening — peak time",
+          "Stay here if you want a quiet base within 15 min of everything",
+          "Visit the Sorolla Museum on Sunday morning — free entry, beautiful"
+        ],
+        "dont": [
+          "Don't expect nightlife — Chamberí is residential and quiet after midnight",
+          "Don't miss Andén 0 — it's one of Madrid's hidden gems",
+          "Don't expect English at local bars — bring a translation app",
+          "Don't confuse Chamberí with El Carmen (different neighborhood)"
+        ]
+      }
+    ]
   },
   {
     "id": "retiro-neighborhood",
@@ -5032,7 +5417,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "arguelles",
@@ -5045,7 +5430,84 @@
       "metro-de-madrid",
       "retiro-neighborhood"
     ],
-    "subsubcategory": "Student & West"
+    "subsubcategory": "Student & West",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Students, parks, and sunset views",
+        "body": "Argüelles and Moncloa are often grouped together because they form Madrid's student quarter, anchored by the Universidad Complutense and bordered by Casa de Campo to the west. The Templo de Debod offers Madrid's best sunset views.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Famous for",
+            "value": "Students, Templo de Debod sunset, Casa de Campo access"
+          },
+          {
+            "label": "Main streets",
+            "value": "Calle de la Princesa, Calle de Alberto Aguilera"
+          },
+          {
+            "label": "Metro",
+            "value": "Argüelles (L3, L4, L6), Moncloa (L3, L6), Ventura Rodríguez (L3)"
+          },
+          {
+            "label": "Typical rent (1BR)",
+            "value": "€900-€1,400/mo"
+          },
+          {
+            "label": "Best for",
+            "value": "Students, families, value-seekers"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do in Argüelles/Moncloa",
+        "items": [
+          {
+            "title": "Templo de Debod",
+            "body": "Real Egyptian temple gifted to Spain. Best sunset viewpoint in Madrid. Free entry. Long queues at sunset — arrive 1 hour early."
+          },
+          {
+            "title": "Casa de Campo access",
+            "body": "Madrid's largest park (1,700 hectares). Cable car (teleférico) from Argüelles side. Zoo, amusement park, lake."
+          },
+          {
+            "title": "Calle de la Princesa shopping",
+            "body": "Mid-range shopping street. El Corte Inglés flagship. Spanish and international brands."
+          },
+          {
+            "title": "Plaza de España",
+            "body": "Recently renovated. Cervantes monument. New park space. Western end of Gran Vía."
+          },
+          {
+            "title": "Moncloa Transport Hub",
+            "body": "Major bus and metro interchange. Buses to Madrid suburbs and Madrid airport."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Argüelles/Moncloa",
+        "do": [
+          "Visit Templo de Debod at sunset — arrive 60-90 minutes early for a good spot",
+          "Take the teleférico (cable car) to Casa de Campo — great views, €6 round trip",
+          "Walk from Plaza de España down Gran Vía — classic Madrid stroll",
+          "Stay here if you want cheaper rent with good transport links",
+          "Eat at Calle de la Princesa — mid-range options, less touristy than Gran Vía"
+        ],
+        "dont": [
+          "Don't visit Templo de Debod on a cloudy day — sunset is the whole point",
+          "Don't miss the cable car — best views of Madrid skyline",
+          "Don't expect a charming historic center — Argüelles is mostly 20th century",
+          "Don't confuse Moncloa transport hub with Moncloa neighborhood (they overlap)"
+        ]
+      }
+    ]
   },
   {
     "id": "tetuan-cuatro-caminos-neighborhood",
@@ -5498,7 +5960,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "family",
       "theme-park",
@@ -5510,7 +5972,84 @@
       "zoo-aquarium-madrid",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Theme Parks"
+    "subsubcategory": "Theme Parks",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's main theme park — inside Casa de Campo",
+        "body": "Parque de Atracciones is Madrid's oldest and largest amusement park, located inside the Casa de Campo urban forest. 40+ rides across 5 themed zones. Best for families with kids 6+.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Casa de Campo (west Madrid)"
+          },
+          {
+            "label": "Metro",
+            "value": "Batán (L10), then 10-min walk"
+          },
+          {
+            "label": "Adult ticket",
+            "value": "€28-€39 (varies by day)"
+          },
+          {
+            "label": "Child (under 1m)",
+            "value": "Free"
+          },
+          {
+            "label": "Operating season",
+            "value": "Year-round (limited weekdays in winter)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "5 themed zones",
+        "items": [
+          {
+            "title": "Máquina Tropical",
+            "body": "Tropical zone. Rollercoasters, water rides. Most thrilling rides here."
+          },
+          {
+            "title": "Aventura Tropical",
+            "body": "Adventure zone. Family-friendly rides, including the iconic Tiovivo carousel."
+          },
+          {
+            "title": "Gran Avenida",
+            "body": "Main street. Restaurants, shops, family attractions."
+          },
+          {
+            "title": "Vía Mítica",
+            "body": "Mythology zone. Swing ride, drop tower, family rides."
+          },
+          {
+            "title": "Zona Infantil",
+            "body": "Kids zone. Smaller rides for under-8s."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Parque de Atracciones",
+        "do": [
+          "Buy tickets online — save €5-€10 vs gate price",
+          "Arrive at opening — line for popular rides triples by noon",
+          "Bring sunscreen — minimal shade in summer",
+          "Use the FastPass option on busy days (€15-€25 extra)",
+          "Combine with zoo visit (next door) for full-day trip"
+        ],
+        "dont": [
+          "Don't visit on a Sunday in summer — local families make it the busiest day",
+          "Don't expect Disney-level theming — this is a regional park",
+          "Don't bring outside food — not allowed, bags checked at entry",
+          "Don't wear flip-flops on rollercoasters — closed shoes required"
+        ]
+      }
+    ]
   },
   {
     "id": "aquopolis-water-park",
@@ -5547,7 +6086,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "family",
       "zoo",
@@ -5559,7 +6098,84 @@
       "aquopolis-water-park",
       "retiro-park"
     ],
-    "subsubcategory": "Animals & Nature"
+    "subsubcategory": "Animals & Nature",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Combined zoo + aquarium + dolphinarium",
+        "body": "Zoo Aquarium de Madrid is inside Casa de Campo. Three attractions in one: traditional zoo (6,000 animals across 500 species), aquarium (75,000+ fish), and dolphinarium. Best for families with kids 3-12.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Casa de Campo (west Madrid)"
+          },
+          {
+            "label": "Metro",
+            "value": "Casa de Campo (L10), then 15-min walk"
+          },
+          {
+            "label": "Adult ticket",
+            "value": "€25-€31"
+          },
+          {
+            "label": "Child (3-7)",
+            "value": "€19-€24"
+          },
+          {
+            "label": "Hours",
+            "value": "Daily 11am-sunset (varies by season)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What's there",
+        "items": [
+          {
+            "title": "Zoo",
+            "body": "Traditional zoo with 6,000+ animals. Notable: giant pandas (only ones in Spain), koalas, African elephants."
+          },
+          {
+            "title": "Aquarium",
+            "body": "Large aquarium complex. Shark tunnel, penguin exhibit, tropical fish."
+          },
+          {
+            "title": "Dolphinarium",
+            "body": "Daily dolphin shows (3-4 per day). Most popular attraction."
+          },
+          {
+            "title": "Aviary",
+            "body": "Bird of prey show. Eagles, falcons, owls. Twice daily."
+          },
+          {
+            "title": "Small mammal house",
+            "body": "Indoor exhibit with meerkats, lemurs, small primates."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Zoo Aquarium",
+        "do": [
+          "Arrive at 11am opening — dolphins are first show, lines form fast",
+          "Bring water and snacks — food court is expensive",
+          "Allow 4-5 hours for a full visit",
+          "Combine with Parque de Atracciones (next door) for a 2-day Casa de Campo trip",
+          "Book online for €3-€5 discount"
+        ],
+        "dont": [
+          "Don't visit in peak summer afternoon — minimal shade, animals inactive",
+          "Don't miss the dolphin show — check schedule on entry, plan your day around it",
+          "Don't feed the animals — strictly enforced, fines apply",
+          "Don't expect modern enclosures everywhere — some are dated"
+        ]
+      }
+    ]
   },
   {
     "id": "imax-planetarium-madrid",
@@ -5597,7 +6213,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "family",
       "theme-park",
@@ -5608,7 +6224,84 @@
       "parque-de-atracciones-madrid",
       "aquopolis-water-park"
     ],
-    "subsubcategory": "Theme Parks"
+    "subsubcategory": "Theme Parks",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's premier theme park — 30km south of the city",
+        "body": "Parque Warner is Madrid's answer to Disneyland — Warner Bros themed rides across 5 zones (Hollywood, Old West, Cartoon Village, DC Superheroes, Movie World). Better theming than Parque de Atracciones but requires a day trip.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "San Martín de la Vega (30km south of Madrid)"
+          },
+          {
+            "label": "Getting there",
+            "value": "Car (free parking) or shuttle from Méndez Álvaro"
+          },
+          {
+            "label": "Adult ticket",
+            "value": "€30-€45"
+          },
+          {
+            "label": "Child (under 1m)",
+            "value": "Free"
+          },
+          {
+            "label": "Operating season",
+            "value": "April-October (weekends only in shoulder season)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "5 themed zones",
+        "items": [
+          {
+            "title": "Hollywood Boulevard",
+            "body": "Main street. Restaurants, shops, parade route. Hollywood-themed entrance."
+          },
+          {
+            "title": "Old West Territory",
+            "body": "Wild West zone. Wooden rollercoaster (Stampida), gold mine ride."
+          },
+          {
+            "title": "Cartoon Village",
+            "body": "Looney Tunes themed. Best for under-8s. Smaller rides, character meet-and-greets."
+          },
+          {
+            "title": "DC Super Heroes World",
+            "body": "Superman, Batman rides. Newest zone. Most thrilling rides."
+          },
+          {
+            "title": "Movie World Studios",
+            "body": "Stunt show theater. Special effects demonstrations."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Parque Warner",
+        "do": [
+          "Take the shuttle from Méndez Álvaro (€5 round trip) — easier than driving",
+          "Buy tickets online — significant savings (€10-€15)",
+          "Arrive at opening — Superman ride line doubles by noon",
+          "Stay for the evening parade — best photo ops",
+          "Combine with Parque Warner Beach (summer water park) for 2-day trip"
+        ],
+        "dont": [
+          "Don't try to do it as a half-day trip — needs full day",
+          "Don't visit on a Sunday in summer — busy with Spanish families",
+          "Don't expect Disney-level operations — smaller staff, slower service",
+          "Don't miss the Stunt Show — usually at 4pm, included in ticket"
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-kids-museums",
@@ -12443,6 +13136,83 @@
     "related_records": [
       "zoo-aquarium-madrid",
       "parque-de-atracciones-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Indoor + outdoor nature park — perfect for under-10s",
+        "body": "Faunia is Madrid's 'nature theme park' — a mix of zoo, aquarium, and ecosystem-themed pavilions. Smaller and gentler than Zoo Aquarium, with more indoor exhibits (great for rainy or hot days).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Avenida de las Comunidades 28 (east Madrid)"
+          },
+          {
+            "label": "Metro",
+            "value": "Valdebernardo (L9), then 5-min walk"
+          },
+          {
+            "label": "Adult ticket",
+            "value": "€20-€26"
+          },
+          {
+            "label": "Child (3-7)",
+            "value": "€16-€21"
+          },
+          {
+            "label": "Hours",
+            "value": "Daily 10am-sunset (year-round)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Ecosystem pavilions",
+        "items": [
+          {
+            "title": "Amazon Jungle",
+            "body": "Tropical greenhouse. Free-flying birds, monkeys, tropical fish. humid and warm — good winter visit."
+          },
+          {
+            "title": "Polar Ecosystem",
+            "body": "Indoor penguin exhibit. King penguins, gentoo penguins. Best exhibit for kids."
+          },
+          {
+            "title": "Meadows and Forest",
+            "body": "Outdoor zone. Free-roaming kangaroos, wallabies, lemurs."
+          },
+          {
+            "title": "African Forest",
+            "body": "Gorillas, mandrills, African birds."
+          },
+          {
+            "title": "Night Zone",
+            "body": "Nocturnal animals. Bats, owls, slow lorises. Reverse day-night cycle."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting Faunia",
+        "do": [
+          "Visit on a hot summer day — most popular exhibits are air-conditioned",
+          "Allow 3-4 hours for a full visit",
+          "Bring kids under 10 — this is the ideal age range",
+          "Buy combo ticket with Madrid Zoo if you want both parks",
+          "Visit the penguin feeding (11am and 4pm) — most popular activity"
+        ],
+        "dont": [
+          "Don't expect Disney-level rides — Faunia is animals only",
+          "Don't visit on a Monday in winter — reduced hours",
+          "Don't bring outside food — not allowed in animal zones",
+          "Don't miss the Night Zone — unique in Madrid"
+        ]
+      }
     ]
   },
   {
