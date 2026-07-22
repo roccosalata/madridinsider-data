@@ -3537,7 +3537,7 @@
     "official_url": "https://www.esmadrid.com/en/areas",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-22",
     "tags": [
       "housing",
       "rental",
@@ -3549,7 +3549,8 @@
       "neighborhoods-guide",
       "rental-contracts",
       "nie-tie",
-      "empadronamiento"
+      "empadronamiento",
+      "moving2madrid-relocation"
     ],
     "subsubcategory": "Renting"
   },
@@ -4704,7 +4705,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "tour",
       "food",
@@ -4715,7 +4716,8 @@
       "walking-tours-madrid",
       "mercado-san-miguel",
       "la-latina-neighborhood",
-      "malasana-neighborhood"
+      "malasana-neighborhood",
+      "devour-madrid-food-tours"
     ],
     "subsubcategory": "Food Tours"
   },
@@ -5932,7 +5934,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "language",
       "intercambio",
@@ -5943,7 +5945,8 @@
     "related_records": [
       "survival-spanish",
       "spanish-learning-resources",
-      "language-schools-madrid"
+      "language-schools-madrid",
+      "awc-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -6090,7 +6093,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "education",
       "university",
@@ -6100,7 +6103,9 @@
     "related_records": [
       "bilingual-schools-madrid",
       "language-schools-madrid",
-      "student-visa-spain"
+      "student-visa-spain",
+      "forocio-study-abroad",
+      "accent-global-madrid"
     ],
     "subsubcategory": "Universities"
   },
@@ -6115,7 +6120,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "education",
       "school",
@@ -6127,7 +6132,8 @@
       "empadronamiento",
       "language-schools-madrid",
       "language-schools-madrid-education",
-      "universities-madrid"
+      "universities-madrid",
+      "awc-madrid"
     ],
     "subsubcategory": "Schools"
   },
@@ -8593,7 +8599,8 @@
       "english-services"
     ],
     "related_records": [
-      "almudena-cathedral"
+      "almudena-cathedral",
+      "awc-madrid"
     ],
     "subsubcategory": "Community & Faith",
     "sections": [
@@ -8763,7 +8770,9 @@
     "related_records": [
       "teach-english-spain",
       "language-schools-madrid",
-      "universities-madrid"
+      "universities-madrid",
+      "forocio-study-abroad",
+      "accent-global-madrid"
     ],
     "subsubcategory": "Teacher Training",
     "sections": [
@@ -10395,7 +10404,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "news",
       "magazine",
@@ -10407,7 +10416,8 @@
     "related_records": [
       "el-pais-english",
       "the-local-spain",
-      "madrid-today-events"
+      "madrid-today-events",
+      "awc-madrid"
     ]
   },
   {
@@ -11772,6 +11782,531 @@
       "teacher-training-madrid",
       "language-schools-madrid",
       "bilingual-schools-madrid"
+    ]
+  },
+  {
+    "id": "forocio-study-abroad",
+    "category": "living",
+    "subcategory": "education",
+    "title": "FOROCIO — Study-Abroad Travel Agency",
+    "summary": "Madrid-based incoming travel agency with 20+ years specializing in tailor-made educational group tours across Spain and Europe. Long-time partner of US university study-abroad programs.",
+    "content": "FOROCIO is one of Madrid's longest-running incoming travel agencies focused exclusively on educational and study-abroad group travel. Founded over 20 years ago and led by Frank (frank@forocio.com), the company designs custom itineraries for university cohorts, faculty-led programs, and cultural group tours throughout Spain and the rest of Europe. They are a regular exhibitor at NAFSA and partner with US institutions including Boston University's Madrid Internship Program, Adelante Abroad, and UniSpain. Their services span accommodation booking, motor coach rental, multilingual guided tours, and full logistical support for groups of 20-100+ students. FOROCIO fills a specific niche that no other Madrid Insider resource covers: they are not a language school, not a relocation agency, and not a general tour operator — they are a B2B partner for university study-abroad offices that need a trusted local ground operator.",
+    "official_url": "https://www.forocio.com/?lang=en",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "study-abroad",
+      "educational-travel",
+      "group-tours",
+      "universities",
+      "b2b",
+      "incoming-agency"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "evergreen",
+    "related_records": [
+      "accent-global-madrid",
+      "universities-madrid",
+      "teacher-training-madrid",
+      "student-visa-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "What FOROCIO actually does",
+        "body": "FOROCIO is a ground operator for study-abroad programs — they handle logistics (housing, transport, excursions) for university groups visiting Madrid and Spain. They are not a school, not a tour operator for individual travelers, and not a relocation service.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Years operating",
+            "value": "20+"
+          },
+          {
+            "label": "Group size",
+            "value": "20–100+ students"
+          },
+          {
+            "label": "Languages",
+            "value": "English, Spanish"
+          },
+          {
+            "label": "Primary contact",
+            "value": "frank@forocio.com"
+          },
+          {
+            "label": "Headquarters",
+            "value": "Madrid"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What they arrange for groups",
+        "items": [
+          {
+            "title": "Accommodation",
+            "body": "Hotels, hostels, homestays, and student residences across Madrid and other Spanish cities. Long-standing relationships with student-friendly properties."
+          },
+          {
+            "title": "Ground transport",
+            "body": "Private motor coaches for in-city and inter-city travel, airport transfers, and multi-destination Spain/Europe itineraries."
+          },
+          {
+            "title": "Guided tours",
+            "body": "Multilingual licensed guides for museums, historical sites, and themed routes (Game of Thrones locations, Camino de Santiago, etc.)."
+          },
+          {
+            "title": "Excursions",
+            "body": "Day and multi-day trips to Toledo, Segovia, El Escorial, Andalusia, Portugal, France, and Morocco."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Is FOROCIO right for you?",
+        "do": [
+          "Use FOROCIO if you are a university study-abroad office planning a group program in Spain",
+          "Contact them 6-12 months ahead for custom itineraries during peak spring and summer terms",
+          "Ask about combining Madrid with Seville, Granada, and Barcelona in a single itinerary"
+        ],
+        "dont": [
+          "Do not contact them for individual travel planning — they only work with groups",
+          "Do not confuse them with a Spanish language school — they do not teach Spanish",
+          "Do not expect walk-up service — all engagements are pre-booked via email"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Historical context",
+        "body": "FOROCIO was already active during the original Madrid Insider era (2014) and is referenced in old Wayback Machine snapshots of the site. They are one of the few Madrid ecosystem operators that has been continuously active for 20+ years and is still independent.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "accent-global-madrid",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Accent Global Learning — Madrid Study Center",
+    "summary": "US-college-facing study-abroad program provider with a dedicated Madrid Study Center in Malasaña (Calle de Velarde 3). Designs custom semester and short-term programs for American universities.",
+    "content": "Accent Global Learning is a study-abroad program provider headquartered in the United States with a Madrid Study Center located in Malasaña at Calle de Velarde 3, just steps from Plaza del Dos de Mayo. Unlike FOROCIO (which is a ground operator handling logistics), Accent designs the academic program itself — they work with US colleges and universities to develop custom semester, summer, and faculty-led programs that combine US-accredited coursework with immersive Madrid-based learning. Their Madrid center includes classrooms, study spaces, and student support staff. They are particularly strong in humanities, social sciences, and Spanish language/culture programming. Accent is a regular participant in NAFSA, Forum on Education Abroad, and other study-abroad professional conferences. Their Instagram (@accentglobal_madrid) and Facebook page document ongoing student activities and center events.",
+    "official_url": "https://accentglobal.com/study-centers/madrid-study-center",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "study-abroad",
+      "us-universities",
+      "semester-programs",
+      "faculty-led",
+      "malasana",
+      "english-language"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "evergreen",
+    "related_records": [
+      "forocio-study-abroad",
+      "universities-madrid",
+      "teacher-training-madrid",
+      "student-visa-spain",
+      "libraries-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Accent vs FOROCIO — what's the difference?",
+        "body": "Both serve the US study-abroad market in Madrid, but they operate at different layers of the stack. Accent designs and delivers the academic program (coursework, faculty, classrooms). FOROCIO handles ground logistics (housing, transport, excursions). Many universities use both — Accent for academics, FOROCIO for travel.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Madrid address",
+            "value": "Calle de Velarde 3, 28004 (Malasaña)"
+          },
+          {
+            "label": "Hours (Mon–Thu)",
+            "value": "9:00–18:00"
+          },
+          {
+            "label": "Hours (Fri)",
+            "value": "9:00–15:00"
+          },
+          {
+            "label": "Instagram",
+            "value": "@accentglobal_madrid"
+          },
+          {
+            "label": "Primary audience",
+            "value": "US universities"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What Accent offers",
+        "items": [
+          {
+            "title": "Custom semester programs",
+            "body": "Tailored 15-week programs combining Accent-designed courses with local university enrollment and internships."
+          },
+          {
+            "title": "Summer sessions",
+            "body": "6-8 week intensive programs popular with US undergraduates. Often include regional travel components."
+          },
+          {
+            "title": "Faculty-led short programs",
+            "body": "1-4 week programs where a US professor travels with their class and Accent handles all Madrid-side logistics and guest lectures."
+          },
+          {
+            "title": "Internship placements",
+            "body": "Madrid-based internships in fields ranging from art history to international business, with placement support and academic credit."
+          },
+          {
+            "title": "Student life support",
+            "body": "On-site staff, orientation, cultural activities, 24/7 emergency support, and homestay or apartment housing coordination."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Not for individual students",
+        "body": "Accent does not enroll individual students directly. You must be participating through a partner US university to attend an Accent program. If you are an individual student looking for a Madrid study-abroad experience, see Universities in Madrid or Spanish Language Schools instead.",
+        "tone": "warning"
+      }
+    ]
+  },
+  {
+    "id": "awc-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "American Women's Club of Madrid (AWC)",
+    "summary": "Social and charitable non-profit organization for English-speaking women in Madrid. Founded decades ago, active today with a clubhouse at Plaza de la República del Ecuador 6. Annual membership €88.",
+    "content": "The American Women's Club of Madrid (AWC) is one of the longest-running English-speaking community organizations in Madrid. Open to all English-speaking women of any nationality (not just Americans), the club serves as a social hub, charitable organization, and support network for newly-arrived expats and long-term residents alike. Their clubhouse at Plaza de la República del Ecuador 6 hosts regular activities including book clubs, craft groups, walking tours, wine tastings, and conversation groups. The AWC is particularly well-known for its monthly secondhand sales, annual 5K walk for breast cancer awareness, and the holiday bazaar — all of which raise funds for local Madrid charities. For new arrivals in Madrid, joining the AWC is one of the fastest ways to build a social network of English-speaking women who understand the practical challenges of settling in Spain.",
+    "official_url": "https://awcmadrid.org",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "expat-community",
+      "womens-club",
+      "social-club",
+      "charity",
+      "english-speaking",
+      "nonprofit",
+      "newcomers"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "evergreen",
+    "related_records": [
+      "churches-religion-madrid",
+      "libraries-madrid",
+      "language-exchanges-madrid",
+      "expat-publications-madrid",
+      "english-publications-history-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "You do not need to be American",
+        "body": "Despite the name, AWC Madrid is open to all English-speaking women of any nationality. Current membership includes British, Irish, Canadian, Australian, South African, and Indian members, as well as Spanish women who speak English.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Annual membership",
+            "value": "€88"
+          },
+          {
+            "label": "Clubhouse",
+            "value": "Plaza de la República del Ecuador 6"
+          },
+          {
+            "label": "Email",
+            "value": "awcclubhouse@gmail.com"
+          },
+          {
+            "label": "Phone",
+            "value": "+34 91 457 ... (see website)"
+          },
+          {
+            "label": "Instagram",
+            "value": "@awcmadrid"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Regular activities",
+        "items": [
+          {
+            "title": "Secondhand sales",
+            "body": "Monthly charity sales at the clubhouse — books, clothing, household items. A staple of the Madrid expat calendar."
+          },
+          {
+            "title": "Annual 5K walk",
+            "body": "Breast cancer awareness fundraiser held each autumn, open to non-members."
+          },
+          {
+            "title": "Holiday bazaar",
+            "body": "Annual winter market with handmade crafts, baked goods, and expat-made products. Major fundraising event."
+          },
+          {
+            "title": "Book clubs & craft groups",
+            "body": "Multiple recurring small-group activities, mostly in English."
+          },
+          {
+            "title": "Walking tours & day trips",
+            "body": "Member-organized outings to Madrid neighborhoods, museums, and nearby towns."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Best for new arrivals",
+        "body": "If you have just moved to Madrid and are feeling isolated, the AWC's weekly coffee mornings and newcomer events are the single fastest way to meet other English-speaking women who have navigated the same challenges (NIE, healthcare, schools, finding an apartment). The club explicitly designs its calendar around welcoming new members.",
+        "tone": "success"
+      },
+      {
+        "type": "do_dont",
+        "heading": "Joining the AWC",
+        "do": [
+          "Visit the clubhouse in person during a monthly secondhand sale to meet members before joining",
+          "Check awcmadrid.org/activities for the current month's calendar",
+          "Follow @awcmadrid on Instagram for last-minute event announcements"
+        ],
+        "dont": [
+          "Don't expect daily programming — most activities are weekly or monthly",
+          "Don't assume men can join — the AWC is women-only (see American Club of Madrid for mixed-gender alternative)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "devour-madrid-food-tours",
+    "category": "see",
+    "subcategory": "tours",
+    "title": "Devour Madrid Food Tours",
+    "summary": "Award-winning English-language food tour company operating in Madrid since 2012. Co-founded by Lauren Aloise. Specializes in small-group tapas, market, and neighborhood food tours with English-speaking local guides.",
+    "content": "Devour Madrid is the Madrid arm of Devour Tours, an English-language food tour company co-founded by Lauren Aloise in 2012. The company is one of the highest-rated tour operators in Madrid on TripAdvisor (5.0 stars from 8,000+ reviews) and has been featured in major English-language travel publications including Condé Nast Traveler, The Guardian, and BBC Travel. Devour differentiates itself from the free walking tour operators by being exclusively food-focused, capping groups small (usually 8-12 people), and using guides who are professional food writers or trained culinary historians rather than generalist guides. Their tours cover classic Madrid food neighborhoods (La Latina, Malasaña, Lavapiés) and themes (tapas, market tours, vermut culture, ham and wine). They also operate the popular 'Madrid Ultimate Spanish Cuisine Food Tour' sold via Viator. Devour Tours has since expanded to Barcelona, Seville, Lisbon, and Rome — but Madrid remains their flagship and founding city.",
+    "official_url": "https://devourtours.com/destinations/spain/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "food-tour",
+      "tapas",
+      "english-speaking-guides",
+      "small-group",
+      "tripadvisor-5-star",
+      "la-latina",
+      "malasana",
+      "lavapies"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "food-tours-madrid",
+      "mercado-san-miguel",
+      "la-latina-neighborhood",
+      "malasana-neighborhood",
+      "la-latina-tapas-nightlife"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Why Devour stands out",
+        "body": "Devour Madrid is consistently the #1 rated food tour in Madrid on TripAdvisor for a reason: their guides are food writers and culinary historians, not generic tour guides. The tours are explicitly educational about Spanish food culture (what vermut is, why jamón ibérico costs what it costs, how tapas etiquette works) rather than just being a sequence of eating stops.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Founded",
+            "value": "2012 in Madrid"
+          },
+          {
+            "label": "TripAdvisor rating",
+            "value": "5.0 / 8,300+ reviews"
+          },
+          {
+            "label": "Group size",
+            "value": "Usually 8–12 people"
+          },
+          {
+            "label": "Tour length",
+            "value": "3–4 hours typical"
+          },
+          {
+            "label": "Price range",
+            "value": "€60–€120 per person"
+          },
+          {
+            "label": "Co-founder",
+            "value": "Lauren Aloise"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Signature Madrid tours",
+        "items": [
+          {
+            "title": "Tapas Crawl through La Latina",
+            "body": "The classic — Sunday morning tapas tour through Madrid's most traditional tapas neighborhood."
+          },
+          {
+            "title": "Malasaña Food & History Tour",
+            "body": "Combines Madrid's hipster neighborhood with stops at family-run shops and vermuterías."
+          },
+          {
+            "title": "Market Tour at Mercado de San Miguel",
+            "body": "Guided visit to the iconic market with tastings at select stalls."
+          },
+          {
+            "title": "Ultimate Spanish Cuisine Tour",
+            "body": "Half-day small-group tour combining multiple neighborhoods — sold via Viator."
+          },
+          {
+            "title": "Ham, Wine & Vermut Tasting",
+            "body": "Specialty tasting tour focused on Spain's three iconic food/drink categories."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking tips",
+        "do": [
+          "Book 1-2 weeks ahead in shoulder season (April–May, September–October)",
+          "Book 3-4 weeks ahead for peak season (June, July, September)",
+          "Tell your guide about food allergies at booking — they accommodate well but need notice",
+          "Tip 10-15% if you had a great time (Spanish tipping norm for excellent service)"
+        ],
+        "dont": [
+          "Don't expect a free tour — Devour is a premium operator, not a tips-based model",
+          "Don't book a morning tour on Sunday in La Latina without knowing it will be crowded with locals",
+          "Don't eat a big meal before the tour — most tours include 5-7 substantial tastings"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moving2madrid-relocation",
+    "category": "living",
+    "subcategory": "housing",
+    "title": "Moving2Madrid — Relocation & Property Shopper",
+    "summary": "Madrid-based relocation and property buyer's agent service specifically targeting international (non-Spanish) clients. Helps expats rent or buy property in Madrid with English-speaking support throughout the process.",
+    "content": "Moving2Madrid is a boutique relocation and property shopper service explicitly built for international clients who do not yet speak Spanish and are not familiar with the Madrid real estate market. Unlike traditional Madrid inmobiliarias (real estate agencies), Moving2Madrid operates as a buyer's agent and tenant's agent — meaning they represent the client, not the landlord or seller. Their service spans the full relocation journey: neighborhood selection, property search, negotiation, contract review, NIE assistance, utility setup, school placement, and ongoing concierge support for the first months after move-in. They are particularly known for their content marketing (a deep blog with detailed English-language guides on Madrid neighborhoods, mortgage rules for non-residents, and the Spanish property buying process) which makes them a frequently-cited resource in expat Facebook groups. They are listed on Expatica Spain's directory and are recommended in r/GoingToSpain and multiple Madrid expat Facebook groups.",
+    "official_url": "https://moving2madrid.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "relocation",
+      "property-shopper",
+      "buyers-agent",
+      "expat",
+      "rentals",
+      "real-estate",
+      "nie",
+      "housing"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "evergreen",
+    "related_records": [
+      "housing",
+      "idealista",
+      "fotocasa",
+      "rental-contracts",
+      "nie-tie",
+      "empadronamiento",
+      "neighborhoods-guide"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Why a buyer's agent matters in Madrid",
+        "body": "Spanish real estate agents legally represent the seller or landlord, not the buyer. Moving2Madrid fills the opposite role — they represent you. This matters most for international clients who don't speak Spanish fluently and don't know which neighborhoods fit their lifestyle and budget.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Service model",
+            "value": "Buyer's / tenant's agent"
+          },
+          {
+            "label": "Target client",
+            "value": "International, English-speaking"
+          },
+          {
+            "label": "Service area",
+            "value": "Madrid city + suburbs"
+          },
+          {
+            "label": "Languages",
+            "value": "English, Spanish"
+          },
+          {
+            "label": "Pricing model",
+            "value": "Flat fee or % of property price"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Services offered",
+        "items": [
+          {
+            "title": "Rental search",
+            "body": "End-to-end rental assistance: neighborhood selection, viewings, negotiation, contract review, move-in support. Particularly useful for newcomers who cannot physically visit properties before arrival."
+          },
+          {
+            "title": "Buyer's agent",
+            "body": "Property search, negotiation, legal coordination, mortgage broker introductions for non-resident buyers. Critical for non-Spanish buyers unfamiliar with the buying process."
+          },
+          {
+            "title": "NIE & residency support",
+            "body": "Coordination of the NIE (foreigner ID number) process, which is required to sign any rental contract or property deed in Spain."
+          },
+          {
+            "title": "School placement",
+            "body": "Advice on bilingual and international schools based on neighborhood selection. Often paired with family relocation packages."
+          },
+          {
+            "title": "Settling-in concierge",
+            "body": "Utility setup, bank account opening, healthcare registration, mobile plan — the first-month admin avalanche."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "When to use Moving2Madrid vs Idealista",
+        "do": [
+          "Use Moving2Madrid if you are buying property and don't speak Spanish fluently",
+          "Use Moving2Madrid if you are relocating with a family and need end-to-end coordination",
+          "Use Idealista or Fotocasa if you already live in Madrid and just want to see listings"
+        ],
+        "dont": [
+          "Don't expect free services — they charge a flat fee or percentage, separate from any landlord commission",
+          "Don't confuse them with a listing platform — they don't publish a public property database"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Alternative options",
+        "body": "Other English-speaking relocation services in Madrid include MADRIDEM (madridem.com), PropXper (propxper.com), and Help in Spain (spain-help.com). Compare quotes from 2-3 before committing — pricing models vary significantly.",
+        "tone": "info"
+      }
     ]
   }
 ]
