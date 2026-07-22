@@ -1189,7 +1189,7 @@
     "content": "Lost or stolen passport in Madrid. STEP 1 — FILE A POLICE REPORT: File online at denuncias.policia.es (available in English, works for non-residents). Choose 'robo' (theft) or 'pérdida' (loss). For theft with violence, call 112 or go to a police station in person. Print the report — you'll need it for insurance and your embassy. STEP 2 — CONTACT YOUR EMBASSY: US Embassy (Serrano 75, 91 587 2200, appointment required at usais.usmission.gov). UK Embassy (Farfa 16, 91 714 6300). Canadian Embassy (Núñez de Balboa 35, 91 382 8400). Australian Embassy (Planelles 10, 91 353 6600). Bring: police report, passport photo (or they can take one), passport number (if you have a copy), travel itinerary, fee (€100-150 for emergency passport). STEP 3 — EMERGENCY PASSPORT: US: emergency passport in 1-2 business days, valid for 1 year. UK: emergency travel document in 1-2 business days, valid for single journey. Canada: emergency passport in 1-3 business days. STEP 4 — TRAVEL INSURANCE: Most travel insurance covers passport replacement costs. Keep all receipts and the police report for your claim. PREVENTION: (1) Leave your passport in the hotel safe — carry a photocopy. (2) Take photos of your passport and store in cloud. (3) Email yourself a copy. (4) Register with your embassy before traveling (STEP for US, LOCATE for UK). (5) Use a money belt in tourist areas. TIPS: (1) The police report is essential — don't skip this step. (2) Embassy appointments can be booked online — don't just show up. (3) If you have a flight in 24 hours, tell the embassy — they can expedite. (4) Emergency passports may not be accepted for all destinations — check with your airline.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "safety",
       "passport"
@@ -1200,7 +1200,32 @@
       "passport-requirements"
     ],
     "official_url": "https://www.policia.es/_es/colabora_denuncias.php",
-    "subsubcategory": "Official Help"
+    "subsubcategory": "Official Help",
+    "sections": [
+      {
+        "type": "steps",
+        "heading": "Lost Passport — Step by Step",
+        "items": [
+          {
+            "title": "File police report online",
+            "body": "Go to denuncias.policia.es (English available). Choose 'robo' (theft) or 'pérdida' (loss). Print the report.",
+            "tip": "For theft with violence, call 112 or go to a police station in person."
+          },
+          {
+            "title": "Contact your embassy",
+            "body": "Book appointment online. Bring: police report, passport photo, passport number (if you have a copy), fee (€100-150)."
+          },
+          {
+            "title": "Get emergency passport",
+            "body": "US: 1-2 business days, valid 1 year. UK: 1-2 days, single journey. Canada: 1-3 days."
+          },
+          {
+            "title": "File insurance claim",
+            "body": "Most travel insurance covers passport replacement. Keep all receipts and the police report."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "pharmacies",
@@ -1664,7 +1689,7 @@
     "official_url": "https://www.bankinter.com/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "banking",
       "accounts",
@@ -1676,7 +1701,57 @@
       "euros-and-atms",
       "credit-card-acceptance"
     ],
-    "subsubcategory": "Bank Accounts"
+    "subsubcategory": "Bank Accounts",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Bank Account Options",
+        "columns": [
+          "Bank",
+          "Type",
+          "Fee",
+          "English?"
+        ],
+        "rows": [
+          [
+            "BBVA",
+            "Traditional",
+            "€15-30/quarter",
+            "Yes"
+          ],
+          [
+            "Santander",
+            "Traditional",
+            "€15-30/quarter",
+            "Yes"
+          ],
+          [
+            "N26",
+            "Digital",
+            "Free",
+            "Yes"
+          ],
+          [
+            "Revolut",
+            "Digital",
+            "Free basic",
+            "Yes"
+          ],
+          [
+            "Bunq",
+            "Digital",
+            "€3+/month",
+            "Yes"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Ask for 'sin comisiones'",
+        "body": "Always ask for 'sin comisiones' (no fees) — banks often waive the quarterly fee if you deposit €600+/month or maintain a minimum balance.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "public-healthcare",
@@ -3281,7 +3356,7 @@
     "official_url": "https://consultaq.opendata.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "live",
       "aqi",
@@ -3291,7 +3366,31 @@
       "madrid-time",
       "madrid-weather"
     ],
-    "subsubcategory": "Weather"
+    "subsubcategory": "Weather",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Air Quality Quick Facts",
+        "items": [
+          {
+            "label": "Overall quality",
+            "value": "Generally good (altitude 667m)"
+          },
+          {
+            "label": "Main pollutant",
+            "value": "NO2 (traffic, winter)"
+          },
+          {
+            "label": "Summer issue",
+            "value": "Ozone (3-6pm peaks)"
+          },
+          {
+            "label": "Low Emission Zone",
+            "value": "Entire city (ZBE since 2022)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "metro-closures",
@@ -3392,7 +3491,7 @@
     "official_url": "https://english.elpais.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "news",
       "english",
@@ -3402,7 +3501,31 @@
       "metro-closures",
       "the-local-spain"
     ],
-    "subsubcategory": "Newspapers"
+    "subsubcategory": "Newspapers",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "El País English Quick Facts",
+        "items": [
+          {
+            "label": "Stories per day",
+            "value": "5-10 (selected translations)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (soft paywall, 5 articles/month)"
+          },
+          {
+            "label": "Newsletter",
+            "value": "Free daily email"
+          },
+          {
+            "label": "Editorial lean",
+            "value": "Center-left, pro-European"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "housing",
@@ -7150,7 +7273,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "news",
       "politics",
@@ -7162,7 +7285,31 @@
       "el-pais-english",
       "the-local-spain"
     ],
-    "subsubcategory": "Background"
+    "subsubcategory": "Background",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Spain's Political System",
+        "items": [
+          {
+            "label": "Head of State",
+            "value": "King Felipe VI (since 2014)"
+          },
+          {
+            "label": "Head of Gov't",
+            "value": "PM Pedro Sánchez (PSOE, since 2018)"
+          },
+          {
+            "label": "Parliament",
+            "value": "350 deputies + 266 senators"
+          },
+          {
+            "label": "Elections",
+            "value": "Every 4 years (or sooner)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-sunrise-sunset",
@@ -7863,7 +8010,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "electronics",
@@ -7875,7 +8022,45 @@
       "sim-cards-madrid",
       "supermarkets-grocery-madrid"
     ],
-    "subsubcategory": "Electronics & Tech"
+    "subsubcategory": "Electronics & Tech",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Electronics Stores Compared",
+        "columns": [
+          "Store",
+          "Type",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "PcComponentes",
+            "Online",
+            "Cheapest",
+            "Best prices, fast delivery"
+          ],
+          [
+            "MediaMarkt",
+            "Retail",
+            "Good",
+            "8+ Madrid locations"
+          ],
+          [
+            "El Corte Inglés",
+            "Retail",
+            "Premium",
+            "Price-matches competitors"
+          ],
+          [
+            "Apple Store",
+            "Retail",
+            "MSRP",
+            "Gran Vía 54 flagship"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "bookstores-madrid-detail",
@@ -7888,7 +8073,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "bookstore",
@@ -7901,7 +8086,45 @@
       "el-rastro-flea-market",
       "language-schools-madrid"
     ],
-    "subsubcategory": "Books & Music"
+    "subsubcategory": "Books & Music",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "English Bookstores",
+        "columns": [
+          "Store",
+          "Location",
+          "Specialty"
+        ],
+        "rows": [
+          [
+            "J&J Books and Coffee",
+            "Espíritu Santo 47 (Malasaña)",
+            "English used books + café"
+          ],
+          [
+            "Coffee & Books",
+            "León 12 (Huertas)",
+            "English books + coffee"
+          ],
+          [
+            "La Central",
+            "Postigo San Martín 8",
+            "General + café"
+          ],
+          [
+            "FNAC",
+            "Marqués Casa Riera 4",
+            "Chain, bestsellers"
+          ],
+          [
+            "Casa del Libro",
+            "Gran Vía 29",
+            "Large chain"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "hotels-madrid",
@@ -7991,7 +8214,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "housing",
       "hostel",
@@ -8004,7 +8227,45 @@
       "apart-hotels-madrid",
       "shared-housing-flatmates-madrid"
     ],
-    "subsubcategory": "Hostels"
+    "subsubcategory": "Hostels",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Top Hostels Compared",
+        "columns": [
+          "Hostel",
+          "Area",
+          "Dorm €",
+          "Private €"
+        ],
+        "rows": [
+          [
+            "Room007 Sol",
+            "Multiple",
+            "€20-30",
+            "€60-90"
+          ],
+          [
+            "Cat's Hostel",
+            "Lavapiés",
+            "€15-25",
+            "€40-60"
+          ],
+          [
+            "The Room",
+            "La Latina",
+            "€20-30",
+            "€50-70"
+          ],
+          [
+            "Ok Hostel",
+            "La Latina",
+            "€20-30",
+            "€60-90"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "apart-hotels-madrid",
@@ -8017,7 +8278,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "housing",
       "aparthotel",
@@ -8029,7 +8290,39 @@
       "hostels-madrid",
       "shared-housing-flatmates-madrid"
     ],
-    "subsubcategory": "Serviced Apartments"
+    "subsubcategory": "Serviced Apartments",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Apart-Hotels Compared",
+        "columns": [
+          "Brand",
+          "Locations",
+          "Price/night",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Adagio",
+            "Atocha, Serrano",
+            "€80-130",
+            "Weekly discounts"
+          ],
+          [
+            "Room Mate",
+            "Multiple",
+            "€90-150",
+            "Boutique style"
+          ],
+          [
+            "Aspasios",
+            "Princesa, Alcalá",
+            "€100-180",
+            "Business travelers"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "shopping-madrid-overview",
@@ -8115,7 +8408,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "cheap",
@@ -8131,7 +8424,51 @@
       "tipping-spain",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Budget Eats"
+    "subsubcategory": "Budget Eats",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Best Budget Eats Under €12",
+        "columns": [
+          "Where",
+          "What",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "100 Montaditos",
+            "Mini sandwiches",
+            "€1-3 each",
+            "Mon/Wed: everything €1"
+          ],
+          [
+            "El Tigre",
+            "Tapas with drink",
+            "€5-6",
+            "Free massive tapas with each drink"
+          ],
+          [
+            "Bar La Campana",
+            "Bocata de calamares",
+            "€4.50",
+            "Plaza Mayor tradition"
+          ],
+          [
+            "Menú del día",
+            "3-course lunch",
+            "€10-14",
+            "Weekdays, best value in Madrid"
+          ],
+          [
+            "Mercado San Antón",
+            "Food court",
+            "€4-8/tapa",
+            "Chueca, less touristy than San Miguel"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "vegetarian-vegan-madrid",
@@ -8144,7 +8481,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "vegetarian",
@@ -8157,7 +8494,57 @@
       "mercado-san-miguel",
       "lavapies-neighborhood"
     ],
-    "subsubcategory": "Special Diets"
+    "subsubcategory": "Special Diets",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Top Vegetarian/Vegan Restaurants",
+        "columns": [
+          "Restaurant",
+          "Type",
+          "Area",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Rayen Veggie",
+            "Vegan",
+            "La Latina",
+            "€12-18"
+          ],
+          [
+            "El Granero de Lavapiés",
+            "Vegetarian",
+            "Lavapiés",
+            "€10-14"
+          ],
+          [
+            "Vega",
+            "Vegan",
+            "Malasaña",
+            "€10-14"
+          ],
+          [
+            "B13 Biorganic",
+            "Vegan fast-casual",
+            "Chamberí",
+            "€10-14"
+          ],
+          [
+            "Ecocentro",
+            "Vegetarian café",
+            "Lavapiés",
+            "€8-12"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Saying 'vegetariano' in Spain",
+        "body": "Spanish 'vegetariano' often means 'no meat but maybe fish'. Clarify 'sin carne ni pescado' (no meat or fish) or 'vegano' for vegan. Tortilla de patatas is vegetarian. Gazpacho is vegan.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "ice-cream-shops-madrid",
@@ -8700,7 +9087,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "sports",
       "padel",
@@ -8712,6 +9099,36 @@
       "tennis-madrid",
       "madrid-open-tennis",
       "gyms-fitness-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Padel Quick Facts",
+        "items": [
+          {
+            "label": "Players in Spain",
+            "value": "3 million (#2 sport)"
+          },
+          {
+            "label": "Court rental",
+            "value": "€20-40/hour"
+          },
+          {
+            "label": "Easy to learn",
+            "value": "Rally after 30 min"
+          },
+          {
+            "label": "Best app",
+            "value": "Playtomic (English)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Best way to meet Spaniards",
+        "body": "Padel is the best way to meet Spanish people. Join 'Madrid Pádel International' WhatsApp/Facebook groups. The game is doubles — very social. After 2-3 lessons you can play socially.",
+        "tone": "success"
+      }
     ]
   },
   {
@@ -8726,7 +9143,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "nightlife",
       "club",
@@ -8739,6 +9156,50 @@
       "malasana-bars-nightlife",
       "chueca-bars-nightlife",
       "salsa-dancing-madrid"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Top Clubs Compared",
+        "columns": [
+          "Club",
+          "Music",
+          "Price",
+          "Capacity"
+        ],
+        "rows": [
+          [
+            "Mondo Disko",
+            "Tech house/techno",
+            "€20-25",
+            "500"
+          ],
+          [
+            "Fabrik",
+            "EDM/techno",
+            "€25-30",
+            "5,000"
+          ],
+          [
+            "Capital",
+            "House + reggaeton",
+            "€15-20",
+            "800"
+          ],
+          [
+            "Goya Social Club",
+            "Deep house",
+            "€15-20",
+            "300"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Madrid clubs start late",
+        "body": "Don't arrive before 1:30am — peak is 3-4am. Metro starts at 6am (perfect timing). Dress smart casual. Pre-game (botellón) to save money — club drinks are €10-15.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -8753,7 +9214,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "nightlife",
       "flamenco",
@@ -8765,6 +9226,30 @@
       "flamenco-madrid",
       "salsa-dancing-madrid",
       "jazz-blues-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Late Show Quick Facts",
+        "items": [
+          {
+            "label": "Best show time",
+            "value": "Midnight (most authentic)"
+          },
+          {
+            "label": "Duration",
+            "value": "60-90 minutes"
+          },
+          {
+            "label": "Price range",
+            "value": "€30-50 (show + drink)"
+          },
+          {
+            "label": "Photography",
+            "value": "Not allowed during show"
+          }
+        ]
+      }
     ]
   },
   {
@@ -8779,7 +9264,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "nightlife",
       "jazz",
@@ -8791,6 +9276,44 @@
       "flamenco-tablaos-nightlife",
       "teatro-real-madrid",
       "magic-comedy-madrid"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Madrid Jazz Clubs Compared",
+        "columns": [
+          "Club",
+          "Price",
+          "Vibe",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Café Central",
+            "€15-20",
+            "Famous, touristy",
+            "Must-visit (relocating 2026)"
+          ],
+          [
+            "Clamores",
+            "€10-12",
+            "Local, intimate",
+            "Authentic jazz, Malasaña"
+          ],
+          [
+            "Populart",
+            "Free",
+            "Small, casual",
+            "Free jazz nightly"
+          ],
+          [
+            "Bogui Jazz",
+            "€10-15",
+            "Modern, small",
+            "Contemporary jazz"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -9042,7 +9565,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "maps",
       "neighborhood",
@@ -9056,6 +9579,34 @@
       "walking-maps-madrid",
       "sol-gran-via-neighborhood",
       "malasana-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "10 Official Neighborhood Guides",
+        "items": [
+          {
+            "title": "Sol & Gran Vía",
+            "body": "Tourist center, shopping, theaters"
+          },
+          {
+            "title": "Malasaña",
+            "body": "Hipster, vintage, alternative nightlife"
+          },
+          {
+            "title": "Chueca",
+            "body": "LGBTQ+, chic boutiques, cocktail bars"
+          },
+          {
+            "title": "La Latina",
+            "body": "Tapas, El Rastro, traditional vermouth"
+          },
+          {
+            "title": "Lavapiés",
+            "body": "Multicultural, international food, flamenco"
+          }
+        ]
+      }
     ]
   },
   {
@@ -9375,7 +9926,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "bus",
@@ -9389,6 +9940,14 @@
       "bus-stations-madrid",
       "coach-stations-madrid",
       "intercity-buses"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Key difference",
+        "body": "City buses (EMT) stop every 200-400m on streets — no stations needed. Coaches (autocares) travel between cities and depart from coach stations with platforms and ticket offices. In Spanish, 'autobús' means both — context matters.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -9403,7 +9962,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "taxi",
@@ -9416,6 +9975,38 @@
       "taxis-madrid",
       "ride-sharing-madrid",
       "night-buses-buhos-madrid"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Taxi Booking Apps",
+        "columns": [
+          "App",
+          "Fares",
+          "English?",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "PideTaxi",
+            "Same as street hail",
+            "Yes",
+            "Official Madrid taxi app"
+          ],
+          [
+            "FreeNow",
+            "Same as street hail",
+            "Yes",
+            "International (formerly MyTaxi)"
+          ],
+          [
+            "Radio Taxi",
+            "Same as street hail",
+            "No",
+            "Phone: 91 447 51 84"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -9831,7 +10422,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "neighborhood",
       "district",
@@ -9850,6 +10441,59 @@
       "retiro-neighborhood",
       "arguelles-moncloa-neighborhood",
       "tetuan-cuatro-caminos-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "21 Districts at a Glance",
+        "columns": [
+          "District #",
+          "Name",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "1",
+            "Centro",
+            "Tourists (Sol, Gran Vía, Malasaña)"
+          ],
+          [
+            "2",
+            "Arganzuela",
+            "Madrid Río, Matadero"
+          ],
+          [
+            "3",
+            "Retiro",
+            "Museums, parks, families"
+          ],
+          [
+            "4",
+            "Salamanca",
+            "Luxury shopping, business"
+          ],
+          [
+            "5",
+            "Chamartín",
+            "Business, quiet residential"
+          ],
+          [
+            "6",
+            "Tetuán",
+            "Budget, diverse"
+          ],
+          [
+            "7",
+            "Chamberí",
+            "Authentic local, families"
+          ],
+          [
+            "8",
+            "Fuencarral-El Pardo",
+            "Nature (El Pardo forest)"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -10110,6 +10754,44 @@
       "sangines",
       "ice-cream-shops-madrid",
       "mercado-san-miguel"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Best Chocolaterías",
+        "columns": [
+          "Chocolatería",
+          "Location",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "San Ginés",
+            "Pasadizo San Ginés 5",
+            "€4.50",
+            "Open 24h, the famous one"
+          ],
+          [
+            "Chocolatería 1902",
+            "Bon Salvador 7",
+            "€4.00",
+            "Older than San Ginés, less touristy"
+          ],
+          [
+            "Valor",
+            "Multiple locations",
+            "€3.50",
+            "Spanish chain, reliable"
+          ],
+          [
+            "Federico's",
+            "Duque de Alba 4",
+            "€3.50",
+            "Locals' breakfast spot"
+          ]
+        ]
+      }
     ]
   },
   {
