@@ -2326,7 +2326,7 @@
     "official_url": "https://www.catedraldelaalmudena.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "royal",
       "cathedral",
@@ -2334,7 +2334,8 @@
     ],
     "related_records": [
       "royal-palace",
-      "plaza-mayor"
+      "plaza-mayor",
+      "english-speaking-wedding-planners-madrid"
     ],
     "subsubcategory": "Cathedral"
   },
@@ -4000,7 +4001,8 @@
       "empadronamiento",
       "transfers-spain",
       "fintech-banking-spain",
-      "banking-spain"
+      "banking-spain",
+      "english-speaking-financial-advisors-madrid"
     ],
     "subsubcategory": "Bank Accounts",
     "sections": [
@@ -5095,7 +5097,8 @@
     "related_records": [
       "chueca-neighborhood",
       "sol-gran-via-neighborhood",
-      "metro-de-madrid"
+      "metro-de-madrid",
+      "acting-schools-madrid"
     ],
     "subsubcategory": "City Center",
     "sections": [
@@ -6886,7 +6889,8 @@
       "nie-tie",
       "banking-spain",
       "residencia-permit-spain",
-      "english-speaking-lawyers-madrid"
+      "english-speaking-lawyers-madrid",
+      "english-speaking-financial-advisors-madrid"
     ],
     "subsubcategory": "Taxes"
   },
@@ -7043,7 +7047,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "banking",
       "transfers",
@@ -7053,7 +7057,8 @@
     ],
     "related_records": [
       "banking-spain",
-      "fintech-banking-spain"
+      "fintech-banking-spain",
+      "english-speaking-financial-advisors-madrid"
     ],
     "subsubcategory": "Transfers"
   },
@@ -8692,7 +8697,8 @@
       "survival-spanish",
       "spanish-learning-resources",
       "language-schools-madrid",
-      "awc-madrid"
+      "awc-madrid",
+      "acting-schools-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -8861,7 +8867,8 @@
       "student-visa-spain",
       "forocio-study-abroad",
       "accent-global-madrid",
-      "english-taught-masters-madrid"
+      "english-taught-masters-madrid",
+      "english-mba-programs-madrid"
     ],
     "subsubcategory": "Universities",
     "sections": [
@@ -8991,7 +8998,8 @@
       "universities-madrid",
       "awc-madrid",
       "english-summer-camps-madrid",
-      "international-school-jobs-madrid"
+      "international-school-jobs-madrid",
+      "nanny-agencies-madrid"
     ],
     "subsubcategory": "Schools"
   },
@@ -9877,7 +9885,8 @@
       "teach-english-spain",
       "international-chambers-madrid",
       "international-school-jobs-madrid",
-      "internship-services-madrid"
+      "internship-services-madrid",
+      "english-mba-programs-madrid"
     ],
     "subsubcategory": "Job Search",
     "sections": [
@@ -11057,7 +11066,8 @@
       "salsa-dancing-madrid",
       "verbenas-festivals",
       "chotis-madrid",
-      "music-summer-programs-madrid"
+      "music-summer-programs-madrid",
+      "flamenco-dance-intensives-madrid"
     ],
     "subsubcategory": "Flamenco",
     "sections": [
@@ -11835,7 +11845,9 @@
       "almudena-cathedral",
       "awc-madrid",
       "st-georges-anglican-madrid",
-      "monastery-stays-spain"
+      "monastery-stays-spain",
+      "english-speaking-wedding-planners-madrid",
+      "meditation-retreats-spain"
     ],
     "subsubcategory": "Community & Faith",
     "sections": [
@@ -12545,7 +12557,8 @@
       "flamenco-madrid",
       "salsa-dancing-madrid",
       "jazz-blues-madrid",
-      "music-summer-programs-madrid"
+      "music-summer-programs-madrid",
+      "flamenco-dance-intensives-madrid"
     ],
     "sections": [
       {
@@ -14266,7 +14279,8 @@
     "related_records": [
       "hammams-arab-baths-madrid",
       "yoga-madrid",
-      "terrazas-rooftop-bars-madrid"
+      "terrazas-rooftop-bars-madrid",
+      "meditation-retreats-spain"
     ]
   },
   {
@@ -15774,7 +15788,8 @@
       "empadronamiento",
       "neighborhoods-guide",
       "english-speaking-lawyers-madrid",
-      "english-speaking-vets-madrid"
+      "english-speaking-vets-madrid",
+      "nanny-agencies-madrid"
     ],
     "sections": [
       {
@@ -15887,7 +15902,9 @@
       "moving2madrid-relocation",
       "freelancing-spain",
       "digital-nomad-visa-spain-services",
-      "spain-golden-visa-ended"
+      "spain-golden-visa-ended",
+      "english-speaking-financial-advisors-madrid",
+      "english-speaking-wedding-planners-madrid"
     ],
     "sections": [
       {
@@ -16145,7 +16162,8 @@
       "journalism-writing-madrid",
       "freelancing-spain",
       "expat-publications-madrid",
-      "awc-madrid"
+      "awc-madrid",
+      "english-mba-programs-madrid"
     ],
     "sections": [
       {
@@ -16511,7 +16529,8 @@
       "language-schools-madrid",
       "hot-english-magazine-madrid",
       "teacher-training-madrid",
-      "soccer-camps-madrid"
+      "soccer-camps-madrid",
+      "nanny-agencies-madrid"
     ],
     "sections": [
       {
@@ -16644,7 +16663,8 @@
       "language-schools-madrid",
       "moving2madrid-relocation",
       "english-summer-camps-madrid",
-      "international-chambers-madrid"
+      "international-chambers-madrid",
+      "nanny-agencies-madrid"
     ],
     "sections": [
       {
@@ -17188,7 +17208,8 @@
       "gyms-fitness-madrid",
       "language-schools-madrid",
       "spa-madrid",
-      "pilates-teacher-training-madrid"
+      "pilates-teacher-training-madrid",
+      "meditation-retreats-spain"
     ],
     "sections": [
       {
@@ -17930,7 +17951,8 @@
       "student-visa-spain",
       "teacher-training-madrid",
       "language-schools-madrid",
-      "english-summer-camps-madrid"
+      "english-summer-camps-madrid",
+      "english-mba-programs-madrid"
     ],
     "sections": [
       {
@@ -18337,7 +18359,10 @@
     "related_records": [
       "flamenco-madrid",
       "flamenco-tablaos-nightlife",
-      "museo-reina-sofia"
+      "museo-reina-sofia",
+      "flamenco-dance-intensives-madrid",
+      "acting-schools-madrid",
+      "film-schools-madrid"
     ],
     "sections": [
       {
@@ -18457,7 +18482,8 @@
       "churches-religion-madrid",
       "st-georges-anglican-madrid",
       "spa-madrid",
-      "hammams-arab-baths-madrid"
+      "hammams-arab-baths-madrid",
+      "meditation-retreats-spain"
     ],
     "sections": [
       {
@@ -18783,6 +18809,1086 @@
           "Don't apply May-June for summer start — too late",
           "Don't assume all placements will be in English — many require intermediate Spanish",
           "Don't skip the on-ground orientation — critical for navigating Madrid bureaucracy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "english-speaking-financial-advisors-madrid",
+    "category": "living",
+    "subcategory": "banking",
+    "title": "English-Speaking Financial Advisors & Tax Consultants in Madrid",
+    "summary": "Madrid-based English-speaking financial advisors and tax consultants for expats: Blevins Franks (50 years), PCC Wealth, Finance Spain, Manor Tax Services. Cross-border tax, pensions, investments, inheritance planning.",
+    "content": "English-speaking financial advice is one of the highest-value services expats in Madrid need — and one of the most under-served. Spanish financial regulations are complex, particularly for non-residents and dual-status taxpayers (US citizens abroad, UK pensioners in Spain, etc.). Madrid has a small ecosystem of regulated financial advisors and tax consultants who specifically serve the English-speaking expat market. Blevins Franks has been providing specialist financial advice to British expatriates across Europe for 50 years, with a dedicated Madrid office. PCC Wealth (Private Client Consultancy) specializes in cross-border financial, tax, and inheritance advice for expats. Finance Spain focuses on regulated cross-border advice for English-speaking expatriates, particularly pensions and retirement income. Manor Tax Services offers 40+ years of Spanish taxation experience with a fully bilingual team. Locallista maintains a directory of English-speaking tax consultants in Madrid. The market is heavily marketed in English to attract expats — these firms typically charge €150-€300/hour for advice, or work on commission/percentage-of-assets for investment management. The most common needs are: Spanish tax residency determination, foreign pension taxation (UK SIPPs, US 401ks), Modelo 720 foreign asset declaration, inheritance tax planning (Spanish + home country), and investment management. Always verify the firm is regulated (CNMV for investments, ICAM for legal/tax).",
+    "official_url": "https://www.blevinsfranks.com/where-we-are/spain/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "financial-advisor",
+      "tax-advisor",
+      "wealth-management",
+      "expat",
+      "pension",
+      "inheritance",
+      "investments",
+      "cross-border",
+      "blevins-franks",
+      "modelo-720"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "banking",
+      "modelo-720",
+      "english-speaking-lawyers-madrid",
+      "freelancing-spain",
+      "transfers-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Why expats need English-speaking financial advice",
+        "body": "Spanish tax law is complex — particularly for dual-status taxpayers (US citizens abroad, UK pensioners in Spain). A specialist advisor can save you 5-10x their fee in tax optimization, penalty avoidance, and proper cross-border structuring.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Typical consultation",
+            "value": "€150-€300/hour"
+          },
+          {
+            "label": "Annual tax filing",
+            "value": "€300-€800"
+          },
+          {
+            "label": "Investment management",
+            "value": "0.75-1.5% of assets/year"
+          },
+          {
+            "label": "Inheritance planning",
+            "value": "€1,000-€5,000 one-time"
+          },
+          {
+            "label": "Verify regulation",
+            "value": "CNMV (investments), ICAM (legal)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking financial advisors in Madrid",
+        "items": [
+          {
+            "title": "Blevins Franks Madrid",
+            "body": "50 years of specialist financial advice to British expatriates across Europe. Madrid office. Tax, estate planning, investments. Strong UK-Spain focus.",
+            "meta": [
+              "blevinsfranks.com/where-we-are/spain/madrid"
+            ]
+          },
+          {
+            "title": "PCC Wealth (Private Client Consultancy)",
+            "body": "Specializes in expat financial, tax, and inheritance advice. Madrid office. Cross-border expertise.",
+            "meta": [
+              "pccwealth.com/financial-advisor-in-madrid"
+            ]
+          },
+          {
+            "title": "Finance Spain",
+            "body": "Regulated cross-border advice for English-speaking expatriates. Pensions, retirement income, investments.",
+            "meta": [
+              "finance-spain.com/Madrid.html"
+            ]
+          },
+          {
+            "title": "Manor Tax Services",
+            "body": "40+ years of Spanish taxation experience. Fully bilingual English/Spanish team. Dedicated accountant per client.",
+            "meta": [
+              "manortax.com/location/tax-advisor-madrid"
+            ]
+          },
+          {
+            "title": "Locallista directory",
+            "body": "Curated list of English-speaking tax consultants in Madrid. Useful for cross-checking.",
+            "meta": [
+              "locallista.com/en/mad/tax-consultants"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What expats typically need help with",
+        "items": [
+          {
+            "title": "Spanish tax residency",
+            "body": "Determining if you're a Spanish tax resident (183-day rule). Triggers worldwide income taxation in Spain."
+          },
+          {
+            "title": "Foreign pension taxation",
+            "body": "UK SIPPs, US 401ks/IRAs, Australian superannuation — all have specific Spanish tax treatment. Specialist needed."
+          },
+          {
+            "title": "Modelo 720",
+            "body": "Annual declaration of foreign assets >€50,000. Severe penalties for non-compliance. See modelo-720 record."
+          },
+          {
+            "title": "Inheritance tax planning",
+            "body": "Spanish inheritance tax varies by region (Madrid is generous, Andalusia more, Catalonia less). Cross-border estates need specialist planning."
+          },
+          {
+            "title": "Investment management",
+            "body": "Spanish-compliant investment wrappers (unit-linked, SIALP) vs. continuing home-country investments."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a financial advisor in Madrid",
+        "do": [
+          "Verify CNMV registration for investment advice (legal requirement)",
+          "Use a UK-Spain specialist if you have UK pension/ISA assets",
+          "Use a US-Spain specialist if you're a US citizen (FATCA complicates everything)",
+          "Get fee disclosure in writing before engaging",
+          "Have your home-country tax returns handy for initial consultation"
+        ],
+        "dont": [
+          "Don't use unregulated 'wealth managers' — high scam risk in expat communities",
+          "Don't assume your home-country advisor can advise on Spanish tax — they usually can't",
+          "Don't skip Modelo 720 — penalties are €10,000+ per undeclared asset",
+          "Don't move pensions/investments without specialist advice — irreversible tax mistakes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "english-mba-programs-madrid",
+    "category": "living",
+    "subcategory": "education",
+    "title": "English-Taught MBA Programs in Madrid",
+    "summary": "Madrid hosts 3 of Europe's top MBA programs taught in English: IE Business School (International MBA), IESE Business School, EADA. 11-23 month programs. €70,000-€100,000 tuition. Strong international student recruitment.",
+    "content": "Madrid is one of Europe's premier MBA destinations, with three business schools consistently ranked in global top-50: IE Business School, IESE Business School, and EADA Business School. All three offer MBA programs taught entirely in English, attracting students from 70+ countries. IE Business School's International MBA is Madrid's most international program — 11-23 month formats, ~90% international students, strong entrepreneurship and tech focus. Tuition approximately €80,000-€100,000. IESE's MBA program runs 15-19 months, ~85% international, with a strong general management and case-study focus. Tuition approximately €90,000-€100,000. EADA's MBA is smaller and more accessible — 11-12 months, ~70% international, focused on practical business skills. Tuition approximately €35,000-€45,000. All three schools actively recruit international students through English-language marketing, GMAT waivers for strong candidates, and dedicated international admissions teams. Post-MBA, Madrid offers a Spanish-language work environment with growing tech (Cabify, Glovo, Wallapop) and finance scenes. Many graduates use the Spanish MBA as an entry point to careers in Latin America. Spain's Non-Lucrative Visa and the new Digital Nomad Visa both provide post-study residency paths. The schools partner with major Madrid employers (BBVA, Santander, Iberia, Inditex) for internships and placements.",
+    "official_url": "https://www.ie.edu/business-school/programs/full-time/international-mba",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "mba",
+      "business-school",
+      "ie",
+      "iese",
+      "eada",
+      "english-taught",
+      "international-students",
+      "postgraduate",
+      "executive-education"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-taught-masters-madrid",
+      "universities-madrid",
+      "student-visa-spain",
+      "job-search-spain",
+      "international-chambers-madrid",
+      "work-visa-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = top-tier European MBA destination",
+        "body": "Three globally-ranked business schools in Madrid (IE, IESE, EADA) all teach MBAs in English. International student recruitment is core to their business model. Tuition €35,000-€100,000 for 11-23 month programs.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Top Madrid MBA programs",
+            "value": "IE, IESE, EADA (all top-50 global)"
+          },
+          {
+            "label": "Program length",
+            "value": "11-23 months"
+          },
+          {
+            "label": "International students",
+            "value": "70-90% of class"
+          },
+          {
+            "label": "IE International MBA tuition",
+            "value": "€80,000-€100,000"
+          },
+          {
+            "label": "IESE MBA tuition",
+            "value": "€90,000-€100,000"
+          },
+          {
+            "label": "EADA MBA tuition",
+            "value": "€35,000-€45,000"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's top English MBA programs",
+        "items": [
+          {
+            "title": "IE Business School — International MBA",
+            "body": "Most international (90% non-Spanish). 11-23 month formats. Strong entrepreneurship and tech. Madrid city center campus. Highest-ranked Madrid MBA.",
+            "meta": [
+              "ie.edu/business-school/programs/full-time/international-mba"
+            ]
+          },
+          {
+            "title": "IESE Business School — MBA",
+            "body": "15-19 months. Case-method focus. ~85% international. Strong general management. Barcelona campus with Madrid presence.",
+            "meta": [
+              "iese.edu/mba"
+            ]
+          },
+          {
+            "title": "EADA Business School — MBA",
+            "body": "11-12 months. Smaller, more accessible. ~70% international. Practical business focus. €35,000-€45,000.",
+            "meta": [
+              "eada.edu"
+            ]
+          },
+          {
+            "title": "ESIC Business School",
+            "body": "Spanish with English tracks. More affordable. Marketing and business focus."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Application requirements",
+        "items": [
+          {
+            "title": "GMAT/GRE",
+            "body": "Required for IE and IESE (avg GMAT ~670-690). EADA may waive for strong candidates."
+          },
+          {
+            "title": "English proficiency",
+            "body": "TOEFL 100+ or IELTS 7.0+ for non-native speakers."
+          },
+          {
+            "title": "Work experience",
+            "body": "5+ years typical for IE and IESE. EADA accepts 3+ years."
+          },
+          {
+            "title": "Application essays + recommendations",
+            "body": "2-3 essays, 2 professional recommendations, video assessment."
+          },
+          {
+            "title": "Application deadlines",
+            "value": "Rolling admissions. Apply Sept-April for September start."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "MBA applications in Madrid",
+        "do": [
+          "Apply Round 1 (Sept-Oct) for best scholarship chances",
+          "Visit campuses before applying — IE and IESE have very different cultures",
+          "Consider EADA if budget-constrained — similar quality at half the price",
+          "Network with current students via LinkedIn before applying",
+          "Plan post-MBA visa (HQP visa for highly-paid roles, Digital Nomad for entrepreneurs)"
+        ],
+        "dont": [
+          "Don't apply last-minute (May-July) — most scholarships already awarded",
+          "Don't assume English fluency alone will get you in — competitive admissions",
+          "Don't underestimate Spanish — even English MBA programs benefit from local language",
+          "Don't expect US-level post-MBA salaries in Madrid — typically 30-50% lower"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Post-MBA visa paths",
+        "body": "Spain's HQP (Highly Qualified Professional) visa is the most common post-MBA path — fast-track (20 days) for jobs paying €50,000+. The Ley de Startups also offers a Digital Nomad Visa for MBA graduates starting companies. See digital-nomad-visa-spain-services record.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "english-speaking-wedding-planners-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "English-Speaking Wedding Planners in Madrid",
+    "summary": "Madrid wedding planners specializing in international couples: The Planner Co, Estas a Punto Tienen Novia, Amor Loc, Justine Claire Weddings. Bilingual service for destination weddings. €3,000-€15,000 planning fees.",
+    "content": "Madrid is an increasingly popular destination wedding location for international couples — particularly US/UK couples marrying in Spain for the weather, venues, and lower costs than home. The city has a growing ecosystem of bilingual wedding planners who specifically serve international couples. The Planner Co specializes in international couples planning Madrid weddings from abroad, with English as primary working language. Estas a Punto Tienen Novia (Marta and Rocio) is a bilingual team that explicitly markets to international couples. Amor Loc offers structured planning for couples in other cities or abroad. Justine Claire Weddings covers all of Spain from a Madrid base. Wedding planning fees in Madrid typically range from €3,000 (basic coordination) to €15,000 (full-service luxury wedding). The total wedding budget for an international couple is typically €25,000-€80,000, with venue, catering, and photography being the largest line items. Spanish weddings have specific cultural elements international couples should know: (1) no bridal party/groomsmen traditionally, (2) ceremony typically Catholic (Church requires one partner Catholic), (3) long receptions (6+ hours, dinner + dancing), (4) no gift registry — guests give cash in envelopes. Civil ceremonies are possible but require one partner to be Spanish resident or have a Spanish civil registrar willing to perform the ceremony. Most international couples do the legal ceremony in their home country and a symbolic ceremony in Spain.",
+    "official_url": "https://theplannerco.es/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "wedding",
+      "wedding-planner",
+      "destination-wedding",
+      "international-couples",
+      "bilingual",
+      "marriage",
+      "ceremony",
+      "english-speaking"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "churches-religion-madrid",
+      "almudena-cathedral",
+      "english-speaking-lawyers-madrid",
+      "salamanca-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is a growing destination wedding location",
+        "body": "International couples increasingly choose Madrid for destination weddings — weather, venues, lower costs than home. Bilingual wedding planners handle the entire process. Planning fees €3,000-€15,000; total budget typically €25,000-€80,000.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Wedding planner fees",
+            "value": "€3,000-€15,000"
+          },
+          {
+            "label": "Total wedding budget",
+            "value": "€25,000-€80,000 (international couple)"
+          },
+          {
+            "label": "Peak season",
+            "value": "May-September"
+          },
+          {
+            "label": "Booking lead time",
+            "value": "12-18 months for popular venues"
+          },
+          {
+            "label": "Legal vs symbolic",
+            "value": "Most international couples: legal at home, symbolic in Spain"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified bilingual wedding planners in Madrid",
+        "items": [
+          {
+            "title": "The Planner Co",
+            "body": "International couple specialists. Madrid + all Spain. English primary working language.",
+            "meta": [
+              "theplannerco.es/madrid"
+            ]
+          },
+          {
+            "title": "Estas a Punto Tienen Novia (Marta & Rocio)",
+            "body": "Bilingual team. Explicitly markets to international couples. Personal approach.",
+            "meta": [
+              "estesapotienenovia.com/en/about-us"
+            ]
+          },
+          {
+            "title": "Amor Loc",
+            "body": "Structured planning for couples abroad. Madrid-focused. English-language service.",
+            "meta": [
+              "amorloco.es/en/madrid-wedding-planner"
+            ]
+          },
+          {
+            "title": "Justine Claire Weddings",
+            "body": "All of Spain from Madrid base. Bilingual. Destination wedding specialist.",
+            "meta": [
+              "Facebook: Justine Claire Weddings"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Popular Madrid wedding venues",
+        "items": [
+          {
+            "title": "Historic haciendas",
+            "body": "Outside Madrid center, 30-60 min drive. Old Spanish estates with courtyards. €8,000-€20,000 venue rental."
+          },
+          {
+            "title": "Luxury hotels",
+            "body": "Ritz, Mandarin Oriental Ritz, Hotel Palace. Central, full-service. €15,000-€40,000 venue + catering minimums."
+          },
+          {
+            "title": "Wine estates",
+            "body": "Outside Madrid (Toledo, Ribera del Duero). Vineyard settings. €10,000-€25,000."
+          },
+          {
+            "title": "Historic buildings",
+            "body": "Casino de Madrid, Circulo de Bellas Artes. Central, iconic. €10,000-€30,000."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Destination wedding in Madrid",
+        "do": [
+          "Book venue 12-18 months ahead for May-September dates",
+          "Use a bilingual wedding planner — Spanish bureaucracy is complex",
+          "Plan legal ceremony in home country + symbolic in Spain (simpler)",
+          "Budget €25,000-€80,000 all-in for 80-150 guests",
+          "Serve Spanish wine and food — guests expect it"
+        ],
+        "dont": [
+          "Don't expect Sunday weddings to be cheaper — Saturday and Sunday are both peak",
+          "Don't skip the Catholic Church requirement if you want a religious ceremony (one partner must be Catholic)",
+          "Don't underestimate August heat — many venues have limited A/C",
+          "Don't forget your guests' accommodation — book hotel blocks 6+ months ahead"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Spanish wedding traditions to know",
+        "body": "No bridal party traditionally. Ceremony is Catholic (or civil). Reception is 6+ hours with dinner + dancing. Guests give cash in envelopes (€100-300 typical per couple) — no gift registry. Orange blossom (azahar) is traditional. The bride often wears a black dress (mantilla) — though modern brides wear white.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "film-schools-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Film Schools in Madrid (Cinema & Audiovisual)",
+    "summary": "Madrid's film schools recruit international students: ECAM (Madrid Film School, founded 1994), Septima Ars, TAI. 3-year programs + shorter intensives. ECAM is the most prestigious, located in Pozuelo de Alarcón.",
+    "content": "Madrid is Spain's film education capital, with multiple schools training the next generation of Spanish and international filmmakers. The most prestigious is ECAM (Escuela de Cinematografía y del Audiovisual de la Comunidad de Madrid) — the Madrid Film School, founded in 1994 as a non-profit cultural foundation. ECAM is located in Ciudad de la Imagen, Pozuelo de Alarcón (just west of Madrid), and is a member of CILECT (International Association of Film and Television Schools). ECAM offers 3-year undergraduate programs in directing, screenwriting, cinematography, editing, sound, and producing, plus shorter intensive courses. While ECAM primarily teaches in Spanish, it attracts international students and has growing English-language offerings. Septima Arts is another respected Madrid film school with English-language programs. TAI (Taller de Artistas Internacionales) is a Madrid-based arts university that includes cinema programs. The Madrid film ecosystem also includes the Madrid Film Office (Madrid Film Commission), which supports international productions shooting in the city. For English-speaking film students, Madrid offers a more affordable alternative to London or Los Angeles, with strong industry connections (Pedro Almodóvar's El Deseo production company is Madrid-based). Programs cost €8,000-€15,000/year for 3-year undergraduate programs. Application is competitive — ECAM admits ~30 students per year across all specialties.",
+    "official_url": "https://cilect.org/members/ecam-the-madrid-film-school",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "film-school",
+      "cinema",
+      "ecam",
+      "audiovisual",
+      "filmmaking",
+      "international-students",
+      "septima-ars",
+      "tai",
+      "directing"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "music-summer-programs-madrid",
+      "acting-schools-madrid",
+      "museo-del-prado"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = Spain's film education capital",
+        "body": "ECAM (Madrid Film School) is Spain's most prestigious film school. Founded 1994, CILECT member. 3-year programs + intensives. €8,000-€15,000/year. Strong international student recruitment.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Top film school",
+            "value": "ECAM (Madrid Film School)"
+          },
+          {
+            "label": "ECAM founded",
+            "value": "1994"
+          },
+          {
+            "label": "Program length",
+            "value": "3 years undergraduate + intensives"
+          },
+          {
+            "label": "Annual tuition",
+            "value": "€8,000-€15,000"
+          },
+          {
+            "label": "ECAM class size",
+            "value": "~30 students per year (competitive)"
+          },
+          {
+            "label": "Languages",
+            "value": "Spanish primarily; growing English offerings"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid film schools",
+        "items": [
+          {
+            "title": "ECAM (Madrid Film School)",
+            "body": "Most prestigious. CILECT member. Pozuelo de Alarcón. 3-year undergraduate programs in directing, screenwriting, cinematography, editing, sound, producing.",
+            "meta": [
+              "cilect.org/members/ecam-the-madrid-film-school"
+            ]
+          },
+          {
+            "title": "Septima Ars",
+            "body": "Madrid film school. English-language programs available. Strong practical focus.",
+            "meta": [
+              "septima-ars.com"
+            ]
+          },
+          {
+            "title": "TAI (Taller de Artistas Internacionales)",
+            "body": "Madrid arts university including cinema programs. International student focus."
+          },
+          {
+            "title": "Madrid Film Office",
+            "body": "City's film commission. Supports international productions shooting in Madrid. Not a school but a key industry resource."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Applying to Madrid film schools",
+        "do": [
+          "Apply early (Dec-Feb) for September start — ECAM has rolling admissions but fills fast",
+          "Prepare a portfolio (short film, script, photography) — required for most programs",
+          "Verify Spanish-language requirements for ECAM (most programs in Spanish)",
+          "Consider Septima Ars if you need English-language instruction",
+          "Visit the campus before applying — facilities vary widely"
+        ],
+        "dont": [
+          "Don't expect ECAM to be easy to get into — only ~30 students per year",
+          "Don't confuse film school with media studies — they're different",
+          "Don't underestimate Spanish — even international programs benefit from local language"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flamenco-dance-intensives-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Flamenco Dance Intensives in Madrid",
+    "summary": "Madrid hosts multiple flamenco dance intensives for international students: Factory Ballet (intensive flamenco), Cervantes Escuela Internacional, Enforex, Isabel Quintero. Summer/Christmas/Easter intensives. From 1-4 weeks.",
+    "content": "Madrid is one of the world's premier destinations for flamenco dance intensives — combining authentic instruction with the chance to see world-class performances nightly at the city's tablaos. Multiple schools actively recruit international students through English-language marketing. Factory Ballet runs intensive flamenco courses for beginner and intermediate levels in central Madrid (Goya area), with sessions in summer, Christmas, and Easter. Cervantes Escuela Internacional combines Spanish language with flamenco dance (20 language + 6 flamenco classes per week, 1-4 weeks). Enforex offers a Flamenco/Salsa course with 8 dance lessons per week. Isabel Quintero runs summer intensive courses in Flamenco, Bolero School, Classical Spanish, and Teaching Methodology. Most programs are explicitly designed for international students and welcome English speakers — instructors often speak English. Costs: €200-€500/week for intensives, with longer programs (4 weeks) typically €1,000-€1,500. Programs run year-round but most popular in summer (June-September). Madrid's flamenco scene is uniquely suited to learning because students can attend live performances nightly at Cardamomo, Corral de la Morería, Cafe de Chinitas, and other tablaos — an essential complement to studio instruction. Many programs include discounted tickets to performances.",
+    "official_url": "https://www.factoryballet.com/en/115-intensive-flamenco-courses",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "flamenco",
+      "dance",
+      "intensive",
+      "spanish-dance",
+      "bolero",
+      "international-students",
+      "english-taught",
+      "summer-intensive"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "flamenco-madrid",
+      "flamenco-tablaos-nightlife",
+      "music-summer-programs-madrid",
+      "language-schools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = world capital for flamenco intensives",
+        "body": "Multiple schools recruit international students for flamenco dance intensives. €200-€500/week, 1-4 week programs. Combine studio instruction with nightly performances at the city's top tablaos.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€200-€500/week (4 weeks = €1,000-€1,500)"
+          },
+          {
+            "label": "Length",
+            "value": "1-4 weeks typical"
+          },
+          {
+            "label": "Levels",
+            "value": "Beginner to advanced"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Best season",
+            "value": "Summer (June-September) + Christmas + Easter"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified flamenco intensive programs in Madrid",
+        "items": [
+          {
+            "title": "Factory Ballet (Flamenco Intensives)",
+            "body": "Central Madrid (Goya). Beginner + intermediate. Summer, Christmas, Easter intensives.",
+            "meta": [
+              "factoryballet.com/en/115-intensive-flamenco-courses"
+            ]
+          },
+          {
+            "title": "Cervantes Escuela Internacional",
+            "body": "20 language + 6 flamenco dance classes/week. Levels A1-C2. 1-4 weeks. Combine Spanish + flamenco.",
+            "meta": [
+              "cervantes.to/general-spanish-courses/intensive-flamenco-dance"
+            ]
+          },
+          {
+            "title": "Enforex Flamenco/Salsa Course",
+            "body": "8 flamenco/salsa dance lessons/week. Afternoon/evening classes. Madrid location.",
+            "meta": [
+              "enforex.com/courses-flamenco.html"
+            ]
+          },
+          {
+            "title": "Isabel Quintero (Summer Intensives)",
+            "body": "July intensive courses. Flamenco, Bolero School, Classical Spanish, Teaching Methodology.",
+            "meta": [
+              "isabelquintero.com/index_en.php"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a flamenco intensive in Madrid",
+        "do": [
+          "Book 2-3 months ahead for summer intensives (most popular)",
+          "Choose a program that includes discounted tablao tickets",
+          "Bring flamenco shoes (expensive to buy in Madrid, especially character shoes)",
+          "Stay in central Madrid (Malasaña, Chueca, Lavapiés) for tablao access",
+          "Combine with Spanish language classes for full immersion"
+        ],
+        "dont": [
+          "Don't expect to learn advanced technique in 1 week — minimum 2-4 weeks",
+          "Don't skip the nightly tablao performances — essential complement to classes",
+          "Don't buy shoes before your first class — instructors can advise on fit",
+          "Don't underestimate physical demand — flamenco is high-impact"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meditation-retreats-spain",
+    "category": "living",
+    "subcategory": "services",
+    "title": "Meditation Retreats in Spain (Vipassana & Silent)",
+    "summary": "Spain hosts multiple Vipassana meditation centers offering free 10-day silent retreats in English. Dhamma Sacca (Navarra), Dhamma Dena (Andalusia). Plus paid silent retreats via BookRetreats. 62+ silent retreats across Spain.",
+    "content": "Spain has become a major European destination for meditation retreats, particularly Vipassana meditation as taught by S.N. Goenka. The Vipassana tradition offers FREE 10-day residential silent retreats — funded entirely by donor contributions. Spain has two main Vipassana centers: Dhamma Sacca in Navarra (northern Spain, ~4 hours from Madrid) and Dhamma Dena in Andalusia (southern Spain, ~5 hours from Madrid). Both run courses in English and Spanish. Courses are genuinely free — no fee, donation-only at the end. Beyond Vipassana, Spain hosts 62+ silent retreats listed on BookRetreats, ranging from €400-€1,500 for 3-10 day programs. These include mindfulness-based stress reduction (MBSR), Zen meditation, Christian contemplative retreats, and secular silence retreats. Major retreat operators include Silent Focus (English-language silent retreats in Spain), and various independent teachers. Spain is attractive for meditation retreats because of: (1) the free Vipassana offering, (2) sunny climate year-round, (3) lower cost than UK/Netherlands equivalents, (4) monastic tradition of silence (see monastery-stays-spain record). Madrid Insider can partner with BookRetreats (affiliate program), Silent Focus, and the Vipassana centers (link exchange — they don't pay commissions but offer genuine value to readers).",
+    "official_url": "https://es.dhamma.org",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "meditation",
+      "vipassana",
+      "silent-retreat",
+      "mindfulness",
+      "spiritual",
+      "free-retreat",
+      "english-language",
+      "dhamma-sacca",
+      "dhamma-dena"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "monastery-stays-spain",
+      "yoga-teacher-training-spain",
+      "spa-madrid",
+      "hammams-arab-baths-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain offers genuinely FREE 10-day Vipassana retreats",
+        "body": "Vipassana meditation centers in Spain offer 10-day residential silent retreats at NO COST — funded by donor contributions. Plus 62+ paid silent retreats across Spain via BookRetreats.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Vipassana retreat cost",
+            "value": "FREE (donation-only at end)"
+          },
+          {
+            "label": "Vipassana length",
+            "value": "10 days residential, full silence"
+          },
+          {
+            "label": "Paid silent retreats",
+            "value": "€400-€1,500 for 3-10 days"
+          },
+          {
+            "label": "Spain silent retreats",
+            "value": "62+ listed on BookRetreats"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish at most retreats"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified meditation retreat options in Spain",
+        "items": [
+          {
+            "title": "Dhamma Sacca (Vipassana — Navarra)",
+            "body": "Northern Spain. ~4 hrs from Madrid. 10-day silent retreats. English + Spanish. Free (donation only).",
+            "meta": [
+              "dhamma.org/en/schedules/schsacca"
+            ]
+          },
+          {
+            "title": "Dhamma Dena (Vipassana — Andalusia)",
+            "body": "Southern Spain. ~5 hrs from Madrid. 10-day silent retreats. English + Spanish. Free (donation only).",
+            "meta": [
+              "es.dhamma.org"
+            ]
+          },
+          {
+            "title": "BookRetreats — Silent Retreats Spain",
+            "body": "62+ silent retreats. Filter by date, length, tradition. €400-€1,500 typical. Affiliate opportunity.",
+            "meta": [
+              "bookretreats.com/s/yoga-retreats/silent-retreats/spain"
+            ]
+          },
+          {
+            "title": "Silent Focus Spain",
+            "body": "English-language silent retreats in Spain. Mindfulness focus.",
+            "meta": [
+              "silentfocus.co/blog/silent-retreat-spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to expect at a 10-day Vipassana retreat",
+        "items": [
+          {
+            "title": "Schedule",
+            "body": "4am wake-up. 10+ hours of meditation daily. 11pm sleep. Noble silence (no talking, reading, writing, eye contact)."
+          },
+          {
+            "title": "Accommodation",
+            "body": "Simple single rooms with shared bathroom. Vegetarian meals provided. No snacks."
+          },
+          {
+            "title": "Teaching",
+            "body": "S.N. Goenka audio + video recordings. Evening discourses in English or Spanish. Assistant teachers for questions."
+          },
+          {
+            "title": "Cost",
+            "body": "Free. Operating costs covered by past students' donations. Donation at end is voluntary."
+          },
+          {
+            "title": "Languages",
+            "body": "English and Spanish courses. Check schedule for language-specific dates."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking a meditation retreat in Spain",
+        "do": [
+          "Apply 2-3 months ahead for Vipassana — waitlist common",
+          "Choose English-language course if you don't speak Spanish",
+          "Prepare for physical demand — 10+ hours of sitting daily",
+          "Bring loose comfortable clothing (no bright colors at Vipassana)",
+          "Arrive with an open mind — technique is demanding but transformative"
+        ],
+        "dont": [
+          "Don't expect luxury — Vipassana centers are simple",
+          "Don't bring books, phones, or writing materials to Vipassana (confiscated)",
+          "Don't skip the full 10 days — leaving early discouraged",
+          "Don't expect religious content — Vipassana is non-sectarian"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "monastery-stays-spain (Christian contemplative retreats), yoga-teacher-training-spain (YTT programs often include meditation), spa-madrid (wellness without silence).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "nanny-agencies-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "Nanny & Babysitter Agencies in Madrid (English-Speaking)",
+    "summary": "Madrid agencies serving expat families with English-speaking nannies and babysitters: Tripsitta, Peekaboo, Care for Kids, MumAbroad directory. Permanent, temporary, holiday nanny placements. €12-€20/hour.",
+    "content": "Madrid has a growing ecosystem of nanny and babysitter agencies specifically serving expat and international families who need English-speaking childcare. The market is driven by three groups: (1) international expat families who want their children to maintain English, (2) Spanish bilingual families wanting English immersion, (3) visiting tourists and business travelers needing temporary childcare. Tripsitta is a Madrid-based agency explicitly supporting expat and international families — they handle babysitting, temporary childcare, holiday nanny support, and permanent nanny placements. Peekaboo offers carefully matched English-speaking and multilingual nannies for both local and international families in Madrid. Care for Kids Madrid (careforkids.es) provides qualified and bilingual babysitters, nannies, and teachers — contactable at 659 78 63 56. MumAbroad Madrid maintains a directory of family services including nanny agencies matching families with live-in or part-time au pairs, nannies, and babysitters. Hourly rates for English-speaking nannies typically range from €12-€20/hour, with permanent full-time nannies earning €1,200-€1,800/month net. Most agencies charge a placement fee (€500-€2,000) for permanent placements. Tourist babysitting is typically €15-€25/hour. International families should note that Spanish employment law requires formal contracts (contrato de servicio del hogar familiar) and social security registration for any domestic worker — agencies handle this paperwork. Many English-speaking nannies in Madrid are themselves expats (British, American, Irish, Australian) on student or working holiday visas.",
+    "official_url": "https://www.tripsitta.com/babysitting-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "nanny",
+      "babysitter",
+      "childcare",
+      "english-speaking",
+      "expat-families",
+      "agencies",
+      "au-pair",
+      "temporary-childcare"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "aupair-spain-madrid",
+      "english-summer-camps-madrid",
+      "bilingual-schools-madrid",
+      "english-speaking-doctors-madrid",
+      "moving2madrid-relocation"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Strong demand for English-speaking nannies in Madrid",
+        "body": "International expat families, Spanish bilingual families, and visiting tourists all drive demand for English-speaking childcare. Multiple agencies specialize in this market. €12-€20/hour typical.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Hourly rate",
+            "value": "€12-€20/hour (English-speaking)"
+          },
+          {
+            "label": "Tourist babysitting",
+            "value": "€15-€25/hour"
+          },
+          {
+            "label": "Full-time nanny",
+            "value": "€1,200-€1,800/month net"
+          },
+          {
+            "label": "Placement fee",
+            "value": "€500-€2,000 (permanent)"
+          },
+          {
+            "label": "Required",
+            "value": "Formal contract + social security registration"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking nanny agencies in Madrid",
+        "items": [
+          {
+            "title": "Tripsitta",
+            "body": "Madrid-based. Expat + international family focus. Babysitting, temporary, holiday, permanent placements.",
+            "meta": [
+              "tripsitta.com/babysitting-madrid"
+            ]
+          },
+          {
+            "title": "Peekaboo",
+            "body": "Carefully matched English-speaking and multilingual nannies. Local + international families.",
+            "meta": [
+              "peekaboo-center.com/nanny-madrid.html"
+            ]
+          },
+          {
+            "title": "Care for Kids Madrid",
+            "body": "Qualified and bilingual babysitters, nannies, teachers. Tel: 659 78 63 56.",
+            "meta": [
+              "careforkids.es/en/home"
+            ]
+          },
+          {
+            "title": "MumAbroad Madrid",
+            "body": "Family services directory including nanny agencies. Lists multiple Madrid options.",
+            "meta": [
+              "mumabroad.com/mumabroad-spain/madrid/family-services-madrid"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Types of childcare available",
+        "items": [
+          {
+            "title": "Permanent full-time nanny",
+            "body": "Live-in or live-out. 40 hours/week. €1,200-€1,800/month net. Formal contract required."
+          },
+          {
+            "title": "Part-time nanny",
+            "body": "20-25 hours/week. €600-€1,000/month. Often for after-school pickup + activities."
+          },
+          {
+            "title": "Temporary/holiday nanny",
+            "body": "1-12 weeks. €1,000-€1,500/week for full-time. Popular with visiting tourists and business travelers."
+          },
+          {
+            "title": "Babysitter (evenings/weekends)",
+            "body": "€12-€20/hour. Most flexible. Book through agencies or directly."
+          },
+          {
+            "title": "Au pair",
+            "body": "Live-in. €70-100/week pocket money + room/board. See aupair-spain-madrid record."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Hiring a nanny in Madrid",
+        "do": [
+          "Use an agency for permanent placements — handles contracts and social security",
+          "Verify the nanny's references and certifications (first aid, childcare qualifications)",
+          "Sign a formal contrato de servicio del hogar familiar — required by Spanish law",
+          "Register the nanny with social security — employer obligation",
+          "Get liability insurance covering domestic workers"
+        ],
+        "dont": [
+          "Don't hire informally — severe penalties for undeclared domestic workers",
+          "Don't skip reference checks — even with agencies",
+          "Don't pay below €12/hour for English-speaking nannies — market rate",
+          "Don't forget to register with social security within 30 days of employment"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Tourist babysitting",
+        "body": "If you're visiting Madrid and need evening childcare at your hotel, Tripsitta and Peekaboo both offer tourist babysitting services. Typically €15-€25/hour, English-speaking sitters, can handle hotel pickups. Book 2-3 days in advance.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "acting-schools-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Acting Schools & Theater in English in Madrid",
+    "summary": "Madrid's English-language acting and improv scene: Act Attack (English acting & improv courses), MBT Espacio Escénico (acting in English intensive), Acting In English school, Face 2 Face theater in English. Plus Madrid International Theater Group meetup.",
+    "content": "Madrid has a small but vibrant English-language acting and theater scene, with multiple schools and groups offering instruction in English. The scene serves two audiences: (1) English-speaking expats wanting to do theater in their native language, (2) Spanish actors wanting to develop English-language skills for international castings. Act Attack offers high-quality acting and improv courses in English year-round in Madrid, including beginner classes on Mondays. They're associated with the Madrid International Theater Group meetup, an active community of English-speaking theater enthusiasts. MBT Espacio Escénico offers 'Acting in English' intensive weekend workshops designed for Spanish film and theater actors preparing for international castings and self-tapes. Acting In English started as an extracurricular activity for kids in 2018 and evolved into a successful English-language teaching method for Spanish students. Face 2 Face Teatro Interactivo en Inglés performs theater in English for schools and colleges, plus large-scale adaptations of classics in major Madrid theaters. The market is small but actively growing — Madrid's international population is increasing, and Spanish actors increasingly need English for international work. The Madrid International Theater Group on Meetup is the most accessible entry point for newcomers — regular meetings, social atmosphere, no prior experience required. Costs: €100-€300 for 8-12 week courses, €80-€150 for weekend intensives.",
+    "official_url": "https://actattacktheater.com/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "acting",
+      "theater",
+      "improv",
+      "english-language",
+      "drama-school",
+      "expat-community",
+      "international-castings"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "film-schools-madrid",
+      "flamenco-dance-intensives-madrid",
+      "music-summer-programs-madrid",
+      "language-exchanges-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's English-language acting scene is growing",
+        "body": "Multiple schools and groups offer acting, improv, and theater in English. Serves expats wanting native-language theater AND Spanish actors preparing for international castings. €100-€300 for 8-12 week courses.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "8-12 weeks (regular) or weekend intensives"
+          },
+          {
+            "label": "Cost",
+            "value": "€100-€300 (courses), €80-€150 (intensives)"
+          },
+          {
+            "label": "Languages",
+            "value": "English-only instruction"
+          },
+          {
+            "label": "Levels",
+            "value": "Beginner to advanced"
+          },
+          {
+            "label": "Best for newcomers",
+            "value": "Madrid International Theater Group (Meetup)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-language acting schools/groups in Madrid",
+        "items": [
+          {
+            "title": "Act Attack",
+            "body": "English acting & improv courses year-round. Beginner Mondays. Quality instruction at competitive prices.",
+            "meta": [
+              "actattacktheater.com/madrid"
+            ]
+          },
+          {
+            "title": "Madrid International Theater Group (Meetup)",
+            "body": "Active Meetup group. Best entry point for newcomers. Social atmosphere. Associated with Act Attack.",
+            "meta": [
+              "meetup.com/the-madrid-expat-theater-group"
+            ]
+          },
+          {
+            "title": "MBT Espacio Escénico",
+            "body": "Acting in English intensive weekend workshops. For Spanish actors preparing for international castings.",
+            "meta": [
+              "mbtespacioescenico.es/cursos/acting-in-english-intensive-weekend-workshop"
+            ]
+          },
+          {
+            "title": "Acting In English",
+            "body": "School for kids (started 2018) and adults. English-language acting as teaching method.",
+            "meta": [
+              "actinginenglish.com/about"
+            ]
+          },
+          {
+            "title": "Face 2 Face Teatro Interactivo",
+            "body": "Theater in English for schools + large-scale adaptations at major Madrid theaters.",
+            "meta": [
+              "teatroeningles.com/en/acting-academy-english"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Joining Madrid's English theater scene",
+        "do": [
+          "Start with the Madrid International Theater Group Meetup — welcoming to newcomers",
+          "Try Act Attack's Monday beginner class — no experience required",
+          "Bring water and comfortable clothes to improv classes",
+          "Network with the expat community — theater is great for social connection",
+          "Audition for Face 2 Face productions if you want stage experience"
+        ],
+        "dont": [
+          "Don't worry about experience — most groups welcome beginners",
+          "Don't expect professional training at Meetup level — that's Act Attack's role",
+          "Don't be put off if you're the only non-native English speaker — many Spanish members"
         ]
       }
     ]
