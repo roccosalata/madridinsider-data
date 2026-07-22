@@ -974,7 +974,8 @@
       "language-schools-madrid-education",
       "madrid-tourist-offices",
       "spanish-culture-madrid",
-      "useful-information-madrid"
+      "useful-information-madrid",
+      "spanish-immersion-adults-spain"
     ],
     "official_url": "https://www.cervantes.es/en/spanish-for-foreigners.htm",
     "subsubcategory": "Phrases",
@@ -2444,7 +2445,7 @@
     "content": "Casa de Campo is Madrid's largest green space — 1,535 hectares (5x Central Park), west of the Royal Palace across the Manzanares River. Once a royal hunting ground, now a public park. WHAT'S INSIDE: (1) Lake (Lago de la Casa de Campo) — rowboats €6/hour, restaurants around the lake (Mi Suegra, El Lago). (2) Zoo Aquarium de Madrid — see our separate record. (3) Parque de Atracciones — Madrid's main amusement park. See our separate record. (4) Teleférico (cable car) — currently CLOSED for renovation until Q1 2027. (5) MTB and trail running — 30+ km of trails, hilly, wooded. (6) Picnic areas (free, bring your own food). (7) Madrid Amusement Park. GETTING THERE: Metro Lago (L10), Batán (L10), Casa de Campo (L5). TIPS: (1) The park is huge — plan which area you want to visit. (2) Best for: families, runners, cyclists, half-day escapes. (3) Avoid alone at night — the park is known for nighttime sex work along the main road. Daytime is safe and family-friendly. (4) Bring water — few fountains. (5) The lake area has the best facilities (restaurants, boat rental). (6) You can walk from the Royal Palace (15 min) via the Sabatini Gardens and down through Parque del Oeste.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "parks",
       "casa-de-campo"
@@ -2454,7 +2455,8 @@
       "madrid-rio",
       "metro-de-madrid",
       "retiro-park",
-      "teleferico"
+      "teleferico",
+      "rock-climbing-courses-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
     "subsubcategory": "Large Parks"
@@ -3908,7 +3910,8 @@
       "empadronamiento",
       "nie-tie",
       "english-speaking-therapists-madrid",
-      "ivf-fertility-clinics-madrid"
+      "ivf-fertility-clinics-madrid",
+      "retirement-spain-english"
     ],
     "subsubcategory": "Overview",
     "sections": [
@@ -5101,7 +5104,8 @@
       "chueca-neighborhood",
       "sol-gran-via-neighborhood",
       "metro-de-madrid",
-      "acting-schools-madrid"
+      "acting-schools-madrid",
+      "photography-workshops-madrid"
     ],
     "subsubcategory": "City Center",
     "sections": [
@@ -5514,7 +5518,8 @@
       "metro-de-madrid",
       "sol-gran-via-neighborhood",
       "walking-tours-madrid",
-      "artist-residencies-madrid"
+      "artist-residencies-madrid",
+      "photography-workshops-madrid"
     ],
     "subsubcategory": "Historic",
     "sections": [
@@ -6896,7 +6901,8 @@
       "banking-spain",
       "residencia-permit-spain",
       "english-speaking-lawyers-madrid",
-      "english-speaking-financial-advisors-madrid"
+      "english-speaking-financial-advisors-madrid",
+      "retirement-spain-english"
     ],
     "subsubcategory": "Taxes"
   },
@@ -8667,7 +8673,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "language",
       "spanish",
@@ -8678,7 +8684,8 @@
     "related_records": [
       "survival-spanish",
       "language-exchanges-madrid",
-      "language-schools-madrid"
+      "language-schools-madrid",
+      "spanish-immersion-adults-spain"
     ],
     "subsubcategory": "Learning"
   },
@@ -8706,7 +8713,8 @@
       "spanish-learning-resources",
       "language-schools-madrid",
       "awc-madrid",
-      "acting-schools-madrid"
+      "acting-schools-madrid",
+      "spanish-immersion-adults-spain"
     ],
     "subsubcategory": "Learning"
   },
@@ -8735,7 +8743,8 @@
       "language-exchanges-madrid",
       "english-summer-camps-madrid",
       "aupair-spain-madrid",
-      "english-taught-masters-madrid"
+      "english-taught-masters-madrid",
+      "spanish-immersion-adults-spain"
     ],
     "subsubcategory": "Learning"
   },
@@ -8793,7 +8802,8 @@
       "english-speaking-therapists-madrid",
       "english-speaking-vets-madrid",
       "medical-tourism-madrid",
-      "ivf-fertility-clinics-madrid"
+      "ivf-fertility-clinics-madrid",
+      "retirement-spain-english"
     ],
     "subsubcategory": "Private Healthcare"
   },
@@ -8878,7 +8888,8 @@
       "forocio-study-abroad",
       "accent-global-madrid",
       "english-taught-masters-madrid",
-      "english-mba-programs-madrid"
+      "english-mba-programs-madrid",
+      "pre-university-summer-madrid"
     ],
     "subsubcategory": "Universities",
     "sections": [
@@ -10521,7 +10532,8 @@
     "related_records": [
       "aquopolis-water-park",
       "running-madrid",
-      "gyms-fitness-madrid"
+      "gyms-fitness-madrid",
+      "scuba-diving-certification-madrid"
     ],
     "subsubcategory": "Water Sports"
   },
@@ -10679,7 +10691,9 @@
       "madrid-uv-index",
       "madrid-weather",
       "retiro-park",
-      "running-madrid"
+      "running-madrid",
+      "rock-climbing-courses-madrid",
+      "ski-school-spain-english"
     ],
     "subsubcategory": "Cycling",
     "sections": [
@@ -11081,7 +11095,8 @@
       "verbenas-festivals",
       "chotis-madrid",
       "music-summer-programs-madrid",
-      "flamenco-dance-intensives-madrid"
+      "flamenco-dance-intensives-madrid",
+      "guitar-luthier-schools-spain"
     ],
     "subsubcategory": "Flamenco",
     "sections": [
@@ -15580,7 +15595,8 @@
       "libraries-madrid",
       "language-exchanges-madrid",
       "expat-publications-madrid",
-      "english-publications-history-madrid"
+      "english-publications-history-madrid",
+      "retirement-spain-english"
     ],
     "sections": [
       {
@@ -15920,7 +15936,8 @@
       "digital-nomad-visa-spain-services",
       "spain-golden-visa-ended",
       "english-speaking-financial-advisors-madrid",
-      "english-speaking-wedding-planners-madrid"
+      "english-speaking-wedding-planners-madrid",
+      "retirement-spain-english"
     ],
     "sections": [
       {
@@ -16050,7 +16067,8 @@
       "healthcare",
       "english-speaking-lawyers-madrid",
       "awc-madrid",
-      "language-exchanges-madrid"
+      "language-exchanges-madrid",
+      "retirement-spain-english"
     ],
     "sections": [
       {
@@ -16549,7 +16567,8 @@
       "nanny-agencies-madrid",
       "tennis-academies-spain",
       "golf-academies-spain",
-      "equestrian-camps-madrid"
+      "equestrian-camps-madrid",
+      "pre-university-summer-madrid"
     ],
     "sections": [
       {
@@ -17105,7 +17124,8 @@
       "atletico-madrid-wanda-metropolitano",
       "parque-de-atracciones-madrid",
       "tennis-academies-spain",
-      "golf-academies-spain"
+      "golf-academies-spain",
+      "basketball-camps-spain"
     ],
     "sections": [
       {
@@ -17977,7 +17997,8 @@
       "language-schools-madrid",
       "english-summer-camps-madrid",
       "english-mba-programs-madrid",
-      "gap-year-programs-madrid"
+      "gap-year-programs-madrid",
+      "pre-university-summer-madrid"
     ],
     "sections": [
       {
@@ -18390,7 +18411,9 @@
       "acting-schools-madrid",
       "film-schools-madrid",
       "art-design-schools-madrid",
-      "fashion-summer-courses-madrid"
+      "fashion-summer-courses-madrid",
+      "guitar-luthier-schools-spain",
+      "photography-workshops-madrid"
     ],
     "sections": [
       {
@@ -18871,7 +18894,8 @@
       "modelo-720",
       "english-speaking-lawyers-madrid",
       "freelancing-spain",
-      "transfers-spain"
+      "transfers-spain",
+      "retirement-spain-english"
     ],
     "sections": [
       {
@@ -19022,7 +19046,8 @@
       "job-search-spain",
       "international-chambers-madrid",
       "work-visa-spain",
-      "gap-year-programs-madrid"
+      "gap-year-programs-madrid",
+      "pre-university-summer-madrid"
     ],
     "sections": [
       {
@@ -19312,7 +19337,8 @@
       "music-summer-programs-madrid",
       "acting-schools-madrid",
       "museo-del-prado",
-      "art-design-schools-madrid"
+      "art-design-schools-madrid",
+      "photography-workshops-madrid"
     ],
     "sections": [
       {
@@ -19424,7 +19450,8 @@
       "flamenco-tablaos-nightlife",
       "music-summer-programs-madrid",
       "language-schools-madrid",
-      "art-design-schools-madrid"
+      "art-design-schools-madrid",
+      "guitar-luthier-schools-spain"
     ],
     "sections": [
       {
@@ -19953,7 +19980,8 @@
       "soccer-camps-madrid",
       "english-summer-camps-madrid",
       "madrid-open-tennis",
-      "tennis-madrid"
+      "tennis-madrid",
+      "basketball-camps-spain"
     ],
     "sections": [
       {
@@ -20095,7 +20123,8 @@
       "tennis-academies-spain",
       "soccer-camps-madrid",
       "english-summer-camps-madrid",
-      "golf-madrid"
+      "golf-madrid",
+      "basketball-camps-spain"
     ],
     "sections": [
       {
@@ -20532,7 +20561,8 @@
       "music-summer-programs-madrid",
       "film-schools-madrid",
       "acting-schools-madrid",
-      "flamenco-dance-intensives-madrid"
+      "flamenco-dance-intensives-madrid",
+      "photography-workshops-madrid"
     ],
     "sections": [
       {
@@ -21082,7 +21112,9 @@
       "student-visa-spain",
       "internship-services-madrid",
       "aupair-spain-madrid",
-      "teach-english-spain"
+      "teach-english-spain",
+      "spanish-immersion-adults-spain",
+      "pre-university-summer-madrid"
     ],
     "sections": [
       {
@@ -21202,6 +21234,1244 @@
         "type": "callout",
         "heading": "Why Madrid for a gap year?",
         "body": "Lower cost than London/Paris. Safe city (one of Europe's safest capitals). Growing international community. Spanish language learning. Easy European travel (1-2 hour flights to all major European cities). Mild climate (except July-August heat).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "spanish-immersion-adults-spain",
+    "category": "essentials",
+    "subcategory": "communication",
+    "title": "Spanish Immersion Programs for Adults in Spain",
+    "summary": "Adult Spanish immersion programs in Spain: Pueblo Español (8-day intensive, €1,800-€2,500), Expanish Young Adults (16-20), Harvard Summer School Madrid (8 weeks), IES Abroad. Recruit international adults.",
+    "content": "Adult Spanish immersion programs are one of the most established English-language recruitment channels into Spain. These programs run intensive Spanish-language courses specifically designed for adult (and young adult) international students — combining formal language classes with cultural activities, homestays, and immersion experiences. Pueblo Español is a multi-day Spanish immersion program in Spain designed to greatly increase Spanish listening and communication skills — they offer 8-day intensives (€1,800-€2,500) in various Spanish cities including Madrid area. Expanish runs a Young Adults Program for ages 16-20 with small group classes, life skills workshops, and cultural activities. Harvard Summer School operates an 8-week immersion program in Madrid for intermediate Spanish students — academic credit available. IES Abroad Madrid Summer program offers intermediate and advanced Spanish language courses plus area studies courses taught in Spanish, with activities with Spaniards. LAE Madrid runs a Spanish Immersion Program designed to help students improve Spanish while immersing in Madrid life. The adult immersion market targets: (1) university students wanting summer academic credit, (2) professionals wanting to improve Spanish for career reasons, (3) retirees wanting to learn Spanish before relocating, (4) serious language learners wanting faster progress than weekly classes provide. Programs typically last 1-8 weeks, with prices ranging from €500/week (budget) to €3,000+/week (premium with accommodation + activities). Most programs include: placement test, daily Spanish classes (3-5 hours), cultural activities, accommodation options (homestay, residence, apartment), and a certificate of completion. Madrid is particularly popular for adult immersion because of its size, cultural offerings, and central location for weekend travel.",
+    "official_url": "https://www.puebloespanol.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "spanish-immersion",
+      "adult-education",
+      "language-program",
+      "intensive-spanish",
+      "international-students",
+      "summer-program",
+      "pueblo-espanol",
+      "harvard-summer",
+      "expanish"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "language-schools-madrid",
+      "language-exchanges-madrid",
+      "spanish-learning-resources",
+      "survival-spanish",
+      "gap-year-programs-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Adult Spanish immersion = proven recruitment channel",
+        "body": "Multiple operators recruit English-speaking adults for 1-8 week Spanish immersion programs in Spain. Madrid is the most popular destination due to size, culture, and travel access. From €500/week to €3,000+/week.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-8 weeks"
+          },
+          {
+            "label": "Cost range",
+            "value": "€500-€3,000+/week"
+          },
+          {
+            "label": "Pueblo Español 8-day",
+            "value": "€1,800-€2,500"
+          },
+          {
+            "label": "Harvard Summer Madrid",
+            "value": "8 weeks (academic credit)"
+          },
+          {
+            "label": "Class hours/day",
+            "value": "3-5 hours typical"
+          },
+          {
+            "label": "Languages",
+            "value": "Spanish instruction, English admin"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Spanish immersion programs for adults",
+        "items": [
+          {
+            "title": "Pueblo Español",
+            "body": "8-day intensive immersion in Madrid area. Designed to greatly increase Spanish listening/communication. €1,800-€2,500.",
+            "meta": [
+              "puebloespanol.com"
+            ]
+          },
+          {
+            "title": "Harvard Summer School — Madrid",
+            "body": "8-week immersion program for intermediate Spanish students. Academic credit available. Madrid-based.",
+            "meta": [
+              "summer.harvard.edu/study-abroad/madrid-spain"
+            ]
+          },
+          {
+            "title": "IES Abroad — Madrid Summer Language & Cultural Studies",
+            "body": "Intermediate and advanced Spanish courses + area studies. Activities with Spaniards. Academic credit.",
+            "meta": [
+              "iesabroad.org/programs/madrid-summer-language-cultural-studies"
+            ]
+          },
+          {
+            "title": "Expanish — Young Adults Program",
+            "body": "Ages 16-20. Small group classes + life skills workshops + cultural activities. Summer program.",
+            "meta": [
+              "expanish.com/young-adults-program"
+            ]
+          },
+          {
+            "title": "LAE Madrid — Spanish Immersion Program",
+            "body": "Madrid-based immersion. Improve Spanish while immersing in Madrid life. Various formats.",
+            "meta": [
+              "laemadrid.com/spanish-immersion-program"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What's typically included",
+        "items": [
+          {
+            "title": "Placement test",
+            "body": "Online or in-person test to determine your Spanish level (A1-C2)."
+          },
+          {
+            "title": "Daily Spanish classes",
+            "body": "3-5 hours/day small group or 1-on-1. Grammar, conversation, culture."
+          },
+          {
+            "title": "Cultural activities",
+            "body": "Museum visits, flamenco shows, cooking classes, walking tours, tapas nights."
+          },
+          {
+            "title": "Accommodation",
+            "body": "Homestay (most immersion), student residence, or shared apartment. Homestay offers most practice."
+          },
+          {
+            "title": "Weekend excursions",
+            "body": "Toledo, Segovia, El Escorial day trips. Optional multi-day trips to other regions."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing an adult Spanish immersion",
+        "do": [
+          "Choose homestay for maximum Spanish practice",
+          "Choose Harvard or IES Abroad for academic credit",
+          "Choose Pueblo Español for fastest progress in shortest time",
+          "Allow 2+ weeks for meaningful improvement (1 week is too short)",
+          "Combine immersion program with independent travel before/after"
+        ],
+        "dont": [
+          "Don't expect fluency in 1 week — immersion accelerates but doesn't miracle",
+          "Don't choose English-speaking accommodation — defeats the immersion purpose",
+          "Don't skip the placement test — being in wrong level wastes the program",
+          "Don't over-schedule — leave time for spontaneous Madrid life"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scuba-diving-certification-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Scuba Diving Certification in Madrid (PADI, English)",
+    "summary": "Madrid PADI dive centers with English instruction: Buceo Madrid, ZoEA Madrid (5-star IDC, English/Spanish/Italian), Open Water Madrid. PADI Open Water €450-€500. Pool training in Madrid, open water at coast.",
+    "content": "Madrid is surprisingly a major scuba diving certification hub — multiple PADI dive centers operate in the city, teaching the classroom and pool portions of certification courses before students travel to the coast (typically Costa Blanca, Costa del Sol, or Cabo de Palos) for open water dives. The Madrid PADI centers actively recruit English-speaking students. Buceo Madrid is a PADI Dive Center offering courses from beginner to instructor level. ZoEA Madrid is a 5-star PADI IDC (Instructor Development Center) Diving School offering PADI courses in English, Spanish, and Italian — explicit English-language marketing. Open Water Madrid offers PADI and SSI certified courses in both English and Spanish, contactable at +34 675 138 529. The PADI Open Water Diver course (the entry-level certification) costs approximately €450-€500 and takes 3-4 days total: 1-2 days of classroom/pool work in Madrid + 2 days of open water dives (4 dives total). Many Madrid centers offer referral programs where you complete classroom/pool in Madrid, then do open water dives at any PADI center worldwide. Spain itself has excellent diving — Cabo de Palos (Murcia, 4 hours from Madrid), Medes Islands (Catalonia, 6 hours), and Canary Islands (2.5-hour flight) are the top destinations. For English-speaking expats in Madrid, getting PADI-certified locally is significantly cheaper than in the UK or US, and Madrid's central location makes weekend dive trips to the Mediterranean coast easy.",
+    "official_url": "https://www.padi.com/dive-center/spain/zoea-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "scuba",
+      "diving",
+      "padi",
+      "certification",
+      "english-speaking",
+      "dive-center",
+      "open-water",
+      "ssi"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "swimming-pools-madrid",
+      "madrid-open-tennis"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is a major PADI certification hub",
+        "body": "Multiple Madrid PADI dive centers teach in English. Pool/classroom in Madrid, open water at coast. PADI Open Water €450-€500. Spain has excellent diving at Cabo de Palos, Medes Islands, Canary Islands.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "PADI Open Water cost",
+            "value": "€450-€500"
+          },
+          {
+            "label": "Course duration",
+            "value": "3-4 days total"
+          },
+          {
+            "label": "Pool/classroom in Madrid",
+            "value": "1-2 days"
+          },
+          {
+            "label": "Open water dives",
+            "value": "4 dives (at coast)"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (varies by center)"
+          },
+          {
+            "label": "PADI referral option",
+            "value": "Yes — finish anywhere worldwide"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid PADI dive centers",
+        "items": [
+          {
+            "title": "ZoEA Madrid",
+            "body": "5-star PADI IDC Diving School. PADI courses in English, Spanish, Italian. Most international-friendly Madrid option.",
+            "meta": [
+              "padi.com/dive-center/spain/zoea-madrid"
+            ]
+          },
+          {
+            "title": "Buceo Madrid",
+            "body": "PADI Dive Center. Beginner to instructor courses. Madrid-based pool and classroom.",
+            "meta": [
+              "padi.com/dive-center/spain/buceo-madrid"
+            ]
+          },
+          {
+            "title": "Open Water Madrid",
+            "body": "PADI and SSI certified. English + Spanish. €75-€500 depending on course. Tel: +34 675 138 529.",
+            "meta": [
+              "openwatermadrid.com/en-gb"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's best dive destinations",
+        "items": [
+          {
+            "title": "Cabo de Palos (Murcia)",
+            "body": "4 hours from Madrid by car. Marine reserve. Best diving in mainland Mediterranean. Walls, caves, wrecks."
+          },
+          {
+            "title": "Medes Islands (Catalonia)",
+            "body": "6 hours from Madrid. Protected marine reserve. Groupers, octopus, barracuda."
+          },
+          {
+            "title": "Canary Islands",
+            "body": "2.5-hour flight from Madrid. Year-round warm water. Tenerife, Gran Canaria, Lanzarote best for diving."
+          },
+          {
+            "title": "Costa Brava (Catalonia)",
+            "body": "6 hours from Madrid. Various dive sites. Begur, L'Estartit popular."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Getting PADI certified from Madrid",
+        "do": [
+          "Choose ZoEA Madrid for English instruction",
+          "Use referral program — pool/classroom in Madrid, open water on vacation",
+          "Book 2-3 weeks ahead for weekend courses",
+          "Get medical clearance if you have any health conditions",
+          "Combine certification with a beach vacation at Costa Blanca or Canary Islands"
+        ],
+        "dont": [
+          "Don't fly within 24 hours after diving — DCS risk",
+          "Don't skip the swim test — 200m swim + 10-min float required",
+          "Don't expect warm water at Spanish coast in winter (12-15°C)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rock-climbing-courses-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Rock Climbing Courses in Madrid (Sierra de Guadarrama, English)",
+    "summary": "Madrid's Sierra de Guadarrama offers beginner rock climbing courses with English-speaking AEGM-certified guides. Mountain Guide Spain, Picuco, Explore-Share. €225-€450 per person for 1-2 day courses.",
+    "content": "Madrid is a serious rock climbing destination thanks to the Sierra de Guadarrama mountains just 1 hour north of the city — offering granite and limestone cliffs suitable for all levels. Multiple guide companies offer beginner courses with English-speaking AEGM (Spanish Association of Mountain Guides) certified instructors. Mountain Guide Spain runs beginner rock climbing courses in Madrid starting at €450/person (1 person) down to €225/person (2 people) — includes English-speaking AEGM-certified guide. Picuco offers beginner climbing in Sierra de Guadarrama National Park on natural granite and limestone, lasting 4-7 hours, suitable for children as young as 8. Explore-Share lists 2-day rock climbing courses in Spain with AEGM-certified guides — including multi-pitch climbing at Montserrat. Happy To Visit offers introductory climbing courses in Sierra de Guadarrama with gear, guide, and instruction included — 5.0 stars from reviews. Manawa lists the best rock climbing activities in Sierra de Guadarrama, accessible to beginners from 8-10 years old. The Sierra de Guadarrama is the primary climbing area near Madrid, with multiple crags: La Pedriza (most famous, granite), Peñalara (limestone), and Cuello Moro (granite). Best climbing seasons: spring (April-June) and fall (September-November). Summer is too hot; winter climbing is possible on south-facing crags but requires a full day. For English-speaking expats in Madrid, the proximity of world-class climbing is a major lifestyle benefit — you can climb after work in summer (sunset is 9:30pm) and do full weekend trips year-round.",
+    "official_url": "https://www.mountainguidespain.com/beginner-rock-climbing-course-in-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "rock-climbing",
+      "climbing-course",
+      "sierra-guadarrama",
+      "english-speaking-guide",
+      "aegm",
+      "outdoor-sports",
+      "mountain"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "cycling-mtb-madrid",
+      "parque-de-atracciones-madrid",
+      "casa-de-campo"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Sierra de Guadarrama = Madrid's climbing playground",
+        "body": "Granite and limestone cliffs 1 hour from Madrid. English-speaking AEGM-certified guides. €225-€450/person for beginner courses. Best seasons: April-June, September-November.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "4-7 hours (1 day) or 2 days"
+          },
+          {
+            "label": "Cost",
+            "value": "€225-€450/person (depends on group size)"
+          },
+          {
+            "label": "Distance from Madrid",
+            "value": "1 hour by car"
+          },
+          {
+            "label": "Best seasons",
+            "value": "April-June, September-November"
+          },
+          {
+            "label": "Ages",
+            "value": "8+ for beginner courses"
+          },
+          {
+            "label": "Gear included",
+            "value": "Yes (most courses)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid climbing guide companies",
+        "items": [
+          {
+            "title": "Mountain Guide Spain",
+            "body": "Beginner rock climbing course in Madrid. English-speaking AEGM-certified guide. €450 (1 person) / €225 each (2 people).",
+            "meta": [
+              "mountainguidespain.com/beginner-rock-climbing-course-in-madrid"
+            ]
+          },
+          {
+            "title": "Picuco",
+            "body": "Beginner rock climbing in Sierra de Guadarrama National Park. Natural granite and limestone. 4-7 hours. Ages 8+.",
+            "meta": [
+              "picuco.com/en-es/activities/beginner-climbing-guadarrama-national-park"
+            ]
+          },
+          {
+            "title": "Explore-Share",
+            "body": "2-day rock climbing courses in Spain. AEGM-certified guides. Multi-pitch at Montserrat option.",
+            "meta": [
+              "explore-share.com/trip/2-day-rock-climbing-course-spain"
+            ]
+          },
+          {
+            "title": "Happy To Visit",
+            "body": "Introductory climbing course: Sierra de Guadarrama. Gear, guide, instruction included. 5.0 stars.",
+            "meta": [
+              "happytovisit.com/introductory-climbing-course-sierra-de-guadarrama"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Sierra de Guadarrama climbing areas",
+        "items": [
+          {
+            "title": "La Pedriza",
+            "body": "Most famous. Huge granite boulder field. Multi-pitch trad and sport. 45 min from Madrid."
+          },
+          {
+            "title": "Peñalara",
+            "body": "Limestone. Big walls. Alpine feel. 1 hour from Madrid. Colder (higher altitude)."
+          },
+          {
+            "title": "Cuello Moro",
+            "body": "Granite. Sport climbing. Beginner-friendly. 1 hour from Madrid."
+          },
+          {
+            "title": "Berrueco",
+            "body": "Granite slabs. Friction climbing. 1.5 hours from Madrid. Unique style."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Beginner rock climbing in Madrid",
+        "do": [
+          "Choose spring or fall — summer is too hot, winter too cold",
+          "Wear approach shoes (not running shoes) for the hike to cliffs",
+          "Bring 2 liters of water per person minimum",
+          "Choose guided course for first few times — Sierra de Guadarrama is complex",
+          "Take Cercanías train to Cercedilla for car-free access to some crags"
+        ],
+        "dont": [
+          "Don't climb in summer midday (35-40°C) — go early morning or after 5pm",
+          "Don't underestimate the approach hikes — some are 45-60 min uphill",
+          "Don't climb alone — even experienced climbers use partners",
+          "Don't skip the safety briefing — Spanish climbing has specific conventions"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ski-school-spain-english",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "English-Speaking Ski Schools in Spain (Sierra Nevada)",
+    "summary": "Sierra Nevada (Granada, southern Spain) hosts English-speaking ski schools recruiting international students: English Ski School, Outpeak Academy, Ski Sierra Nevada UK. From €50/hour private lessons.",
+    "content": "Spain has multiple ski resorts, but the one with the strongest English-speaking ski school ecosystem is Sierra Nevada (Granada, Andalusia) — Europe's southernmost ski resort, 5 hours from Madrid by car or 1-hour flight to Granada + 1-hour drive. Multiple English-language ski schools operate there, all actively recruiting international students. English Ski School Sierra Nevada is a small hand-picked team of professional, motivated, experienced instructors using simple techniques and clear explanations — fully English-language instruction. Outpeak Academy is an English ski school in Sierra Nevada with instructors speaking English, Spanish, and Swedish — phone +34 858 28 35 50. Ski Sierra Nevada (skisierranevada.co.uk) is a UK-facing operation with 30+ years teaching experience and 5,000+ hours of lessons per average season, native English and bilingual instructors. Snowminds runs Spanish ski instructor courses designed to pass the Spanish TD1 exam and work as a ski instructor in Spain — for those wanting certification rather than just lessons. Sierra Nevada ski season typically runs late November to early May (one of Europe's longest). The resort has 124 km of pistes, max altitude 3,300m, and is famously sunny — often skiable in t-shirts by April. For Madrid residents, Sierra Nevada is reachable as a weekend trip (overnight train to Granada, then bus to resort). Other Spanish ski resorts include Formigal (Pyrenees, 6 hours from Madrid), Baqueira-Beret (Pyrenees, premier resort, 6 hours), and Valdesquí (Madrid's local mountain, 1 hour from city but small).",
+    "official_url": "https://www.englishskischool.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "ski",
+      "ski-school",
+      "sierra-nevada",
+      "english-speaking",
+      "winter-sports",
+      "granada",
+      "instructor"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "rock-climbing-courses-madrid",
+      "cycling-mtb-madrid",
+      "el-escorial-day-trip"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Sierra Nevada = English-speaking ski instruction in Spain",
+        "body": "Multiple English-language ski schools at Sierra Nevada (Granada). 5 hours from Madrid by car or 1-hour flight + 1-hour drive. Ski season late November to early May. From €50/hour private lessons.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ski season",
+            "value": "Late November to early May"
+          },
+          {
+            "label": "Sierra Nevada pistes",
+            "value": "124 km"
+          },
+          {
+            "label": "Max altitude",
+            "value": "3,300m"
+          },
+          {
+            "label": "Distance from Madrid",
+            "value": "5 hours by car, 1-hour flight + 1-hour drive"
+          },
+          {
+            "label": "Private lesson cost",
+            "value": "From €50/hour"
+          },
+          {
+            "label": "Languages",
+            "value": "English, Spanish, Swedish (varies by school)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified English-speaking ski schools in Spain",
+        "items": [
+          {
+            "title": "English Ski School Sierra Nevada",
+            "body": "Small hand-picked team. Professional, experienced instructors. Simple techniques, clear explanations. Fully English-language instruction.",
+            "meta": [
+              "englishskischool.com"
+            ]
+          },
+          {
+            "title": "Outpeak Academy (Sierra Nevada)",
+            "body": "English ski school in Sierra Nevada. Instructors speak English, Spanish, Swedish. Tel: +34 858 28 35 50.",
+            "meta": [
+              "outpeak.es/ski-school"
+            ]
+          },
+          {
+            "title": "Ski Sierra Nevada (UK-facing)",
+            "body": "30+ years teaching experience. 5,000+ hours/season. Native English and bilingual instructors. UK-facing booking.",
+            "meta": [
+              "skisierranevada.co.uk"
+            ]
+          },
+          {
+            "title": "Snowminds (Ski Instructor Course Spain)",
+            "body": "Spanish ski instructor course. Pass TD1 exam. Work as instructor in Spain. Certification path.",
+            "meta": [
+              "snowminds.com/ski-instructor-course/spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spanish ski resorts",
+        "items": [
+          {
+            "title": "Sierra Nevada (Granada)",
+            "body": "Europe's southernmost ski resort. 5 hrs from Madrid. 124 km pistes. Sunny. Long season. English schools available."
+          },
+          {
+            "title": "Formigal (Pyrenees)",
+            "body": "6 hrs from Madrid. Largest Pyrenees resort. 137 km pistes. Popular with Spanish families."
+          },
+          {
+            "title": "Baqueira-Beret (Pyrenees)",
+            "body": "6 hrs from Madrid. Premier Spanish resort. Spanish royal family visits. 167 km pistes."
+          },
+          {
+            "title": "Valdesquí (Madrid)",
+            "body": "1 hr from Madrid. Small (22 km pistes) but closest. Crowded on weekends. Madrid's local mountain."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Skiing from Madrid",
+        "do": [
+          "Choose Sierra Nevada for best English instruction",
+          "Choose Valdesquí for day trip from Madrid (1 hour)",
+          "Book ski school lessons 2+ weeks ahead for peak weeks (Christmas, February)",
+          "Drive to Sierra Nevada — public transport is poor",
+          "Visit Granada city + Alhambra while in the area"
+        ],
+        "dont": [
+          "Don't ski in January without checking conditions — can be icy",
+          "Don't underestimate Sierra Nevada sun — high altitude burns fast",
+          "Don't expect Alpine-style resorts — Spanish ski villages are more casual",
+          "Don't skip lunch — Spanish ski culture includes long midday meals"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pre-university-summer-madrid",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Pre-University Summer Programs in Madrid (English)",
+    "summary": "Madrid pre-university summer programs recruiting international high schoolers: IE University Summer School (ages 15-17), Carlos V Education Summer Program, IH Madrid English Summer, British Council. From €1,000-€3,500.",
+    "content": "Madrid's pre-university summer programs are designed for international high school students (ages 13-17) wanting a taste of university life, Spanish culture, or academic enrichment. Multiple institutions actively recruit English-speaking teens through English-language marketing. IE University runs a Pre-University Summer Program tailored for 15-17 year olds — students learn from real IE University professors, get hands-on introduction to European higher education, and experience Madrid life. Carlos V Education offers Summer Program 2026 in Madrid designed for individual students, families, and international groups — an international experience combining academics with cultural immersion. International House Madrid runs English Summer Courses 2026 for all ages and levels (24 hours face-to-face) — academic English focus. British Council Madrid offers English Summer camps and courses for children, with Secondary summer courses developing English through engaging practical activities. The pre-university market targets: (1) international high schoolers considering Spanish universities for undergraduate study, (2) expat teens wanting to maintain English academic skills, (3) teens wanting university preview before applying, (4) parents wanting structured summer activities. Programs typically run 2-4 weeks in July, with prices €1,000-€3,500 including accommodation, meals, activities, and academic instruction. Most programs are residential (student residences or hotels) with 24/7 supervision. Madrid's appeal for pre-university summer: safe city, world-class universities (IE, UC3M, Complutense), strong cultural offerings, and Spanish language learning opportunity.",
+    "official_url": "https://www.ie.edu/ie-summer-school/pre-university/pre-university-summer-program",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "pre-university",
+      "summer-program",
+      "high-school",
+      "ie-university",
+      "carlos-v",
+      "english-taught",
+      "international-students",
+      "academic"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-summer-camps-madrid",
+      "english-taught-masters-madrid",
+      "english-mba-programs-madrid",
+      "gap-year-programs-madrid",
+      "universities-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Pre-university summer programs in Madrid",
+        "body": "Multiple Madrid institutions recruit English-speaking high schoolers for pre-university summer programs. IE University, Carlos V Education, IH Madrid, British Council. From €1,000-€3,500 for 2-4 weeks.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "13-17 (varies by program)"
+          },
+          {
+            "label": "Program length",
+            "value": "2-4 weeks typical"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,000-€3,500"
+          },
+          {
+            "label": "Season",
+            "value": "July (some June dates)"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught (some Spanish option)"
+          },
+          {
+            "label": "Housing",
+            "value": "Residential with 24/7 supervision"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid pre-university summer programs",
+        "items": [
+          {
+            "title": "IE University Pre-University Summer Program",
+            "body": "Ages 15-17. Hands-on intro to European higher education. Real IE professors. Madrid campus. Most prestigious Madrid pre-university option.",
+            "meta": [
+              "ie.edu/ie-summer-school/pre-university/pre-university-summer-program"
+            ]
+          },
+          {
+            "title": "Carlos V Education Summer Program 2026",
+            "body": "Individual students, families, international groups. Academic + cultural immersion. Madrid-based.",
+            "meta": [
+              "carlosveducation.es/en/summer-program-2026-in-madrid-an-international-experience-for-students-and-groups"
+            ]
+          },
+          {
+            "title": "International House Madrid English Summer Courses",
+            "body": "All ages and levels. 24 hours face-to-face. Academic English focus. Multiple Madrid locations.",
+            "meta": [
+              "ihmadrid.com/en/english-summer-courses"
+            ]
+          },
+          {
+            "title": "British Council Madrid Summer Courses",
+            "body": "Secondary summer courses. Practical activities. English development. Multiple Madrid locations.",
+            "meta": [
+              "britishcouncil.es/en/english/courses-children/summer"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Pre-university summer programs",
+        "do": [
+          "Apply 4-6 months ahead for July programs",
+          "Choose IE University for most prestigious academic experience",
+          "Choose Carlos V Education for international group experience",
+          "Verify accommodation is included (most residential programs include it)",
+          "Get travel insurance covering minors"
+        ],
+        "dont": [
+          "Don't expect academic credit at most programs (some offer it)",
+          "Don't underestimate Madrid summer heat — choose programs with A/C facilities",
+          "Don't book without reading reviews on Go Overseas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "basketball-camps-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Basketball Camps in Spain (English-Speaking)",
+    "summary": "Spain basketball camps recruiting international juniors: Basketball Camp Spain (14-18 yrs), ICS Madrid Summer Basketball, Nike Basketball Camps Madrid, Five-Star Basketball Academy Spain. From €600-€1,800/week.",
+    "content": "Spain has a growing basketball camp ecosystem recruiting international juniors — particularly attractive because Spain is one of Europe's strongest basketball nations (Pau Gasol, Ricky Rubio, Marc Gasol all Spanish). Multiple camps actively market in English to US, UK, and Asian junior players. Basketball Camp Spain (basketball-camp-spain.com) runs a complete basketball summer camp for 14-18 year old experienced junior players, with training sessions in Spanish and English. ICS Summer Camp (International College Spain Madrid) offers basketball camp for ages 10-19 with professional coaching in English, running mid-June to mid-July. Nike Basketball Camps operates in Madrid through US Sports Camps, offering day and overnight options for various skill levels. Five-Star Basketball Academy (Pacific Pine Sports) brings American players to Spain for 2-week training stints at prestigious Spanish basketball academies. Ertheo lists International Youth Basketball Camps 2026 including Spain options with language learning. Costs: €600-€1,800/week depending on residential vs day camp, camp prestige, and inclusions. Madrid is a major basketball city — Real Madrid Baloncesto (Euroleague champions multiple times) and Estudiantes are the top professional clubs. The Spanish ACB league is Europe's strongest domestic basketball league. For international juniors wanting European basketball experience, Madrid is an attractive destination — combining serious training with cultural immersion.",
+    "official_url": "http://www.basketball-camp-spain.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "basketball",
+      "basketball-camp",
+      "junior",
+      "international",
+      "english-speaking",
+      "summer-camp",
+      "nike",
+      "five-star",
+      "spain"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "soccer-camps-madrid",
+      "tennis-academies-spain",
+      "golf-academies-spain",
+      "english-summer-camps-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = Europe's basketball capital",
+        "body": "Spain's ACB is Europe's strongest domestic basketball league. Multiple camps recruit international juniors through English-language marketing. From €600-€1,800/week. Madrid is home to Real Madrid Baloncesto (multi-time Euroleague champion).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost per week",
+            "value": "€600-€1,800"
+          },
+          {
+            "label": "Ages",
+            "value": "10-19 (varies by camp)"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Camp length",
+            "value": "1-2 weeks typical"
+          },
+          {
+            "label": "Season",
+            "value": "June-July"
+          },
+          {
+            "label": "Skill levels",
+            "value": "Beginner to experienced (some require experience)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish basketball camps",
+        "items": [
+          {
+            "title": "Basketball Camp Spain",
+            "body": "Complete basketball summer camp for 14-18 year olds. Experienced junior players. Training in Spanish and English.",
+            "meta": [
+              "basketball-camp-spain.com"
+            ]
+          },
+          {
+            "title": "ICS Madrid Summer Basketball Camp",
+            "body": "Ages 10-19. Professional coaching. English-language. Mid-June to mid-July. International College Spain Madrid.",
+            "meta": [
+              "nordangliaeducation.com/ics-madrid/outstanding-experiences/summer-camps"
+            ]
+          },
+          {
+            "title": "Nike Basketball Camps Madrid",
+            "body": "US Sports Camps. Day and overnight options. Various skill levels. International coaching.",
+            "meta": [
+              "ussportscamps.com/basketball/nike/spain/madrid-spain"
+            ]
+          },
+          {
+            "title": "Five-Star Basketball Academy Spain",
+            "body": "Pacific Pine Sports. American players to Spain for 2-week training at prestigious Spanish academies.",
+            "meta": [
+              "pacificpinesports.com/basketballspain"
+            ]
+          },
+          {
+            "title": "Ertheo International Youth Basketball",
+            "body": "Aggregator of basketball camps including Spain options. With language learning.",
+            "meta": [
+              "ertheo.com/en/basketball"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish basketball camp",
+        "do": [
+          "Apply by March for June/July start — popular camps fill early",
+          "Choose ICS Madrid for most international environment",
+          "Choose Five-Star for serious American-style training",
+          "Bring proper basketball shoes (indoor + outdoor)",
+          "Verify coach credentials (FEB — Spanish Basketball Federation)"
+        ],
+        "dont": [
+          "Don't expect NBA-level coaching — Spanish camps are good but not NBA",
+          "Don't underestimate Madrid summer heat for outdoor training",
+          "Don't book a 'beginner' camp for an experienced player — too basic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guitar-luthier-schools-spain",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Spanish Guitar Building (Luthier) Schools in Spain",
+    "summary": "Spain is the home of classical guitar building — multiple luthier schools recruit international students: Glissando (Madrid), European Institute of Guitar Making, Solera Artisans School (Granada). 12-day to 1-month intensives. €1,500-€3,500.",
+    "content": "Spain is the spiritual home of classical guitar building — the Spanish guitar is the foundation of modern classical and flamenco guitar construction. Multiple Spanish luthier schools actively recruit international students through English-language marketing. Glissando (Madrid-based, glissandoguitar.com) offers Luthier courses and workshops — the Spanish guitar course lasts approximately 200 hours depending on availability and pace. European Institute of Guitar Making runs Complete Spanish Guitar Building Courses as 1-month intensives — they run 2-3 of these exclusive top-level courses per year. Solera Artisans School offers a 12-day Spanish Guitar Building Course where participants learn everything from basics to advanced lutherie techniques, with each day featuring intensive hands-on work. Guitarras de Luthier (Madrid, Calle 28012) offers 4 kinds of guitar classes and courses including building. The Guild of American Luthiers maintains a Lutherie Schools International list including Spanish options — they note the original month intensive full-time Spanish guitar making experience in Granada province (Southern Spain). For English-speaking guitar enthusiasts wanting to learn traditional Spanish lutherie, Spain is the obvious destination — the Madrid school tradition (Ramírez, Contreras, Bernabe) and Granada school tradition (Antonio de Torres origin) are both alive and accepting international students. Costs: €1,500-€3,500 for intensive courses (12 days to 1 month). Most courses include materials, tools, and a finished guitar to take home. The Madrid school of lutherie is particularly accessible — Glissando is in Madrid, and Guitarras de Luthier is at +34 91 468 1 (Calle 28012 Madrid).",
+    "official_url": "https://glissandoguitar.com/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "luthier",
+      "guitar-building",
+      "spanish-guitar",
+      "classical-guitar",
+      "flamenco-guitar",
+      "international-students",
+      "english-taught"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "music-summer-programs-madrid",
+      "flamenco-madrid",
+      "flamenco-dance-intensives-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = home of classical guitar building",
+        "body": "Spain's luthier tradition (Madrid school + Granada school) attracts international students. €1,500-€3,500 for 12-day to 1-month intensives. Most include materials, tools, finished guitar.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Course length",
+            "value": "12 days to 1 month"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€3,500"
+          },
+          {
+            "label": "Madrid course (Glissando)",
+            "value": "200 hours"
+          },
+          {
+            "label": "Granada course (Solera)",
+            "value": "12 days intensive"
+          },
+          {
+            "label": "Includes",
+            "value": "Materials, tools, finished guitar"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish luthier schools",
+        "items": [
+          {
+            "title": "Glissando (Escuela de Luthiers de Madrid)",
+            "body": "Madrid. Spanish guitar course ~200 hours. Luthier courses, workshops, more.",
+            "meta": [
+              "glissandoguitar.com/en"
+            ]
+          },
+          {
+            "title": "European Institute of Guitar Making",
+            "body": "Complete Spanish Guitar Building Course – One Month. 2-3 courses per year. Exclusive top-level.",
+            "meta": [
+              "europeaninstituteofguitarmaking.com/the-courses"
+            ]
+          },
+          {
+            "title": "Solera Artisans School (Granada)",
+            "body": "12-day Spanish Guitar Building Course. Basics to advanced lutherie. Daily intensive hands-on work.",
+            "meta": [
+              "spanishguitarbuilding.com/spanish-guitar-building-course-an-unforgettable-experience"
+            ]
+          },
+          {
+            "title": "Guitarras de Luthier (Madrid)",
+            "body": "Calle 28012 Madrid. 4 kinds of guitar classes and courses. Tel: +34 91 468 1.",
+            "meta": [
+              "guitarrasdeluthier.com/en/cms/guitar-courses"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Two great Spanish luthier traditions",
+        "items": [
+          {
+            "title": "Madrid School",
+            "body": "Ramírez (since 1882), Contreras, Bernabe. Slightly bigger, more powerful sound. Glissando and Guitarras de Luthier teach this tradition."
+          },
+          {
+            "title": "Granada School",
+            "body": "Originates with Antonio de Torres (1817-1892, 'father of modern classical guitar'). Lighter, more responsive. Solera Artisans School teaches this tradition."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Studying Spanish lutherie",
+        "do": [
+          "Choose Madrid school tradition (Glissando) for powerful sound",
+          "Choose Granada school tradition (Solera) for traditional Torres style",
+          "Book 6+ months ahead — most courses have limited spots",
+          "Budget €2,000-€3,500 all-in (course + accommodation + materials)",
+          "Visit Madrid guitar shops (Ramírez, Vázquez y Rubio) before/after course"
+        ],
+        "dont": [
+          "Don't expect to build a perfect guitar first time — these are intensive but educational",
+          "Don't underestimate the physical demand — sanding and shaping for hours daily",
+          "Don't forget travel insurance covering tools and finished guitar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "photography-workshops-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Photography Workshops in Madrid (English-Speaking)",
+    "summary": "Madrid photography workshops in English: Pentaprisma (one-to-one + small groups, English), CIEE Photography & Spanish Culture (high schoolers), Ollie Taylor Photography Spain workshops. From €100-€500.",
+    "content": "Madrid has a small but growing English-language photography workshop scene, with multiple operators recruiting English-speaking students. Pentaprisma runs photography workshops in Madrid in English (Spanish also available for one-to-one sessions) — no formal training required, suitable for all skill levels. Workshops include Madrid photo walks and one-to-one instruction. CIEE offers a Photography & Spanish Culture summer program in Madrid for high school students — hands-on classes, workshops, and guided photo walks with professional photographers practicing in real-world settings. Ollie Taylor Photography runs Spain Photography Workshops covering various Spanish locations including Madrid, with upcoming workshops listed and bookable online. Academy for Photographographers notes that while Spanish-language photography workshops are abundant in Spain, English-language options are less common — making the operators who do offer English particularly valuable for international students. Facebook groups (Spain Photography Workshops) organize additional workshops including urban photo walks and portrait photography studio sessions. The Madrid photography scene is particularly attractive for street photography (lively street life, colorful neighborhoods like Lavapiés and Malasaña), architecture (mix of historic and contemporary), and people photography (Madrileños are generally friendly to being photographed). Madrid's light is famously photogenic — the late afternoon 'golden hour' is especially beautiful. For English-speaking photography enthusiasts, Madrid workshops offer access to local knowledge, models, and locations that independent photographers would struggle to arrange.",
+    "official_url": "https://www.pentaprisma.eu/madrid-photo-workshops",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "photography",
+      "photo-workshop",
+      "english-speaking",
+      "madrid-photo-walks",
+      "street-photography",
+      "international-students"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "art-design-schools-madrid",
+      "film-schools-madrid",
+      "malasana-neighborhood",
+      "lavapies-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = photogenic city, English workshops available",
+        "body": "Pentaprisma, CIEE, Ollie Taylor Photography run English-language photography workshops in Madrid. From €100-€500. Street, architecture, and people photography strengths.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Workshop cost",
+            "value": "€100-€500"
+          },
+          {
+            "label": "Workshop length",
+            "value": "Half-day to 1 week"
+          },
+          {
+            "label": "Group size",
+            "value": "1-12 typical"
+          },
+          {
+            "label": "Languages",
+            "value": "English (some Spanish option)"
+          },
+          {
+            "label": "Skill levels",
+            "value": "Beginner to advanced"
+          },
+          {
+            "label": "Best neighborhoods",
+            "value": "Lavapiés, Malasaña, La Latina"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid photography workshops (English)",
+        "items": [
+          {
+            "title": "Pentaprisma Madrid Photo Workshops",
+            "body": "One-to-one + small groups. English (Spanish also available 1-on-1). No formal training required. Madrid-based.",
+            "meta": [
+              "pentaprisma.eu/madrid-photo-workshops"
+            ]
+          },
+          {
+            "title": "CIEE Photography & Spanish Culture (Madrid)",
+            "body": "High school summer program. Hands-on classes, workshops, guided photo walks. Professional photographers. Madrid.",
+            "meta": [
+              "ciee.org/go-abroad/high-school-study-abroad/summer/programs/spain/madrid/photography-spanish-culture"
+            ]
+          },
+          {
+            "title": "Ollie Taylor Photography — Spain Workshops",
+            "body": "Photography workshops and photo tours across Spain including Madrid. Upcoming workshops listed.",
+            "meta": [
+              "ollietaylorphotography.com/workshops/spain-photography-workshops"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Best Madrid photography subjects",
+        "items": [
+          {
+            "title": "Street photography in Lavapiés",
+            "body": "Madrid's most multicultural neighborhood. Colorful street art, lively markets, authentic life."
+          },
+          {
+            "title": "Architecture in Salamanca",
+            "body": "Elegant 19th-century buildings. Wide boulevards. Luxury shops. Best for clean architectural shots."
+          },
+          {
+            "title": "Golden hour at Templo de Debod",
+            "body": "Egyptian temple + sunset. Most photographed Madrid spot. Arrive 1 hour early for spot."
+          },
+          {
+            "title": "Gran Vía at night",
+            "body": "Illuminated theater signs. Madrid's 'Broadway'. Long exposures work well."
+          },
+          {
+            "title": "Plaza Mayor and Puerta del Sol",
+            "body": "Iconic Madrid. Best early morning (before 9am) to avoid crowds."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Madrid photography tips",
+        "do": [
+          "Bring a versatile lens (24-70mm or 18-200mm covers most situations)",
+          "Shoot early morning or late afternoon for best light + smaller crowds",
+          "Ask permission before photographing individuals (Spanish law requires consent for commercial use)",
+          "Visit Templo de Debod at sunset — Madrid's most iconic photo spot",
+          "Take a workshop early in your stay to learn local context"
+        ],
+        "dont": [
+          "Don't photograph inside museums without checking rules (most prohibit)",
+          "Don't photograph police or military (legally problematic)",
+          "Don't underestimate Madrid summer heat — protect camera gear from overheating",
+          "Don't expect English at most Spanish-language workshops — verify in advance"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "retirement-spain-english",
+    "category": "living",
+    "subcategory": "services",
+    "title": "Retirement Communities & Senior Living in Spain (English-Speaking)",
+    "summary": "Spain is a top retirement destination for English speakers: Ciudad Patricia (Alicante), senior housing growth in Madrid, My Spain Visa service. Non-Lucrative Visa + €33K/year income. Independent senior living + care homes.",
+    "content": "Spain is one of the world's top retirement destinations for English speakers — particularly British retirees (estimated 300,000+ living in Spain) but increasingly Americans and Northern Europeans. The combination of climate, healthcare quality, lower cost of living, and established expat communities makes Spain attractive. The retirement ecosystem for English speakers includes: retirement communities (Ciudad Patricia in Alicante is one of the most established, catering to expat retirees with English-speaking services), senior housing rental (a growing market in Spain with international operators entering), and retirement planning services (My Spain Visa helps with the Non-Lucrative Visa process for retirees). For Madrid specifically, retirement communities are less established than Costa del Sol/Alicante — but Madrid's excellent healthcare (top hospitals in Spain), cultural offerings (museums, theaters, opera), and transport (Madrid-Barajas airport) make it attractive for active retirees. Spanish retirement visas: the Non-Lucrative Visa is most common for retirees — requires proof of €33,000+/year income (IPREM x 4), no work allowed, renewable annually. Spain's public healthcare is free for residents (including retirees with proper residency), and private healthcare is significantly cheaper than US/UK. Senior living costs: independent living €1,500-€3,500/month, assisted living €2,500-€5,000/month, nursing care €3,500-€6,000/month. The Spanish retirement home market (residencias de ancianos) is less developed than UK/US 'continuing care retirement communities' — most Spanish elderly live with family or in their own homes with home care. Expat-focused retirement communities are concentrated in Alicante, Costa del Sol, and Canary Islands. Madrid has fewer dedicated expat retirement communities but is increasingly attractive for active retirees wanting urban lifestyle.",
+    "official_url": "https://myspainvisa.com/best-places-retire-spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "retirement",
+      "senior-living",
+      "expat-retirees",
+      "non-lucrative-visa",
+      "english-speaking",
+      "ciudad-patricia",
+      "elderly",
+      "pensioners"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "english-speaking-doctors-madrid",
+      "english-speaking-therapists-madrid",
+      "english-speaking-financial-advisors-madrid",
+      "healthcare",
+      "english-speaking-lawyers-madrid",
+      "awc-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = top retirement destination for English speakers",
+        "body": "300,000+ British retirees in Spain. Growing US retiree presence. Non-Lucrative Visa for retirees (€33K/year income). Madrid attracts active urban retirees; coastal areas have established expat retirement communities.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "British retirees in Spain",
+            "value": "300,000+"
+          },
+          {
+            "label": "Non-Lucrative Visa income",
+            "value": "€33,000+/year (IPREM x 4)"
+          },
+          {
+            "label": "Independent living",
+            "value": "€1,500-€3,500/month"
+          },
+          {
+            "label": "Assisted living",
+            "value": "€2,500-€5,000/month"
+          },
+          {
+            "label": "Nursing care",
+            "value": "€3,500-€6,000/month"
+          },
+          {
+            "label": "Healthcare",
+            "value": "Free public for residents + cheaper private than US/UK"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top English-speaking retirement options in Spain",
+        "items": [
+          {
+            "title": "Ciudad Patricia (Alicante)",
+            "body": "Established expat retirement community. English-speaking services. Independent living + care. Alicante province.",
+            "meta": [
+              "ciudadpatricia.com/en/blog/experience-the-good-life-in-spains-retirement-villages"
+            ]
+          },
+          {
+            "title": "My Spain Visa (Retirement Service)",
+            "body": "Helps with Non-Lucrative Visa for retirees. Lists best places to retire in Spain. English-language service.",
+            "meta": [
+              "myspainvisa.com/best-places-retire-spain"
+            ]
+          },
+          {
+            "title": "Smart Rental — Retirement Communities Guide",
+            "body": "Information on retirement communities in Spain catering to international residents. Multiple languages.",
+            "meta": [
+              "smartrental.com/en/travel-blog/retirement-communities-in-spain-why-are-they-so-popular"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Best places to retire in Spain (for English speakers)",
+        "items": [
+          {
+            "title": "Costa del Sol (Málaga, Marbella)",
+            "body": "Largest British expat community. Year-round sun. English widely spoken. Premium golf courses. Most popular retirement destination."
+          },
+          {
+            "title": "Alicante (Costa Blanca)",
+            "body": "Second-largest British expat community. Ciudad Patricia retirement village. Lower cost than Costa del Sol."
+          },
+          {
+            "title": "Canary Islands (Tenerife, Lanzarote)",
+            "body": "Year-round warm climate. English-speaking healthcare. Island lifestyle. 2.5-hour flight from Madrid."
+          },
+          {
+            "title": "Madrid",
+            "body": "Urban retirement. World-class hospitals. Cultural offerings (Prado, Reina Sofía, opera). Best for active retirees wanting city life. Fewer dedicated retirement communities than coast."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Retiring to Spain — the process",
+        "items": [
+          {
+            "title": "Choose visa",
+            "body": "Non-Lucrative Visa for retirees (no work). Requires €33,000+/year income. Annual renewal.",
+            "tip": "See english-speaking-lawyers-madrid for visa help."
+          },
+          {
+            "title": "Get private health insurance",
+            "body": "Required for visa application. Sanitas, Adeslas, Asisa popular. €60-€150/month for retirees."
+          },
+          {
+            "title": "Apply at Spanish consulate",
+            "body": "In your home country. Criminal record check, medical certificate, financial proof. 3-6 month processing."
+          },
+          {
+            "title": "Move to Spain + apply for TIE",
+            "body": "Within 30 days of arrival, apply for Tarjeta de Identidad de Extranjero at Oficina de Extranjería."
+          },
+          {
+            "title": "Register on Padrón",
+            "body": "Required for healthcare access. See padron-empadronamiento record."
+          },
+          {
+            "title": "Set up Spanish finances",
+            "body": "Open bank account, get certified digital, engage tax advisor (see english-speaking-financial-advisors-madrid)."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Retiring to Spain from English-speaking countries",
+        "do": [
+          "Use an English-speaking immigration lawyer (worth €1,500-€3,000)",
+          "Get certified translations of all documents",
+          "Visit Spain for 2-3 months before committing — summer heat is intense",
+          "Join expat Facebook groups (British Expats in Spain, Americans in Spain) for community",
+          "Get Modelo 720 right (foreign asset declaration) — severe penalties"
+        ],
+        "dont": [
+          "Don't underestimate summer heat (40°C+ in Madrid, 35°C+ on coast)",
+          "Don't assume your UK/US pension is tax-free in Spain — Spanish tax applies",
+          "Don't skip healthcare registration — public healthcare requires Padrón + residency",
+          "Don't move without testing the lifestyle — rent for 3 months first"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "english-speaking-doctors-madrid, english-speaking-financial-advisors-madrid, english-speaking-lawyers-madrid, healthcare,modelo-720, spain-golden-visa-ended (for historical investment visa context).",
         "tone": "info"
       }
     ]
