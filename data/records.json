@@ -1969,7 +1969,8 @@
     "related_records": [
       "language-schools-madrid",
       "language-schools-madrid-education",
-      "nie-tie"
+      "nie-tie",
+      "international-school-jobs-madrid"
     ],
     "subsubcategory": "Teach English",
     "sections": [
@@ -2170,7 +2171,8 @@
       "madrid-city-card",
       "metro-de-madrid",
       "museo-del-prado",
-      "museo-thyssen-bornemisza-detail"
+      "museo-thyssen-bornemisza-detail",
+      "artist-residencies-madrid"
     ],
     "subsubcategory": "Golden Triangle",
     "sections": [
@@ -3026,7 +3028,7 @@
     "content": "Vermouth (vermut) is having a renaissance in Madrid. The 'hora del vermut' (vermouth hour) is the sacred pre-lunch tradition — around 12:30pm-2pm on weekends, madrileños gather at vermuterías for a glass of vermouth on tap (vermut de grifo) with olives, gildas (olive+anchovy+pepper on a skewer), and conservas (tinned seafood). It's an aperitif, not a drink to get drunk on. BEST VERMUTERÍAS: (1) Casa Alberto (Calle de las Huertas 18) — oldest taberna in Madrid (1827), Cervantes once lived here. (2) Bodegas Ricla (Calle Cava Baja 7) — tiny, no-frills, locals' favorite in La Latina. (3) La Concha (Calle de la Cava Baja 12) — modern vermutería with great conservas. (4) Bodegas La Ardosa (Calle Colón 13, Malasaña) — historic taberna, great tortilla. (5) Casa Macareno (Calle de la Cava Baja 32) — trendy, modern vermouth. HOW TO ORDER: 'un vermut de grifo, por favor' (a draft vermouth please). €2-4 for the vermouth, €3-6 for olives or a gilda. Served over ice with an orange slice and an olive. Sweet (rojo), dry (seco), or reserve (reserva, aged). Vermouth hour is a Madrid must-do — arrive at noon on Saturday to experience it at its best.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "vermouth",
@@ -3035,7 +3037,8 @@
     "related_records": [
       "la-latina-tapas-nightlife",
       "malasana-bars-nightlife",
-      "traditions-summary"
+      "traditions-summary",
+      "wine-certification-spain"
     ],
     "official_url": "https://www.esmadrid.com/en/gastronomy",
     "subsubcategory": "Drinks Culture"
@@ -3612,7 +3615,8 @@
     "related_records": [
       "museo-reina-sofia",
       "prado-current",
-      "thyssen-current"
+      "thyssen-current",
+      "artist-residencies-madrid"
     ],
     "subsubcategory": "Museum Exhibitions",
     "sections": [
@@ -5503,7 +5507,8 @@
       "la-latina-neighborhood",
       "metro-de-madrid",
       "sol-gran-via-neighborhood",
-      "walking-tours-madrid"
+      "walking-tours-madrid",
+      "artist-residencies-madrid"
     ],
     "subsubcategory": "Historic",
     "sections": [
@@ -7113,7 +7118,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "work",
       "internship",
@@ -7122,9 +7127,94 @@
     ],
     "related_records": [
       "social-security-number-spain",
-      "teach-english-spain"
+      "teach-english-spain",
+      "internship-services-madrid",
+      "international-school-jobs-madrid",
+      "work-visa-spain"
     ],
-    "subsubcategory": "Internships"
+    "subsubcategory": "Internships",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Internships are largely unpaid in Spain",
+        "body": "Spanish internships are typically unpaid or offer minimal stipend (€300-€600/month). EU students can use Erasmus+ grants (€400-€600/month). Non-EU students need a student visa with work authorization.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Typical pay",
+            "value": "Unpaid or €300-600/month stipend"
+          },
+          {
+            "label": "Erasmus+ grant (EU)",
+            "value": "€400-600/month"
+          },
+          {
+            "label": "Length",
+            "value": "3-6 months typical"
+          },
+          {
+            "label": "Visa (non-EU)",
+            "value": "Student visa + work authorization"
+          },
+          {
+            "label": "Sectors",
+            "value": "Marketing, business, IT, tourism, fashion"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to find Madrid internships",
+        "items": [
+          {
+            "title": "Erasmus Intern (Erasmus+)",
+            "body": "EU-only platform. Erasmus+ funded internships. €400-600/month grant. Free to use.",
+            "meta": [
+              "erasmusintern.org"
+            ]
+          },
+          {
+            "title": "Placement services",
+            "body": "For paid placement + support: see internship-services-madrid record (Spain Internship, IES Abroad, CIEE, Adelante)."
+          },
+          {
+            "title": "LinkedIn",
+            "body": "Search 'prácticas Madrid' + your sector. Spanish-language listings dominate but international companies post in English."
+          },
+          {
+            "title": "InfoJobs",
+            "body": "Spain's largest job board. Filter 'prácticas' (internships). Spanish interface."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Madrid internships",
+        "do": [
+          "Apply for Erasmus+ grant if EU student — covers most costs",
+          "Use a placement service (Spain Internship, IES Abroad) if you need visa + housing support",
+          "Have savings of €3,000+ to cover Madrid living costs during unpaid internship",
+          "Get the internship agreement (convenio) signed before applying for visa",
+          "Apply for student visa with work authorization 2-3 months ahead"
+        ],
+        "dont": [
+          "Don't expect paid internships — Spain has no minimum wage for interns",
+          "Don't confuse 'prácticas' (internship) with 'becario' (scholarship recipient) — different legal status",
+          "Don't work without proper authorization — risks deportation",
+          "Don't accept internship exceeding 6 months — Spanish labor law restricts"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "internship-services-madrid (paid placement services), student-visa-spain, social-security-number-spain, international-school-jobs-madrid (alternative employment).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "freelancing-spain",
@@ -7267,7 +7357,8 @@
     "related_records": [
       "royal-palace",
       "day-tours-from-madrid",
-      "ave-high-speed-trains"
+      "ave-high-speed-trains",
+      "monastery-stays-spain"
     ],
     "subsubcategory": "Royal Monastery"
   },
@@ -8192,7 +8283,10 @@
       "residencia-permit-spain",
       "schengen-visa-us",
       "aupair-spain-madrid",
-      "work-exchange-spain"
+      "work-exchange-spain",
+      "english-taught-masters-madrid",
+      "international-school-jobs-madrid",
+      "internship-services-madrid"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8336,7 +8430,8 @@
       "residencia-permit-spain",
       "schengen-visa-us",
       "teach-english-spain",
-      "digital-nomad-visa-spain-services"
+      "digital-nomad-visa-spain-services",
+      "international-school-jobs-madrid"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8625,7 +8720,8 @@
       "spanish-learning-resources",
       "language-exchanges-madrid",
       "english-summer-camps-madrid",
-      "aupair-spain-madrid"
+      "aupair-spain-madrid",
+      "english-taught-masters-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -8764,7 +8860,8 @@
       "language-schools-madrid",
       "student-visa-spain",
       "forocio-study-abroad",
-      "accent-global-madrid"
+      "accent-global-madrid",
+      "english-taught-masters-madrid"
     ],
     "subsubcategory": "Universities",
     "sections": [
@@ -8893,7 +8990,8 @@
       "language-schools-madrid-education",
       "universities-madrid",
       "awc-madrid",
-      "english-summer-camps-madrid"
+      "english-summer-camps-madrid",
+      "international-school-jobs-madrid"
     ],
     "subsubcategory": "Schools"
   },
@@ -9177,7 +9275,8 @@
       "el-escorial-monastery",
       "day-tours-from-madrid",
       "segovia-day-trip",
-      "renfe-trains"
+      "renfe-trains",
+      "monastery-stays-spain"
     ],
     "subsubcategory": "El Escorial",
     "sections": [
@@ -9776,7 +9875,9 @@
       "freelancing-spain",
       "spanish-cv-interview",
       "teach-english-spain",
-      "international-chambers-madrid"
+      "international-chambers-madrid",
+      "international-school-jobs-madrid",
+      "internship-services-madrid"
     ],
     "subsubcategory": "Job Search",
     "sections": [
@@ -9986,7 +10087,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "wine",
@@ -9997,7 +10098,8 @@
     "related_records": [
       "vermouth-madrid",
       "mercado-san-miguel",
-      "cocido-madrileno"
+      "cocido-madrileno",
+      "wine-certification-spain"
     ],
     "subsubcategory": "Drinks Culture"
   },
@@ -10425,7 +10527,8 @@
     "related_records": [
       "swimming-pools-madrid",
       "running-madrid",
-      "yoga-madrid"
+      "yoga-madrid",
+      "pilates-teacher-training-madrid"
     ],
     "subsubcategory": "Fitness & Wellness",
     "sections": [
@@ -10899,7 +11002,8 @@
       "gyms-fitness-madrid",
       "retiro-park",
       "running-madrid",
-      "yoga-teacher-training-spain"
+      "yoga-teacher-training-spain",
+      "pilates-teacher-training-madrid"
     ],
     "subsubcategory": "Fitness & Wellness"
   },
@@ -10940,7 +11044,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "traditions",
       "flamenco",
@@ -10952,7 +11056,8 @@
     "related_records": [
       "salsa-dancing-madrid",
       "verbenas-festivals",
-      "chotis-madrid"
+      "chotis-madrid",
+      "music-summer-programs-madrid"
     ],
     "subsubcategory": "Flamenco",
     "sections": [
@@ -11729,7 +11834,8 @@
     "related_records": [
       "almudena-cathedral",
       "awc-madrid",
-      "st-georges-anglican-madrid"
+      "st-georges-anglican-madrid",
+      "monastery-stays-spain"
     ],
     "subsubcategory": "Community & Faith",
     "sections": [
@@ -11901,7 +12007,9 @@
       "language-schools-madrid",
       "universities-madrid",
       "forocio-study-abroad",
-      "accent-global-madrid"
+      "accent-global-madrid",
+      "international-school-jobs-madrid",
+      "english-taught-masters-madrid"
     ],
     "subsubcategory": "Teacher Training",
     "sections": [
@@ -12436,7 +12544,8 @@
     "related_records": [
       "flamenco-madrid",
       "salsa-dancing-madrid",
-      "jazz-blues-madrid"
+      "jazz-blues-madrid",
+      "music-summer-programs-madrid"
     ],
     "sections": [
       {
@@ -17078,7 +17187,8 @@
       "yoga-madrid",
       "gyms-fitness-madrid",
       "language-schools-madrid",
-      "spa-madrid"
+      "spa-madrid",
+      "pilates-teacher-training-madrid"
     ],
     "sections": [
       {
@@ -17318,7 +17428,8 @@
       "mercado-san-miguel",
       "menu-del-dia-guide",
       "vermouth-madrid",
-      "spanish-food-basics"
+      "spanish-food-basics",
+      "wine-certification-spain"
     ],
     "sections": [
       {
@@ -17626,6 +17737,1053 @@
         "heading": "Existing Golden Visa holders",
         "body": "If you obtained your Golden Visa before April 3, 2025, your residency rights are preserved. You can renew under the previous rules. Contact an immigration lawyer (see english-speaking-lawyers-madrid) for renewal questions.",
         "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "international-school-jobs-madrid",
+    "category": "living",
+    "subcategory": "work",
+    "title": "International School Teaching Jobs in Madrid",
+    "summary": "Madrid's 30+ international schools actively recruit English-speaking teachers from the US, UK, Canada. Average salary €2,000-3,500/mo. AS Madrid, Brewster Madrid, King's College, Runnymede all hiring year-round.",
+    "content": "Madrid's international schools are one of the most reliable English-language recruitment channels for qualified teachers seeking to relocate to Spain. The city has 30+ international schools — British (King's College, Runnymede, Hastings), American (American School of Madrid, Brewster Madrid, International College Spain), IB (Agora, SEK), and bilingual Spanish schools. These schools actively recruit teachers from English-speaking countries year-round, with peak hiring season February-May for the following academic year (September start). Most teaching positions require a teaching credential from your home country (QTS for British schools, state license for American schools), 2+ years experience, and often a Master's degree. Salaries range from €2,000/month (entry-level classroom teacher) to €3,500/month (department head) — significantly lower than US/UK private school salaries, but the lifestyle trade-off attracts many applicants. Major recruiting channels: TES (Times Educational Supplement — 66+ Spain jobs), Teach Away, LinkedIn, school websites' Employment pages, and Schrole. American School of Madrid and Brewster Madrid post directly on their About/Employment pages. The schools offer Spanish work visa sponsorship, health insurance, and pension contributions. Many also offer free or discounted tuition for teachers' children.",
+    "official_url": "https://www.tes.com/jobs/browse/spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "teaching",
+      "international-school",
+      "education-jobs",
+      "expat-jobs",
+      "english-speaking",
+      "recruitment",
+      "bilingual",
+      "american-school",
+      "british-school"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "bilingual-schools-madrid",
+      "teach-english-spain",
+      "teacher-training-madrid",
+      "job-search-spain",
+      "work-visa-spain",
+      "universities-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's international schools actively recruit English speakers",
+        "body": "30+ international schools in Madrid hire English-speaking teachers year-round. Peak hiring: February-May for September start. Visa sponsorship included. Salaries lower than US/UK but lifestyle attracts applicants.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "International schools in Madrid",
+            "value": "30+"
+          },
+          {
+            "label": "Average salary",
+            "value": "€2,000-€3,500/mo"
+          },
+          {
+            "label": "Peak hiring season",
+            "value": "February-May (for September start)"
+          },
+          {
+            "label": "Required",
+            "value": "Home-country teaching credential + 2+ yrs experience"
+          },
+          {
+            "label": "Benefits",
+            "value": "Visa sponsorship, health insurance, pension, tuition discount for kids"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top international schools hiring in Madrid",
+        "items": [
+          {
+            "title": "American School of Madrid (ASM)",
+            "body": "American curriculum. AS Madrid. Hire US-certified teachers. Master's degree preferred. Post directly at asmadrid.org/about/employment.",
+            "meta": [
+              "asmadrid.org/about/employment"
+            ]
+          },
+          {
+            "title": "Brewster Madrid",
+            "body": "Chamberí and La Moraleja campuses. American curriculum. Hire US-certified teachers. Post at brewstermadrid.com/about/employment.",
+            "meta": [
+              "brewstermadrid.com/about/employment"
+            ]
+          },
+          {
+            "title": "King's College Madrid",
+            "body": "British curriculum. Part of Inspired Education Group. Hire British QTS-qualified teachers. Multiple Madrid campuses."
+          },
+          {
+            "title": "Runnymede College",
+            "body": "British curriculum. La Moraleja. Long-established (1967). Hire British-trained teachers."
+          },
+          {
+            "title": "Hastings School",
+            "body": "British curriculum. Multiple Madrid campuses. Part of Cognita group."
+          },
+          {
+            "title": "Agora International School Madrid",
+            "body": "IB curriculum. Bilingual. Part of Globeducate. Hires international teachers."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to find the jobs",
+        "items": [
+          {
+            "title": "TES (Times Educational Supplement)",
+            "body": "66+ Spain jobs at any time. The #1 recruitment channel for international schools in Spain. Filter by Madrid.",
+            "meta": [
+              "tes.com/jobs/browse/spain"
+            ]
+          },
+          {
+            "title": "Teach Away",
+            "body": "International teacher recruitment platform. Spain jobs regularly posted. Average salary €700-2,800+/mo depending on school.",
+            "meta": [
+              "teachaway.com/teach-in-spain"
+            ]
+          },
+          {
+            "title": "LinkedIn",
+            "body": "362+ English Teacher jobs in Madrid at any time. Filter by 'International School'.",
+            "meta": [
+              "linkedin.com/jobs/english-teacher-jobs-madrid"
+            ]
+          },
+          {
+            "title": "Schrole",
+            "body": "International school recruitment platform. Used by major school groups (Cognita, Inspired, Nord Anglia)."
+          },
+          {
+            "title": "School websites",
+            "body": "Each major school posts directly on their About/Employment page. Often the fastest application route."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Applying to international school jobs in Madrid",
+        "do": [
+          "Apply October-April for the following September start",
+          "Tailor your CV to the school's curriculum (British QTS for British schools, US state license for American)",
+          "Get references from current/most recent school in advance",
+          "Apply directly to school websites in addition to TES",
+          "Negotiate visa sponsorship + relocation assistance in the offer",
+          "Ask about tuition discount for dependents (often 50-100% off)"
+        ],
+        "dont": [
+          "Don't apply without home-country teaching credential — schools require it",
+          "Don't expect US/UK salaries — Madrid pays 30-50% less",
+          "Don't apply May-July for September start — too late, most positions filled",
+          "Don't assume Spanish fluency required — most international schools teach in English",
+          "Don't skip the SAZ (Sindicato de Trabajadores) — even private school teachers should join"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "bilingual-schools-madrid (the schools themselves), teach-english-spain (English teaching as a job), teacher-training-madrid (TEFL/CELTA), work-visa-spain, universities-madrid (higher ed).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "english-taught-masters-madrid",
+    "category": "living",
+    "subcategory": "education",
+    "title": "English-Taught Master's Degrees in Madrid",
+    "summary": "Madrid universities offer 100+ English-taught master's programs recruiting international students: IE University, UC3M (23+ programs), Nebrija, Comillas. Tuition €1,800-€30,000/year depending on public vs private.",
+    "content": "Madrid's universities aggressively recruit international students through English-taught master's programs, with 100+ programs available across the city's major institutions. This is one of Madrid's most active English-language recruitment channels — universities market directly to US, UK, Asian, and Latin American students. The Universidad Carlos III de Madrid (UC3M) leads with 23+ master's programs ranked among Spain's best; around 20% of UC3M's total programs are taught in English and 10% are bilingual. IE University offers fully English-taught master's in business, international relations, and law (€30,000+/year, premium positioning). Universidad Nebrija offers the only 100% English Master's in Bilingual Education in Madrid. Universidad Pontificia Comillas (ICADE/ICAI) has English-taught tracks in business and engineering. Public universities (UC3M, Complutense, UAM, URJC, UPM) charge EU students €1,500-€3,000/year and non-EU students €3,000-€6,000/year — a fraction of US/UK tuition. Private universities (IE, Nebrija, Comillas) charge €10,000-€30,000/year. Most programs are 1-2 years, with September and February start dates. The international student recruitment ecosystem includes study-in-spain.com (official government portal), Beyond the States (US-focused), educations.com, and Studying-in-Spain.com — all explicitly English-language.",
+    "official_url": "https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Comunicacion_C/1371252010819/1371215537949/23_Master%20s_Degree_programmes_at_the_UC3M,_among_the_best_in_Spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "masters",
+      "english-taught",
+      "international-students",
+      "uc3m",
+      "ie-university",
+      "nebrija",
+      "comillas",
+      "postgraduate",
+      "recruitment"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "universities-madrid",
+      "student-visa-spain",
+      "teacher-training-madrid",
+      "language-schools-madrid",
+      "english-summer-camps-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "100+ English-taught master's programs in Madrid",
+        "body": "Madrid universities aggressively recruit international students through English-taught master's programs. Public universities charge €3,000-€6,000/year (non-EU); private universities €10,000-€30,000/year. Application deadlines: Feb-May for September start.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "English master's programs",
+            "value": "100+ across Madrid universities"
+          },
+          {
+            "label": "UC3M English programs",
+            "value": "23+ master's programs"
+          },
+          {
+            "label": "Public tuition (non-EU)",
+            "value": "€3,000-€6,000/year"
+          },
+          {
+            "label": "Private tuition",
+            "value": "€10,000-€30,000/year"
+          },
+          {
+            "label": "Program length",
+            "value": "1-2 years (60-120 ECTS)"
+          },
+          {
+            "label": "Application deadlines",
+            "value": "Feb-May for September, Sep-Nov for February"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid universities for English-taught master's",
+        "items": [
+          {
+            "title": "IE University",
+            "body": "Fully English master's in business, international relations, law, finance. €25,000-€40,000/year. Premium international focus. Segovia + Madrid campuses.",
+            "meta": [
+              "Private"
+            ]
+          },
+          {
+            "title": "UC3M (Carlos III)",
+            "body": "23+ English-taught master's programs. Strong in business, engineering, social sciences, law. €3,000-€6,000/year (non-EU). 20% of all programs in English.",
+            "meta": [
+              "Public",
+              "Most English options"
+            ]
+          },
+          {
+            "title": "Universidad Nebrija",
+            "body": "100% English Master's in Bilingual Education. Smaller, personalized. Strong in applied linguistics, tourism. €8,000-€12,000/year.",
+            "meta": [
+              "Private"
+            ]
+          },
+          {
+            "title": "Universidad Comillas (ICADE/ICAI)",
+            "body": "English tracks in business (ICADE) and engineering (ICAI). Prestigious Spanish private university. €12,000-€18,000/year.",
+            "meta": [
+              "Private"
+            ]
+          },
+          {
+            "title": "UAM (Autónoma)",
+            "body": "Some English master's programs, especially in sciences and European studies. Public tuition.",
+            "meta": [
+              "Public"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to research and apply",
+        "items": [
+          {
+            "title": "Study in Spain (official)",
+            "body": "Spanish government's official international student recruitment portal. Lists English-taught programs across all Spanish universities.",
+            "meta": [
+              "studying-in-spain.com"
+            ]
+          },
+          {
+            "title": "Beyond the States",
+            "body": "US-focused consultancy specializing in English-taught programs in Europe. Strong Spain coverage.",
+            "meta": [
+              "beyondthestates.com"
+            ]
+          },
+          {
+            "title": "educations.com MSc Madrid",
+            "body": "Lists 355 full-time master's programs in Madrid, filterable by language.",
+            "meta": [
+              "educations.com/masters-degrees/spain/madrid/full-time"
+            ]
+          },
+          {
+            "title": "Studying-in-Spain.com",
+            "body": "Independent portal listing top 10 English-taught universities in Spain.",
+            "meta": [
+              "studying-in-spain.com/plan-your-studies/universities/english-taught-universities-in-spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Applying to English master's in Madrid",
+        "do": [
+          "Apply Oct-Feb for September start (early = better scholarship chances)",
+          "Verify English-language requirement (IELTS 6.5-7.0 typical, TOEFL 90-100)",
+          "Apply for Becas MEC (Spanish government scholarship) by March",
+          "Get credential evaluation via UNEDasiss if non-EU undergraduate degree",
+          "Compare 3-5 programs before applying — wide quality range",
+          "Apply for student visa 2-3 months before program start"
+        ],
+        "dont": [
+          "Don't apply past April for September start — most programs closed",
+          "Don't assume all 'English' programs are fully English — verify syllabus",
+          "Don't expect on-campus housing — Spanish universities don't provide it",
+          "Don't confuse 'bilingual' with 'English-taught' — bilingual often means 50/50 Spanish/English"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Cost comparison with US/UK",
+        "body": "A 1-year English-taught master's at UC3M costs €3,000-€6,000 (non-EU) — vs €30,000-€50,000 for a US master's. Even IE University at €30,000 is comparable to mid-tier US programs and includes Madrid living costs (50% lower than NYC/London).",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "wine-certification-spain",
+    "category": "do",
+    "subcategory": "food",
+    "title": "Wine & Sommelier Certification in Spain (WSET)",
+    "summary": "Spain offers WSET (Wine & Spirit Education Trust) certification in English: The Wine Studio Madrid, Wine Courses Barcelona, Rack and Return. Levels 1-3 plus ISG sommelier certification. Spanish Wine Scholar guild also active.",
+    "content": "Spain is one of Europe's most attractive destinations for wine certification — combining world-class wine regions (Rioja, Ribera del Duero, Priorat, Rías Baixas) with internationally recognized certification programs taught in English. The WSET (Wine & Spirit Education Trust) is the global standard, offering Levels 1-4 (Diploma). Spain has multiple WSET-certified schools teaching in English: The Wine Studio Madrid (offers all 3 levels in Spanish AND English, plus spirits and sake), Wine Courses Barcelona (English WSET Levels 1-3), and Rack and Return (Levels 1-3 in English, online and in-person). The International Sommelier Guild (ISG) also operates in Spain, offering internationally recognized sommelier certification since 1982. For Spanish wine specialization, the Spanish Wine Scholar Guild offers the most authoritative certification, with English-language programs covering all of Spain's DO/DOCa regions. Course costs: WSET Level 1 €200-300, Level 2 €400-600, Level 3 €700-1,100, Diploma €3,000-4,000. The Wine Studio Madrid is particularly well-positioned for Madrid Insider partnership — they actively recruit English-speaking wine enthusiasts and run regular English-language courses in central Madrid.",
+    "official_url": "https://spanishwinelover.com/a-complete-guide-of-wset-courses-in-spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "wine",
+      "wset",
+      "sommelier",
+      "certification",
+      "wine-education",
+      "english-taught",
+      "isg",
+      "spanish-wine-scholar"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "spanish-wines-madrid",
+      "vermouth-madrid",
+      "culinary-schools-madrid",
+      "mercado-san-miguel",
+      "mercados-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = ideal place for wine certification",
+        "body": "Combine world-class wine regions (Rioja, Ribera, Priorat) with WSET certification in English. Multiple Madrid schools teach Levels 1-3. From €200 (Level 1) to €4,000 (Diploma).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "WSET Level 1",
+            "value": "€200-300 (1 day)"
+          },
+          {
+            "label": "WSET Level 2",
+            "value": "€400-600 (3 days)"
+          },
+          {
+            "label": "WSET Level 3",
+            "value": "€700-1,100 (5 days + exam)"
+          },
+          {
+            "label": "WSET Diploma",
+            "value": "€3,000-4,000 (2+ years)"
+          },
+          {
+            "label": "ISG Sommelier",
+            "value": "€2,000-3,000"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified WSET-certified schools in Spain (English)",
+        "items": [
+          {
+            "title": "The Wine Studio Madrid",
+            "body": "All 3 WSET levels in English + Spanish. Plus spirits and sake. Central Madrid location. Active English-language marketing.",
+            "meta": [
+              "thewinestudio.es"
+            ]
+          },
+          {
+            "title": "Wine Courses Barcelona",
+            "body": "WSET Levels 1-3 in English. Barcelona-based but draws international students. Online + in-person.",
+            "meta": [
+              "winecoursesbcn.com"
+            ]
+          },
+          {
+            "title": "Rack and Return",
+            "body": "WSET Levels 1-3 in English and Spanish. Online + in-person. Native English & Spanish teachers.",
+            "meta": [
+              "rackandreturn.com"
+            ]
+          },
+          {
+            "title": "International Sommelier Guild (ISG) Spain",
+            "body": "ISG sommelier certification since 1982. Online + in-person. Internationally recognized.",
+            "meta": [
+              "internationalsommelier.com/Wine/Spain"
+            ]
+          },
+          {
+            "title": "Spanish Wine Scholar Guild",
+            "body": "Specialized Spanish wine certification. English-language. Covers all Spanish DO/DOCa regions.",
+            "meta": [
+              "spanishwinescholar.com"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a wine certification",
+        "do": [
+          "Start with WSET Level 2 if you already know wine basics (Level 1 is too basic for most)",
+          "Choose The Wine Studio Madrid if you want in-person + English in Madrid",
+          "Allow 6 months for Level 3 study — substantial material",
+          "Consider Spanish Wine Scholar after WSET Level 2 for Spain specialization",
+          "Visit wine regions during your course (Rioja, Ribera del Duero are 2-3 hours by train)"
+        ],
+        "dont": [
+          "Don't expect to pass WSET Level 3 without serious study — pass rate is 60-70%",
+          "Don't confuse WSET with sommelier (ISG) — different skill sets",
+          "Don't pay for Level 1 if you already drink wine regularly — start at Level 2",
+          "Don't skip the tasting exam — many strong students fail the tasting portion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pilates-teacher-training-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Pilates Teacher Training in Madrid",
+    "summary": "Madrid hosts multiple Pilates instructor certification programs in English: Thomas Wellness Group (Merrithew), Pilates Lab, APPI Spain, Peak Pilates, Anita Horry Academy. Comprehensive certification 13-day intensive to 6-month part-time.",
+    "content": "Madrid has emerged as a Pilates teacher training hub for English-speaking instructors, with multiple international certification programs operating in the city. The major providers all actively recruit English-speaking students. Thomas Wellness Group (TWG) is a Merrithew Host Training Center offering STOTT Pilates certification in Madrid. Pilates Lab offers a Comprehensive Pilates Teacher Training Program (CPTTP) covering both equipment and mat work. APPI Spain (Australian Physiotherapy & Pilates Institute) runs a 13-day intensive certification in Madrid, broken into 6 × 2-day workshops teaching 100+ matwork exercises. Peak Pilates runs Spain Comprehensive Instructor Certification (Level I Module 1) through Pilates Internacional Madrid. For English-speaking classical Pilates in a retreat format, Anita Horry Academy runs training in Costa Blanca (2 hours from Madrid, accessible via AVE). Most programs are recognized internationally and qualify graduates to teach Pilates in any country. The market is growing rapidly as Pilates becomes more popular in Spain and abroad. Madrid's central location, lower cost of living than London or New York, and established Pilates community make it attractive to international trainees.",
+    "official_url": "https://www.merrithew.com/instructor-training/find-a-studio/spain-madrid-twg",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "pilates",
+      "teacher-training",
+      "certification",
+      "fitness-instructor",
+      "english-taught",
+      "merrithew",
+      "stott-pilates",
+      "wellness"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "yoga-teacher-training-spain",
+      "yoga-madrid",
+      "gyms-fitness-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is a Pilates teacher training hub for English speakers",
+        "body": "Multiple international certification programs (STOTT, APPI, Peak Pilates) operate in Madrid. English-language instruction. Comprehensive certification from 13-day intensive to 6-month part-time. Internationally recognized.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Certification length",
+            "value": "13 days intensive to 6 months part-time"
+          },
+          {
+            "label": "Cost range",
+            "value": "€2,000-€5,000 comprehensive"
+          },
+          {
+            "label": "Recognized internationally",
+            "value": "Yes (STOTT, APPI, Peak Pilates all global)"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Best for",
+            "value": "Career change to Pilates instruction"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Pilates teacher training in Madrid",
+        "items": [
+          {
+            "title": "Thomas Wellness Group (TWG)",
+            "body": "Merrithew Host Training Center. STOTT Pilates certification. Central Madrid. English-speaking.",
+            "meta": [
+              "merrithew.com/instructor-training/find-a-studio/spain-madrid-twg"
+            ]
+          },
+          {
+            "title": "Pilates Lab",
+            "body": "Comprehensive Pilates Teacher Training Program (CPTTP). Equipment + mat work. Madrid-based.",
+            "meta": [
+              "pilateslab.es/training"
+            ]
+          },
+          {
+            "title": "APPI Spain",
+            "body": "Australian Physiotherapy & Pilates Institute. 13-day intensive. 100+ matwork exercises. English + Spanish.",
+            "meta": [
+              "international.appihealthgroup.com/appi-spain"
+            ]
+          },
+          {
+            "title": "Peak Pilates Spain",
+            "body": "Spain Comprehensive Instructor Certification (Level I Module 1). Pilates Internacional Madrid.",
+            "meta": [
+              "distri.peakpilates.eu/i/education/find-a-training.html"
+            ]
+          },
+          {
+            "title": "Anita Horry Academy",
+            "body": "Classical Pilates in English, retreat format. Costa Blanca (2 hrs from Madrid by AVE).",
+            "meta": [
+              "anitahorryacademy.com"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing Pilates teacher training in Madrid",
+        "do": [
+          "Choose STOTT (Thomas Wellness Group) for international recognition",
+          "Choose APPI if you have a physiotherapy background",
+          "Allow 3-6 months for full certification (most programs are part-time)",
+          "Combine with a Spanish language course for full Madrid immersion",
+          "Budget €3,000-€5,000 for comprehensive certification"
+        ],
+        "dont": [
+          "Don't expect fast certification — proper Pilates training takes months",
+          "Don't confuse mat-only certification with full equipment certification",
+          "Don't enroll without verifying the certifying organization's international recognition"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "music-summer-programs-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Music Summer Programs in Madrid (English-Taught)",
+    "summary": "Madrid's music institutions recruit international students: Reina Sofía Higher School of Music (Young Artists bilingual camp), Música Creativa, Canción de Invierno (guitar + flamenco), Tablao de Carmen flamenco school. From classical to flamenco.",
+    "content": "Madrid's music education ecosystem actively recruits international students through English-language summer programs. The most prestigious is the Reina Sofía Higher School of Music's Young Artists Summer Camp — a bilingual (English/Spanish) program offering high-level instrumental instruction with individual classes and chamber music focus. Música Creativa is a Madrid-based Higher Music Education institution recognized by the Spanish Ministry, with international programs including English-taught options. Canción de Invierno runs 2-week summer courses in Madrid covering classical, flamenco, rock, and blues guitar — explicitly welcoming international students. For flamenco specifically, Tablao de Carmen in Madrid runs one of the most respected flamenco schools in Spain, with English-language instruction available for dance, guitar, and singing. The market targets two audiences: serious young classical musicians (Reina Sofía, Música Creativa) and amateur/enthusiast guitarists and flamenco learners (Canción de Invierno, Tablao de Carmen). Programs range from 1-week intensives to 4-week residential programs. Costs: €600-€2,500 depending on length and intensity. Madrid is particularly attractive for flamenco learners because it's the capital of flamenco performance — students can attend world-class shows at Cardamomo, Corral de la Morería, and other tablaos as part of their studies.",
+    "official_url": "https://www.escuelasuperiordemusicareinasofia.es/en/summercamp",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "music",
+      "summer-program",
+      "classical-music",
+      "flamenco",
+      "guitar",
+      "english-taught",
+      "international-students",
+      "reina-sofia"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "flamenco-madrid",
+      "flamenco-tablaos-nightlife",
+      "museo-reina-sofia"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is a music education hub for English speakers",
+        "body": "From classical (Reina Sofía) to flamenco (Tablao de Carmen), Madrid's music schools recruit international students through English-language summer programs. Costs €600-€2,500 depending on length.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-4 weeks"
+          },
+          {
+            "label": "Cost range",
+            "value": "€600-€2,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (bilingual)"
+          },
+          {
+            "label": "Best for classical",
+            "value": "Reina Sofía Young Artists"
+          },
+          {
+            "label": "Best for flamenco",
+            "value": "Tablao de Carmen"
+          },
+          {
+            "label": "Best for guitar",
+            "value": "Canción de Invierno"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified music summer programs in Madrid",
+        "items": [
+          {
+            "title": "Reina Sofía Higher School of Music — Young Artists Summer Camp",
+            "body": "Bilingual (English/Spanish). High-level instrumental instruction. Individual classes. Chamber music focus. Most prestigious in Madrid.",
+            "meta": [
+              "escuelasuperiordemusicareinasofia.es/en/summercamp"
+            ]
+          },
+          {
+            "title": "Música Creativa",
+            "body": "Higher Music Education institution. Spanish Ministry recognized. International programs including English-taught options. Madrid.",
+            "meta": [
+              "musicacreativa.com/higher-education-institution/international"
+            ]
+          },
+          {
+            "title": "Canción de Invierno (Guitar Summer Courses)",
+            "body": "2-week summer courses in Madrid. Classical, flamenco, rock, blues guitar. International students welcome.",
+            "meta": [
+              "canciondeinvierno.com/inglis/summercourses.htm"
+            ]
+          },
+          {
+            "title": "Tablao de Carmen Flamenco School",
+            "body": "One of Spain's most respected flamenco schools. Dance, guitar, singing. English-language instruction available. Madrid.",
+            "meta": [
+              "tablaodecarmen.com/en/learn-flamenco-spain-best-schools"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a music program in Madrid",
+        "do": [
+          "Apply early for Reina Sofía — competitive admission (audition required)",
+          "Combine music study with attendance at live performances (Cardamomo, Corral de la Morería)",
+          "Bring your own instrument (rental is expensive in Madrid)",
+          "Choose Canción de Invierno for adult/amateur guitar enthusiasts",
+          "Choose Tablao de Carmen for authentic flamenco immersion"
+        ],
+        "dont": [
+          "Don't expect to learn flamenco in a week — minimum 2-4 weeks for basics",
+          "Don't apply to Reina Sofía without video audition preparation",
+          "Don't confuse Spanish classical guitar (Canción de Invierno) with flamenco guitar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monastery-stays-spain",
+    "category": "living",
+    "subcategory": "services",
+    "title": "Monastery Stays & Silent Retreats in Spain",
+    "summary": "Spain's monasteries offer affordable silent retreats and B&B stays. Madrid monasteries (Hieronymite, Augustinian) accept guests. Silence, meditation, simple meals. From €40-€80/night including meals.",
+    "content": "Spain has a centuries-old tradition of monastery hospitality — the Benedictine, Cistercian, Hieronymite, and Augustinian orders all maintain monasteries that accept guests for silent retreats, spiritual renewal, or simple affordable accommodation. This is one of the most authentic — and least touristy — ways to experience Spanish religious culture. Madrid itself has several monasteries that accept guests, including monastery bed and breakfasts bookable via monasteries.com. The Great Silence of St. Benedict is respected at most contemplative monasteries, where guests join the monks/nuns for the Liturgy of the Hours (sung in Latin or Spanish) and eat simple meals in silence. While silence is observed, contrary to popular myth monks don't take a vow of silence — they speak during designated times. Beyond Madrid, the most famous silent retreat monasteries in Spain include the Monastery of San Juan de la Peña (Aragon), Monastery of Santo Domingo de Silos (Burgos — famous for Gregorian chant), and the Cistercian monastery of Santa María de Huerta (Soria). Spain's official tourism portal (spain.info) actively promotes monastery stays as part of cultural tourism. Costs are typically €40-€80/night including all meals, with stays from 1 night to several weeks. For English speakers, the contemplative community at Montserrat (Catalonia) is the most international-friendly; Madrid-area monasteries vary in English capacity.",
+    "official_url": "https://www.monasteries.com/en-GB/city/madrid/home",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "monastery",
+      "silent-retreat",
+      "religious-tourism",
+      "contemplative",
+      "benedictine",
+      "cistercian",
+      "spiritual",
+      "b&b",
+      "silence"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "el-escorial-monastery",
+      "el-escorial-day-trip",
+      "churches-religion-madrid",
+      "st-georges-anglican-madrid",
+      "spa-madrid",
+      "hammams-arab-baths-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's monasteries welcome guests for retreats",
+        "body": "Monastery stays are an affordable, authentic way to experience Spanish religious culture. From €40-€80/night including meals. Madrid monasteries accept guests; the wider Spanish network includes 100+ monasteries with hospitality programs.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost per night",
+            "value": "€40-€80 (includes 3 meals)"
+          },
+          {
+            "label": "Typical stay",
+            "value": "1-7 nights (some accept longer)"
+          },
+          {
+            "label": "Languages",
+            "value": "Spanish + Latin (chant); some English at major monasteries"
+          },
+          {
+            "label": "Daily schedule",
+            "value": "Liturgy of the Hours (3-7x daily), meals in silence, free time"
+          },
+          {
+            "label": "Diet",
+            "value": "Simple, mostly vegetarian, no alcohol usually"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified monastery stays",
+        "items": [
+          {
+            "title": "Madrid monasteries (via monasteries.com)",
+            "body": "Booking platform for Madrid monastery B&Bs. Hieronymite and Augustinian houses. English booking interface.",
+            "meta": [
+              "monasteries.com/en-GB/city/madrid/home"
+            ]
+          },
+          {
+            "title": "Monastery of Santo Domingo de Silos (Burgos)",
+            "body": "Famous for Gregorian chant. 2 hours north of Madrid by car/train. Silent retreats. Spiritual direction available."
+          },
+          {
+            "title": "Monastery of San Juan de la Peña (Aragon)",
+            "body": "Dramatic cliff-side monastery. 4 hours from Madrid. Historical + spiritual."
+          },
+          {
+            "title": "Monastery of Santa María de Huerta (Soria)",
+            "body": "Cistercian monastery. 2 hours from Madrid. Contemplative. Silence observed."
+          },
+          {
+            "title": "Montserrat Monastery (Catalonia)",
+            "body": "Most international-friendly. English-language retreats. Benedictine. 1 hour from Barcelona."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking monastery stays",
+        "do": [
+          "Book 2-3 months ahead — limited rooms at most monasteries",
+          "Pack modest clothing (no shorts, no sleeveless tops)",
+          "Bring a book/journal — no WiFi at most contemplative monasteries",
+          "Respect the silence — most monasteries have specific quiet hours",
+          "Join the Liturgy of the Hours even if not Catholic — beautiful chanting"
+        ],
+        "dont": [
+          "Don't expect luxury — monastery rooms are simple (often single bed, shared bathroom)",
+          "Don't bring alcohol — most contemplative monasteries forbid it",
+          "Don't expect to come and go freely — gates often locked at night",
+          "Don't talk during meals if silence is observed"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Great Silence myth",
+        "body": "Contrary to popular belief, monks don't take a vow of silence. They observe 'Great Silence' from evening Compline to morning Lauds — typically 8pm to 7am. During the day, monks speak during designated times. Guests are expected to respect the silence schedule.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "artist-residencies-madrid",
+    "category": "see",
+    "subcategory": "neighborhoods",
+    "title": "Artist Residencies & Writer Retreats in Madrid",
+    "summary": "Madrid hosts multiple artist residencies recruiting English-speaking artists: ROOSTERGNN (Madrid), Matadero Madrid residencies, ArtConnect Madrid directory. From 1-week intensives to 6-month programs. Most actively recruit international artists.",
+    "content": "Madrid has a growing artist residency ecosystem that actively recruits international (English-speaking) artists, writers, and creative practitioners. These residencies provide studio space, accommodation, and often a stipend in exchange for engaging with the local artistic community. ROOSTERGNN Artist Residency is one of the most established Madrid-based programs recruiting international artists — they run collaborative residencies for cross-arts practice development with text in English or Spanish. Matadero Madrid, the city's contemporary arts center in Legazpi, runs residencies and is the largest public-funded residency host. ArtConnect maintains a directory of Madrid's top artist residencies, including most active programs. The Res Artis network (global residency association) lists open calls for Spanish residencies. A newer development is the writer + artist residency model launched in Madrid (Reddit r/writers references an August launch) where writers and artists work in the same space — explicitly English-language. Residencies typically run 1-6 months, with costs ranging from fully funded (competitive) to €800-€2,500/month (self-funded). Madrid's growing international arts community, lower cost of living than London/Berlin, and excellent transport links make it increasingly attractive to international artists seeking residency experiences.",
+    "official_url": "https://www.magazine.artconnect.com/residencies/madrid-spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "artist-residency",
+      "writer-residency",
+      "creative",
+      "international-artists",
+      "english-language",
+      "roostergnn",
+      "matadero",
+      "artconnect"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "lavapies-neighborhood",
+      "malasana-neighborhood",
+      "museo-reina-sofia",
+      "prado-current",
+      "reina-sofia-current"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid actively recruits international artists",
+        "body": "Madrid's growing residency ecosystem includes ROOSTERGNN, Matadero Madrid, and others. From 1-week intensives to 6-month programs. Costs range from fully funded (competitive) to €800-€2,500/month self-funded.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Residency length",
+            "value": "1 week to 6 months"
+          },
+          {
+            "label": "Cost",
+            "value": "Fully funded (competitive) to €800-€2,500/month self-funded"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Best for visual artists",
+            "value": "ROOSTERGNN, Matadero"
+          },
+          {
+            "label": "Best for writers",
+            "value": "ROOSTERGNN, ArtConnect directory"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid artist residencies",
+        "items": [
+          {
+            "title": "ROOSTERGNN Artist Residency",
+            "body": "Madrid-based. International recruitment. Collaborative residencies for cross-arts practice. English + Spanish.",
+            "meta": [
+              "transartists.org/en/air/roostergnn-artist-residency"
+            ]
+          },
+          {
+            "title": "Matadero Madrid Residencies",
+            "body": "City's contemporary arts center in Legazpi. Public-funded residencies. Most competitive in Madrid.",
+            "meta": [
+              "mataderomadrid.org"
+            ]
+          },
+          {
+            "title": "ArtConnect Madrid directory",
+            "body": "Curated list of Madrid's top artist residencies. Useful starting point.",
+            "meta": [
+              "magazine.artconnect.com/residencies/madrid-spain"
+            ]
+          },
+          {
+            "title": "Res Artis Open Calls",
+            "body": "Global residency network. Filter for Spain. Includes open calls for Madrid programs.",
+            "meta": [
+              "resartis.org/open-calls"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Applying to Madrid artist residencies",
+        "do": [
+          "Apply 6-12 months ahead — most residencies have annual or bi-annual application cycles",
+          "Prepare a strong portfolio (10-20 pieces) and artist statement in English + Spanish",
+          "Apply for grants in your home country to fund the residency (Fulbright, Pollock-Krasner)",
+          "Engage with the local artistic community — most residencies expect this",
+          "Plan an end-of-residency exhibition or reading if possible"
+        ],
+        "dont": [
+          "Don't expect luxury — most residency accommodations are simple",
+          "Don't apply without researching the residency's specific focus",
+          "Don't underestimate Spanish skills — even English-language residencies benefit from local language"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "internship-services-madrid",
+    "category": "living",
+    "subcategory": "work",
+    "title": "Internship Placement Services in Madrid (English-Speaking)",
+    "summary": "Verified placement services for English-speaking interns in Madrid: Go Overseas, Spain Internship, IES Abroad, CIEE, Adelante. Place students in marketing, business, IT, tourism, journalism. From €1,500-€4,000 for 8-12 week programs.",
+    "content": "Madrid is a major internship destination for English-speaking university students and recent graduates, with multiple placement services actively recruiting international interns. The major providers offer end-to-end service: internship placement, accommodation, visa support, on-ground orientation, and 24/7 emergency support. Programs typically run 8-12 weeks in summer (June-August) or 12-16 weeks in semester (fall/spring). Spain Internship is the largest dedicated Spain-focused operator, placing students in marketing, business, IT, tourism, and journalism roles. IES Abroad runs Barcelona Summer Internship and Madrid semester programs (full-time internship with international organization). CIEE offers Summer Global Internship in Barcelona (8 weeks, full-time, includes academic credit). Adelante Abroad provides internship placements in Madrid across multiple sectors. Go Overseas and GoAbroad aggregate reviews and listings. Costs: €1,500-€4,000 for 8-12 week programs (typically includes placement, housing, support, but not flights). Most programs include academic credit through partnership with US universities. The internships themselves are often unpaid (€0) or provide a small stipend (€300-€600/month). For Madrid specifically, the placement ecosystem is smaller than Barcelona but growing — particularly in international business, fashion, and tech. Most programs require intermediate Spanish for non-English-focused roles; English-only roles exist but are more competitive.",
+    "official_url": "https://www.gooverseas.com/internships-abroad/spain/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "internship",
+      "internship-placement",
+      "international-students",
+      "summer-internship",
+      "english-speaking",
+      "go-overseas",
+      "ies-abroad",
+      "ciee",
+      "adelante"
+    ],
+    "last_updated": "2026-07-22",
+    "status": "annual review",
+    "related_records": [
+      "internships-spain",
+      "student-visa-spain",
+      "job-search-spain",
+      "international-school-jobs-madrid",
+      "work-visa-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid actively recruits English-speaking interns",
+        "body": "Multiple placement services (Spain Internship, IES Abroad, CIEE, Adelante) place English-speaking interns in Madrid. Programs €1,500-€4,000 for 8-12 weeks. Sectors: marketing, business, IT, tourism, journalism.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program cost",
+            "value": "€1,500-€4,000 (8-12 weeks)"
+          },
+          {
+            "label": "Included",
+            "value": "Placement, housing, orientation, 24/7 support"
+          },
+          {
+            "label": "Not included",
+            "value": "Flights, visa fees, daily meals"
+          },
+          {
+            "label": "Internship pay",
+            "value": "Often unpaid; €300-600/mo stipend if paid"
+          },
+          {
+            "label": "Length",
+            "value": "8-12 weeks summer, 12-16 weeks semester"
+          },
+          {
+            "label": "Academic credit",
+            "value": "Usually available via US university partnership"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid internship placement services",
+        "items": [
+          {
+            "title": "Spain Internship",
+            "body": "Largest Spain-focused placement service. Madrid + Barcelona. Marketing, business, IT, tourism. €1,500-€3,000.",
+            "meta": [
+              "spain-internship.com"
+            ]
+          },
+          {
+            "title": "IES Abroad — Madrid Internship",
+            "body": "Semester + summer programs. Full-time internship with international organization. Academic credit.",
+            "meta": [
+              "iesabroad.org"
+            ]
+          },
+          {
+            "title": "CIEE Summer Global Internship",
+            "body": "8-week full-time summer program. Academic credit. Includes placement + housing.",
+            "meta": [
+              "ciee.org/go-abroad/college-study-abroad"
+            ]
+          },
+          {
+            "title": "Adelante Abroad",
+            "body": "Madrid internship placements across multiple sectors. 1-6 months. Lower cost than IES/CIEE.",
+            "meta": [
+              "gooverseas.com/internships-abroad/spain/adelante"
+            ]
+          },
+          {
+            "title": "Go Overseas — Madrid",
+            "body": "Aggregator. Reviews of Madrid internship programs. Compare providers.",
+            "meta": [
+              "gooverseas.com/internships-abroad/spain/madrid"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing an internship program in Madrid",
+        "do": [
+          "Apply 4-6 months ahead for summer programs (Dec-Feb ideal)",
+          "Choose IES Abroad or CIEE if you need academic credit",
+          "Choose Spain Internship or Adelante for lower-cost options",
+          "Verify housing is included — Madrid rent is expensive",
+          "Ask about sector placement preferences — be specific (e.g., 'fashion marketing' not 'business')"
+        ],
+        "dont": [
+          "Don't expect paid internships — most are unpaid or minimal stipend",
+          "Don't apply May-June for summer start — too late",
+          "Don't assume all placements will be in English — many require intermediate Spanish",
+          "Don't skip the on-ground orientation — critical for navigating Madrid bureaucracy"
+        ]
       }
     ]
   }
