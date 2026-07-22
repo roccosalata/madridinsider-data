@@ -244,10 +244,10 @@
     "subcategory": "transportation",
     "summary": "Madrid's main station. AVE high-speed to Barcelona, Seville, Valencia. Tropical garden in the old hall. Metro: Atocha Renfe L1.",
     "content": "Atocha Station (officially Madrid Puerta de Atocha) is Madrid's main train station, serving high-speed AVE trains and most long-distance routes. Two parts: (1) Atocha Cercanías — commuter trains (Cercanías C1-C10), in the modern part. (2) Madrid Puerta de Atocha — long-distance and AVE high-speed trains, in the restored 19th-century hall with the famous tropical garden (4,000 plants, turtles). AVE DESTINATIONS: Barcelona (2h30, from €25), Seville (2h30, from €20), Valencia (1h40, from €18), Málaga (2h30, from €25), Zaragoza (1h15, from €15), Córdoba (1h45, from €18). Metro: Atocha Renfe (Line 1), Atocha (Line 1, walk 5 min). Cercanías: connects to Chamartín (8 min, faster than Metro), Airport T4 (25 min, C1), El Escorial (1h, C8). FACILITIES: Left luggage (€3.90-5.50/day, ground floor near tropical garden), VIPS café, Starbucks, McDonald's, pharmacy, car rental, taxi rank, hotel booking desk, tropical garden (free to visit, even without a ticket). TIPS: (1) The tropical garden in the old hall is worth seeing even if you're not catching a train — 4,000 plants, turtles, free. (2) Arrive 30 min before AVE departure — security check is like an airport. (3) AVE tickets are cheapest 60+ days ahead — book at renfe.com. (4) Left luggage at Atocha is the cheapest in central Madrid (€3.90/day) — great for sightseeing. (5) The station is 10 min walk from the Prado, Reina Sofía, and Thyssen museums.",
-    "official_url": "https://www.adif.es",
+    "official_url": "https://www.adif.es/en/station/atocha",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "train",
@@ -344,10 +344,10 @@
     "subcategory": "transportation",
     "summary": "Madrid's second major station, north of center. AVE to Galicia, Asturias, Basque Country. Cercanías hub. Metro: Lines 1, 10.",
     "content": "Chamartín Station (officially Madrid-Chamartín-Clara Campoamor) is Madrid's second major train station, located in the north of the city. Renovated in 2022 with a modern glass facade and expanded concourse. AVE high-speed trains depart here for: Galicia (A Coruña, Vigo — 6h), Asturias (Gijón, Oviedo — 4h30), Cantabria (Santander — 4h15), Basque Country (Bilbao — 4h, San Sebastián — 5h30). Also serves Cercanías lines C1, C2, C3, C4, C7, C8, C10 — connecting to Atocha (8 min), Barajas Airport T4 (25 min), El Escorial (1h), and Segovia (via C8 + C9). Metro: Chamartín (Lines 1, 10), plus direct connection to Metro surロン (Line 10). Facilities: VIPS café, Starbucks, McDonald's, pharmacy, car rental (Avis, Hertz), left luggage (€3.90/day), taxi rank, parking. The station is less crowded than Atocha and easier to navigate. For tourists staying in northern Madrid (Chamartín, Tetuán, financial district), this is more convenient than Atocha.",
-    "official_url": "https://www.adif.es",
+    "official_url": "https://www.adif.es/en/station/chamartin",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "train",
@@ -555,7 +555,7 @@
     "subcategory": "services",
     "summary": "Left luggage facilities at Madrid's main transit hubs: Atocha, Chamartín, Barajas Airport, Méndez Álvaro bus station. €3-6/day.",
     "content": "Left luggage (consignas) facilities in Madrid are located at the main transit hubs. This is the master record — see related records for location-specific details. LOCATIONS: (1) Atocha Station — consignas on the ground floor near the tropical garden, €3.90/day per bag (size S/M), €5.50/day (size L). Open 5:30am-10:30pm daily. (2) Chamartín Station — consignas near the VIPS café, same pricing. Open 6am-11pm. (3) Barajas Airport — left luggage at T1 (4€/bag/day) and T4 (5.50€/bag/day), open 24/7. (4) Méndez Álvaro Bus Station (Estación Sur) — left luggage, €3/day. Open 6am-midnight. PRICES: €3-6 per bag per day depending on size and location. Pay by cash or card. SECURITY: all facilities are staffed and CCTV-monitored. Bags are X-rayed. ID required (passport). Tips: (1) Don't leave valuables, electronics, or important documents in left luggage. (2) Take a photo of your bag before leaving it. (3) Keep your claim ticket safe — losing it means a long ID verification process. (4) Some facilities have size limits (max 80cm). (5) For longer-term storage (weeks/months), see our Public Storage (Trasteros) record.",
-    "official_url": "https://www.adif.es",
+    "official_url": "https://www.adif.es/en/services/consignas",
     "status": "evergreen",
     "english_friendly": true,
     "last_updated": "2026-07-22",
@@ -1064,11 +1064,11 @@
     "title": "Hospitals & 24h Clinics in Madrid",
     "category": "essentials",
     "subcategory": "safety",
-    "summary": "Public: Gregorio Marañón, La Paz, 12 de Octubre. Private: Ruber Internacional, HM Montepríncipe. ER free for all.",
+    "summary": "[Archived: merged into another record. Same content as hospitals-madrid. Use hospitals-madrid.] Public: Gregorio Marañón, La Paz, 12 de Octubre. Private: Ruber Internacional, HM Montepríncipe. ER free for all.",
     "content": "Madrid hospitals. PUBLIC (free with Social Security, EHIC, or for emergencies — cannot refuse anyone): (1) Hospital Universitario Gregorio Marañón (Calle Doctor Esquerdo 46, Metro O'Donnell L2) — largest, all specialties, 24/7 ER. (2) Hospital Universitario La Paz (Paseo de la Castellana 261, Metro La Paz L7) — top trauma center, pediatric ER, burns unit. (3) Hospital Universitario 12 de Octubre (Calle de Andalucía, Metro San Bernardo L6) — largest in southern Madrid. (4) Hospital Clínico San Carlos (Calle Professor Martín Lagos, Metro Ciudad Universitaria L6) — central, near university. PRIVATE (insurance or self-pay, shorter waits): (1) Hospital Ruber Internacional (Calle La Masó 38, Mirasierra) — top private, English-speaking. ER €200-500 self-pay. (2) Hospital Universitario HM Montepríncipe (Calle Avivé, Boadilla del Monte) — modern, English-speaking. (3) Hospital San Rafael (Calle Julio Palacios, Metro Valdeacederas L1) — mid-range. (4) Hospital Vithas Madrid (multiple) — chain. EMERGENCY: 112 (ambulance, free). Public ER wait: 2-6 hours. Private ER wait: 30-60 min, €200-500. Bring: passport/ID, insurance card, medication list. Spanish hospitals are required by law to treat emergencies regardless of insurance or residency — don't hesitate to go if you need care.",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "safety",
       "health",
@@ -1454,9 +1454,9 @@
     "title": "Empadronamiento",
     "category": "living",
     "subcategory": "bureaucracy",
-    "summary": "Required local registration. Free. Bring passport + proof of address to any Citizen Service Office. Needed for healthcare, schools, voting.",
+    "summary": "[Archived: merged into another record. Same procedure as padron-empadronamiento (Empadronamiento is the verb, Padrón Municipal is the noun). Use padron-empadronamiento.] Required local registration. Free. Bring passport + proof of address to any Citizen Service Office. Needed for healthcare, schools, voting.",
     "content": "The Empadronamiento (also called Padrón Municipal) is Madrid's local resident register. It's MANDATORY for ALL Madrid residents — Spanish, EU, non-EU, everyone. It's FREE and easy. WHAT IT'S NEEDED FOR: (1) Public healthcare access. (2) School enrollment for children. (3) Voting in municipal elections (EU citizens). (4) Social services (subsidized housing, school meals). (5) Some bureaucratic procedures (NIE, TIE). HOW TO REGISTER: (1) Book an appointment at cita-previa.madrid.es (or walk in, but waits are long). (2) Go to any Oficina de Atención al Ciudadano (Citizen Service Office) — there are 25+ across Madrid. (3) Bring: passport (and NIE if you have one), proof of address (rental contract, utility bill in your name, or a signed letter from the person you live with + their ID + their empadronamiento). (4) Fill out the form (Spanish — bring a friend or use Google Translate). (5) Receive your volante de empadronamiento (certificate) immediately. TIPS: (1) It's free. (2) Takes 10-15 minutes if you have an appointment. (3) The certificate (volante) is valid for 3 months — request a new one when needed. (4) Update your empadronamiento when you move. (5) If you live in a shared flat and aren't on the lease, the leaseholder must sign a letter authorizing your registration at that address. (6) Some offices have English-speaking staff — call ahead to check. (7) You can also do it online if you have a digital certificate (certificado digital).",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": false,
     "last_updated": "2026-07-22",
     "tags": [
@@ -1684,10 +1684,10 @@
     "title": "Spanish Bank Accounts",
     "category": "living",
     "subcategory": "banking",
-    "summary": "Open a 'cuenta no residente' with just a passport. Major banks: BBVA, Santander, CaixaBank. €15-30/quarter fee, often waivable.",
+    "summary": "[Archived: merged into another record. Same topic as banking. Use banking as the canonical record.] Open a 'cuenta no residente' with just a passport. Major banks: BBVA, Santander, CaixaBank. €15-30/quarter fee, often waivable.",
     "content": "Opening a Spanish bank account. FOR NON-RESIDENTS (no NIE yet): You can open a 'cuenta no residente' (non-resident account) with just your passport. Major banks: BBVA, Santander, CaixaBank, Bankinter, Sabadell. Process: (1) Go to a branch with your passport. (2) Fill out a form (Spanish — bring a friend or use Google Translate). (3) Deposit a minimum amount (€50-150). (4) Receive your debit card and online banking credentials in 1-2 weeks. FEES: €15-30/quarter account maintenance. Usually waivable if you deposit €600+/month (e.g., salary) or maintain a minimum balance. Ask about 'cuenta sin comisiones' (no-fee account). FOR RESIDENTS (with NIE): Same process but you provide your NIE instead of passport. Lower fees, more services. ONLINE/DIGITAL BANKS: N26 (German, Spanish IBAN, English app, free account). Revolut (UK-based, Spanish IBAN available, free basic). Bunq (Dutch, premium from €3/month). These are faster to open (10 min online) and have no fees, but no physical branches. WHAT YOU GET: Spanish IBAN (ES + 22 digits), debit card (Visa/Mastercard), online banking (app + website), ability to set up direct debits (domiciliación bancaria) for rent, utilities, phone. CREDIT CARDS: Harder to get as a non-resident — usually require 6+ months of account history. Start with your debit card and apply later. TIPS: (1) BBVA and Santander have the most English-speaking staff. (2) Always ask for 'sin comisiones' (no fees) — they often can waive them. (3) Spanish banks require a Spanish phone number for 2FA. (4) Avoid taking cash out from non-bank ATMs (Euronet) — 3-5% fees.",
     "official_url": "https://www.bankinter.com/en",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": true,
     "last_updated": "2026-07-22",
     "tags": [
@@ -3397,12 +3397,12 @@
     "title": "Metro Closures",
     "category": "now",
     "subcategory": "transit",
-    "summary": "Summer 2026: planned closures on Lines 6, 7, 9B, 10. Free shuttle buses cover affected sections.",
+    "summary": "[Archived: merged into another record. Same Summer 2026 closure info as metro-closures-summer-2026. Use that record.] Summer 2026: planned closures on Lines 6, 7, 9B, 10. Free shuttle buses cover affected sections.",
     "content": "The Comunidad de Madrid does major track and station work in August when ridership drops. Summer 2026 affected: Line 9B (TFM) Arganda-Rivas closed 25 Jul – 13 Aug. Line 6 Argüelles-Ciudad Universitaria closed 1 Aug – 2 Sep (Moncloa station work). Line 7 Gregorio Marañón-Pitis closed 2–28 Aug. Line 10 Plaza Castilla-Nuevos Ministerios extended to 21 Aug (Bernabéu renovation). All affected sections have free EMT shuttle buses.",
     "official_url": "https://www.crtm.es/comunicacion/actualidad-del-servicio/avisos/avisos-metro/",
-    "status": "dynamic",
+    "status": "archived",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-22",
     "tags": [
       "transit",
       "metro",
@@ -3534,7 +3534,7 @@
     "subcategory": "housing",
     "summary": "Apartments, neighborhoods, contracts, and deposits. Everything you need to find and keep a flat in Madrid.",
     "content": "Search portals: Idealista and Fotocasa are the two main property sites. Pick a barrio first — Malasaña (indie, lively), Chamberí (traditional, families), Salamanca (upscale, business), Retiro (parks, family), Chueca (design, LGBT+), Lavapiés (multicultural, edgy, cheaper), La Latina (old-town tapas), Arganzuela (up-and-coming, near Madrid Río). Deposits: 1 month standard ('fianza'), plus often a 1-month 'aval' bank guarantee. Contracts are usually 11 months. Get a written 'inventario' (inventory) at move-in. Avoid paying anything before viewing in person — scams are common. For short stays: look at Spotahome, Badi, or local Facebook groups.",
-    "official_url": "https://www.esmadrid.com/en/areas",
+    "official_url": "https://www.idealista.com/en/",
     "status": "evergreen",
     "english_friendly": true,
     "last_updated": "2026-07-22",
@@ -3601,7 +3601,10 @@
       "euros-and-atms",
       "credit-card-acceptance",
       "nie-tie",
-      "empadronamiento"
+      "empadronamiento",
+      "transfers-spain",
+      "fintech-banking-spain",
+      "banking-spain"
     ],
     "subsubcategory": "Bank Accounts"
   },
@@ -3979,13 +3982,13 @@
     "title": "Bus Stations in Madrid",
     "category": "essentials",
     "subcategory": "transportation",
-    "summary": "Estación Sur (Méndez Álvaro) for ALSA intercity. Moncloa for Castilla y León. Plaza Elíptica for south routes.",
+    "summary": "[Archived: merged into another record. Same list as coach-stations-madrid. Use coach-stations-madrid for intercity list; bus-stations-vs-coach-stations explains city bus vs coach.] Estación Sur (Méndez Álvaro) for ALSA intercity. Moncloa for Castilla y León. Plaza Elíptica for south routes.",
     "content": "Madrid has several bus stations serving different regions. Estación Sur (also called Méndez Álvaro) is the main intercity station — ALSA routes to Barcelona, Valencia, Andalusia, Portugal, and France all depart from here. Moncloa station serves Castilla y León (Segovia, Ávila, Salamanca) and Galicia routes. Plaza Elíptica handles some southern routes (Toledo, Cuenca). Each station is on a Metro line: Estación Sur on Line 6 (Méndez Álvaro), Moncloa on Lines 3 and 6, Plaza Elíptica on Lines 6 and 11. Arrive 20-30 minutes before departure to find your platform — large stations like Estación Sur have 50+ platforms. Buy tickets in advance online or at station ticket windows.",
     "official_url": "https://www.estacionautobusesmadrid.com",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "bus",
@@ -5024,7 +5027,11 @@
       "empadronamiento",
       "nie-tie",
       "public-healthcare",
-      "social-security-number-spain"
+      "social-security-number-spain",
+      "banking",
+      "bilingual-schools-madrid",
+      "healthcare",
+      "housing"
     ],
     "subsubcategory": "Local Registration"
   },
@@ -5033,13 +5040,13 @@
     "title": "Opening a Spanish Bank Account",
     "category": "living",
     "subcategory": "banking",
-    "summary": "Major banks: BBVA, Santander, CaixaBank, Bankinter. Non-resident accounts available with passport only.",
+    "summary": "[Archived: merged into another record. Same topic as banking. Use banking as the canonical record.] Major banks: BBVA, Santander, CaixaBank, Bankinter. Non-resident accounts available with passport only.",
     "content": "Opening a bank account in Spain is straightforward. The four major banks are BBVA, Santander, CaixaBank, and Bankinter — all have branches across Madrid. For non-residents (no NIE yet), you can open a 'cuenta no residente' with just your passport — bring it to any branch and ask. Most banks charge €15-30/quarter account maintenance fee, but you can usually get this waived if you deposit €600+/month or have your salary paid in. Online-only banks (N26, Revolut, Bunq) are popular with expats — no fees, English apps, but no Spanish IBAN. To open: passport (and NIE if you have one), proof of address (utility bill or rental contract), and proof of income/employment (optional but helps). The account comes with a debit card (free) and access to online banking. Credit cards are harder to get as a non-resident — usually require 6+ months of account history.",
     "official_url": "https://www.bde.es/wbe/en/",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "banking",
       "bank-account",
@@ -5497,11 +5504,11 @@
     "subcategory": "transit",
     "summary": "Planned closures on Lines 6, 7, 9B, and 10 for renovations. Free shuttle buses cover affected sections.",
     "content": "Metro de Madrid has scheduled track and signal renovations during summer 2026 (June 15 - September 15) on multiple lines. Affected: Line 6 (circular) — closed between Méndez Álvaro and Argüelles on weekends, shuttles every 5 min. Line 7 — closed between Pitis and Arroyofresno (no shuttle — take bus 89). Line 9B — closed between Puerta de Arganda and Arganda del Rey (shuttle bus available). Line 10 — closed between Tres Olivos and Hospital Infanta Sofía on weekday nights 11pm-6am. Free shuttle buses replace metro service on closed sections — follow signs to 'Autobús Sustitutivo'. Plan extra 15-30 minutes for affected routes. Check the official Metro de Madrid app (English) or @metromadrid on Twitter for real-time updates. Stations close to home/work? Identify alternative lines and bus routes in advance. The Cercanías commuter rail (Lines C1-C10) is unaffected and is often faster than Metro for cross-city trips during closures.",
-    "official_url": "https://www.metromadrid.es/en",
+    "official_url": "https://www.metromadrid.es/en/avisos",
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "now",
       "transit",
@@ -5511,7 +5518,9 @@
     ],
     "related_records": [
       "metro-de-madrid",
-      "emt-buses"
+      "emt-buses",
+      "madrid-barajas-airport",
+      "metro-closures"
     ],
     "subsubcategory": "Metro Alerts"
   },
@@ -6078,7 +6087,9 @@
       "emergency-numbers",
       "english-speaking-doctors-madrid",
       "pharmacies",
-      "public-healthcare"
+      "public-healthcare",
+      "english-speaking-doctors",
+      "hospitals"
     ],
     "subsubcategory": "Hospitals"
   },
@@ -6158,7 +6169,6 @@
     ],
     "related_records": [
       "language-schools-madrid",
-      "language-schools-madrid-education",
       "universities-madrid"
     ],
     "subsubcategory": "Language Schools"
@@ -9081,7 +9091,8 @@
       "intercity-buses",
       "left-luggage",
       "left-luggage-bus-station",
-      "metro-de-madrid"
+      "metro-de-madrid",
+      "bus-stations-vs-coach-stations"
     ]
   },
   {
@@ -11212,7 +11223,7 @@
     "subsubcategory": "Practical Guides",
     "summary": "Free public toilets are rare. Use: department stores (El Corte Inglés), museums, libraries, Metro stations, cafés (buy a coffee). €0-0.50.",
     "content": "Public toilets in Madrid — a practical guide. THE REALITY: Madrid has very few free public toilets on the street. You need to know where to find them. FREE OPTIONS: (1) El Corte Inglés (Castellana 53, Goya, Preciados) — clean, free toilets on every floor. The best option. (2) Museums — Prado, Reina Sofía, Thyssen, Royal Palace all have free toilets (but you need a ticket or go during free hours). (3) Public libraries (Bibliotecas Públicas) — 26 locations, free toilets, no ticket needed. (4) Metro stations — some larger stations (Sol, Atocha, Chamartín) have toilets, €0.50-1. (5) Madrid City Hall (Plaza de Cibeles, CentroCentro building) — free public toilets in the lobby. (6) Matadero Madrid (Plaza de Legazpi) — free. (7) Atocha Station — free toilets near the tropical garden. PAID OPTIONS: (1) Public toilet kiosks on Gran Vía and near Plaza Mayor — €0.50-1. (2) Some parks (Retiro) have toilets near the lake — €0.50. CAFÉ STRATEGY: The most reliable strategy is to buy a coffee (€1.50-2) at any café/bar and use their toilet. Spanish cafés don't mind if you use the toilet after buying something. TIPS: (1) Always carry €0.50 in coins for paid toilets. (2) El Corte Inglés is your best friend — clean, free, multiple locations. (3) Department stores and shopping centers always have free toilets. (4) McDonald's and Starbucks have toilets but may require a purchase or code from receipt. (5) Plan ahead — don't wait until you're desperate. (6) Hand sanitizer is useful — not all public toilets have soap.",
-    "official_url": "https://www.esmadrid.com/en/information-offices",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Citizens",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
