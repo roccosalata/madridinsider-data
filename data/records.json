@@ -11366,5 +11366,117 @@
       "official-madrid-city-map",
       "useful-information-madrid"
     ]
+  },
+  {
+    "id": "madrid-metropolitan",
+    "title": "Madrid Metropolitan (English Magazine)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Magazines & Blogs",
+    "summary": "Madrid's only English-language print + online magazine. News, what's on, interviews, features. Active. Free online.",
+    "content": "Madrid Metropolitan (madridmetropolitan.com) is Madrid's only active English-language print and online magazine. It's Spain's leading English-language news portal, covering Madrid and the wider region. WHAT THEY COVER: (1) Local news — Madrid politics, city events, infrastructure. (2) What's on — events, exhibitions, concerts, festivals. (3) Interviews — expats, entrepreneurs, artists, politicians. (4) Features — neighborhood guides, food reviews, lifestyle. (5) Expat guides — practical advice on NIE, healthcare, housing, taxes. (6) Business — startup scene, real estate, economy. HISTORY: The Madrid Metropolitan has been publishing for over 20 years, making it one of Madrid's longest-running English-language publications. It succeeded earlier publications like The Broadsheet and In Madrid magazine. DISTRIBUTION: (1) Online at madridmetropolitan.com (free, updated daily). (2) Print edition (monthly, distributed at hotels, embassies, restaurants, and British Council). (3) Email newsletter (free, weekly). SECTIONS: News, Expat Guide, What's On, Food & Drink, Lifestyle, Business, Sport, Opinion. HOW IT COMPARES TO MADRID INSIDER: Madrid Metropolitan focuses on NEWS (daily updates, current events), while Madrid Insider focuses on RESOURCES (permanent directory, official links, structured info). They complement each other — use Madrid Metropolitan for 'what's happening this week' and Madrid Insider for 'how to do X in Madrid'. TIPS: (1) Sign up for their weekly email newsletter — best English-language events roundup. (2) Their 'Expat Guide' section has practical advice similar to our Living category. (3) Follow @MadridMetropol on Twitter for breaking news. (4) Pick up the print edition at the British Council (Calle del General Martínez Campos 31) or major hotels.",
+    "official_url": "https://www.madridmetropolitan.com",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "magazine",
+      "english",
+      "expat",
+      "madrid-metropolitan"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "the-local-spain",
+      "expat-publications-madrid",
+      "madrid-today-events"
+    ]
+  },
+  {
+    "id": "the-broadsheet-madrid",
+    "title": "The Broadsheet (Historical English Magazine)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Magazines & Blogs",
+    "summary": "Madrid's longest-established English-language magazine. Published 6x/year. Covered fashion, travel, real estate, design. Now ceased print.",
+    "content": "The Broadsheet was Madrid's longest-established English-language magazine, published six times a year. It covered fashion, travel, real estate, and design for the English-speaking community in Madrid. HISTORY: The Broadsheet was founded in the 1980s (some sources say earlier) and served as the primary English-language lifestyle publication for Madrid's growing expat community. It was distributed at hotels, embassies, V.O. cinemas, Irish pubs, and the British Council. CONTENT: The magazine focused on upscale lifestyle — fashion spreads, travel features (Spanish destinations), real estate listings (upscale apartments in Salamanca and La Moraleja), interior design, restaurant reviews, and cultural events. It was known for its high production quality (glossy, full-color) and sophisticated tone. STATUS: The Broadsheet appears to have ceased print publication. Its digital presence is minimal. The void it left has been filled by: (1) Madrid Metropolitan (news and features, online + print). (2) Essential Magazine (now focused on Marbella, was previously in Madrid). (3) Madrid No Frills (blog, authentic/cheap). (4) Madrid Insider (our site — permanent resource directory). LEGACY: The Broadsheet was mentioned in numerous Madrid expat guides as a key resource. It was referenced in Syracuse University's Madrid visitor guide as 'Madrid's longest established English-language magazine.' The magazine played an important role in the English-speaking community during the 1990s-2000s, before the internet made online publications dominant. TIPS: (1) The Broadsheet is no longer publishing — don't look for current copies. (2) For modern English-language Madrid content, see our Madrid Metropolitan, El País English, and The Local Spain records. (3) Back issues may be available at the National Library of Spain (Biblioteca Nacional).",
+    "official_url": "https://www.madridmetropolitan.com",
+    "status": "legacy",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "magazine",
+      "english",
+      "historical",
+      "broadsheet",
+      "legacy"
+    ],
+    "related_records": [
+      "madrid-metropolitan",
+      "expat-publications-madrid",
+      "el-pais-english"
+    ]
+  },
+  {
+    "id": "in-madrid-magazine",
+    "title": "In Madrid Magazine (Historical)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Magazines & Blogs",
+    "summary": "Monthly English-language newspaper for Madrid expats and students. Distributed free at hotels, V.O. cinemas, Irish pubs. Now ceased.",
+    "content": "In Madrid (in-madrid.com) was a monthly English-language newspaper/magazine geared toward expats and students in Madrid. It was distributed free at hotels, original-version (V.O.) cinemas, Irish pubs, English bookstores, and the British Council. HISTORY: In Madrid published for over 15 years, serving as a key resource for the English-speaking community in Madrid. It was mentioned in TripAdvisor forums and expat guides as 'a very good source of information for the English speaking community.' CONTENT: (1) Local news and events in English. (2) Classified ads (housing, jobs, services). (3) Restaurant and bar reviews. (4) Cultural events (exhibitions, concerts, theater). (5) Practical advice for expats (NIE, healthcare, banking). (6) Community announcements. STATUS: In Madrid appears to have ceased publication. The website (in-madrid.com) is no longer active. The void has been filled by Madrid Metropolitan (online + print), El País English (daily news), and various blogs. LEGACY: In Madrid was an important bridge for the English-speaking community in Madrid during the pre-internet and early-internet era. Before Google Translate and smartphones, it was often the only way for non-Spanish speakers to find out what was happening in the city. TIPS: (1) In Madrid is no longer publishing — don't look for current copies. (2) For modern English-language Madrid content, use Madrid Metropolitan, El País English, The Local Spain, and Madrid Insider (our site). (3) The name 'In Madrid' may live on as a brand — check if it has been revived.",
+    "official_url": "https://www.madridmetropolitan.com",
+    "status": "legacy",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "magazine",
+      "english",
+      "historical",
+      "in-madrid",
+      "legacy"
+    ],
+    "related_records": [
+      "madrid-metropolitan",
+      "the-broadsheet-madrid",
+      "expat-publications-madrid"
+    ]
+  },
+  {
+    "id": "english-publications-history-madrid",
+    "title": "History of English-Language Publishing in Madrid",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Background",
+    "summary": "Complete history of English-language publications in Madrid: The Standard (1992), The Broadsheet, In Madrid, Essential Magazine, Madrid Metropolitan, and now Madrid Insider.",
+    "content": "History of English-language publishing in Madrid. THE TIMELINE: (1) THE STANDARD (1992) — A serious English-language daily newspaper launched in Madrid. Priced at 50 pesetas (about €0.30). It was a 'European' style newspaper. Short-lived but ambitious. (2) THE BROADSHEET (1980s-2010s?) — Madrid's longest-established English-language magazine. Published 6 times a year. Covered fashion, travel, real estate, design. Upscale, glossy, sophisticated. Distributed at hotels, embassies, V.O. cinemas. Now ceased. (3) IN MADRID (2000s-2010s) — Monthly English-language newspaper for expats and students. Free distribution at hotels, Irish pubs, V.O. cinemas, English bookstores. Covered local news, classifieds, events, practical advice. Now ceased. (4) ESSENTIAL MAGAZINE (2000s-2010s) — Free monthly lifestyle magazine. Distributed in Madrid and Barcelona. Covered lifestyle, food, culture, expat advice. Now appears focused on Marbella (essentialmagazine.com redirects to Essential Marbella). (5) MADRID METROPOLITAN (2000s-present) — Madrid's only ACTIVE English-language print + online magazine. Covers news, what's on, interviews, features. Print edition distributed monthly. Online at madridmetropolitan.com. (6) MADRID NO FRILLS (2010s-present) — Independent blog. Authentic cheap eats, hidden gems, off-the-beaten-path recommendations. English. Active at madridnofrills.com. (7) MADRID INSIDER (2026-present) — Our site. A permanent resource directory with 296 records, official links, structured sections, live weather, and 4-tier English availability badges. Not a magazine — a directory. THE PATTERN: English-language publishing in Madrid has gone through 3 phases: (1) Print era (1990s-2000s) — The Standard, The Broadsheet, In Madrid. Print was the only option. Distribution was physical (hotels, pubs, cinemas). (2) Transition era (2010s) — Essential Magazine, Madrid Metropolitan. Both print and online. Print shrinks, online grows. (3) Digital era (2020s-present) — Madrid No Frills (blog), Madrid Insider (directory). Digital-only, searchable, always current. WHO FILLS THE VOID NOW: (1) Daily news: El País English, The Local Spain. (2) Magazine/features: Madrid Metropolitan. (3) Blog/authentic: Madrid No Frills. (4) Directory/resources: Madrid Insider (our site). (5) Radio: RNE 5 (BBC World Service overnight). (6) Community: Facebook groups, Meetup, WhatsApp groups. TIPS: (1) Madrid Metropolitan is the direct successor to The Broadsheet and In Madrid. (2) For historical research, the National Library of Spain (Biblioteca Nacional) may have archives. (3) The Syracuse University Madrid visitor guide (2019) references both The Broadsheet and In Madrid as resources.",
+    "official_url": "https://www.madridmetropolitan.com",
+    "status": "legacy",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "history",
+      "english",
+      "publications",
+      "broadsheet",
+      "in-madrid",
+      "magazine"
+    ],
+    "related_records": [
+      "el-pais-english",
+      "expat-publications-madrid",
+      "in-madrid-magazine",
+      "madrid-metropolitan",
+      "the-broadsheet-madrid",
+      "the-local-spain"
+    ]
   }
 ]
