@@ -11594,5 +11594,64 @@
       "verbenas-festivals",
       "madrid-pride"
     ]
+  },
+  {
+    "id": "madrid-flatmate-historical",
+    "title": "Madrid Flatmate (Historical — Accommodation Service)",
+    "category": "living",
+    "subcategory": "housing",
+    "subsubcategory": "Shared Housing",
+    "summary": "Defunct Madrid accommodation service (2000s-2010s). Office at C/Canarias 28. Rooms, flats, baggage storage, cell phone rental, airport pickup. Partner of original Madrid Insider.",
+    "content": "Madrid Flatmate (madridflatmate.com) was a Madrid-based accommodation service that operated from the 2000s through the early 2010s. It was a partner service of the original Madrid Insider website. WHAT THEY OFFERED: (1) Short and long-term accommodation — rooms in shared flats, studios, apartments, lofts. Primarily for Erasmus students, international students, and expats. (2) Baggage storage (consigna de equipajes) — left luggage service at their office. (3) Cell phone rental — for international visitors who needed a Spanish phone. (4) Airport pick-up service — met you at Barajas and brought you to your accommodation. (5) Tourist information — free info service at their office. OFFICE: C/Canarias Nº 28 - Local A, Madrid. Metro: Palos de la Frontera (Line 3). Phone: 91 530 34 82 / 686 20 86 13. TAGLINE: 'ALL THAT YOU NEED'. TARGET AUDIENCE: Erasmus students, international students at Complutense, Autónoma, Carlos III, Politécnica universities. Also served tourists and short-term visitors. FEATURES: (1) Featured on esMadrid TV (official Madrid tourism channel). (2) Physical office — not just a website, you could visit and get help in person. (3) 'Club Madrid Flatmate' — membership program with benefits. (4) Available rooms/flats listing on their website. (5) Multi-language service (English, Spanish). CONNECTION TO MADRID INSIDER: Madrid Flatmate was listed in the original Madrid Insider website's keywords (2005 snapshot) as a partner service. The original Madrid Insider directed visitors to Madrid Flatmate for accommodation needs. STATUS: The domain madridflatmate.com now redirects to a Linktree page for a coin collecting YouTube channel — completely repurposed. The service appears to have ceased operations sometime in the 2010s. WHO FILLS THE VOID NOW: (1) Room/flat search: Idealista, Fotocasa, Badi, Spotahome. (2) Baggage storage: Left luggage at Atocha/Chamartín/Barajas (see our Storage & Lockers records). (3) Cell phone rental: SIM cards (Vodafone, Orange) and eSIMs (Airalo). (4) Airport pickup: Uber, Cabify, Taxi (€30 flat rate), Metro L8. (5) Tourist info: Official Tourist Offices (Plaza Mayor), Madrid Insider (our site). LEGACY: Madrid Flatmate was one of the first one-stop-shop services for English-speaking arrivals in Madrid — combining accommodation, storage, phones, and airport pickup in one place. This 'all-in-one arrival service' concept is now split across multiple platforms and apps.",
+    "official_url": "https://web.archive.org/web/20110202183251/http://www.madridflatmate.com/",
+    "status": "archived",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "housing",
+      "historical",
+      "madrid-flatmate",
+      "accommodation",
+      "erasmus",
+      "defunct",
+      "partner"
+    ],
+    "related_records": [
+      "shared-housing-flatmates-madrid",
+      "idealista",
+      "fotocasa",
+      "left-luggage",
+      "multimadrid-com-historical"
+    ]
+  },
+  {
+    "id": "whatmadrid-com",
+    "title": "WhatMadrid.com (English Madrid Guide)",
+    "category": "now",
+    "subcategory": "news",
+    "subsubcategory": "Magazines & Blogs",
+    "summary": "Active English-language Madrid city guide. 67 sections covering sights, food, transport, neighborhoods, culture, day trips. Part of the 'What' travel guide series.",
+    "content": "WhatMadrid.com is an active English-language Madrid city guide, part of the 'What' travel guide series covering Spain and Latin America. The site provides practical, tourist, and cultural information about Madrid. WHAT IT COVERS (67 sections): (1) About Madrid — history, geography, people. (2) City Guide — neighborhood-by-neighborhood orientation. (3) City Transport — Metro, buses, taxis, airport. (4) Culture & The Arts — museums, theaters, galleries. (5) Food in Madrid — restaurants, tapas, Spanish cuisine. (6) Hotels & Hostels — accommodation by area and budget. (7) Apartments — short-term and long-term rentals. (8) Flamenco in Madrid — tablaos and shows. (9) Bullfights — Las Ventas. (10) Festivals in Madrid — annual events calendar. (11) Embassies & Visas — practical info. (12) El Escorial & Valle de los Caídos — day trips. (13) Car Rental — driving in Madrid. (14) Flights to Madrid — airport info. (15) Cultural Centers — museums and arts venues. (16) Neighborhoods — Chueca, Malasaña, La Latina, Salamanca, and more. STRENGTHS: (1) Comprehensive — covers 67 topics (more than most online guides). (2) Well-organized — clear navigation by topic. (3) English-language throughout. (4) Includes practical info (embassies, transport, visas). (5) Covers day trips (El Escorial, Valle de los Caídos, Granada). HOW IT COMPARES TO MADRID INSIDER: WhatMadrid is a traditional travel guide format (articles/essays by topic). Madrid Insider is a structured directory (records with official links, search, sub-subcategories). WhatMadrid has more narrative content (longer articles); Madrid Insider has more structured data (tables, stats, sections, crossover links). They complement each other — WhatMadrid for reading/narrative, Madrid Insider for quick reference/official links. STATUS: Active at whatmadrid.com. The design is traditional (article-based) but the content appears current. TIPS: (1) Their neighborhood guides are good for getting oriented. (2) Their festivals page has a useful annual calendar. (3) Their El Escorial + Valle de los Caídos coverage is more detailed than most guides. (4) Use Madrid Insider for official links and structured info; use WhatMadrid for narrative context.",
+    "official_url": "https://www.whatmadrid.com",
+    "status": "evergreen",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "last_updated": "2026-07-22",
+    "tags": [
+      "news",
+      "blog",
+      "english",
+      "whatmadrid",
+      "guide",
+      "travel",
+      "active"
+    ],
+    "related_records": [
+      "madrid-metropolitan",
+      "madridman-com",
+      "expat-publications-madrid",
+      "english-publications-history-madrid"
+    ]
   }
 ]
