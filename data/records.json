@@ -490,7 +490,7 @@
     "official_url": "https://www.adif.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "luggage"
@@ -501,7 +501,51 @@
       "madrid-barajas-airport",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Storage & Lockers"
+    "subsubcategory": "Storage & Lockers",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Left Luggage Locations & Prices",
+        "columns": [
+          "Location",
+          "Price/day",
+          "Hours",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Atocha Station",
+            "€3.90-5.50",
+            "5:30am-10:30pm",
+            "Cheapest in center, near tropical garden"
+          ],
+          [
+            "Chamartín Station",
+            "€3.90-5.50",
+            "6am-11pm",
+            "Less crowded than Atocha"
+          ],
+          [
+            "Barajas Airport T1",
+            "€4.00",
+            "24/7",
+            "Most expensive, but only 24h option"
+          ],
+          [
+            "Barajas Airport T4",
+            "€5.50",
+            "24/7",
+            "Larger bags"
+          ],
+          [
+            "Estación Sur (buses)",
+            "€3.00",
+            "6am-midnight",
+            "Cheapest overall"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "renfe-trains",
@@ -540,7 +584,7 @@
     "official_url": "https://www.exteriores.gob.es/en/PoliticaExteriorCooperacion/Consulares/Paginas/Consulares.aspx",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "visa",
       "schengen",
@@ -552,7 +596,37 @@
       "passport-requirements",
       "embassies"
     ],
-    "subsubcategory": "Schengen Visa"
+    "subsubcategory": "Schengen Visa",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts for US Citizens",
+        "items": [
+          {
+            "label": "Visa required",
+            "value": "No (90 days visa-free)"
+          },
+          {
+            "label": "Passport validity",
+            "value": "3+ months beyond departure"
+          },
+          {
+            "label": "ETIAS (coming Q4 2026)",
+            "value": "€7, 3-year authorization"
+          },
+          {
+            "label": "Max stay",
+            "value": "90 days per 180-day period"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "The 90/180 Rule",
+        "body": "You can stay 90 days within any rolling 180-day period across ALL Schengen countries. Example: enter Jan 1, stay 90 days, can't re-enter until July 1. Track your days carefully — overstaying can result in fines and a 1-3 year ban.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "etias-2026",
@@ -1241,7 +1315,7 @@
     "content": "The Empadronamiento (also called Padrón Municipal) is Madrid's local resident register. It's MANDATORY for ALL Madrid residents — Spanish, EU, non-EU, everyone. It's FREE and easy. WHAT IT'S NEEDED FOR: (1) Public healthcare access. (2) School enrollment for children. (3) Voting in municipal elections (EU citizens). (4) Social services (subsidized housing, school meals). (5) Some bureaucratic procedures (NIE, TIE). HOW TO REGISTER: (1) Book an appointment at cita-previa.madrid.es (or walk in, but waits are long). (2) Go to any Oficina de Atención al Ciudadano (Citizen Service Office) — there are 25+ across Madrid. (3) Bring: passport (and NIE if you have one), proof of address (rental contract, utility bill in your name, or a signed letter from the person you live with + their ID + their empadronamiento). (4) Fill out the form (Spanish — bring a friend or use Google Translate). (5) Receive your volante de empadronamiento (certificate) immediately. TIPS: (1) It's free. (2) Takes 10-15 minutes if you have an appointment. (3) The certificate (volante) is valid for 3 months — request a new one when needed. (4) Update your empadronamiento when you move. (5) If you live in a shared flat and aren't on the lease, the leaseholder must sign a letter authorizing your registration at that address. (6) Some offices have English-speaking staff — call ahead to check. (7) You can also do it online if you have a digital certificate (certificado digital).",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "paperwork",
       "padron",
@@ -1257,7 +1331,55 @@
       "public-healthcare"
     ],
     "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento",
-    "subsubcategory": "Local Registration"
+    "subsubcategory": "Local Registration",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "Free"
+          },
+          {
+            "label": "Processing Time",
+            "value": "Immediate (10-15 min)"
+          },
+          {
+            "label": "Required",
+            "value": "Passport + proof of address"
+          },
+          {
+            "label": "Where",
+            "value": "Any Citizen Service Office"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "What to Bring",
+        "items": [
+          {
+            "title": "Passport (and NIE if you have one)",
+            "body": "Original + photocopy"
+          },
+          {
+            "title": "Proof of address",
+            "body": "Rental contract, utility bill in your name, OR signed letter from leaseholder + their ID + their empadronamiento"
+          },
+          {
+            "title": "Appointment confirmation",
+            "body": "Book at cita-previa.madrid.es (or walk in, but expect long waits)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Why you need this",
+        "body": "Without empadronamiento, you can't access public healthcare, enroll children in school, vote in municipal elections, or access most social services. It's free, easy, and mandatory for all Madrid residents.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "idealista",
@@ -1339,7 +1461,7 @@
     "content": "Rental contracts in Madrid (Ley de Arrendamientos Urbanos, LAU). STANDARD LEASE TERMS: (1) Duration: minimum 5 years for individual landlords, 7 years for companies. (2) After the initial term, it auto-renews in 1-year increments up to 3 more years (unless landlord needs to move in). (3) Deposit (fianza): 2 months' rent for long-term rentals, 1 month for rooms. Held by the Comunidad de Madrid. (4) Rent: paid monthly, usually by direct debit (domiciliación bancaria). (5) Utilities (luz, agua, gas, internet): paid by tenant, €50-150/month. (6) IBI (property tax): paid by landlord. (7) Community fees (gastos de comunidad): usually paid by landlord, but sometimes by tenant — check the contract. YOUR RIGHTS: (1) The landlord can't evict you during the lease term (unless you don't pay rent or damage the property). (2) The landlord can't raise the rent during the lease term (except by CPI inflation, capped at 2% for 2024). (3) You can leave with 30 days' notice after 6 months. (4) The landlord must give 4 months' notice if they want the apartment back at the end of the lease (for personal use). YOUR OBLIGATIONS: (1) Pay rent on time. (2) Keep the apartment in good condition. (3) Pay for minor repairs (major structural repairs are the landlord's responsibility). (4) Give 30 days' notice before leaving. TIPS: (1) Get EVERYTHING in writing — verbal agreements are worthless. (2) Never pay cash — use bank transfer (proves payment). (3) Take photos of the apartment's condition when you move in and out. (4) The deposit return can take 1-3 months after you leave — follow up with the Comunidad de Madrid. (5) If the landlord withholds the deposit unfairly, you can sue (small claims, 6-12 months). (6) For room rentals (not full apartments), the LAU may not apply — the contract is more flexible but less protected.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "housing",
       "contracts",
@@ -1352,7 +1474,37 @@
       "nie-tie"
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
-    "subsubcategory": "Renting"
+    "subsubcategory": "Renting",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Key Lease Terms",
+        "items": [
+          {
+            "label": "Minimum duration",
+            "value": "5 years (individual landlord)"
+          },
+          {
+            "label": "Deposit",
+            "value": "2 months' rent"
+          },
+          {
+            "label": "Rent increase",
+            "value": "Capped at CPI (2% for 2024)"
+          },
+          {
+            "label": "Notice to leave",
+            "value": "30 days (after 6 months)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Get everything in writing",
+        "body": "Verbal agreements are worthless in Spain. Never pay cash — use bank transfers (they prove payment). Take photos of the apartment's condition when you move in and out. The deposit return can take 1-3 months — follow up with the Comunidad de Madrid.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "spanish-bank-accounts",
@@ -1387,7 +1539,7 @@
     "content": "Spain's public healthcare system (Seguridad Social) is one of the best in the world — ranked #7 globally by WHO. WHO GETS IT FREE: (1) Spanish citizens. (2) Legal residents registered with Social Security (employed or self-employed). (3) EU citizens with an EHIC card (covers temporary stays). (4) Pensioners from EU countries with an S1 form. (5) Pregnant women and children under 18 (regardless of status). HOW TO ACCESS: (1) Get your NIE (foreigner ID). (2) Register with Social Security (get a número de Seguridad Social). (3) Get your empadronamiento (local registration). (4) Apply for a health card (tarjeta sanitaria) at your local health center (centro de salud). (5) Choose a primary care doctor (médico de cabecera) at the health center. WHAT'S COVERED: GP visits, specialist visits, hospital treatment, emergency care, surgeries, maternity care, vaccinations, prescription medications (40% copay for working adults, free for pensioners). WHAT'S NOT COVERED: Dental (except emergencies), vision (except medical conditions), cosmetic procedures. QUALITY: Spanish public hospitals are modern and well-equipped. Wait times: 1-7 days for GP appointment, 1-4 weeks for specialist, 2-6 months for non-urgent surgery. Emergency: walk-in, 2-6 hour wait. NON-EU VISITORS: Not covered by public healthcare. Buy travel insurance (€5-15/day) or annual expat insurance (€40-80/month). See our English-Speaking Doctors record for private options. TIPS: (1) EHIC covers emergency and necessary care only — not routine. (2) Bring your EHIC card AND a copy. (3) Public health centers (centros de salud) are the first point of contact — don't go directly to a hospital unless it's an emergency. (4) Emergency treatment cannot be refused regardless of insurance status.",
     "status": "evergreen",
     "english_friendly": false,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "healthcare",
       "public",
@@ -1402,7 +1554,37 @@
       "social-security-number-spain"
     ],
     "official_url": "https://www.comunidad.madrid/servicios/salud/tarjeta-sanitaria",
-    "subsubcategory": "Public Healthcare"
+    "subsubcategory": "Public Healthcare",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Who Gets Free Healthcare",
+        "items": [
+          {
+            "label": "Spanish citizens",
+            "value": "✅ Free"
+          },
+          {
+            "label": "Legal residents (with SS)",
+            "value": "✅ Free"
+          },
+          {
+            "label": "EU citizens (EHIC)",
+            "value": "✅ Free (emergency + necessary)"
+          },
+          {
+            "label": "Non-EU visitors",
+            "value": "❌ Need private insurance"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Emergencies are free for everyone",
+        "body": "Spanish hospitals cannot refuse emergency treatment regardless of insurance, residency, or nationality. If it's a genuine emergency, go to any hospital ER — they will treat you first and ask questions later.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "english-speaking-doctors",
@@ -1413,7 +1595,7 @@
     "content": "English-speaking doctors in Madrid. PRIVATE CLINICS (best for non-Spanish speakers): (1) Clinica Britannia (Calle Velázquez 28, Salamanca) — English-speaking GPs and specialists, popular with expats. €80-120/visit. Metro Velázquez L4. (2) Sanitas (multiple locations) — Bupa-owned, English-speaking, insurance plans from €50/month. (3) Hospital Ruber Internacional (Calle La Masó 38, Mirasierra) — top private hospital, English-speaking, 24/7 ER. (4) Clinica Universidad de Navarra (Calle Marquesado de Sta. Marta 1) — top research hospital, English-speaking. (5) IMC Hospitales (multiple) — English-speaking, international insurance accepted. (6) Doctor Madrid (doctormadrid.es) — English-speaking house call service, €120-180/visit. WHAT TO BRING: Passport/ID, insurance card (if you have one), list of medications, medical history. If self-paying, expect €80-150 for a GP visit, €100-200 for a specialist. INSURANCE: International plans (Cigna, Bupa, Allianz, AXA) are widely accepted. Spanish insurance (Sanitas, Adeslas, Asisa) from €40-80/month. EMERGENCY: 112 (free, multilingual, 24/7). For minor issues, try a pharmacy first (free advice) — see our Pharmacies record. TIPS: (1) Clinica Britannia is the most popular for English speakers — book ahead. (2) Most private clinics offer same-day appointments. (3) For prescriptions, the doctor will give you a paper prescription (receta) — take it to any pharmacy. (4) Spanish pharmacies can also recommend doctors. (5) EU citizens: use your EHIC for free public healthcare — see our Public Healthcare record.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "healthcare",
       "english",
@@ -1426,7 +1608,45 @@
       "empadronamiento"
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
-    "subsubcategory": "Private Healthcare"
+    "subsubcategory": "Private Healthcare",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "English-Speaking Clinics Compared",
+        "columns": [
+          "Clinic",
+          "Location",
+          "Cost",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Clinica Britannia",
+            "Velázquez 28 (Salamanca)",
+            "€80-120",
+            "Most popular with expats"
+          ],
+          [
+            "Sanitas",
+            "Multiple",
+            "€50/mo insurance",
+            "Best value if staying long"
+          ],
+          [
+            "Ruber Internacional",
+            "La Masó 38 (Mirasierra)",
+            "€150-200",
+            "Top private hospital, 24/7 ER"
+          ],
+          [
+            "Doctor Madrid",
+            "House calls",
+            "€120-180",
+            "Can't leave your hotel"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "teach-english-spain",
@@ -2363,7 +2583,7 @@
     "official_url": "https://chocolateriasangines.com",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "churros",
@@ -2376,7 +2596,37 @@
       "vermouth-madrid",
       "mercado-san-miguel"
     ],
-    "subsubcategory": "Traditional Dishes"
+    "subsubcategory": "Traditional Dishes",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Open since",
+            "value": "1894 (130+ years)"
+          },
+          {
+            "label": "Hours",
+            "value": "24 hours, 365 days"
+          },
+          {
+            "label": "Churros + chocolate",
+            "value": "€4.50"
+          },
+          {
+            "label": "Location",
+            "value": "Pasadizo de San Ginés 5 (near Sol)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "The 4am tradition",
+        "body": "Going to San Ginés at 4am after a night out is a Madrid rite of passage. The line looks long but moves fast (5-10 min). Inside, find a table or stand at the counter (faster). The chocolate is thick and bittersweet — dip the churros, eat, repeat.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "vermouth-madrid",
@@ -4651,7 +4901,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "traditions",
       "bullfight",
@@ -4661,7 +4911,37 @@
     "related_records": [
       "san-isidro-festival"
     ],
-    "subsubcategory": "Bullfighting"
+    "subsubcategory": "Bullfighting",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Venue",
+            "value": "Las Ventas (Calle Alcalá 237)"
+          },
+          {
+            "label": "Capacity",
+            "value": "23,798"
+          },
+          {
+            "label": "Season",
+            "value": "March–October, Sundays 7pm"
+          },
+          {
+            "label": "Tickets",
+            "value": "€25-150 (sombra > sol)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Controversial but cultural",
+        "body": "Bullfighting is controversial — Catalonia and Canary Islands have banned it. But in Madrid it remains legal and culturally significant. If you attend, you'll see a spectacle that has inspired Spanish artists from Goya to Picasso to Hemingway. Make your own judgment.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "verbenas-festivals",
@@ -5651,7 +5931,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "day-trips",
       "el-escorial",
@@ -5665,7 +5945,51 @@
       "segovia-day-trip",
       "renfe-trains"
     ],
-    "subsubcategory": "El Escorial"
+    "subsubcategory": "El Escorial",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "How to Get to El Escorial",
+        "columns": [
+          "Option",
+          "Duration",
+          "Cost",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Cercanías C8",
+            "1 hour",
+            "€5.60",
+            "From Atocha/Chamartín, then 15 min walk"
+          ],
+          [
+            "Bus 661/662",
+            "1 hour",
+            "€4.20",
+            "From Moncloa interchange"
+          ],
+          [
+            "Car",
+            "45 min",
+            "€10 fuel",
+            "Free parking at monastery"
+          ],
+          [
+            "Organized tour",
+            "5-7 hours",
+            "€50-70",
+            "Includes guide + transport"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Valle de los Caídos",
+        "body": "9km north of El Escorial — controversial 150m-tall stone cross and basilica built by Franco. €8 entry. Reachable by taxi or a long hike. Historically significant but politically sensitive.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "cocido-madrileno",
@@ -5678,7 +6002,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "food",
       "cocido",
@@ -5691,7 +6015,57 @@
       "mercado-san-miguel",
       "food-tours-madrid"
     ],
-    "subsubcategory": "Traditional Dishes"
+    "subsubcategory": "Traditional Dishes",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Where to Try Cocido Madrileño",
+        "columns": [
+          "Restaurant",
+          "Area",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Malacatín",
+            "La Latina (Calle Ruda 5)",
+            "€18",
+            "Most traditional, since 1895"
+          ],
+          [
+            "La Bola",
+            "Ópera (Calle Bola 5)",
+            "€22",
+            "Since 1870, cooked in individual clay pots"
+          ],
+          [
+            "Taberna de la Daniela",
+            "Salamanca",
+            "€24",
+            "Elegant version"
+          ],
+          [
+            "Casa Carola",
+            "Salamanca",
+            "€20",
+            "All-you-can-eat style"
+          ],
+          [
+            "Lhardy",
+            "Carrera San Jerónimo 8",
+            "€28",
+            "Historic restaurant (1839)"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "When to eat cocido",
+        "body": "Cocido is a winter dish — most restaurants serve it only Tue/Thu/Sat (traditional days). Don't eat breakfast before a cocido lunch — you'll need the space. 3 courses: broth soup → vegetables → meats.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "atletico-madrid-wanda-metropolitano",
@@ -5809,7 +6183,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-22",
     "tags": [
       "arts",
       "opera",
@@ -5822,7 +6196,46 @@
       "royal-palace",
       "almudena-cathedral"
     ],
-    "subsubcategory": "Opera & Theater"
+    "subsubcategory": "Opera & Theater",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Ticket Prices",
+        "columns": [
+          "Option",
+          "Price",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Standing room (galería)",
+            "€8-15",
+            "Sold 2 hours before, queue early"
+          ],
+          [
+            "Last-minute",
+            "50% off",
+            "1 hour before, if available"
+          ],
+          [
+            "Under-35",
+            "50% off",
+            "With ID, selected shows"
+          ],
+          [
+            "Regular",
+            "€20-200",
+            "Depends on seat and production"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Free live broadcast",
+        "body": "Major operas are broadcast free on screens in Plaza de Oriente and on Spanish TV (RTVE). If you can't get tickets, watching from the plaza with wine and snacks is a Madrid experience in itself.",
+        "tone": "success"
+      }
+    ]
   },
   {
     "id": "the-local-spain",
@@ -6660,7 +7073,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "services",
       "supermarket",
@@ -6672,7 +7085,63 @@
       "mercados-madrid",
       "post-office-madrid"
     ],
-    "subsubcategory": "Food & Grocery"
+    "subsubcategory": "Food & Grocery",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Supermarket Comparison",
+        "columns": [
+          "Chain",
+          "Price level",
+          "Sundays",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Mercadona",
+            "€€ (best value)",
+            "Closed",
+            "Daily groceries, own-brand Hacendado"
+          ],
+          [
+            "Carrefour",
+            "€€",
+            "Some open",
+            "International section, bulk buys"
+          ],
+          [
+            "El Corte Inglés",
+            "€€€ (premium)",
+            "Open 11am-9pm",
+            "Gourmet, international, quality"
+          ],
+          [
+            "Lidl",
+            "€ (cheap)",
+            "Closed",
+            "German products, good quality"
+          ],
+          [
+            "Aldi",
+            "€ (cheap)",
+            "Closed",
+            "Budget, similar to Lidl"
+          ],
+          [
+            "Dia",
+            "€ (cheapest)",
+            "Closed",
+            "Budget, very basic"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Sunday shopping",
+        "body": "Most supermarkets close Sundays. Only El Corte Inglés, Supercor, and some Carrefour locations are open. Corner shops (ultramarinos) and some convenience stores (Opencor) are open but more expensive. Plan ahead for Sunday.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "movie-theaters-madrid",
@@ -7099,7 +7568,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "housing",
       "hotel",
@@ -7113,7 +7582,57 @@
       "sol-gran-via-neighborhood",
       "tipping-spain"
     ],
-    "subsubcategory": "Hotels"
+    "subsubcategory": "Hotels",
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Hotel Recommendations by Budget",
+        "columns": [
+          "Budget",
+          "Hotel",
+          "Area",
+          "Price/night"
+        ],
+        "rows": [
+          [
+            "Luxury",
+            "Four Seasons",
+            "Sevilla 3 (center)",
+            "€400-600"
+          ],
+          [
+            "Luxury",
+            "Mandarin Oriental Ritz",
+            "Plaza de la Lealtad",
+            "€350-500"
+          ],
+          [
+            "Premium",
+            "Riu Plaza España",
+            "Gran Vía 137",
+            "€120-180"
+          ],
+          [
+            "Mid-range",
+            "Dear Hotel",
+            "Gran Vía 80",
+            "€90-130"
+          ],
+          [
+            "Budget",
+            "B&B Hotel Centro",
+            "Flora 4 (Sol)",
+            "€60-90"
+          ],
+          [
+            "Hostel",
+            "Room007 Sol",
+            "Calle de la Silva",
+            "€20-30 (dorm)"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": "hostels-madrid",
@@ -7443,7 +7962,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "cercanias",
@@ -7457,6 +7976,56 @@
       "chamartin-station",
       "madrid-barajas-airport",
       "el-escorial-day-trip"
+    ],
+    "sections": [
+      {
+        "type": "table",
+        "heading": "Key Cercanías Lines for Tourists",
+        "columns": [
+          "Line",
+          "Route",
+          "Duration",
+          "Useful for"
+        ],
+        "rows": [
+          [
+            "C1",
+            "Atocha → Airport T4",
+            "25 min",
+            "Airport transfer (cheapest)"
+          ],
+          [
+            "C1",
+            "Atocha → Chamartín",
+            "8 min",
+            "Faster than Metro"
+          ],
+          [
+            "C3",
+            "Atocha → El Escorial",
+            "1 hour",
+            "Day trip to El Escorial"
+          ],
+          [
+            "C7",
+            "Atocha → Alcalá de Henares",
+            "35 min",
+            "University city day trip"
+          ],
+          [
+            "C8",
+            "Atocha → Cercedilla",
+            "1h 15m",
+            "Gateway to Sierra mountains"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Cercanías vs Metro",
+        "body": "Cercanías is faster than Metro for cross-city trips (Atocha to Chamartín: 8 min vs 15+ on Metro). It's also the only public transport to El Escorial, Alcalá, and the Sierra. Fares: €1.70-5.60 depending on zone. Use your Tarjeta Transporte Público.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -7471,7 +8040,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "tags": [
       "transport",
       "night-bus",
@@ -7485,6 +8054,36 @@
       "metro-de-madrid",
       "taxis-madrid",
       "ride-sharing-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Night Bus Quick Facts",
+        "items": [
+          {
+            "label": "Routes",
+            "value": "27 (N1-N28)"
+          },
+          {
+            "label": "Hub",
+            "value": "Plaza de Cibeles (all routes start here)"
+          },
+          {
+            "label": "Hours",
+            "value": "Midnight – 6am"
+          },
+          {
+            "label": "Fare",
+            "value": "€1.50 (or €1.20 with card)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "N4 to Airport",
+        "body": "The N4 is the ONLY public transport to Barajas Airport between 1:30am and 6am. Runs every 35 min from Cibeles. €1.50 — much cheaper than a €30 taxi or surge-priced Uber.",
+        "tone": "info"
+      }
     ]
   },
   {
