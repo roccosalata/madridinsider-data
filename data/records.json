@@ -20305,7 +20305,8 @@
       "parque-de-atracciones-madrid",
       "faunia-madrid",
       "robotics-stem-camps-madrid",
-      "equestrian-holidays-spain"
+      "equestrian-holidays-spain",
+      "andalusian-horses-dance-show"
     ],
     "sections": [
       {
@@ -25735,7 +25736,8 @@
       "equestrian-camps-madrid",
       "cooking-holidays-spain",
       "wine-tours-from-madrid",
-      "meditation-retreats-spain"
+      "meditation-retreats-spain",
+      "andalusian-horses-dance-show"
     ],
     "sections": [
       {
@@ -27195,6 +27197,119 @@
           "Don't underestimate Spanish players — they've grown up with the sport",
           "Don't book without verifying English-speaking coaches (most clubs are Spanish-only)"
         ]
+      }
+    ]
+  },
+  {
+    "id": "andalusian-horses-dance-show",
+    "category": "see",
+    "subcategory": "performing-arts",
+    "title": "How the Andalusian Horses Dance (Royal Equestrian School, Jerez)",
+    "summary": "World-famous equestrian ballet at the Royal Andalusian School of Equestrian Art in Jerez de la Frontera. Spanish music, 18th-century costumes, classical dressage, carriage driving. 4.6 stars from 10,000+ reviews. €18-€35.",
+    "content": "The 'How the Andalusian Horses Dance' show at the Royal Andalusian School of Equestrian Art (Fundación Real Escuela Andaluza del Arte Ecuestre) in Jerez de la Frontera is one of Spain's most spectacular cultural performances — an authentic equestrian ballet with purely Spanish music and costumes in the style of the 18th century. The show combines classical dressage, carriage driving, and traditional Spanish horsemanship, performed by the Pure Spanish Breed (Pura Raza Española) horses that have made the school world-renowned. The Royal Andalusian School was founded in 1973 and has become one of Spain's most important equestrian cultural institutions, comparable to the Spanish Riding School of Vienna. Shows are held on specific days (typically Tuesday, Thursday, and Saturday mornings — verify on realescuela.org). Tickets cost €18-€35 depending on seating. The school is in Jerez de la Frontera (Cádiz, Andalusia) — 5 hours from Madrid by AVE train (Madrid → Seville + connecting train to Jerez) or 1-hour flight to Seville + 1-hour train. For visitors to Madrid, this is a multi-day excursion or a day trip with early morning departure. The school also offers carriage museum visits, equestrian museum, and training sessions (different from the full show). For those wanting to RIDE horses rather than watch (equestrian holidays, trail riding, riding camps), see the equestrian-holidays-spain and equestrian-camps-madrid records in Do → Theme Parks & Active Family Fun.",
+    "official_url": "https://www.realescuela.org/en/show",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "equestrian",
+      "horse-show",
+      "andalusian-horses",
+      "jerez",
+      "dressage",
+      "spectator",
+      "spanish-culture",
+      "performing-arts",
+      "royal-school"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "equestrian-holidays-spain",
+      "equestrian-camps-madrid",
+      "flamenco-madrid",
+      "el-escorial-day-trip",
+      "toledo"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's equestrian ballet — a spectator performance",
+        "body": "The 'How the Andalusian Horses Dance' show is an equestrian ballet: classical dressage, carriage driving, and traditional Spanish horsemanship performed to Spanish music with 18th-century costumes. You SIT and WATCH — this is a spectator event, not a riding experience.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Jerez de la Frontera (Cádiz, Andalusia)"
+          },
+          {
+            "label": "From Madrid",
+            "value": "5 hrs by AVE train, or 1hr flight + 1hr train"
+          },
+          {
+            "label": "Ticket cost",
+            "value": "€18-€35 depending on seating"
+          },
+          {
+            "label": "Show days",
+            "value": "Typically Tue/Thu/Sat mornings (verify on website)"
+          },
+          {
+            "label": "TripAdvisor rating",
+            "value": "4.6 stars from 10,000+ reviews"
+          },
+          {
+            "label": "Founded",
+            "value": "1973 (Royal Andalusian School)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What the show includes",
+        "items": [
+          {
+            "title": "Classical dressage",
+            "body": "Horses perform advanced dressage movements — piaffe, passage, pirouettes — choreographed to music."
+          },
+          {
+            "title": "Carriage driving",
+            "body": "Historic carriages driven by expert handlers. 18th-century style."
+          },
+          {
+            "title": "Spanish horsemanship",
+            "body": "Traditional Doma Vaquera (cowboy-style riding) and other Spanish riding traditions."
+          },
+          {
+            "title": "Pura Raza Española horses",
+            "body": "The Pure Spanish Breed (Andalusian) — one of the world's oldest horse breeds. White/grey, noble, athletic."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting the Royal Equestrian School",
+        "do": [
+          "Book show tickets in advance at realescuela.org — popular dates sell out",
+          "Combine with a visit to Jerez's sherry bodegas (same city)",
+          "Visit the school's carriage museum + equestrian museum on non-show days",
+          "Consider staying overnight in Jerez (5-hour train from Madrid is long for a day trip)",
+          "Combine with Seville (1 hour away) for a 2-3 day Andalusia trip"
+        ],
+        "dont": [
+          "Don't confuse this with a riding experience — you WATCH, you don't ride",
+          "Don't expect Madrid proximity — Jerez is in Andalusia, 5 hours from Madrid",
+          "Don't skip the carriage museum if you're at the school"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Want to RIDE horses instead?",
+        "body": "For equestrian holidays (trail riding, dressage training, horse + yoga retreats) where you PARTICIPATE, see equestrian-holidays-spain (Equitours, Equus Journeys, Far and Ride) in Do → Theme Parks & Active Family Fun. For kids' equestrian camps, see equestrian-camps-madrid.",
+        "tone": "info"
       }
     ]
   }
