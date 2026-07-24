@@ -7612,13 +7612,13 @@
     "title": "English & Foreign Language Bookstores",
     "category": "do",
     "subcategory": "shopping",
-    "summary": "J&J Books (English used), Coffee & Books (English+coffee), FNAC (mainstream). Also Librería Extranjera for textbooks.",
+    "summary": "J&J Books & Coffee (English second-hand + café + natural wine, Malasaña), Coffee & Books (English + coffee), FNAC (mainstream). Also Librería Extranjera for textbooks.",
     "content": "Madrid has several bookstores with English-language books. J&J Books and Coffee (Espíritu Santo 47, Malasaña) — English-language used bookstore with a café, popular with English-speaking expats, hosts book clubs and language exchanges. Coffee & Books (León 12, Huertas) — small but well-stocked English bookstore with coffee and pastries, very cozy. La Central de Callao (Postigo de San Martín 8) — large general bookstore with a Spanish literature section, English fiction section, and café. FNAC (Marqués de Casa Riera 4 / Castellana 28) — chain store with decent English-language section (mostly bestsellers, classics, and children's books). Casa del Libro (Gran Vía 29) — large Spanish chain, English section on the second floor. For textbooks and academic books: Librería Extranjera (Cruz 17) and the bookstores at the Complutense University campus. For Spanish language learning materials: the SG and SG bookstore chain (Calle Isaac Peral 32). For secondhand Spanish books: the Feria del Libro de Madrid (Retiro Park, late May-early June) and El Rastro (Sundays).",
-    "official_url": "https://www.jandjbooksandcoffee.com/",
+    "official_url": "https://jnjsbooksandcoffee.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "shopping",
       "books",
@@ -8300,7 +8300,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "visas",
       "student",
@@ -8318,7 +8318,8 @@
       "english-taught-masters-madrid",
       "international-school-jobs-madrid",
       "internship-services-madrid",
-      "gap-year-programs-madrid"
+      "gap-year-programs-madrid",
+      "madrid-law-summer-programs"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8908,7 +8909,8 @@
       "english-taught-masters-madrid",
       "english-mba-programs-madrid",
       "pre-university-summer-madrid",
-      "science-summer-programs-spain"
+      "science-summer-programs-spain",
+      "madrid-law-summer-programs"
     ],
     "subsubcategory": "Universities",
     "sections": [
@@ -9485,7 +9487,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "nightlife",
       "malasana",
@@ -9496,7 +9498,8 @@
     "related_records": [
       "malasana-neighborhood",
       "chueca-bars-nightlife",
-      "la-latina-tapas-nightlife"
+      "la-latina-tapas-nightlife",
+      "madrid-music-festivals"
     ],
     "subsubcategory": "Bars & Pubs"
   },
@@ -9511,7 +9514,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "nightlife",
       "chueca",
@@ -9522,7 +9525,8 @@
     "related_records": [
       "chueca-neighborhood",
       "malasana-bars-nightlife",
-      "madrid-pride"
+      "madrid-pride",
+      "madrid-music-festivals"
     ],
     "subsubcategory": "Bars & Pubs"
   },
@@ -10810,7 +10814,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "tennis",
@@ -10821,7 +10825,8 @@
     "related_records": [
       "madrid-open-tennis",
       "running-madrid",
-      "tennis-academies-spain"
+      "tennis-academies-spain",
+      "paddle-tennis-camps-madrid"
     ],
     "subsubcategory": "Racquet Sports"
   },
@@ -11023,7 +11028,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "nightlife",
       "terrazas",
@@ -11035,7 +11040,8 @@
     "related_records": [
       "malasana-bars-nightlife",
       "chueca-bars-nightlife",
-      "temple-debod"
+      "temple-debod",
+      "madrid-music-festivals"
     ],
     "subsubcategory": "Rooftops & Terraces"
   },
@@ -11050,7 +11056,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "yoga",
@@ -11064,7 +11070,8 @@
       "retiro-park",
       "running-madrid",
       "yoga-teacher-training-spain",
-      "pilates-teacher-training-madrid"
+      "pilates-teacher-training-madrid",
+      "yoga-wellness-retreats-spain"
     ],
     "subsubcategory": "Fitness & Wellness"
   },
@@ -11207,7 +11214,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "comedy",
@@ -11218,7 +11225,8 @@
     ],
     "related_records": [
       "teatro-real-madrid",
-      "movie-theaters-madrid"
+      "movie-theaters-madrid",
+      "madrid-music-festivals"
     ],
     "subsubcategory": "Comedy & Magic"
   },
@@ -14320,7 +14328,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "nightlife",
       "spa",
@@ -14333,7 +14341,8 @@
       "hammams-arab-baths-madrid",
       "yoga-madrid",
       "terrazas-rooftop-bars-madrid",
-      "meditation-retreats-spain"
+      "meditation-retreats-spain",
+      "yoga-wellness-retreats-spain"
     ]
   },
   {
@@ -14631,7 +14640,8 @@
       "teatro-real-madrid",
       "writer-residencies-spain",
       "creative-writing-workshops-madrid",
-      "madrid-book-fair-literary-events"
+      "madrid-book-fair-literary-events",
+      "madrid-poetry-literary-festivals"
     ]
   },
   {
@@ -14871,7 +14881,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "nightlife",
       "etiquette",
@@ -14886,7 +14896,8 @@
       "chueca-bars-nightlife",
       "la-latina-tapas-nightlife",
       "madrid-clubs-electronic",
-      "night-buses-buhos-madrid"
+      "night-buses-buhos-madrid",
+      "madrid-music-festivals"
     ],
     "sections": [
       {
@@ -16228,7 +16239,8 @@
       "awc-madrid",
       "english-mba-programs-madrid",
       "model-united-nations-madrid",
-      "startup-accelerators-madrid"
+      "startup-accelerators-madrid",
+      "madrid-law-summer-programs"
     ],
     "sections": [
       {
@@ -16601,7 +16613,8 @@
       "equestrian-camps-madrid",
       "pre-university-summer-madrid",
       "robotics-stem-camps-madrid",
-      "spanish-family-immersion-madrid"
+      "spanish-family-immersion-madrid",
+      "kids-music-summer-camps-madrid"
     ],
     "sections": [
       {
@@ -17162,7 +17175,8 @@
       "golf-academies-spain",
       "basketball-camps-spain",
       "robotics-stem-camps-madrid",
-      "volleyball-camps-spain"
+      "volleyball-camps-spain",
+      "paddle-tennis-camps-madrid"
     ],
     "sections": [
       {
@@ -17280,7 +17294,7 @@
       "wellness",
       "english-taught"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "yoga-madrid",
@@ -17288,7 +17302,8 @@
       "language-schools-madrid",
       "spa-madrid",
       "pilates-teacher-training-madrid",
-      "meditation-retreats-spain"
+      "meditation-retreats-spain",
+      "yoga-wellness-retreats-spain"
     ],
     "sections": [
       {
@@ -18028,7 +18043,7 @@
       "postgraduate",
       "recruitment"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "universities-madrid",
@@ -18039,7 +18054,8 @@
       "english-mba-programs-madrid",
       "gap-year-programs-madrid",
       "pre-university-summer-madrid",
-      "model-united-nations-madrid"
+      "model-united-nations-madrid",
+      "madrid-law-summer-programs"
     ],
     "sections": [
       {
@@ -18456,7 +18472,9 @@
       "guitar-luthier-schools-spain",
       "photography-workshops-madrid",
       "jazz-music-workshops-madrid",
-      "theater-festivals-madrid"
+      "theater-festivals-madrid",
+      "contemporary-dance-intensives-madrid",
+      "kids-music-summer-camps-madrid"
     ],
     "sections": [
       {
@@ -18568,7 +18586,7 @@
       "b&b",
       "silence"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "el-escorial-monastery",
@@ -18578,7 +18596,8 @@
       "spa-madrid",
       "hammams-arab-baths-madrid",
       "meditation-retreats-spain",
-      "writer-residencies-spain"
+      "writer-residencies-spain",
+      "yoga-wellness-retreats-spain"
     ],
     "sections": [
       {
@@ -19096,7 +19115,8 @@
       "pre-university-summer-madrid",
       "coding-bootcamps-madrid",
       "startup-accelerators-madrid",
-      "teen-entrepreneurship-summer-madrid"
+      "teen-entrepreneurship-summer-madrid",
+      "madrid-law-summer-programs"
     ],
     "sections": [
       {
@@ -19493,7 +19513,7 @@
       "english-taught",
       "summer-intensive"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "flamenco-madrid",
@@ -19502,7 +19522,8 @@
       "language-schools-madrid",
       "art-design-schools-madrid",
       "guitar-luthier-schools-spain",
-      "jazz-music-workshops-madrid"
+      "jazz-music-workshops-madrid",
+      "contemporary-dance-intensives-madrid"
     ],
     "sections": [
       {
@@ -19619,7 +19640,8 @@
       "spa-madrid",
       "hammams-arab-baths-madrid",
       "writer-residencies-spain",
-      "equestrian-holidays-spain"
+      "equestrian-holidays-spain",
+      "yoga-wellness-retreats-spain"
     ],
     "sections": [
       {
@@ -19767,7 +19789,8 @@
       "bilingual-schools-madrid",
       "english-speaking-doctors-madrid",
       "moving2madrid-relocation",
-      "spanish-family-immersion-madrid"
+      "spanish-family-immersion-madrid",
+      "kids-music-summer-camps-madrid"
     ],
     "sections": [
       {
@@ -19915,7 +19938,8 @@
       "language-exchanges-madrid",
       "art-design-schools-madrid",
       "spanish-film-festivals",
-      "theater-festivals-madrid"
+      "theater-festivals-madrid",
+      "contemporary-dance-intensives-madrid"
     ],
     "sections": [
       {
@@ -20038,7 +20062,8 @@
       "madrid-open-tennis",
       "tennis-madrid",
       "basketball-camps-spain",
-      "volleyball-camps-spain"
+      "volleyball-camps-spain",
+      "paddle-tennis-camps-madrid"
     ],
     "sections": [
       {
@@ -21336,7 +21361,8 @@
       "instituto-cervantes-accredited-schools-madrid",
       "spanish-history-culture-courses-madrid",
       "business-spanish-executives-madrid",
-      "spanish-family-immersion-madrid"
+      "spanish-family-immersion-madrid",
+      "spanish-seniors-programs-spain"
     ],
     "sections": [
       {
@@ -21902,7 +21928,9 @@
       "model-united-nations-madrid",
       "robotics-stem-camps-madrid",
       "teen-entrepreneurship-summer-madrid",
-      "science-summer-programs-spain"
+      "science-summer-programs-spain",
+      "kids-music-summer-camps-madrid",
+      "madrid-law-summer-programs"
     ],
     "sections": [
       {
@@ -22022,7 +22050,8 @@
       "golf-academies-spain",
       "english-summer-camps-madrid",
       "robotics-stem-camps-madrid",
-      "volleyball-camps-spain"
+      "volleyball-camps-spain",
+      "paddle-tennis-camps-madrid"
     ],
     "sections": [
       {
@@ -22407,7 +22436,7 @@
       "elderly",
       "pensioners"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-speaking-doctors-madrid",
@@ -22415,7 +22444,8 @@
       "english-speaking-financial-advisors-madrid",
       "healthcare",
       "english-speaking-lawyers-madrid",
-      "awc-madrid"
+      "awc-madrid",
+      "spanish-seniors-programs-spain"
     ],
     "sections": [
       {
@@ -22590,7 +22620,8 @@
       "survival-spanish",
       "restaurant-spanish",
       "business-spanish-executives-madrid",
-      "spanish-family-immersion-madrid"
+      "spanish-family-immersion-madrid",
+      "spanish-seniors-programs-spain"
     ],
     "sections": [
       {
@@ -22714,7 +22745,8 @@
       "freelancing-spain",
       "coworking-madrid",
       "english-mba-programs-madrid",
-      "startup-accelerators-madrid"
+      "startup-accelerators-madrid",
+      "ai-ml-summer-programs-spain"
     ],
     "sections": [
       {
@@ -22981,7 +23013,8 @@
       "meditation-retreats-spain",
       "monastery-stays-spain",
       "creative-writing-workshops-madrid",
-      "madrid-book-fair-literary-events"
+      "madrid-book-fair-literary-events",
+      "madrid-poetry-literary-festivals"
     ],
     "sections": [
       {
@@ -24135,7 +24168,8 @@
       "soccer-camps-madrid",
       "equestrian-camps-madrid",
       "basketball-camps-spain",
-      "science-summer-programs-spain"
+      "science-summer-programs-spain",
+      "ai-ml-summer-programs-spain"
     ],
     "sections": [
       {
@@ -24402,7 +24436,8 @@
       "film-schools-madrid",
       "flamenco-madrid",
       "magic-comedy-madrid",
-      "music-summer-programs-madrid"
+      "music-summer-programs-madrid",
+      "contemporary-dance-intensives-madrid"
     ],
     "sections": [
       {
@@ -24531,7 +24566,8 @@
       "spanish-immersion-adults-spain",
       "spanish-history-culture-courses-madrid",
       "language-schools-madrid",
-      "international-chambers-madrid"
+      "international-chambers-madrid",
+      "spanish-seniors-programs-spain"
     ],
     "sections": [
       {
@@ -24672,7 +24708,8 @@
       "artist-residencies-madrid",
       "photography-workshops-madrid",
       "film-schools-madrid",
-      "madrid-book-fair-literary-events"
+      "madrid-book-fair-literary-events",
+      "madrid-poetry-literary-festivals"
     ],
     "sections": [
       {
@@ -24936,7 +24973,8 @@
       "writer-residencies-spain",
       "literary-quarter-madrid",
       "retiro-park",
-      "retiro-neighborhood"
+      "retiro-neighborhood",
+      "madrid-poetry-literary-festivals"
     ],
     "sections": [
       {
@@ -25041,8 +25079,11 @@
             "body": "Cinema bookshop. Spanish + English. Strong film + literature crossover."
           },
           {
-            "title": "J&J Books and Coffee (Calle del Espíritu Santo 18, Malasaña)",
-            "body": "English-language bookshop + coffee shop. Most English books in Madrid. Events in English."
+            "title": "J&J Books and Coffee (Calle del Espíritu Santo 47, Malasaña)",
+            "body": "English-language bookshop + specialty coffee + natural wine bar. Most English books in Madrid. Friday quiz nights 9:30pm. Language exchange events. International community hub.",
+            "meta": [
+              "jnjsbooksandcoffee.com"
+            ]
           }
         ]
       }
@@ -25076,7 +25117,8 @@
       "instituto-cervantes-accredited-schools-madrid",
       "language-schools-madrid",
       "english-summer-camps-madrid",
-      "nanny-agencies-madrid"
+      "nanny-agencies-madrid",
+      "spanish-seniors-programs-spain"
     ],
     "sections": [
       {
@@ -25853,7 +25895,8 @@
       "pre-university-summer-madrid",
       "humanities-philosophy-summer-spain",
       "teen-entrepreneurship-summer-madrid",
-      "universities-madrid"
+      "universities-madrid",
+      "ai-ml-summer-programs-spain"
     ],
     "sections": [
       {
@@ -25947,6 +25990,1235 @@
             "title": "Madrid research institutions",
             "body": "Spanish National Research Council (CSIC), Carlos III Health Institute, National Centre for Biotechnology. Summer internship opportunities."
           }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "contemporary-dance-intensives-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Contemporary Dance & Ballet Intensives in Madrid (English)",
+    "summary": "Madrid contemporary dance + ballet intensives recruiting international dancers: Factory Ballet (contemporary intensives), ART of Ballet Summer Course Madrid, Danza 180 summer program, Ballet de Catalunya (English classes).",
+    "content": "Madrid has a growing English-language contemporary dance and ballet intensive ecosystem, complementing the flamenco intensives already documented. Factory Ballet runs Contemporary Dance Intensive Courses in central Madrid for youth and adults, open to all levels from beginners to Intermediate-Advanced. Sessions run June 22-26 and July (multiple dates). ART of | Ballet Summer Course Madrid trains dancers in July with world-class ballet teachers, William Forsythe Improvisation Technologies, and Repertoire Workshops. Danza 180 runs a 12-day professional summer program in Madrid with contemporary dance from July 1-12. Ballet de Catalunya runs Summer Intensives described as 'transformative' for dancers aged 5+, including contemporary dance, character, solos, and Pilates — with English classes in their workshop. go&dance lists Contemporary Dance intensive courses (Tuesday July 19 and Thursday July 21, 18-20h) focusing on technique. The Madrid contemporary dance market targets: (1) international dance students wanting European training, (2) professional dancers wanting summer intensive continuing education, (3) adult beginners wanting structured dance instruction in English, (4) dancers considering Spanish dance careers. Madrid's contemporary dance scene is anchored by Compañía Nacional de Danza (Spanish National Dance Company, directed by Joaquín de Luz since 2019) and the Teatro del Canal which programs contemporary dance. Programs typically run 1-2 weeks with costs €300-€1,200. Madrid is particularly attractive for dance intensives because of lower cost than London/Paris, established dance infrastructure, and growing international recognition of Spanish contemporary choreographers.",
+    "official_url": "https://www.factoryballet.com/en/111-intensive-contemporary-dance-courses",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "contemporary-dance",
+      "ballet",
+      "dance-intensive",
+      "english-speaking",
+      "factory-ballet",
+      "art-of-ballet",
+      "danza-180",
+      "international-dancers"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "flamenco-dance-intensives-madrid",
+      "music-summer-programs-madrid",
+      "acting-schools-madrid",
+      "theater-festivals-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's contemporary dance scene is growing",
+        "body": "Multiple Madrid schools run English-language contemporary dance + ballet intensives. Factory Ballet, ART of Ballet, Danza 180, Ballet de Catalunya. €300-€1,200 for 1-2 weeks.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-2 weeks typical"
+          },
+          {
+            "label": "Cost",
+            "value": "€300-€1,200"
+          },
+          {
+            "label": "Languages",
+            "value": "English (some Spanish)"
+          },
+          {
+            "label": "Levels",
+            "value": "Beginner to professional"
+          },
+          {
+            "label": "Best season",
+            "value": "June-July (summer intensives)"
+          },
+          {
+            "label": "Top company",
+            "value": "Compañía Nacional de Danza (national company)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid contemporary dance + ballet intensives",
+        "items": [
+          {
+            "title": "Factory Ballet — Contemporary Dance Intensives",
+            "body": "Central Madrid. Youth + adults. All levels. June 22-26 + July sessions.",
+            "meta": [
+              "factoryballet.com/en/111-intensive-contemporary-dance-courses"
+            ]
+          },
+          {
+            "title": "ART of | Ballet Summer Course Madrid",
+            "body": "July. World-class ballet teachers. William Forsythe Improvisation Technologies. Repertoire workshops.",
+            "meta": [
+              "madrid.art-of.net"
+            ]
+          },
+          {
+            "title": "Danza 180 Summer Programs",
+            "body": "Madrid. 12-day professional summer program. Contemporary dance July 1-12.",
+            "meta": [
+              "dancingopportunities.com/summer-programs-danza-180-madrid-spain"
+            ]
+          },
+          {
+            "title": "Ballet de Catalunya Summer Intensive",
+            "body": "Dancers aged 5+. Contemporary, character, solos, Pilates. English classes in workshop.",
+            "meta": [
+              "catballet.com/school/intensive"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's contemporary dance scene",
+        "items": [
+          {
+            "title": "Compañía Nacional de Danza (CND)",
+            "body": "Spanish national dance company. Directed by Joaquín de Luz since 2019. Performs at Teatro de la Zarzuela + Teatro del Canal."
+          },
+          {
+            "title": "Teatro del Canal",
+            "body": "Madrid's main contemporary dance venue. Programs international + Spanish companies. Channel 4 dance festival."
+          },
+          {
+            "title": "Festival Trajectory",
+            "body": "Madrid contemporary dance festival. Spanish + international companies. Annual."
+          },
+          {
+            "title": "Mercat de les Flors partnership",
+            "body": "Barcelona-based but co-programs with Madrid venues. Spanish contemporary dance network."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Madrid dance intensive",
+        "do": [
+          "Apply 2-3 months ahead for summer intensives",
+          "Bring proper dancewear + shoes (expensive to buy in Madrid)",
+          "Choose Factory Ballet for most accessible adult programs",
+          "Choose ART of Ballet for professional-level training",
+          "Combine intensive with attendance at CND performances"
+        ],
+        "dont": [
+          "Don't underestimate physical demand — 6+ hours daily training",
+          "Don't expect luxury accommodations — most intensives use basic housing",
+          "Don't skip the warm-up — Spanish dance culture is rigorous"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spanish-seniors-programs-spain",
+    "category": "essentials",
+    "subcategory": "communication",
+    "title": "Spanish Programs for Seniors (50+) in Spain (English-Speaking)",
+    "summary": "Spain Spanish programs for seniors 50+ recruiting internationally: IH Madrid 55+ program, Colegio de España 50+, Enforex Seniors (50+), Fluenz mature learners Madrid, Pueblo Español adult immersion.",
+    "content": "Spain is one of Europe's top destinations for senior Spanish learners (50+), with multiple schools offering dedicated programs targeting the demographic. International House Madrid runs a 55+ program designed for mature learners to enjoy the language, culture, and the company of new friends in a relaxed, exclusive, and truly Spanish environment. Colegio de España runs a Spanish Program for Seniors 50+ designed exclusively for people who wish to learn or improve their Spanish with people of their own age group. Enforex runs a Seniors Program (50+) including 20 group Spanish classes and 4 cultural activities each week, plus one full-day weekend excursion. Fluenz runs a Spanish Immersion in Madrid specifically serving mature learners through sophisticated programming, educator expertise, and cultural depth. Pueblo Español runs adult Spanish immersion programs designed for an entertaining environment made comfortable for mature learners. The senior Spanish market targets: (1) retirees wanting to learn Spanish before/after relocating to Spain, (2) empty nesters wanting structured cultural travel, (3) professionals approaching retirement wanting Spanish for travel, (4) life-long learners wanting intellectual engagement. Programs typically run 1-4 weeks with costs €500-€2,000/week depending on intensity, accommodations, and inclusions. Most senior programs include: age-appropriate pacing, cultural activities (museum visits, cooking classes, wine tastings), accommodation in comfortable hotels or homestays, and small group sizes. Madrid is particularly attractive for senior Spanish learners because of safety (one of Europe's safest capitals), excellent healthcare, walkable historic center, world-class museums, and established expat community. The 50+ demographic is well-served in Spain — many schools explicitly market to this age group with tailored programming.",
+    "official_url": "https://www.ihmadrid.com/en/spanish/face-to-face/spanish-for-seniors.html",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "seniors-spanish",
+      "50-plus",
+      "mature-learners",
+      "spanish-program",
+      "english-speaking",
+      "international-seniors",
+      "retirees",
+      "ih-madrid",
+      "enforex"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "spanish-immersion-adults-spain",
+      "instituto-cervantes-accredited-schools-madrid",
+      "retirement-spain-english",
+      "business-spanish-executives-madrid",
+      "spanish-family-immersion-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = top senior Spanish learning destination",
+        "body": "Multiple Spanish schools run dedicated 50+ programs recruiting internationally. IH Madrid 55+, Colegio de España, Enforex 50+, Fluenz, Pueblo Español. €500-€2,000/week. Madrid's safety + healthcare + culture attract seniors.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Age range",
+            "value": "50+ (some 55+)"
+          },
+          {
+            "label": "Program length",
+            "value": "1-4 weeks"
+          },
+          {
+            "label": "Cost per week",
+            "value": "€500-€2,000"
+          },
+          {
+            "label": "Languages",
+            "value": "English-administered, Spanish-taught"
+          },
+          {
+            "label": "Includes",
+            "value": "Age-appropriate classes + cultural activities + comfortable accommodation"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish programs for seniors",
+        "items": [
+          {
+            "title": "IH Madrid 55+ Program",
+            "body": "Relaxed, exclusive, truly Spanish environment. Enjoy language, culture, company of new friends.",
+            "meta": [
+              "ihmadrid.com/en/spanish/face-to-face/spanish-for-seniors.html"
+            ]
+          },
+          {
+            "title": "Colegio de España — Spanish for Seniors 50+",
+            "body": "Exclusively for people wishing to learn/improve Spanish with their own age group. Salamanca-based with Madrid options.",
+            "meta": [
+              "colegioespana.com/en/spanish-program-for-seniors"
+            ]
+          },
+          {
+            "title": "Enforex Seniors Program (50+)",
+            "body": "20 group Spanish classes + 4 cultural activities/week + 1 full-day weekend excursion. Multiple Spain locations including Madrid.",
+            "meta": [
+              "enforex.com/specialized-spanish-courses/spanish-fifties"
+            ]
+          },
+          {
+            "title": "Fluenz Spanish Immersion Madrid (Mature Learners)",
+            "body": "Sophisticated programming, educator expertise, cultural depth. Madrid. Specifically serves mature learners.",
+            "meta": [
+              "learn.fluenz.com/spanish-immersion-blog/learning-spanish-madrid-40-50-60-age-appropriate-programs"
+            ]
+          },
+          {
+            "title": "Pueblo Español Adult Immersion",
+            "body": "Stimulating and entertaining environment made comfortable for mature learners. Multi-day immersion.",
+            "meta": [
+              "puebloespanol.com/immersion-program-adults"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What senior Spanish programs include",
+        "items": [
+          {
+            "title": "Age-appropriate pacing",
+            "body": "Slower pace than university programs. More time for questions. Smaller homework loads."
+          },
+          {
+            "title": "Cultural activities",
+            "body": "Museum visits (Prado, Reina Sofía), cooking classes, wine tastings, flamenco shows, walking tours. All in Spanish."
+          },
+          {
+            "title": "Comfortable accommodation",
+            "body": "3-4 star hotels or carefully selected homestays. Senior-friendly amenities."
+          },
+          {
+            "title": "Small group sizes",
+            "body": "6-10 students typical. More personal attention. Better peer bonding."
+          },
+          {
+            "title": "Health considerations",
+            "body": "Schools aware of senior health needs. Flexible schedules. Access to medical care if needed."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a senior Spanish program in Spain",
+        "do": [
+          "Choose IH Madrid for most established 55+ program",
+          "Choose Enforex for cultural activities + weekend excursions",
+          "Choose homestay for maximum Spanish practice",
+          "Tell school about mobility/dietary needs at booking",
+          "Combine 2-4 week program with independent travel"
+        ],
+        "dont": [
+          "Don't book general Spanish courses — senior programs are age-appropriate",
+          "Don't underestimate Spanish summer heat — choose spring/fall",
+          "Don't skip travel insurance covering pre-existing conditions"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madrid-music-festivals",
+    "category": "do",
+    "subcategory": "nightlife",
+    "title": "Madrid International Music Festivals (English-Friendly)",
+    "summary": "Madrid music festivals recruiting international audiences: Mad Cool Festival (July 8-11, 2026, Foo Fighters + Florence + Lorde), Río Babel, Tomavistas, Mulafest. English-language marketing. Madrid's growing festival scene.",
+    "content": "Madrid has become one of Europe's major music festival destinations, with multiple festivals recruiting international audiences through English-language marketing. Mad Cool Festival is Madrid's premier international music festival — its 10th anniversary edition (July 8-11, 2026) features Foo Fighters, Florence + The Machine, Twenty One Pilots, Nick Cave & The Bad Seeds, Pulp, Lorde, Pixies, A Perfect Circle, and 70+ first-rate artists. The festival is documented by esMadrid (official Madrid tourism portal) and major international music press (The Forty Five, Live for Live Music). Mad Cool is held at Espacio Mad Cool (Valdebebas, north Madrid, accessible by Metro Line 8 + shuttle). Beyond Mad Cool, Madrid hosts: Río Babel (world music, June, Caja Mágica), Tomavistas (indie/alternative, May), Mulafest (urban culture), and Sonorama Ribera (Aranda de Duero, August, 2 hours from Madrid). Madrid's festival scene has grown significantly since 2016 when Mad Cool launched — the city is now a serious competitor to Barcelona (Primavera Sound) and Lisbon (NOS Alive) for international music tourists. Festival tickets: Mad Cool 4-day pass €230-€320, single day €80-€110. The festival market targets: (1) international music tourists wanting European festival experience, (2) English-speaking expats in Madrid, (3) Spanish festival-goers wanting international lineups, (4) DJs and electronic music fans (Mad Cool's electronic stages). Madrid is particularly attractive for festival-goers because of lower cost than UK festivals, sunny July weather, vibrant nightlife extending festival experience, and easy European access via Madrid-Barajas airport.",
+    "official_url": "https://www.esmadrid.com/en/whats-on/mad-cool-festival",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "music-festival",
+      "mad-cool",
+      "rio-babel",
+      "tomavistas",
+      "international-music",
+      "english-friendly",
+      "festival",
+      "live-music"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "nightlife-etiquette-madrid",
+      "malasana-bars-nightlife",
+      "chueca-bars-nightlife",
+      "terrazas-rooftop-bars-madrid",
+      "magic-comedy-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = European music festival capital",
+        "body": "Mad Cool Festival (July 8-11, 2026) — Foo Fighters, Florence + The Machine, Lorde, 70+ artists. Plus Río Babel, Tomavistas, Mulafest. Madrid is now a serious competitor to Barcelona and Lisbon.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Mad Cool 2026 dates",
+            "value": "July 8-11, 2026"
+          },
+          {
+            "label": "Mad Cool 4-day pass",
+            "value": "€230-€320"
+          },
+          {
+            "label": "Mad Cool single day",
+            "value": "€80-€110"
+          },
+          {
+            "label": "Venue",
+            "value": "Espacio Mad Cool (Valdebebas, north Madrid)"
+          },
+          {
+            "label": "2026 headliners",
+            "value": "Foo Fighters, Florence + The Machine, Lorde, Pulp, Pixies"
+          },
+          {
+            "label": "Number of artists",
+            "value": "70+ across 7 stages"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid music festivals",
+        "items": [
+          {
+            "title": "Mad Cool Festival",
+            "body": "July 8-11, 2026. 10th anniversary. Madrid's premier international festival. Espacio Mad Cool (Valdebebas). 70+ artists.",
+            "meta": [
+              "esmadrid.com/en/whats-on/mad-cool-festival"
+            ]
+          },
+          {
+            "title": "Río Babel",
+            "body": "World music focus. June. Caja Mágica venue. International + Latin American artists."
+          },
+          {
+            "title": "Tomavistas",
+            "body": "Indie/alternative. May. Smaller, more curated than Mad Cool. Madrid."
+          },
+          {
+            "title": "Mulafest",
+            "body": "Urban culture festival. Music + art + skate + urban sports. Madrid."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Festival logistics for international visitors",
+        "items": [
+          {
+            "title": "Venue access",
+            "body": "Espacio Mad Cool is in Valdebebas (north Madrid). Metro Line 8 (Barajas line) to Feria de Madrid + shuttle bus. 30-45 min from city center."
+          },
+          {
+            "title": "Accommodation",
+            "body": "Book 6+ months ahead — Madrid hotels fill during Mad Cool. Choose city center for nightlife, or near airport if early departure."
+          },
+          {
+            "title": "Weather",
+            "body": "Madrid in July: 35-40°C during day, 20-25°C at night. Festival is open-air. Sunscreen + hydration essential."
+          },
+          {
+            "title": "Money",
+            "body": "Festival cashless (wristband top-up). Cards widely accepted. Bring some cash for food trucks + merchandise."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Madrid music festival tips",
+        "do": [
+          "Book Mad Cool tickets in November/December — sell out by February",
+          "Stay in Madrid city center for nightlife (Malasaña, Chueca, Huertas)",
+          "Use Metro + festival shuttle (don't drive — no parking)",
+          "Bring refillable water bottle (free water stations)",
+          "Plan recovery time — Madrid nightlife continues after festival"
+        ],
+        "dont": [
+          "Don't expect UK-style mud — Madrid festivals are dusty, not muddy",
+          "Don't underestimate July heat — heatstroke is real",
+          "Don't miss the after-parties — Madrid's club scene starts at 2am",
+          "Don't drive to the festival — parking impossible"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yoga-wellness-retreats-spain",
+    "category": "living",
+    "subcategory": "services",
+    "title": "Yoga & Wellness Retreats in Spain (English-Speaking)",
+    "summary": "Spain yoga + wellness retreats recruiting international guests: BookYogaRetreats (top 10), BookRetreats (580 wellness), yoga + massage + meditation. From €500-€2,500/week. Andalusia, Canary Islands, Mallorca strongest.",
+    "content": "Spain is one of Europe's premier yoga and wellness retreat destinations, with hundreds of operators recruiting international guests through English-language marketing. BookYogaRetreats lists the top 10 yoga retreats in Spain for 2026/2027 — including 8-day Yoga and Wellness Relaxation Holidays, plus festivals that include yoga workshops and meditation sessions. BookRetreats lists 580 best wellness retreats around Spain with 21,131 reviews — covering rejuvenation of mind, body, and soul. Condé Nast Traveller documents Europe's best affordable yoga retreats including Spanish options. Responsible Travel covers yoga vacations in Spain — from daily yoga, massage, and meditation classes to authentic Spanish experiences. The Spanish yoga retreat market is concentrated in: Andalusia (Cabo de Gata, Tarifa, Granada), Canary Islands (Tenerife, Lanzarote, Fuerteventura), Mallorca, and Ibiza (luxury wellness). Madrid itself has fewer residential yoga retreats but is the gateway city — most international guests fly into Madrid-Barajas then transfer. The yoga retreat market targets: (1) stressed professionals wanting decompression, (2) solo female travelers wanting safe wellness travel, (3) couples wanting active + spiritual vacation, (4) experienced yogis wanting daily practice in beautiful settings. Programs typically run 3-8 days with costs €500-€2,500/person including accommodation, all meals (usually vegetarian/vegan), 2x daily yoga, meditation sessions, and often massage/treatments. Most Spanish retreats follow a similar daily schedule: 7-8am meditation, 8-10am yoga, 10am brunch, free time/excursion, 4-5pm workshop, 6-8pm yoga, 8pm dinner. Spain is particularly attractive for yoga retreats because of: sunny climate year-round, lower cost than Italy/France, established wellness infrastructure, and Mediterranean diet supporting healthy eating.",
+    "official_url": "https://www.bookyogaretreats.com/all/d/europe/spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "yoga-retreat",
+      "wellness-retreat",
+      "english-speaking",
+      "international-guests",
+      "meditation",
+      "massage",
+      "vegetarian",
+      "andalusia",
+      "canary-islands"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "yoga-teacher-training-spain",
+      "yoga-madrid",
+      "meditation-retreats-spain",
+      "spa-madrid",
+      "monastery-stays-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = top European yoga retreat destination",
+        "body": "Hundreds of operators run English-language yoga + wellness retreats. BookYogaRetreats top 10, BookRetreats 580 options. €500-€2,500/week. Andalusia, Canary Islands, Mallorca strongest.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "3-8 days typical"
+          },
+          {
+            "label": "Cost per person",
+            "value": "€500-€2,500"
+          },
+          {
+            "label": "Includes",
+            "value": "Accommodation, all meals (vegetarian), 2x daily yoga, meditation, often massage"
+          },
+          {
+            "label": "Languages",
+            "value": "English primary"
+          },
+          {
+            "label": "BookRetreats Spain listings",
+            "value": "580 wellness retreats + 21,131 reviews"
+          },
+          {
+            "label": "Best regions",
+            "value": "Andalusia, Canary Islands, Mallorca, Ibiza"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish yoga + wellness retreat platforms",
+        "items": [
+          {
+            "title": "BookYogaRetreats — Top 10 Spain",
+            "body": "Curated top 10 yoga retreats. 8-day Wellness Relaxation Holidays. Plus festival yoga workshops.",
+            "meta": [
+              "bookyogaretreats.com/all/d/europe/spain"
+            ]
+          },
+          {
+            "title": "BookRetreats — Spain Wellness Retreats",
+            "body": "580 best wellness retreats. 21,131 reviews. Rejuvenate mind, body, soul. Various formats.",
+            "meta": [
+              "bookretreats.com/s/wellness-retreats/spain"
+            ]
+          },
+          {
+            "title": "Condé Nast Traveller — Affordable Yoga Europe",
+            "body": "Curated affordable yoga retreats in Europe including Spain. Yogi-approved options.",
+            "meta": [
+              "cntraveller.com/article/affordable-yoga-retreats-europe"
+            ]
+          },
+          {
+            "title": "Responsible Travel — Yoga Vacations Spain",
+            "body": "Daily yoga, massage, meditation classes + authentic Spanish experiences.",
+            "meta": [
+              "responsiblevacation.com/vacations/yoga/travel-guide/yoga-in-spain-holidays"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's best yoga retreat regions",
+        "items": [
+          {
+            "title": "Andalusia (Cabo de Gata, Tarifa, Granada)",
+            "body": "Sunny south. Wild beaches, white villages, yoga retreats. Cabo de Gata (Almería) popular. Tarifa for kite + yoga."
+          },
+          {
+            "title": "Canary Islands (Tenerife, Lanzarote, Fuerteventura)",
+            "body": "Year-round warm. Volcanic landscapes. Lanzarote for surf + yoga. Tenerife for mountain + beach."
+          },
+          {
+            "title": "Mallorca",
+            "body": "Mediterranean island. Mountain + sea. Established wellness scene. Premium pricing."
+          },
+          {
+            "title": "Ibiza",
+            "body": "Luxury wellness. Yoga + dance + sound healing. Higher price point. Party-island stereotype balanced by quiet north."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Typical daily schedule (Spanish yoga retreat)",
+        "items": [
+          {
+            "title": "7-8am Meditation",
+            "body": "Silent sitting + breathwork. Optional for most retreats."
+          },
+          {
+            "title": "8-10am Morning yoga",
+            "body": "More vigorous practice. Vinyasa, Ashtanga, or Hatha depending on style."
+          },
+          {
+            "title": "10am Brunch",
+            "body": "Vegetarian/vegan. Mediterranean + Spanish-influenced. Often communal."
+          },
+          {
+            "title": "Free time / excursion",
+            "body": "Beach, hike, massage, or rest. Optional paid excursions."
+          },
+          {
+            "title": "4-5pm Workshop",
+            "body": "Theme varies: pranayama, philosophy, partner yoga, sound healing."
+          },
+          {
+            "title": "6-8pm Evening yoga",
+            "body": "Restorative/Yin practice. Slower pace."
+          },
+          {
+            "title": "8pm Dinner",
+            "body": "Light vegetarian. Communal. Often silent."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kids-music-summer-camps-madrid",
+    "category": "do",
+    "subcategory": "family",
+    "title": "Kids Music Summer Camps in Madrid (English-Friendly)",
+    "summary": "Madrid kids music summer camps recruiting internationally: Reina Sofía Young Artists (already documented), MumAbroad Music Summer Camp ages 5-11, St. George Madrid music + arts, Agora Madrid International camps. From €300-€800/week.",
+    "content": "Madrid offers multiple music summer camps for kids, with several recruiting international families through English-language marketing. MumAbroad lists English Summer Camps Madrid 2026 including a Music Summer Camp for ages 5-11, running June 29 to July 23, 2026, Monday-Friday 9am-4pm. St. George School Madrid runs a Summer School (June 29 - July 24, 2026) for children aged 3-12, including English and Spanish immersion with music components. Agora Madrid International School runs summer camps including music + arts options. SoloCampamentos lists Music Camps in Spanish for Foreigners 2026 — a curated selection of music camps designed for international children. The Reina Sofía Higher School of Music Young Artists Summer Camp (already documented in music-summer-programs-madrid record) is the most prestigious option — bilingual (English/Spanish) for serious young musicians. The Madrid kids music camp market targets: (1) international expat families wanting musical enrichment, (2) Spanish parents wanting English-language music exposure for kids, (3) serious young musicians wanting intensive training (Reina Sofía), (4) families wanting creative summer activities. Programs typically run 1-4 weeks with costs €300-€800/week for day camps, €800-€1,500/week for residential. Most programs include: instrument instruction (piano, guitar, violin, voice), music theory (age-appropriate), ensemble playing, performance opportunities, and often combined with arts/crafts/sports. Madrid's music education infrastructure is strong — Complutense University, Reina Sofía Higher School of Music, and various conservatories provide excellent teachers for summer camps.",
+    "official_url": "https://mumabroad.com/english-summer-camps-madrid-2025",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "music-camp",
+      "kids-music",
+      "summer-camp",
+      "english-friendly",
+      "international-families",
+      "mumabroad",
+      "st-george-madrid",
+      "reina-sofia"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "music-summer-programs-madrid",
+      "english-summer-camps-madrid",
+      "robotics-stem-camps-madrid",
+      "pre-university-summer-madrid",
+      "nanny-agencies-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid music camps for international kids",
+        "body": "Multiple Madrid camps recruit international families for music programming. MumAbroad Music Camp ages 5-11, St. George Madrid, Agora Madrid International, Reina Sofía Young Artists. €300-€800/week day, €800-€1,500/week residential.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "3-17 (varies by camp)"
+          },
+          {
+            "label": "Day camp cost",
+            "value": "€300-€800/week"
+          },
+          {
+            "label": "Residential cost",
+            "value": "€800-€1,500/week"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (bilingual)"
+          },
+          {
+            "label": "Season",
+            "value": "June-July"
+          },
+          {
+            "label": "Instruments",
+            "value": "Piano, guitar, violin, voice, percussion"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid kids music camps",
+        "items": [
+          {
+            "title": "MumAbroad Music Summer Camp Madrid",
+            "body": "Ages 5-11. June 29 - July 23, 2026. Monday-Friday 9am-4pm. Madrid.",
+            "meta": [
+              "mumabroad.com/english-summer-camps-madrid-2025"
+            ]
+          },
+          {
+            "title": "Reina Sofía Young Artists Summer Camp",
+            "body": "Bilingual (English/Spanish). High-level instrumental instruction. Most prestigious. See music-summer-programs-madrid record.",
+            "meta": [
+              "escuelasuperiordemusicareinasofia.es/en/summercamp"
+            ]
+          },
+          {
+            "title": "St. George School Madrid Summer School",
+            "body": "June 29 - July 24, 2026. Ages 3-12. English + Spanish immersion with music components.",
+            "meta": [
+              "stgeorgemadrid.com/en/news-events/summer-school-madrid"
+            ]
+          },
+          {
+            "title": "Agora Madrid International School Summer Camp",
+            "body": "Madrid. Wide range of camps including music + arts options. International school."
+          },
+          {
+            "title": "SoloCampamentos Music Camps for Foreigners",
+            "body": "Curated selection of music camps designed for international children. Spain-wide including Madrid.",
+            "meta": [
+              "solocampamentos.com/en/categories/music-camps/spanish-for-foreigners"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What kids music camps include",
+        "items": [
+          {
+            "title": "Instrument instruction",
+            "body": "Piano, guitar, violin, voice, percussion. Beginners + intermediate. Group + individual lessons."
+          },
+          {
+            "title": "Music theory",
+            "body": "Age-appropriate. Rhythm, melody, harmony basics. Often gamified for younger children."
+          },
+          {
+            "title": "Ensemble playing",
+            "body": "Group performance. Choir, band, orchestra. Develops listening + teamwork."
+          },
+          {
+            "title": "Performance opportunities",
+            "body": "End-of-camp concert for parents. Builds confidence. Often recorded for families."
+          },
+          {
+            "title": "Combined activities",
+            "body": "Most camps combine music with arts/crafts/sports/outdoor activities. Full-day coverage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madrid-law-summer-programs",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Law Summer Programs in Madrid (English-Speaking)",
+    "summary": "Madrid law summer programs recruiting international students: UNM Madrid Summer Law Institute (5 credits), SLU Summer Law Program (6 credits), Lex Fellowship pre-law undergrad, International Legal Summer School (legal English 2 weeks).",
+    "content": "Madrid has emerged as a destination for English-taught law summer programs, with multiple institutions recruiting US and international law students. The University of New Mexico (UNM) School of Law runs the Madrid Summer Law Institute — students receive 5 law school credits in one month plus the opportunity to travel and explore. Saint Louis University (SLU) School of Law runs a Summer Law Program in Madrid where students can earn up to 6 credit hours in comparative and international law courses taught by Spanish and American professors, with classroom instruction in Madrid. The Lex Fellowship runs a pre-law summer study abroad program in Madrid — combining academic enrichment with global exposure for undergraduate students considering law careers. An International Legal Summer School in Madrid (referenced on LLM Guide) offers young lawyers, law students, and graduates a 2-week learning opportunity to practice legal English. The Madrid law summer market targets: (1) US law students wanting summer credits toward JD, (2) pre-law undergraduates wanting law school preview, (3) international lawyers wanting legal English practice, (4) professionals considering international law careers. Programs typically run 2-6 weeks with costs €2,000-€6,000 including tuition, accommodation, and often cultural excursions. Madrid is attractive for law summer programs because of: Spain's civil law tradition (comparative law value for common-law students), European Union legal context, Spanish constitutional law (post-Franco transition studied globally), and Madrid's growing role as international arbitration center. Most US law programs offer ABA-approved credits transferable to US JD programs. The programs often include site visits to Spanish courts, law firms, and international organizations.",
+    "official_url": "https://lawschool.unm.edu/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "law-summer",
+      "pre-law",
+      "llm",
+      "english-taught",
+      "international-law",
+      "comparative-law",
+      "unm",
+      "slu",
+      "lex-fellowship",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "english-taught-masters-madrid",
+      "english-mba-programs-madrid",
+      "universities-madrid",
+      "student-visa-spain",
+      "international-chambers-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid law summer programs for international students",
+        "body": "Multiple Madrid programs recruit US + international law students. UNM (5 credits), SLU (6 credits), Lex Fellowship pre-law, International Legal Summer School (legal English). €2,000-€6,000 for 2-6 weeks.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "2-6 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€2,000-€6,000 (incl. tuition + accommodation)"
+          },
+          {
+            "label": "Credits",
+            "value": "5-6 (UNM, SLU — ABA-approved)"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught"
+          },
+          {
+            "label": "Top program",
+            "value": "UNM Madrid Summer Law Institute"
+          },
+          {
+            "label": "Includes",
+            "value": "Tuition, accommodation, cultural excursions, court visits"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid law summer programs",
+        "items": [
+          {
+            "title": "UNM Madrid Summer Law Institute",
+            "body": "5 law school credits in 1 month. Travel + exploration opportunities. ABA-approved. Most established Madrid law summer program.",
+            "meta": [
+              "lawschool.unm.edu/madrid"
+            ]
+          },
+          {
+            "title": "SLU Summer Law Program in Madrid",
+            "body": "6 credit hours. Comparative + international law. Spanish + American professors. Saint Louis University School of Law.",
+            "meta": [
+              "slu.edu/law/international/study-abroad/madrid/index.php"
+            ]
+          },
+          {
+            "title": "Lex Fellowship — Madrid Pre-Law Study Abroad",
+            "body": "Undergraduate pre-law. Academic enrichment + global exposure. For students considering law careers.",
+            "meta": [
+              "lexfellowship.org/madrid"
+            ]
+          },
+          {
+            "title": "International Legal Summer School Madrid",
+            "body": "Young lawyers, law students, graduates. 2-week legal English practice. LLM Guide listed.",
+            "meta": [
+              "llm-guide.com/board/europe/international-legal-summer-school-in-madrid-85472"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Why study law in Madrid",
+        "items": [
+          {
+            "title": "Civil law tradition",
+            "body": "Spain uses civil law (vs. US/UK common law). Comparative law value. Most Madrid programs emphasize this."
+          },
+          {
+            "title": "European Union law",
+            "body": "Spain is EU member. Madrid programs cover EU institutions, regulations, directives. Direct relevance for international practice."
+          },
+          {
+            "title": "Spanish constitutional law",
+            "body": "Post-Franco 1978 Constitution. Studied globally as model of democratic transition. Madrid programs include."
+          },
+          {
+            "title": "International arbitration",
+            "body": "Madrid growing as international arbitration center. Spanish + Latin American disputes. Site visits to arbitration institutions."
+          },
+          {
+            "title": "Court visits",
+            "body": "Most programs include visits to Spanish courts (Constitutional Court, Supreme Court, Audiencia Nacional)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ai-ml-summer-programs-spain",
+    "category": "living",
+    "subcategory": "education",
+    "title": "AI & Machine Learning Summer Programs in Spain (English)",
+    "summary": "Spain AI/ML summer programs recruiting international students: iRoboCity2030 Madrid (ROS 2, AI, field robotics), IE University tech programs, CUNEF Universidad AI Summer School, educations.com 3 AI programs Spain.",
+    "content": "Spain has a growing AI and machine learning summer program ecosystem, with multiple institutions recruiting international students through English-language marketing. iRoboCity2030 Summer School 2026 (June 22-26, 2026, Madrid) offers intensive on-site training on ROS 2, AI, and field robotics with hands-on labs — organized by the Intelligent Robotics Labs at Universidad Rey Juan Carlos (URJC) Madrid. IE University covers tech, robotics, and AI summer programs in Europe including its Madrid Summer School offerings. CUNEF Universidad runs an Artificial Intelligence Summer School — 'Master the foundations of AI: Gain a comprehensive understanding of Artificial Intelligence, from machine learning to natural language processing.' educations.com lists 3 AI and Machine Learning Summer Course Programs in Spain, including a Junior Madrid 12-day on-campus option for bringing ideas to the next level with immersive learning. The Spanish AI/ML summer market targets: (1) international high school students considering AI/CS university study, (2) undergraduate students wanting AI specialization, (3) professionals wanting AI upskilling, (4) researchers wanting robotics + AI exposure. Programs typically run 1-4 weeks with costs €1,500-€5,000. Spain's AI/ML research strengths: URJC Intelligent Robotics Labs (iRoboCity2030 organizer), Barcelona Supercomputing Center (BSC, leading European AI research), Universidad Politécnica de Madrid (UPM) AI research, and various Spanish universities active in EU AI research programs. The Madrid AI ecosystem is anchored by the Carlos III University (UC3M) and URJC, both with strong computer science and AI research groups. For international students, Spain offers: lower cost than US/UK AI programs, English-language instruction at top schools, EU research network access, and growing Spanish AI startup ecosystem (Cabify AI, Glovo AI, BBVA AI).",
+    "official_url": "https://intelligentroboticslabs.github.io/RoboCity_ROS2_Summer_School_2026",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "ai",
+      "machine-learning",
+      "summer-program",
+      "english-taught",
+      "irobocity2030",
+      "ros-2",
+      "field-robotics",
+      "ie-university",
+      "cunef",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "robotics-stem-camps-madrid",
+      "coding-bootcamps-madrid",
+      "science-summer-programs-spain",
+      "pre-university-summer-madrid",
+      "universities-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's AI/ML summer programs growing",
+        "body": "Multiple institutions run English-taught AI/ML summer programs. iRoboCity2030 Madrid (ROS 2, AI), IE University tech, CUNEF AI Summer School. €1,500-€5,000 for 1-4 weeks.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-4 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€5,000"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught"
+          },
+          {
+            "label": "iRoboCity2030 2026 dates",
+            "value": "June 22-26, 2026"
+          },
+          {
+            "label": "Focus areas",
+            "value": "AI, ML, ROS 2, field robotics, NLP"
+          },
+          {
+            "label": "Top institution",
+            "value": "URJC Intelligent Robotics Labs (Madrid)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish AI/ML summer programs",
+        "items": [
+          {
+            "title": "iRoboCity2030 Summer School 2026 (Madrid)",
+            "body": "June 22-26, 2026. ROS 2, AI, field robotics. Hands-on labs. URJC Intelligent Robotics Labs. Most prestigious Madrid AI summer program.",
+            "meta": [
+              "intelligentroboticslabs.github.io/RoboCity_ROS2_Summer_School_2026"
+            ]
+          },
+          {
+            "title": "IE University Tech/AI Summer Programs",
+            "body": "Madrid. AI, robotics, tech summer programs. Part of IE Summer School.",
+            "meta": [
+              "ie.edu/uncover-ie/tech-robotics-and-ai-summer-programs-in-europe-everything-you-should-know"
+            ]
+          },
+          {
+            "title": "CUNEF Universidad AI Summer School",
+            "body": "Madrid. Master AI foundations. Machine learning + NLP. Comprehensive understanding.",
+            "meta": [
+              "cunef.edu/en/summer-school-artificial-intelligence"
+            ]
+          },
+          {
+            "title": "educations.com AI/ML Programs Spain (3)",
+            "body": "3 AI and Machine Learning Summer Course Programs in Spain. Junior Madrid 12-day on-campus immersive.",
+            "meta": [
+              "educations.com/summer-courses/ai-and-machine-learning/spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's AI/ML research strengths",
+        "items": [
+          {
+            "title": "URJC Intelligent Robotics Labs (Madrid)",
+            "body": "Universidad Rey Juan Carlos. iRoboCity2030 organizer. ROS 2 + AI + field robotics research. Madrid."
+          },
+          {
+            "title": "Barcelona Supercomputing Center (BSC)",
+            "body": "Leading European AI research. MareNostrum supercomputer. Barcelona (5 hours from Madrid)."
+          },
+          {
+            "title": "Universidad Politécnica de Madrid (UPM)",
+            "body": "Spain's top technical university. AI research groups. Faculty of Informatics."
+          },
+          {
+            "title": "Spanish AI startups",
+            "body": "Cabify (AI dispatch), Glovo (AI logistics), BBVA (AI banking), Sherpa.ai (privacy-preserving AI). Hiring pipeline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madrid-poetry-literary-festivals",
+    "category": "do",
+    "subcategory": "traditions",
+    "title": "Madrid Poetry & Literary Festivals (English-Friendly)",
+    "summary": "Madrid poetry and literary events recruiting international participation: Poetas Festival Madrid (Nov 20-21, 2026), Desperate Literature events (multilingual poetry slams), NYU Madrid Women & World Poetry Day, Maniquí Poetry Exchange Slam.",
+    "content": "Madrid has a small but active English-friendly poetry and literary festival scene, with multiple events welcoming international participants. Poetas Festival Madrid (November 20-21, 2026) is organized by Versopolis — described as 'a journey by contemporary' poets, with the Madrid national and international poetry scene having grown significantly. Desperate Literature (English-language Madrid bookshop) runs regular events including multilingual poetry slams where participants can read their own poetry, a text by a poet they like, in any language — Spanish and English translation available. NYU Madrid celebrates Women & World Poetry Day (March) with Spanish women poets and indigenous language poets, with English translation available — documented by NYU Madrid Marginalia. Maniquí runs Poetry Exchange Slam events in Madrid — 'an opportunity for us to lend our voices to other people's art, and to have our poems read by others.' The WAGRO Foundation runs an International Spanish Poetry Festival (May 9, 2026, University of Washington) — Madrid poets participate internationally. The Madrid poetry festival market targets: (1) English-speaking poets wanting Spanish exposure, (2) bilingual Spanish-English literary enthusiasts, (3) international students wanting literary community, (4) translators + poetry translators. Most events are free or low-cost (€5-€15). Madrid's literary scene is anchored by: Casa de Velázquez (French cultural institution with literary events), Círculo de Bellas Artes (cultural center), Instituto Cervantes (Spanish language + literature promotion globally), and various independent bookshops hosting readings.",
+    "official_url": "https://www.versopolis.com/festival/19/poetas-festival-madrid",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "poetry-festival",
+      "literary-festival",
+      "poetas-festival",
+      "english-friendly",
+      "desperate-literature",
+      "poetry-slam",
+      "international-poets",
+      "versopolis"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "madrid-book-fair-literary-events",
+      "creative-writing-workshops-madrid",
+      "writer-residencies-spain",
+      "literary-quarter-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's English-friendly poetry scene",
+        "body": "Multiple Madrid events welcome international poetry participation. Poetas Festival Madrid (Nov 2026), Desperate Literature slams (multilingual), NYU Madrid Women & World Poetry Day. Most events free or low-cost.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Poetas Festival Madrid 2026",
+            "value": "November 20-21, 2026"
+          },
+          {
+            "label": "World Poetry Day",
+            "value": "March 21 annually"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish (most events bilingual)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free to €15 typical"
+          },
+          {
+            "label": "Venues",
+            "value": "Bookshops, cultural centers, universities"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid poetry + literary events",
+        "items": [
+          {
+            "title": "Poetas Festival Madrid (Versopolis)",
+            "body": "November 20-21, 2026. Contemporary poets. National + international scene. Versopolis-organized.",
+            "meta": [
+              "versopolis.com/festival/19/poetas-festival-madrid"
+            ]
+          },
+          {
+            "title": "Desperate Literature Events",
+            "body": "Multilingual poetry slams. Read your own or favorite poet. Spanish + English translation available. Madrid bookshop.",
+            "meta": [
+              "desperateliterature.com/events"
+            ]
+          },
+          {
+            "title": "NYU Madrid Women & World Poetry Day",
+            "body": "March. Spanish women + indigenous language poets. English translation available. NYU Madrid Marginalia.",
+            "meta": [
+              "wp.nyu.edu/madrid_marginalia/2026/03/16/women-world-poetry-day-spanish-indigenous-language-poets"
+            ]
+          },
+          {
+            "title": "Maniquí Poetry Exchange Slam",
+            "body": "Madrid. Poetry exchange format — lend voices to others' art, have your poems read by others."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's literary + poetry venues",
+        "items": [
+          {
+            "title": "Desperate Literature (Calle Campillo de Nuevo Mundo 2)",
+            "body": "English-language bookshop. Regular literary events. Poetry slams, author readings. Community hub."
+          },
+          {
+            "title": "Casa de Velázquez",
+            "body": "French cultural institution. Literary events, poetry readings, French-Spanish cultural exchange."
+          },
+          {
+            "title": "Círculo de Bellas Artes",
+            "body": "Madrid cultural center. Literary events, poetry workshops, author talks. Calle Alcalá."
+          },
+          {
+            "title": "Instituto Cervantes",
+            "body": "Spanish language + literature promotion globally. Madrid headquarters. Literary events, often streamed."
+          },
+          {
+            "title": "La Central (Calle del Postigo de San Martín)",
+            "body": "Madrid's most beautiful bookshop. Author readings, literary events. Bilingual staff."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paddle-tennis-camps-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Paddle Tennis (Pádel) Camps in Spain (English-Speaking)",
+    "summary": "Spain paddle tennis camps recruiting international players: Enforex paddle tennis (Madrid summer camps), don Quijote Madrid, Premier Padel Madrid Summer Camp Adults 2026 (€390, English/Spanish coaches). Spain is pádel's spiritual home.",
+    "content": "Spain is the spiritual home of pádel (paddle tennis) — a racquet sport similar to squash-tennis played in doubles on an enclosed court. Spain has the world's largest pádel infrastructure with 25,000+ courts and 4+ million players. Multiple Spanish operators run pádel camps recruiting international players through English-language marketing. Enforex includes paddle tennis in its Madrid summer camp sports options — 12 lessons per two-week period, with international student mix. don Quijote Madrid Summer Camp also includes paddle tennis in its facilities at Universidad Francisco de Vitoria. Premier Padel Academy runs Madrid Summer Camp Adults 2026 — from €390 per person, June 29 - July 3, 2026, with coaches speaking both Spanish and English. Enfocamp (Enforex camps) documents paddle tennis lessons as part of its summer camp sports offering. The Madrid paddle tennis market targets: (1) international padel enthusiasts wanting Spanish training (Spain has the world's best players), (2) adults wanting pádel vacation, (3) juniors wanting to learn the sport, (4) tennis players wanting to try pádel. Madrid is particularly strong in pádel — the city has 1,000+ pádel courts, the World Padel Tour (WPT) Madrid Open is held annually, and many Spanish professional pádel players are based in Madrid. Pádel is the second-most popular sport in Spain (after football) by participation. Programs typically run 1-2 weeks with costs €300-€800/week for adults, often combined with Spanish language classes. Premier Padel Academy is the most explicitly English-language option for adults.",
+    "official_url": "https://www.premierpadel.academy/en/madrid/camps/madrid-summer-camp-adults",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "paddle-tennis",
+      "padel",
+      "summer-camp",
+      "english-speaking",
+      "premier-padel",
+      "enforex",
+      "madrid",
+      "international-players"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "tennis-academies-spain",
+      "tennis-madrid",
+      "soccer-camps-madrid",
+      "basketball-camps-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = pádel spiritual home",
+        "body": "Spain has 25,000+ pádel courts and 4+ million players (world's largest). Multiple operators run English-language pádel camps. Premier Padel Madrid Adults €390 (June 29-July 3, 2026).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Spain's pádel courts",
+            "value": "25,000+ (world's largest)"
+          },
+          {
+            "label": "Spanish pádel players",
+            "value": "4+ million"
+          },
+          {
+            "label": "Madrid pádel courts",
+            "value": "1,000+"
+          },
+          {
+            "label": "Premier Padel Adult Camp",
+            "value": "€390 (June 29 - July 3, 2026)"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish coaches"
+          },
+          {
+            "label": "Popularity in Spain",
+            "value": "2nd most popular sport (after football)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid pádel camps",
+        "items": [
+          {
+            "title": "Premier Padel Academy Madrid Summer Camp Adults 2026",
+            "body": "€390/person. June 29 - July 3, 2026. Coaches speak Spanish + English. Adult-focused.",
+            "meta": [
+              "premierpadel.academy/en/madrid/camps/madrid-summer-camp-adults"
+            ]
+          },
+          {
+            "title": "Enforex Paddle Tennis (Madrid Summer Camp)",
+            "body": "12 paddle tennis lessons per 2-week period. Part of Madrid summer camp. International student mix (60% Spanish / 40% international).",
+            "meta": [
+              "enforex.com/summercamps/sports-paddle-tennis.html"
+            ]
+          },
+          {
+            "title": "don Quijote Madrid Summer Camp",
+            "body": "Universidad Francisco de Vitoria facilities. Includes paddle tennis + tennis courts. Ages 5-18. 60% Spanish, 40% international.",
+            "meta": [
+              "donquijote.org/summer-camps/madrid"
+            ]
+          },
+          {
+            "title": "Enfocamp Paddle Tennis Lessons",
+            "body": "Enforex camps paddle tennis lessons. International friends. Sports focus.",
+            "meta": [
+              "enfocamp.com/camps/camp-paddleball-lessons.html"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Why play pádel in Spain",
+        "items": [
+          {
+            "title": "World's best players",
+            "body": "Spain dominates professional pádel. Top WPT players Spanish. Best coaching in world available in Madrid."
+          },
+          {
+            "title": "Largest infrastructure",
+            "value": "25,000+ courts nationwide. 1,000+ in Madrid. Easy court access everywhere."
+          },
+          {
+            "title": "Cultural immersion",
+            "body": "Pádel is central to Spanish social life. Playing = meeting locals. Most clubs have café/restaurant culture."
+          },
+          {
+            "title": "World Padel Tour Madrid Open",
+            "body": "Annual WPT Madrid tournament. Watch world's best. Usually September. Madrid Arena."
+          },
+          {
+            "title": "Year-round play",
+            "body": "Most courts covered/indoor. Madrid climate allows year-round play (except very cold Jan-Feb mornings)."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Pádel camps in Madrid",
+        "do": [
+          "Choose Premier Padel Academy for adult English-language camp",
+          "Choose Enforex/don Quijote for kids (combined with Spanish classes)",
+          "Bring proper pádel shoes (different from tennis — gum rubber sole)",
+          "Rent a paddle racket first — don't buy expensive one until committed",
+          "Combine with attending WPT Madrid Open if timing aligns"
+        ],
+        "dont": [
+          "Don't confuse pádel with tennis — different technique, court, racket",
+          "Don't underestimate Spanish players — they've grown up with the sport",
+          "Don't book without verifying English-speaking coaches (most clubs are Spanish-only)"
         ]
       }
     ]
