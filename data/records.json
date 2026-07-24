@@ -9,7 +9,7 @@
     "official_url": "https://www.metromadrid.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "metro",
@@ -39,7 +39,6 @@
       "taxis-madrid",
       "walking-madrid"
     ],
-    "subsubcategory": "Metro & City Transit",
     "sections": [
       {
         "type": "stats",
@@ -132,7 +131,7 @@
     "id": "madrid-barajas-airport",
     "title": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "airport",
     "summary": "Spain's busiest airport, 12km NE of city. 4 terminals + T4S satellite. Metro L8, Express Bus 203, taxi €30 flat rate.",
     "content": "Adolfo Suárez Madrid-Barajas Airport (MAD) is Spain's busiest airport, 12km northeast of Madrid city center. 4 terminals: T1, T2, T3 (older, connected) and T4 + T4S satellite (modern, Iberia and Oneworld alliance). FREE shuttle between terminals (5-10 min, every 5 min). TO/FROM CITY CENTER: (1) Metro Line 8 (pink): all terminals to Nuevos Ministerios (15 min, €4.50 airport supplement + €1.50-3.00 metro fare). Run 6am-1:30am. (2) Express Bus 203: 24/7 to Atocha (daytime) / Cibeles (nighttime). €5, 30-40 min. (3) Taxi: €30 flat rate to central Madrid (inside M-30 ring). 20-30 min. (4) Ride-sharing (Uber/Cabify): €25-35, 20-30 min. Pick-up at 'Ride App' zones. (5) Cercanías C1: from T4 to Atocha/Chamartín (25 min, €2.60). Only useful if arriving at T4. (6) Private transfer: €35-60, pre-booked. AIRPORT FACILITIES: Free WiFi (AENA WiFi, 30 min free then paid), ATMs (use bank ATMs not Euronet), currency exchange (poor rates — use ATMs), left luggage (T1 €4/bag/day, T4 €5.50/bag/day, 24/7), duty-free, car rental (all major companies at T1, T2, T4), VIP lounges, pharmacy (T2, T4), medical center (T2). TIPS: (1) Arrive 2 hours before European flights, 3 hours for long-haul. (2) T4 is the best terminal — modern, good food, shopping. T1-T3 are older and more crowded. (3) The Metro is the cheapest option but can be tricky with large luggage during rush hour. (4) The €30 taxi flat rate is often the best value for groups. (5) Free WiFi is limited to 30 min — buy more or use your eSIM data.",
     "official_url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas.html",
@@ -157,7 +156,6 @@
       "ride-sharing-madrid",
       "taxis-madrid"
     ],
-    "subsubcategory": "Airport",
     "sections": [
       {
         "type": "stats",
@@ -241,13 +239,13 @@
     "id": "atocha-station",
     "title": "Atocha Station (Madrid's Main Train Station)",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "trains",
     "summary": "Madrid's main station. AVE high-speed to Barcelona, Seville, Valencia. Tropical garden in the old hall. Metro: Atocha Renfe L1.",
     "content": "Atocha Station (officially Madrid Puerta de Atocha) is Madrid's main train station, serving high-speed AVE trains and most long-distance routes. Two parts: (1) Atocha Cercanías — commuter trains (Cercanías C1-C10), in the modern part. (2) Madrid Puerta de Atocha — long-distance and AVE high-speed trains, in the restored 19th-century hall with the famous tropical garden (4,000 plants, turtles). AVE DESTINATIONS: Barcelona (2h30, from €25), Seville (2h30, from €20), Valencia (1h40, from €18), Málaga (2h30, from €25), Zaragoza (1h15, from €15), Córdoba (1h45, from €18). Metro: Atocha Renfe (Line 1), Atocha (Line 1, walk 5 min). Cercanías: connects to Chamartín (8 min, faster than Metro), Airport T4 (25 min, C1), El Escorial (1h, C8). FACILITIES: Left luggage (€3.90-5.50/day, ground floor near tropical garden), VIPS café, Starbucks, McDonald's, pharmacy, car rental, taxi rank, hotel booking desk, tropical garden (free to visit, even without a ticket). TIPS: (1) The tropical garden in the old hall is worth seeing even if you're not catching a train — 4,000 plants, turtles, free. (2) Arrive 30 min before AVE departure — security check is like an airport. (3) AVE tickets are cheapest 60+ days ahead — book at renfe.com. (4) Left luggage at Atocha is the cheapest in central Madrid (€3.90/day) — great for sightseeing. (5) The station is 10 min walk from the Prado, Reina Sofía, and Thyssen museums.",
     "official_url": "https://www.adif.es/en/station/atocha",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "train",
@@ -264,7 +262,6 @@
       "renfe-trains",
       "toledo"
     ],
-    "subsubcategory": "Trains & Rail",
     "sections": [
       {
         "type": "stats",
@@ -341,13 +338,13 @@
     "id": "chamartin-station",
     "title": "Chamartín Station (Madrid's North Station)",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "trains",
     "summary": "Madrid's second major station, north of center. AVE to Galicia, Asturias, Basque Country. Cercanías hub. Metro: Lines 1, 10.",
     "content": "Chamartín Station (officially Madrid-Chamartín-Clara Campoamor) is Madrid's second major train station, located in the north of the city. Renovated in 2022 with a modern glass facade and expanded concourse. AVE high-speed trains depart here for: Galicia (A Coruña, Vigo — 6h), Asturias (Gijón, Oviedo — 4h30), Cantabria (Santander — 4h15), Basque Country (Bilbao — 4h, San Sebastián — 5h30). Also serves Cercanías lines C1, C2, C3, C4, C7, C8, C10 — connecting to Atocha (8 min), Barajas Airport T4 (25 min), El Escorial (1h), and Segovia (via C8 + C9). Metro: Chamartín (Lines 1, 10), plus direct connection to Metro surロン (Line 10). Facilities: VIPS café, Starbucks, McDonald's, pharmacy, car rental (Avis, Hertz), left luggage (€3.90/day), taxi rank, parking. The station is less crowded than Atocha and easier to navigate. For tourists staying in northern Madrid (Chamartín, Tetuán, financial district), this is more convenient than Atocha.",
     "official_url": "https://www.adif.es/en/station/chamartin",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "train",
@@ -361,7 +358,6 @@
       "metro-de-madrid",
       "renfe-trains"
     ],
-    "subsubcategory": "Trains & Rail",
     "sections": [
       {
         "type": "stats",
@@ -452,7 +448,6 @@
       "metro-de-madrid",
       "taxis-madrid"
     ],
-    "subsubcategory": "Metro & City Transit",
     "sections": [
       {
         "type": "table",
@@ -502,7 +497,7 @@
     "official_url": "https://www.taximadrid.org/english",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "taxi"
@@ -516,7 +511,6 @@
       "taxi-companies-madrid",
       "tipping-spain"
     ],
-    "subsubcategory": "Taxis & Ride-Sharing",
     "sections": [
       {
         "type": "stats",
@@ -619,7 +613,7 @@
     "id": "renfe-trains",
     "title": "Renfe — National Trains",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "trains",
     "summary": "Spain's national rail operator. AVE high-speed, Alvia, Cercanías commuter. renfe.com for tickets. Book 60+ days ahead for cheapest fares.",
     "content": "Renfe Operadora is Spain's national railway company. SERVICES: (1) AVE — high-speed (up to 310 km/h). Madrid to Barcelona 2h30, Seville 2h30, Valencia 1h40. From €15 if booked 60+ days ahead. (2) Alvia — medium-distance high-speed. Madrid to Galicia, Basque Country, Cantabria. (3) Cercanías — commuter rail in Madrid (9 lines, C1-C10). See our Cercanías record. (4) Larga Distancia — conventional long-distance (slower, cheaper). COMPETITORS: Ouigo (ouigo.com) and Iryo (iryo.eu) now compete with Renfe on the Madrid-Barcelona and Madrid-Valencia routes — often cheaper. BOOKING: renfe.com (English site available). Book 60+ days ahead for cheapest 'Promo' fares (€15-25). Last-minute tickets can be €150+. Tickets are e-tickets — show on your phone at the station. STATIONS: AVE trains depart from Atocha (most destinations) or Chamartín (Galicia, Asturias, Basque Country). Arrive 30 min before departure — security check like an airport. TIPS: (1) The 'Promo' fare is non-refundable but 50-70% cheaper. (2) Prenda-e (bike) service: €10 to bring a bike, book ahead. (3) Renfe+ loyalty program: free to join, accumulate points for discounts. (4) Cercanías is separate from AVE — different tickets, different platforms. (5) For Cercanías, use the Tarjeta Transporte Público (€2.50 deposit) — cheaper than single tickets.",
     "official_url": "https://www.renfe.com/es/en",
@@ -640,7 +634,6 @@
       "segovia-day-trip",
       "toledo"
     ],
-    "subsubcategory": "Trains & Rail",
     "sections": [
       {
         "type": "table",
@@ -3098,7 +3091,6 @@
       "rayo-vallecas",
       "soccer-camps-madrid"
     ],
-    "subsubcategory": "Active Sports in Madrid",
     "sections": [
       {
         "type": "stats",
@@ -3185,8 +3177,7 @@
     ],
     "related_records": [
       "real-madrid-bernabeu"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "traditions-summary",
@@ -4086,7 +4077,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "rideshare",
@@ -4145,8 +4136,7 @@
         "body": "At Barajas, follow signs to 'Ride App' or 'VCN' (VTC) pick-up zones. Each terminal has a designated pick-up point — check your app for the exact zone letter. Taxis have a fixed €30 fare to central Madrid (inside the M-30), which is often cheaper than ride-sharing for airport runs.",
         "tone": "info"
       }
-    ],
-    "subsubcategory": "Taxis & Ride-Sharing"
+    ]
   },
   {
     "id": "bicimad",
@@ -4159,7 +4149,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "bike",
@@ -4222,8 +4212,7 @@
         "body": "BiciMAD is ideal for trips under 3 km in the center — Retiro Park, Madrid Río, the historic core, and between museums. Avoid the Gran Vía during rush hour (heavy traffic and tram tracks). The Madrid Río park has dedicated bike lanes and is a lovely ride.",
         "tone": "info"
       }
-    ],
-    "subsubcategory": "Metro & City Transit"
+    ]
   },
   {
     "id": "electric-scooters-madrid",
@@ -4247,8 +4236,7 @@
     "related_records": [
       "bicimad",
       "metro-de-madrid"
-    ],
-    "subsubcategory": "Metro & City Transit"
+    ]
   },
   {
     "id": "walking-madrid",
@@ -4270,14 +4258,13 @@
     "related_records": [
       "metro-de-madrid",
       "bicimad"
-    ],
-    "subsubcategory": "Metro & City Transit"
+    ]
   },
   {
     "id": "airport-express-bus-203",
     "title": "Airport Express Bus (Line 203)",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "airport",
     "summary": "24/7 bus between Barajas Airport and Atocha/Cibeles. €5, 30-40 min. Best for late-night arrivals when Metro is closed.",
     "content": "EMT line 203 (the Airport Express) runs 24/7 between Barajas Airport and central Madrid, terminating at Atocha station (with stops at Cibeles and O'Donnell along the way). It's the only public transport option between 1:30 AM (when Metro closes) and 6 AM. Buses run every 15-20 minutes during the day, every 35 minutes at night. The bus stops at all four airport terminals (T1, T2, T3, T4) — check the sign for your terminal. Luggage goes under the bus (free). Pay the driver with cash (exact change appreciated) or use a Metrobús card. The bus is wheelchair accessible.",
     "official_url": "https://www.emtmadrid.es/EMTBUS/MiBus?lang=en-GB",
@@ -4295,21 +4282,20 @@
       "madrid-barajas-airport",
       "emt-buses",
       "atocha-station"
-    ],
-    "subsubcategory": "Airport"
+    ]
   },
   {
     "id": "airport-transfers-private",
     "title": "Private Airport Transfer Services",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "airport",
     "summary": "Pre-booked private transfers from Barajas to your hotel. €35-60. Best for groups, families, or arrivals with lots of luggage.",
     "content": "If you don't want to deal with public transport after a long flight, several companies offer pre-booked private transfers from Barajas Airport to your Madrid accommodation. The driver meets you at arrivals with a name sign. Prices are flat-rate (€35-60 for a sedan, €70-100 for a van) and include all taxes, tolls, and tips. Booking in advance is required — they don't cruise the airport like taxis. Trip time is 20-30 minutes to the center (traffic dependent). Popular companies include Madrid Airport Transfer, Suntransfers, and Welcome Pickups. For comparison, a licensed Madrid taxi costs a flat €30 to central Madrid (inside the M-30), and Uber/Cabify costs €25-35.",
     "official_url": "https://www.esmadrid.com/en/getting-madrid-barajas-airport",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "airport",
@@ -4320,21 +4306,20 @@
       "madrid-barajas-airport",
       "taxis-madrid",
       "ride-sharing-madrid"
-    ],
-    "subsubcategory": "Airport"
+    ]
   },
   {
     "id": "major-airlines-madrid",
     "title": "Airlines Serving Madrid-Barajas",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "airport",
     "summary": "Iberia (hub), Air Europa, Vueling, Ryanair. Direct flights to 80+ international destinations.",
     "content": "Madrid-Barajas is a major European hub with direct flights to over 80 international destinations. Iberia is the flag carrier and uses Barajas as its hub (Terminals 4 and 4S). Air Europa is the second-largest Spanish carrier. Low-cost carriers Vueling, Ryanair, and EasyJet serve European routes from Terminals 1 and 2. Long-haul flights to the Americas are concentrated at T4S (satellite terminal — take the underground train from T4). For the best fares, book 6-8 weeks ahead for European flights, 2-3 months for long-haul. Iberia and Air Europa are part of the Oneworld and SkyTeam alliances respectively, so you can earn miles on partner airlines.",
     "official_url": "https://www.iberia.com/us/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "airlines",
@@ -4343,14 +4328,13 @@
     ],
     "related_records": [
       "madrid-barajas-airport"
-    ],
-    "subsubcategory": "Airport"
+    ]
   },
   {
     "id": "ave-high-speed-trains",
     "title": "AVE High-Speed Trains",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "trains",
     "summary": "Europe's largest high-speed rail network. Madrid to Barcelona 2h30, Seville 2h30, Valencia 1h40. From €20 one-way.",
     "content": "Spain has the largest high-speed rail network in Europe and the second-largest in the world (after China). The AVE (Alta Velocidad Española) connects Madrid to major Spanish cities at up to 310 km/h. Trains depart from Atocha station (Puerta de Atocha) for most destinations, and from Chamartín for Galicia and Asturias. Fares start at €20 one-way if booked in advance (up to 60 days ahead) but rise to €150+ for last-minute bookings. The cheapest fares are non-refundable 'Promo' tickets. Renfe's competing low-cost brand 'Ouigo' (French operator) and 'Iryo' (private Spanish operator) offer even cheaper fares on the Madrid-Barcelona and Madrid-Valencia routes. Trains are comfortable, with power outlets, WiFi (spotty), and a café car.",
     "official_url": "https://www.renfe.com/es/en/ave",
@@ -4417,21 +4401,20 @@
         "body": "Ouigo (ouigo.com) and Iryo (iryo.eu) compete with Renfe on the Madrid-Barcelona and Madrid-Valencia routes. Fares start at €9 one-way. Slightly less legroom and luggage allowance than AVE, but the same travel time.",
         "tone": "info"
       }
-    ],
-    "subsubcategory": "Trains & Rail"
+    ]
   },
   {
     "id": "intercity-buses",
     "title": "Intercity Buses (Madrid to other cities)",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "trains",
     "summary": "Cheaper than trains for intercity travel. Madrid to Granada 5h (€25), Lisbon 8h (€45), Bilbao 4h30 (€22).",
     "content": "Intercity buses are the budget alternative to trains for travel within Spain and to neighboring countries. They're slower but often half the price of the AVE. The main operator is ALSA (owned by National Express), with routes to every major Spanish city and international destinations including Portugal, France, and Morocco (via ferry). Other operators include Avanza (Castilla y León, Extremadura routes) and Daibus (Andalusia). Buses depart from Estación Sur (Méndez Álvaro) for most ALSA routes, and from Moncloa for Avanza routes. Book at alsa.es for the best fares — English site available. Buses are modern, air-conditioned, with WiFi (when it works) and onboard toilets.",
     "official_url": "https://www.alsa.com/en",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "bus",
@@ -4441,8 +4424,7 @@
     "related_records": [
       "bus-stations-madrid",
       "ave-high-speed-trains"
-    ],
-    "subsubcategory": "Intercity Buses & Coaches"
+    ]
   },
   {
     "id": "bus-stations-madrid",
@@ -4473,14 +4455,14 @@
     "id": "eurail-interrail-passes",
     "title": "Eurail / Interrail Passes",
     "category": "essentials",
-    "subcategory": "transportation",
+    "subcategory": "trains",
     "summary": "Multi-country train passes for non-European (Eurail) and European (Interrail) residents. Spain is one pass country.",
     "content": "Eurail (for non-European residents) and Interrail (for European residents) passes offer flexible train travel across multiple European countries. A 'Global Pass' covers 33 countries including Spain. A 'One Country Pass' for Spain is also available. Passes give you a set number of travel days within a period (e.g., 3 days within 1 month, 7 days within 1 month, or continuous travel for up to 3 months). High-speed AVE trains in Spain require a seat reservation (€10-20 additional per trip) even with a pass — book these in advance at renfe.com or at Atocha station. The pass is best for travelers visiting 3+ countries or 4+ Spanish cities. For just Madrid + 1-2 other cities, point-to-point tickets booked in advance are usually cheaper.",
     "official_url": "https://www.eurail.com/en",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "train",
@@ -4491,8 +4473,7 @@
     "related_records": [
       "ave-high-speed-trains",
       "renfe-trains"
-    ],
-    "subsubcategory": "Trains & Rail"
+    ]
   },
   {
     "id": "driving-madrid",
@@ -4515,8 +4496,7 @@
       "parking-madrid",
       "metro-de-madrid",
       "madrid-barajas-airport"
-    ],
-    "subsubcategory": "Driving & Practical"
+    ]
   },
   {
     "id": "parking-madrid",
@@ -4529,7 +4509,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "parking",
@@ -4537,8 +4517,7 @@
     ],
     "related_records": [
       "driving-madrid"
-    ],
-    "subsubcategory": "Driving & Practical"
+    ]
   },
   {
     "id": "sim-cards-madrid",
@@ -7966,8 +7945,8 @@
   {
     "id": "cercanias-delays",
     "title": "Cercanías (Commuter Rail) Delays",
-    "category": "now",
-    "subcategory": "transit",
+    "category": "essentials",
+    "subcategory": "trains",
     "summary": "Renfe Cercanías occasional delays due to signal issues and infrastructure work. Check @CercaniasMadrid for real-time updates.",
     "content": "Renfe Cercanías Madrid is the commuter rail network (10 lines, C1-C10) serving Madrid and its suburbs. Generally reliable, but delays do occur — especially during morning rush (7:30-9:30am) and evening rush (5-7pm). Common causes: signal failures (especially on C1, C2, C7, C10), infrastructure work (weekend and nighttime), train breakdowns, and strikes (rare but possible — French-style labor actions). For real-time updates: @CercaniasMadrid on Twitter, the Renfe Cercanías app (Spanish only), or the screens at each station. Major delays (>15 min) are announced on station PA systems (Spanish only — learn 'retraso' = delay, 'cancelado' = cancelled, 'sin servicio' = no service). The Cercanías network is critical for: airport to Atocha/Chamartín (C1), Atocha to Chamartín (C1, C2, C7, C8, C10 — 8 min), day trips to El Escorial (C8), Alcalá de Henares (C2, C7), and Segovia connection (C8 to Cercedilla, then C9 to Segovia). If you commute daily, sign up for Renfe alerts (free, Spanish).",
     "official_url": "https://www.renfe.com/es/en/suburban/suburban-madrid",
@@ -7988,8 +7967,7 @@
       "atocha-station",
       "chamartin-station",
       "metro-closures-summer-2026"
-    ],
-    "subsubcategory": "Train Alerts"
+    ]
   },
   {
     "id": "taxi-strikes-madrid",
@@ -8021,8 +7999,8 @@
   {
     "id": "airport-delays-madrid",
     "title": "Airport Delays & Strikes (Barajas)",
-    "category": "now",
-    "subcategory": "transit",
+    "category": "essentials",
+    "subcategory": "airport",
     "summary": "AENA ground staff and air traffic control occasionally strike. Check AENA app for current airport status.",
     "content": "Madrid-Barajas Airport (MAD) experiences occasional disruptions from strikes, weather, and air traffic control issues. Strike types: (1) AENA ground staff strikes (handling, cleaning, retail) — periodically affect Barajas, last major was February 2023. (2) Iberia ground staff strikes — affects Iberia and partner airlines. (3) Air traffic control (ATC) strikes — usually nationwide Spanish ATC strikes, sometimes coordinated with French ATC. (4) Airline-specific strikes (Ryanair, Vueling pilot/cabin crew strikes — frequent). During strikes: expect cancellations and delays of 2-12 hours. Check your airline's app/email for flight status. Passenger rights: under EU261/2004, if your flight is cancelled or delayed 3+ hours, you may be entitled to compensation (€250-600) and meals/hotel. EU261 applies to flights from EU airports and to EU airports on EU carriers. Real-time airport status: AENA app (English), @Aena on Twitter, or the airport website aena.es. For specific strike dates, check the US Embassy Spain travel page or El País English edition.",
     "official_url": "https://www.aena.es/en/flight-info.html",
@@ -8042,8 +8020,7 @@
       "madrid-barajas-airport",
       "major-airlines-madrid",
       "airport-express-bus-203"
-    ],
-    "subsubcategory": "Airport Alerts"
+    ]
   },
   {
     "id": "madrid-tourist-offices",
@@ -8215,7 +8192,7 @@
     "id": "madrid-airport-information-desks",
     "title": "Barajas Airport Information Desks",
     "category": "essentials",
-    "subcategory": "tourist-info",
+    "subcategory": "airport",
     "summary": "AENA information desks at every Barajas terminal. Hotel booking, transport advice, tourist info. Open 24/7.",
     "content": "AENA (the Spanish airport authority) operates information desks at every terminal of Madrid-Barajas Airport. Look for the 'i' (information) signs in the arrivals halls of T1, T2, T3, and T4. The desks are open 24/7 and staffed by multilingual agents (English, Spanish, French, German commonly). Services: (1) Hotel bookings — they can find and book hotels for you, sometimes at discounted airport rates. (2) Transport advice — Metro, bus, taxi, ride-sharing, private transfer options explained. (3) Tourist information — free maps, brochures, Madrid card sales. (4) Lost luggage assistance — they coordinate with airlines. (5) Medical assistance — they can call a doctor or direct you to the airport medical center. (6) Special assistance — wheelchair, mobility, and accessibility help. The T4 desk is the largest and best-staffed. The AENA app (English) also has real-time flight info, terminal maps, and parking availability.",
     "official_url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas/airport-services/passenger-services.html",
@@ -8234,8 +8211,7 @@
       "madrid-barajas-airport",
       "madrid-tourist-offices",
       "airport-express-bus-203"
-    ],
-    "subsubcategory": "Tourist Offices"
+    ]
   },
   {
     "id": "visitor-centers-madrid",
@@ -9473,8 +9449,7 @@
       "real-madrid-bernabeu",
       "metro-de-madrid",
       "soccer-camps-madrid"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "malasana-bars-nightlife",
@@ -10183,8 +10158,7 @@
       "real-madrid-bernabeu",
       "atletico-madrid-wanda-metropolitano",
       "tennis-academies-spain"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "basketball-madrid",
@@ -10208,8 +10182,7 @@
     "related_records": [
       "real-madrid-bernabeu",
       "madrid-open-tennis"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "running-madrid",
@@ -10238,8 +10211,7 @@
       "retiro-park",
       "gyms-fitness-madrid",
       "altitude-running-camps-spain"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "photoespana-festival",
@@ -10561,8 +10533,7 @@
       "gyms-fitness-madrid",
       "scuba-diving-certification-madrid",
       "surf-camps-spain-english"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "gyms-fitness-madrid",
@@ -10590,7 +10561,6 @@
       "yoga-madrid",
       "pilates-teacher-training-madrid"
     ],
-    "subsubcategory": "Active Sports in Madrid",
     "sections": [
       {
         "type": "callout",
@@ -10688,8 +10658,7 @@
       "running-madrid",
       "swimming-pools-madrid",
       "golf-academies-spain"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "cycling-mtb-madrid",
@@ -10723,7 +10692,6 @@
       "ski-school-spain-english",
       "cycling-training-camps-spain"
     ],
-    "subsubcategory": "Active Sports in Madrid",
     "sections": [
       {
         "type": "callout",
@@ -10827,8 +10795,7 @@
       "running-madrid",
       "tennis-academies-spain",
       "paddle-tennis-camps-madrid"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "skiing-snowboarding-madrid",
@@ -10854,8 +10821,7 @@
       "running-madrid",
       "el-escorial-day-trip",
       "segovia-day-trip"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "supermarkets-grocery-madrid",
@@ -11072,8 +11038,7 @@
       "yoga-teacher-training-spain",
       "pilates-teacher-training-madrid",
       "yoga-wellness-retreats-spain"
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "hammams-arab-baths-madrid",
@@ -12232,8 +12197,7 @@
     "id": "cercanias-madrid",
     "title": "Cercanías Madrid (Commuter Rail)",
     "category": "essentials",
-    "subcategory": "transportation",
-    "subsubcategory": "Trains & Rail",
+    "subcategory": "trains",
     "summary": "Madrid's commuter rail network. 9 lines (C1-C10). Connects city center to suburbs, airport, El Escorial, Alcalá. €1.70-5.60.",
     "content": "Cercanías Madrid is the commuter rail network operated by Renfe, serving Madrid and its metropolitan area. 9 lines (C1-C10) with 90+ stations. KEY LINES: (1) C1 — Atocha to Chamartín (8 min, faster than Metro), continues to Aeropuerto T4 (25 min) and Príncipe Pío. (2) C3 — Atocha to El Escorial (1 hour, €5.60). (3) C7 — Atocha to Alcalá de Henares (35 min, €2.60). (4) C8 — Atocha to Cercedilla (1h 15min, gateway to Sierra de Guadarrama). (5) C10 — Atocha to Chamartín to Madrid-Barajas T4. FARES: zone A (city center) €1.70-2.60; zone B1 (airport, closer suburbs) €2.60-3.40; zone B2 (El Escorial, Alcalá) €4.10-5.60. Tickets: buy at station machines (English option) or use a Tarjeta Transporte Público (10-trip card, 30% discount). Cercanías is FREE for holders of the Madrid City Card. FREQUENCY: every 5-15 min during peak, every 15-30 min off-peak. First train ~5am, last ~midnight. Less frequent on weekends. ADVANTAGES over Metro: (1) Faster for cross-city trips (Atocha to Chamartín in 8 min vs 15+ on Metro). (2) Goes to suburbs Metro doesn't reach (El Escorial, Alcalá). (3) Connects both major train stations to the airport. DISADVANTAGES: (1) Less frequent than Metro. (2) Delays during rush hour and signal failures. (3) Some older trains without AC. TIPS: Download the Renfe Cercanías app for real-time info. Follow @CercaniasMadrid on Twitter for delays. The C1 airport line is often faster than Metro L8.",
     "official_url": "https://www.renfe.com/es/en/suburban/suburban-madrid",
@@ -12311,7 +12275,6 @@
     "title": "Night Buses (Búhos) — Madrid 24h Transit",
     "category": "essentials",
     "subcategory": "transportation",
-    "subsubcategory": "Metro & City Transit",
     "summary": "Madrid's night bus network (búhos). 27 routes from Plaza de Cibeles. Run midnight-6am. €1.50-2.60. Frequents every 30-60 min.",
     "content": "When the Metro closes (1:30am Sun-Wed, 2:30am Fri-Sat), Madrid's night buses (búhos) take over. 27 routes (N1-N28), all starting from Plaza de Cibeles (the central hub). FARE: €1.50 single ticket, or use Tarjeta Transporte Público (€1.20 with the card). Routes fan out from Cibeles to all neighborhoods and suburbs. KEY ROUTES: (1) N1 — Cibeles to Sanchinarro (north). (2) N13 — Cibeles to Carabanchel (south). (3) N17 — Cibeles to Villaverde (south). (4) N4 — Cibeles to Barajas Airport (the only night transport to the airport, €1.50 — runs every 35 min). (5) N20 — Cibeles to Alcobendas (north). FREQUENCY: every 30 min on main routes (N1-N7), every 60 min on secondary routes. Last buses leave Cibeles around 5:30-6:00am (when Metro starts). TIPS: (1) All night buses pass through Plaza de Cibeles — use it as a transfer hub. (2) The N4 is the only public transport to Barajas Airport between 1:30am and 6am. (3) Buy tickets on the bus (cash) or use your Tarjeta Transporte Público. (4) Drivers don't always speak English — have your destination written down. (5) Buses can be crowded and rowdy on weekend nights (drunk passengers). (6) For women traveling alone at night, the front of the bus near the driver is safest. (7) The EMT Madrid app shows real-time night bus locations. ALTERNATIVE: Uber and Cabify operate 24/7, but surge pricing after 2am can be 2-3x normal rates. A taxi from the center to most neighborhoods is €10-15.",
     "official_url": "https://www.emtmadrid.es/EMTBUS/Mi-linea?lang=en-GB",
@@ -12368,8 +12331,7 @@
     "id": "coach-stations-madrid",
     "title": "Coach Stations (Estaciones de Autobús)",
     "category": "essentials",
-    "subcategory": "transportation",
-    "subsubcategory": "Intercity Buses & Coaches",
+    "subcategory": "trains",
     "summary": "Madrid's 3 main coach stations: Estación Sur (long-distance), Moncloa (Castilla y León), Méndez Álvaro (south). Metro connected.",
     "content": "Madrid has 3 main coach (long-distance bus) stations, each serving different regions. ESTACIÓN SUR (also called Méndez Álvaro): Madrid's largest bus station. All ALSA long-distance routes depart here — Barcelona, Valencia, Andalusia, Portugal, France. 50+ platforms. Metro: Méndez Álvaro (L6). Open 24/7. Facilities: cafés, shops, ATMs, left luggage, taxi rank. Allow 20 min to find your platform. MONLOCA INTERCAMBIADOR: Serves Castilla y León (Segovia, Ávila, Salamanca, Zamora) and Galicia. Also serves some Sierra de Guadarrama routes. Metro: Moncloa (L3, L6). Modern interchange (2012), bright and clean. Open 6am-midnight. PLAZA ELÍPTICA: Smaller station serving southern routes — Toledo, Cuenca, Aranjuez, some Andalusia routes. Metro: Plaza Elíptica (L6, L11). Open 6am-11pm. AVANZA is the main operator from Moncloa and Plaza Elíptica; ALSA from Estación Sur. TIPS: (1) Arrive 20-30 min before departure to find your platform (large stations like Estación Sur are confusing). (2) Buy tickets online at alsa.es or avanzabus.es for the best fares. (3) Print or screenshot your ticket — some operators require printed tickets. (4) Luggage goes under the bus (free, 1 bag up to 30kg + 1 carry-on). (5) Coach stations are NOT the same as intercity bus stops — the stations have platforms, ticket windows, and facilities. (6) The Metro connection to all 3 stations is excellent — you can get from any Madrid neighborhood to any coach station in under 30 min.",
     "official_url": "https://www.alsa.com/en/bus-stations/madrid-sur-station",
@@ -12472,7 +12434,6 @@
     "title": "Padel in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Padel is Spain's #2 sport. 100+ clubs in Madrid. Top: Padel Club Madrid, Sangrano Padel. €20-40/court/hour. Easy to learn.",
     "content": "Padel is a racquet sport invented in Mexico, hugely popular in Spain (3 million players, second only to football). It's like squash-meets-tennis — played in doubles on an enclosed court with glass walls. The ball can bounce off the walls (like squash). Easier to learn than tennis — most beginners can rally after 30 min. Top clubs in Madrid: (1) Padel Club Madrid (Calle de la Calerilla 12, Las Tablas) — 14 courts, restaurant, pro shop. €30-40/court/hour peak, €20-25 off-peak. (2) Sangrano Padel Club (Calle del Santo Ángel de la Guarda 24, near Cuatro Caminos) — 9 courts, popular with expats. €25-35/hour. (3) Pádel La Finca (Pozuelo, west of Madrid) — 12 courts, upscale. €35-45/hour. (4) Centro Nacional de Pádel (Calle de Arroyo del Monte) — public, €20-25/hour. (5) Top Pádel Madrid Indoor (Calle del Payaso Fofó) — 8 indoor courts, €25-30/hour. BOOKING: most clubs use the Playtomic app (English) — find a partner, book a court, join games. FAMILIAR FACES: Real Madrid players, Spanish celebrities, and Spanish PM Pedro Sánchez all play padel. TIPS: (1) Wear padel-specific shoes (or tennis shoes with herringbone soles). (2) Racquets (palas) are different from tennis — shorter, solid, with holes. Rent €5 or buy €50-300. (3) Balls are similar to tennis but slightly smaller and lower pressure. (4) Scoring is identical to tennis. (5) After 2-3 lessons, you can play socially. (6) Madrid's climate allows outdoor padel year-round. (7) Padel is the best way to meet Spanish people — join the 'Madrid Pádel International' WhatsApp/Facebook groups.",
     "official_url": "https://playtomic.com/padel-courts/madrid",
@@ -12768,8 +12729,7 @@
     "id": "cercanias-map",
     "title": "Cercanías Madrid Map (Commuter Rail)",
     "category": "essentials",
-    "subcategory": "maps",
-    "subsubcategory": "Transit Maps",
+    "subcategory": "trains",
     "summary": "Official Cercanías Madrid map. 9 lines (C1-C10) covering Madrid + suburbs. PDF + app.",
     "content": "The Cercanías Madrid map shows the commuter rail network. Formats: (1) PDF download at renfe.com/en (English) — search 'Cercanías Madrid plano'. (2) Free printed map at Atocha and Chamartín stations (ticket office). (3) Interactive map in the Renfe Cercanías app (Spanish only). (4) Wall maps at every Cercanías station. The map shows all 9 lines (C1-C10) and 90+ stations, covering Madrid and its metropolitan area. Key features: (1) Lines are color-coded (C1 blue, C2 green, C3 purple, C4 red, C5 orange, C7 grey, C8 dark green, C9 brown, C10 light blue). (2) Major interchanges with Metro are marked. (3) Zone boundaries (A, B1, B2, C1, C2) are shown — important for fares. (4) Airport connection (C1 to Barajas T4) is highlighted. (5) Connections to other Cercanías networks (Guadalajara, Segovia) are shown. TIPS: (1) Cercanías is faster than Metro for cross-city trips (Atocha to Chamartín in 8 min). (2) The C1 line is the most useful for tourists (Atocha, Chamartín, Airport T4, Príncipe Pío). (3) Download the PDF and save offline. (4) The Renfe Cercanías app has a route planner (Spanish only — use Google Translate). (5) Real-time train info at @CercaniasMadrid on Twitter.",
     "official_url": "https://www.renfe.com/es/en/suburban/suburban-madrid",
@@ -13006,9 +12966,8 @@
   {
     "id": "left-luggage-airport",
     "title": "Left Luggage at Barajas Airport",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "essentials",
+    "subcategory": "airport",
     "summary": "Left luggage at Madrid-Barajas Airport. T1 and T4. €4-5.50/bag/day. Open 24/7.",
     "content": "Barajas Airport has left luggage (consignas) at two terminals. T1 (Terminal 1): located in the arrivals area, near parking P1. €4/bag/day (any size). Open 24/7. T4 (Terminal 4): located in the arrivals area, level 0. €5.50/bag/day. Open 24/7. T2 and T3 do NOT have left luggage — walk to T1 (5 min covered walkway). PRICES: T1 €4/bag/day, T4 €5.50/bag/day. Pay by cash or card. Maximum bag size: 80cm x 50cm x 30cm. SECURITY: bags are X-rayed before storage. ID required (passport). Staffed 24/7 with CCTV. TIPS: (1) The airport is the most expensive left luggage in Madrid — only use it if you have a layover. (2) For sightseeing before a flight, consider left luggage at Atocha (€3.90/day) instead — cheaper and closer to the center. (3) Allow 15-20 min for drop-off and pickup during peak hours. (4) Don't leave electronics, documents, or valuables. (5) Take a photo of your bag and keep the claim ticket. See also our master Left Luggage record and the Barajas Airport record.",
     "official_url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas/airport-services/luggage.html",
@@ -13349,14 +13308,13 @@
     "title": "Taxi Companies & Booking Apps",
     "category": "essentials",
     "subcategory": "transportation",
-    "subsubcategory": "Taxis & Ride-Sharing",
     "summary": "Madrid taxi booking apps: PideTaxi, FreeNow, Radio Taxi. White taxis with red stripe. €30 flat airport fare.",
     "content": "Madrid taxis are white with a red diagonal stripe and the Madrid bear (oso y el madroño) crest on the doors. BOOKING APPS: (1) PideTaxi (pidetaxi.com) — official Madrid taxi app. English available. Same fares as street hail (no surge pricing). Free to use. (2) FreeNow (formerly MyTaxi) — international taxi app. English. Same fares. Slightly higher demand than PideTaxi. (3) Radio Taxi Independiente (91 447 51 84) — phone dispatch, Spanish only. (4) Radio Teléfono Taxi (91 547 82 00) — phone dispatch, Spanish only. (5) Teletaxi (91 445 90 08) — phone dispatch. WHEN TO USE APPS vs STREET HAIL: (1) Use apps at night, in the rain, or in areas with few taxis. (2) Street hail is faster in central Madrid during the day. (3) Always use the official apps — avoid unlicensed 'taxis' that solicit at tourist spots. FARES: (1) Initial fare €2.40 (daytime). (2) €1.10/km city. (3) €1.30/km outside city or at night. (4) Airport supplement €5.50. (5) Train/bus station supplement €2.95. (6) Waiting time €22/hour. TYPICAL FARES: Sol to Retiro €8-10. Sol to Bernabéu €12-15. Center to airport €30 (flat rate inside M-30). Center to IFEMA €25-30. TIPS: (1) Madrid taxis are honest — scams are rare. (2) Always use the meter (taxímetro). Refuse if the driver wants a fixed price (except airport flat rate). (3) Tip: round up to the nearest euro, or €1-2 for good service. (4) Taxis can use bus lanes — faster than driving. (5) 4 passengers max per taxi. (6) Large luggage goes in the trunk (free). (7) For airport runs, the €30 flat rate (inside M-30) is usually cheaper than the meter.",
     "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Mobility-and-transport/Taxis",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "taxi",
@@ -13407,15 +13365,14 @@
     "id": "airport-shuttle-services-madrid",
     "title": "Airport Shuttle Services (Door-to-Door)",
     "category": "essentials",
-    "subcategory": "transportation",
-    "subsubcategory": "Airport",
+    "subcategory": "airport",
     "summary": "Shared shuttle vans from Barajas to your hotel. €10-20/person. Companies: Aerocity, Air Shuttle Madrid.",
     "content": "Shared airport shuttles are a middle ground between the €5 express bus and the €30 taxi. You share a van with 4-8 other passengers, dropping each at their hotel. COMPANIES: (1) Aerocity (aerocity.com) — Madrid's main shared shuttle. €16.50/person one-way to central Madrid hotels, €27 round-trip. English website. Book online 12+ hours ahead. Door-to-door service. (2) Air Shuttle Madrid — €15/person. Book at the airport (T1, T4 arrivals) or online. (3) Suntransfers Shared — €12-18/person. International booking platform. (4) Welcome Pickups Shared — €14/person. PRICING: €10-20 per person one-way, depending on company and destination zone. Round-trip discounts available. Cheaper than a taxi for solo travelers, more expensive for groups of 3+. HOW IT WORKS: (1) Book online 12-48 hours ahead. (2) On arrival, call the company or go to their meeting point (sign with your name). (3) Wait 10-20 min for other passengers. (4) Van drops you at your hotel (allow 45-90 min total depending on other drops). PROS: Door-to-door, cheaper than taxi for solo travelers, English-speaking drivers. CONS: Slower than taxi (other stops), must book ahead, limited luggage space (1-2 bags per person). TIPS: (1) Book ahead — walk-up shuttles are rare. (2) For 3+ people, a taxi (€30 flat rate) is cheaper and faster. (3) For solo travelers on a budget, the Airport Express Bus (€5) is cheaper but doesn't go to your hotel. (4) Shuttles run 24/7 but late-night service is less frequent. (5) Have your hotel address and phone number ready for the driver.",
     "official_url": "https://www.aerocity.com/en",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "airport",
@@ -13685,7 +13642,6 @@
     "title": "Ice Skating in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Ice rinks: Palacio de Hielo (indoor, year-round), seasonal outdoor rinks at Plaza de España and Callao (Nov-Jan). €8-12.",
     "content": "Ice skating in Madrid. INDOOR (year-round): (1) Palacio de Hielo (Calle de la Silvia 4, Metro Canillas L4) — Madrid's only permanent ice rink, 1,800m². €10 entry + €3 skate rental. Open daily 10am-10pm. Also has a shopping center, restaurants, and a small amusement area. OUTDOOR (seasonal, November-January): (1) Plaza de España — pop-up rink, €8, daily 10am-9pm. (2) Callao (Gran Vía) — smaller pop-up rink, €6. (3) Madrid Caja Mágica — sometimes has seasonal rinks. TIPS: (1) Palacio de Hielo is the real ice skating experience — the pop-up rinks are small and crowded. (2) Bring gloves (mandatory at most rinks). (3) Socks required. (4) Best time: weekday mornings (empty), avoid weekends (packed with kids). (5) The Palacio de Hielo also offers ice skating lessons (€20/hour) and hockey sessions.",
     "official_url": "https://www.palaciodehielo.com/",
@@ -13709,7 +13665,6 @@
     "title": "Pool & Billiards in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Pool halls: Billar Centro, Madrid Billar Pool. €4-8/hour per table. Popular with locals. Snooker rare in Spain.",
     "content": "Pool and billiards in Madrid. POOL HALLS: (1) Billar Centro (Calle de la Colegiata 9, La Latina) — central, 12 tables, €5/hour per table. Open Mon-Sat 11am-1am. (2) Madrid Billar Pool (Calle de la Alcalá 55) — 8 tables, €4/hour. (3) Billar Luna (Calle de la Luna 5, Sol) — small, touristy, €6/hour. (4) Club de Billar Madrid (Calle de la Príncipe de Vergara 50) — members + walk-ins, 10 tables, €4/hour. (5) Piszpool (Calle de la Alcalá 110) — newer, clean, €5/hour. WHAT'S AVAILABLE: (1) Pool (billar americano) — 8-ball, 9-ball. Most common. (2) French billiards (billar francés / carambola) — 3-cushion, no pockets. Popular with older Spaniards. (3) Snooker — very rare in Spain. Only at British expat clubs. TIPS: (1) Pay per table (not per person) — split the cost. (2) Cues provided (bring your own only if serious). (3) Chalk provided. (4) Spanish pool halls serve drinks — order at the table. (5) Avoid weekend evenings (packed, loud). (6) The game in Spain is typically 8-ball (bola 8) with slightly different rules than US/UK.",
     "official_url": "https://www.billarcentro.com/",
@@ -13733,7 +13688,6 @@
     "title": " Bowling in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Bowling alleys: Bowling Madrid (Palacio de Hielo), Sfinx Bowling. €5-8/game. Also has arcade games and food.",
     "content": "Bowling in Madrid. ALLEYS: (1) Bowling Madrid (Calle de la Silvia 4, inside Palacio de Hielo, Metro Canillas L4) — 16 lanes, modern, €5-7/game + €2 shoe rental. Open daily 10am-10pm. Also has arcade games, mini-golf, and restaurants. (2) Sfinx Bowling (Calle de la de los Ochoa 11, Pozuelo, west Madrid) — 12 lanes, €5-6/game. (3) Bolera Mercamadrid (Calle de la del Vino 3, Mercamadrid) — 8 lanes, €4-5/game. Budget option. TIPS: (1) Book ahead on weekends — leagues take up lanes. (2) Shoe rental €2. (3) Most alleys serve food and drinks — it's a family entertainment center, not just bowling. (4) Bumper lanes available for kids. (5) Spanish bowling (bolos) is a different game (outdoor, larger pins) — what Americans call 'bowling' is called 'bowling' in Spain too. (6) Cosmic bowling (glow-in-the-dark with music) on Friday and Saturday nights.",
     "official_url": "https://www.palaciodehielo.com/",
@@ -13758,7 +13712,6 @@
     "title": "Go-Kart Racing in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Indoor karting: Carlos Sainz Kart Center, Indoor Karting Madrid. €15-25/10-min session. Outdoor: Karting Campos.",
     "content": "Go-kart racing in Madrid. INDOOR: (1) Carlos Sainz Kart Center (Calle de la Botiguesa 10, Las Rozas, 30 min NW) — owned by the rally legend, 600m indoor track, electric karts up to 50 km/h. €18/10-min session, €45/3 sessions. Open daily 11am-10pm. (2) Indoor Karting Madrid (Calle de la de la Aragonesa 9, San Sebastián de los Reyes, 30 min NE) — 500m indoor track, petrol karts. €15/10-min session. OUTDOOR: (1) Karting Campos (Calle de la de la Vega 32, Ciempozuelos, 40 min S) — 1,100m outdoor track, faster karts. €25/15-min session. (2) Karting Carlos III (Calle de la Carlos III, Aranjuez) — smaller outdoor track. TIPS: (1) Indoor = electric karts (cleaner, quieter, similar speed). Outdoor = petrol karts (faster, smellier). (2) Wear closed-toe shoes (mandatory). (3) Helmets provided. (4) Minimum height usually 1.40m for adult karts, 1.20m for junior karts. (5) Lap times displayed on screens — competitive! (6) Group events and corporate bookings available — book 1 week ahead. (7) The Carlos Sainz Kart Center also has a sim-racing area and a museum with Sainz's rally cars.",
     "official_url": "https://www.carlossainzkartcenter.es/",
@@ -14430,7 +14383,6 @@
     "title": "Movistar Estudiantes Basketball",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Madrid's historic basketball club (founded 1948). Currently in LEB Oro (2nd division). Smaller, intimate atmosphere. €10-25 tickets.",
     "content": "Movistar Estudiantes is Madrid's second basketball club (after Real Madrid Baloncesto). Founded in 1948 by students at the Instituto Ramiro de Maeztu (hence 'Estudiantes' = Students). Currently in LEB Oro (second division) after financial difficulties, but with a passionate fan base. VENUE: Polideportivo Antonio Magariños (Calle de Serrano 37, Metro Rubén Darío L5). Capacity 2,000 — one of the most intimate basketball venues in Spain. You're right on top of the action. TICKETS: €10-25. Buy at the door or at estudiantes.cl. Season: October-May. HOURS: Games typically Saturday 6pm or Sunday 12:30pm. TIPS: (1) The atmosphere at Magariños is legendary — small, loud, and passionate. Even in the second division, the fans are some of the most devoted in Spanish basketball. (2) Estudiantes has produced NBA players: Carlos Jiménez, Felipe Reyes (who later became a Real Madrid legend). (3) The venue is inside a school — the entrance is on Serrano, look for the 'Magariños' sign. (4) Tickets are cheap and available at the door — no need to book ahead. (5) For top-level basketball, see our Real Madrid Baloncesto record (EuroLeague, €20-60).",
     "official_url": "https://www.estudiantes.cl/",
@@ -14454,7 +14406,6 @@
     "title": "Parkrun & Free Group Runs in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Active Sports in Madrid",
     "summary": "Free weekly 5K parkrun at Casa de Campo (Sat 9am). Plus Hash House Harriers, Madrid Running Club. Free, social, all levels.",
     "content": "Free organized running in Madrid. PARKRUN: Free 5K timed run every Saturday at 9am in Casa de Campo (start near the lake). Register free at parkrun.es. Barcode system — scan after the run for your time. 100-300 runners weekly. All levels welcome (walkers too). Post-run coffee at the lake café. FREE, social, well-organized. OTHER FREE GROUP RUNS: (1) Madrid Hash House Harriers — 'a drinking club with a running problem'. Runs every 2 weeks, various locations. €3 (includes beer). Facebook: 'Madrid HHH'. Social, fun, not competitive. (2) Madrid Running Club — meets Thursday 7pm at Puerta del Sol. 5-10km easy run through the center. Free. English-speaking. (3) Lululemon Community Run — Saturday 10am from Lululemon Gran Vía store. 5km, free, free swag. (4) Nike Run Club — Tuesday 7pm from Nike Gran Vía. Free, coach-led. (5) Madrid Trail Running — weekend trail runs in the Sierra de Guadarrama. Facebook group. RUNNING STORES WITH GROUP RUNS: (1) Running Company (Calle de la Hermanos García Noblejas 49) — Thursday 7pm. (2) Boston Runners (Calle de la Alcalá 110) — Wednesday 7pm. TIPS: (1) Parkrun is the best — free, timed, and the Casa de Campo route is beautiful. (2) Summer: run before 9am (too hot after). (3) Winter: mornings can be near freezing — dress in layers. (4) All groups welcome beginners — don't be intimidated. (5) For race registration, see our Running in Madrid record.",
     "official_url": "https://www.parkrun.es/",
@@ -17151,7 +17102,7 @@
   {
     "id": "soccer-camps-madrid",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Soccer Camps in Madrid (Real Madrid + Atlético)",
     "summary": "Madrid's two world-famous football clubs run summer soccer camps (ages 6-17) recruiting international kids with English-language marketing. Real Madrid Foundation Campus Experience + Atlético de Madrid camps. €600-€1,500/week.",
     "content": "Madrid is one of the world's most powerful magnets for youth soccer — home to both Real Madrid and Atlético de Madrid, two of the biggest clubs on the planet. Both run official summer camps that aggressively recruit international kids aged 6-17 through English-language marketing. Real Madrid Foundation's 'Campus Experience' is held at the Real Madrid City training complex in Valdebebas; it's the closest most kids will get to the first team's facilities. Atlético de Madrid's camps run at their training facilities and the Metropolitano Stadium. Both camps are staffed by club coaches and often feature appearances from former players. Programs are 1-2 weeks, residential or day camp, with prices ranging from €600 (day camp, 1 week) to €1,500+ (residential, 2 weeks). Spanish and English are both used — the camps are explicitly bilingual, making them a great option for English-speaking kids wanting to immerse in Spanish football culture without full language immersion. Beyond the official club camps, third-party operators like 'Soccer Camps International' and 'Looking for Soccer' aggregate bookings and offer additional services like airport pickup. These are heavily marketed in English to US, UK, and Asian parents.",
@@ -17276,13 +17227,12 @@
           "Don't assume English-only — camps are bilingual, basic Spanish helps kids integrate"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "yoga-teacher-training-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Yoga Teacher Training (YTT) in Spain",
     "summary": "Spain hosts dozens of 200-hour Yoga Alliance-certified YTT programs taught in English, recruiting international students. Sivananda (Madrid), Wild Warrior Yoga, and many more. €2,000-€4,000 for 200-hour certification.",
     "content": "Spain has become one of Europe's premier destinations for Yoga Teacher Training (YTT) — 200-hour and 500-hour certification programs taught in English and marketed to international students. The combination of sunny climate, lower cost of living than the US/UK, and established yoga lineage schools (Sivananda since 1969) has made Spain a magnet for aspiring yoga teachers worldwide. Most YTT programs run as 21-28 day residential intensives in scenic locations: Andalusia (mountains), Valencia coast, Ibiza, and Madrid outskirts. Programs cost €2,000-€4,000 for 200-hour certification, including accommodation, meals, and Yoga Alliance registration. The Sivananda Yoga Vedanta Spain organization runs the most established Madrid-area YTT, with courses taught in English and Spanish (separate sessions). Other major operators include Wild Warrior Yoga (Ashtanga Vinyasa focus, residential), and many smaller boutique programs. The market is heavily advertised in English on platforms like BookYogaTeacherTraining.com and BookRetreats.com, which list 30+ Spain-based YTT options. For English-speaking yoga students wanting certification without traveling to India, Spain is often the preferred destination.",
@@ -17396,8 +17346,7 @@
           "Don't expect to teach immediately after — YTT is foundational, practice required"
         ]
       }
-    ],
-    "subsubcategory": "Certification Programs"
+    ]
   },
   {
     "id": "camino-de-santiago-services",
@@ -18333,7 +18282,7 @@
   {
     "id": "pilates-teacher-training-madrid",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Pilates Teacher Training in Madrid",
     "summary": "Madrid hosts multiple Pilates instructor certification programs in English: Thomas Wellness Group (Merrithew), Pilates Lab, APPI Spain, Peak Pilates, Anita Horry Academy. Comprehensive certification 13-day intensive to 6-month part-time.",
     "content": "Madrid has emerged as a Pilates teacher training hub for English-speaking instructors, with multiple international certification programs operating in the city. The major providers all actively recruit English-speaking students. Thomas Wellness Group (TWG) is a Merrithew Host Training Center offering STOTT Pilates certification in Madrid. Pilates Lab offers a Comprehensive Pilates Teacher Training Program (CPTTP) covering both equipment and mat work. APPI Spain (Australian Physiotherapy & Pilates Institute) runs a 13-day intensive certification in Madrid, broken into 6 × 2-day workshops teaching 100+ matwork exercises. Peak Pilates runs Spain Comprehensive Instructor Certification (Level I Module 1) through Pilates Internacional Madrid. For English-speaking classical Pilates in a retreat format, Anita Horry Academy runs training in Costa Blanca (2 hours from Madrid, accessible via AVE). Most programs are recognized internationally and qualify graduates to teach Pilates in any country. The market is growing rapidly as Pilates becomes more popular in Spain and abroad. Madrid's central location, lower cost of living than London or New York, and established Pilates community make it attractive to international trainees.",
@@ -18447,8 +18396,7 @@
           "Don't enroll without verifying the certifying organization's international recognition"
         ]
       }
-    ],
-    "subsubcategory": "Certification Programs"
+    ]
   },
   {
     "id": "music-summer-programs-madrid",
@@ -20059,7 +20007,7 @@
   {
     "id": "tennis-academies-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Tennis Academies in Spain (International Recruitment)",
     "summary": "Spain's tennis academies actively recruit international junior players: Sánchez-Casal Academy (Barcelona), Emilio Sánchez Academy, Rafa Nadal Academy (Mallorca). Annual + summer programs. €1,500-€3,000/week residential.",
     "content": "Spain is one of the world's premier tennis training destinations — home to the Sánchez-Casal Academy (Barcelona, founded 1998 by Emilio Sánchez and Sergio Casal), the Emilio Sánchez Academy (Barcelona), and the Rafa Nadal Academy by Movistar (Manacor, Mallorca, opened 2016). These academies all run aggressive English-language international recruitment, attracting junior players aged 8-25 from 50+ countries. The Sánchez-Casal Academy is the most established, with annual + summer programs combining intensive tennis training (19.5 hours/week) with academic study (11.5 hours/week). Summer camps run June-August with weekly enrollment. The Rafa Nadal Academy in Manacor offers the most premium experience — high-performance tennis training (11.5 hours tennis + 10 hours sports activities), medical insurance, mental skills development, and English or Spanish language classes (8 hours/week with native teachers). Annual programs at the academies run September-June and combine full tennis training with academic curriculum (often through partnerships with international schools). Summer programs run weekly from late May through August. Costs: weekly residential €1,500-€3,000, annual programs €25,000-€45,000. Madrid residents can access these via short flights (1-hour to Barcelona, 1.5-hour to Mallorca) or by attending Madrid-based tennis programs at Madrid Open venue (Caja Mágica) or local clubs. International families use these academies as pathways to ATP/WTA professional development or US college tennis scholarships.",
@@ -20200,13 +20148,12 @@
         "body": "Madrid residents reach Sánchez-Casal (Barcelona) in 2.5 hours by AVE train or 1-hour flight. Rafa Nadal Academy (Manacor, Mallorca) is 1.5-hour flight from Madrid-Barajas + 45-min drive. Madrid also has its own tennis infrastructure at Caja Mágica (Madrid Open venue).",
         "tone": "info"
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "golf-academies-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Golf Academies & Summer Camps in Spain",
     "summary": "Spain's golf academies recruit international juniors: Sergio García Golf Academy (Castellón), Sotogrande International School camps (Cádiz), Enforex golf programs. Annual + summer. €1,500-€3,500/week residential.",
     "content": "Spain is Europe's premier golf training destination — combining world-class courses (Valderrama, Sotogrande, PGA Catalunya) with year-round playable weather. The country's golf academies actively recruit international juniors aged 5-18 through English-language marketing. Sergio García Golf Academy (Borriol, Castellón — 4 hours from Madrid by car/train) offers annual programs for golfers 13-18, run by the Masters champion himself. Sotogrande International School (Cádiz) runs summer camps combining elite golf and tennis training with language learning (English and Spanish) for ages 4-16. Enforex Madrid offers golf as part of its summer camp sports options for international students. The broader Spanish golf camp market includes PG Academy (multilingual coaches), Atalaya Golf (Christmas camps in Costa del Sol), and various Ertheo-listed programs. Costs: weekly residential €1,500-€3,500, annual programs €20,000-€35,000. Madrid residents have several local golf options too — Club de Campo Villa de Madrid (host of the Open de España), Centro Nacional de Golf, and Real Club de la Puerta de Hierro all offer junior programs. For international families wanting serious golf development with academic study, Sotogrande International School is the strongest option — combining IB curriculum with elite golf training. Madrid residents reach Sotogrande (Cádiz) in 5 hours by AVE train + bus, or 1-hour flight to Málaga.",
@@ -20345,8 +20292,7 @@
           "Don't forget sun protection — Spanish golf is year-round but summer is brutal"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "equestrian-camps-madrid",
@@ -21519,7 +21465,7 @@
   {
     "id": "scuba-diving-certification-madrid",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Scuba Diving Certification in Madrid (PADI, English)",
     "summary": "Madrid PADI dive centers with English instruction: Buceo Madrid, ZoEA Madrid (5-star IDC, English/Spanish/Italian), Open Water Madrid. PADI Open Water €450-€500. Pool training in Madrid, open water at coast.",
     "content": "Madrid is surprisingly a major scuba diving certification hub — multiple PADI dive centers operate in the city, teaching the classroom and pool portions of certification courses before students travel to the coast (typically Costa Blanca, Costa del Sol, or Cabo de Palos) for open water dives. The Madrid PADI centers actively recruit English-speaking students. Buceo Madrid is a PADI Dive Center offering courses from beginner to instructor level. ZoEA Madrid is a 5-star PADI IDC (Instructor Development Center) Diving School offering PADI courses in English, Spanish, and Italian — explicit English-language marketing. Open Water Madrid offers PADI and SSI certified courses in both English and Spanish, contactable at +34 675 138 529. The PADI Open Water Diver course (the entry-level certification) costs approximately €450-€500 and takes 3-4 days total: 1-2 days of classroom/pool work in Madrid + 2 days of open water dives (4 dives total). Many Madrid centers offer referral programs where you complete classroom/pool in Madrid, then do open water dives at any PADI center worldwide. Spain itself has excellent diving — Cabo de Palos (Murcia, 4 hours from Madrid), Medes Islands (Catalonia, 6 hours), and Canary Islands (2.5-hour flight) are the top destinations. For English-speaking expats in Madrid, getting PADI-certified locally is significantly cheaper than in the UK or US, and Madrid's central location makes weekend dive trips to the Mediterranean coast easy.",
@@ -21645,13 +21591,12 @@
           "Don't expect warm water at Spanish coast in winter (12-15°C)"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "rock-climbing-courses-madrid",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Rock Climbing Courses in Madrid (Sierra de Guadarrama, English)",
     "summary": "Madrid's Sierra de Guadarrama offers beginner rock climbing courses with English-speaking AEGM-certified guides. Mountain Guide Spain, Picuco, Explore-Share. €225-€450 per person for 1-2 day courses.",
     "content": "Madrid is a serious rock climbing destination thanks to the Sierra de Guadarrama mountains just 1 hour north of the city — offering granite and limestone cliffs suitable for all levels. Multiple guide companies offer beginner courses with English-speaking AEGM (Spanish Association of Mountain Guides) certified instructors. Mountain Guide Spain runs beginner rock climbing courses in Madrid starting at €450/person (1 person) down to €225/person (2 people) — includes English-speaking AEGM-certified guide. Picuco offers beginner climbing in Sierra de Guadarrama National Park on natural granite and limestone, lasting 4-7 hours, suitable for children as young as 8. Explore-Share lists 2-day rock climbing courses in Spain with AEGM-certified guides — including multi-pitch climbing at Montserrat. Happy To Visit offers introductory climbing courses in Sierra de Guadarrama with gear, guide, and instruction included — 5.0 stars from reviews. Manawa lists the best rock climbing activities in Sierra de Guadarrama, accessible to beginners from 8-10 years old. The Sierra de Guadarrama is the primary climbing area near Madrid, with multiple crags: La Pedriza (most famous, granite), Peñalara (limestone), and Cuello Moro (granite). Best climbing seasons: spring (April-June) and fall (September-November). Summer is too hot; winter climbing is possible on south-facing crags but requires a full day. For English-speaking expats in Madrid, the proximity of world-class climbing is a major lifestyle benefit — you can climb after work in summer (sunset is 9:30pm) and do full weekend trips year-round.",
@@ -21786,13 +21731,12 @@
           "Don't skip the safety briefing — Spanish climbing has specific conventions"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "ski-school-spain-english",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "English-Speaking Ski Schools in Spain (Sierra Nevada)",
     "summary": "Sierra Nevada (Granada, southern Spain) hosts English-speaking ski schools recruiting international students: English Ski School, Outpeak Academy, Ski Sierra Nevada UK. From €50/hour private lessons.",
     "content": "Spain has multiple ski resorts, but the one with the strongest English-speaking ski school ecosystem is Sierra Nevada (Granada, Andalusia) — Europe's southernmost ski resort, 5 hours from Madrid by car or 1-hour flight to Granada + 1-hour drive. Multiple English-language ski schools operate there, all actively recruiting international students. English Ski School Sierra Nevada is a small hand-picked team of professional, motivated, experienced instructors using simple techniques and clear explanations — fully English-language instruction. Outpeak Academy is an English ski school in Sierra Nevada with instructors speaking English, Spanish, and Swedish — phone +34 858 28 35 50. Ski Sierra Nevada (skisierranevada.co.uk) is a UK-facing operation with 30+ years teaching experience and 5,000+ hours of lessons per average season, native English and bilingual instructors. Snowminds runs Spanish ski instructor courses designed to pass the Spanish TD1 exam and work as a ski instructor in Spain — for those wanting certification rather than just lessons. Sierra Nevada ski season typically runs late November to early May (one of Europe's longest). The resort has 124 km of pistes, max altitude 3,300m, and is famously sunny — often skiable in t-shirts by April. For Madrid residents, Sierra Nevada is reachable as a weekend trip (overnight train to Granada, then bus to resort). Other Spanish ski resorts include Formigal (Pyrenees, 6 hours from Madrid), Baqueira-Beret (Pyrenees, premier resort, 6 hours), and Valdesquí (Madrid's local mountain, 1 hour from city but small).",
@@ -21925,8 +21869,7 @@
           "Don't skip lunch — Spanish ski culture includes long midday meals"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "pre-university-summer-madrid",
@@ -22057,7 +22000,7 @@
   {
     "id": "basketball-camps-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Basketball Camps in Spain (English-Speaking)",
     "summary": "Spain basketball camps recruiting international juniors: Basketball Camp Spain (14-18 yrs), ICS Madrid Summer Basketball, Nike Basketball Camps Madrid, Five-Star Basketball Academy Spain. From €600-€1,800/week.",
     "content": "Spain has a growing basketball camp ecosystem recruiting international juniors — particularly attractive because Spain is one of Europe's strongest basketball nations (Pau Gasol, Ricky Rubio, Marc Gasol all Spanish). Multiple camps actively market in English to US, UK, and Asian junior players. Basketball Camp Spain (basketball-camp-spain.com) runs a complete basketball summer camp for 14-18 year old experienced junior players, with training sessions in Spanish and English. ICS Summer Camp (International College Spain Madrid) offers basketball camp for ages 10-19 with professional coaching in English, running mid-June to mid-July. Nike Basketball Camps operates in Madrid through US Sports Camps, offering day and overnight options for various skill levels. Five-Star Basketball Academy (Pacific Pine Sports) brings American players to Spain for 2-week training stints at prestigious Spanish basketball academies. Ertheo lists International Youth Basketball Camps 2026 including Spain options with language learning. Costs: €600-€1,800/week depending on residential vs day camp, camp prestige, and inclusions. Madrid is a major basketball city — Real Madrid Baloncesto (Euroleague champions multiple times) and Estudiantes are the top professional clubs. The Spanish ACB league is Europe's strongest domestic basketball league. For international juniors wanting European basketball experience, Madrid is an attractive destination — combining serious training with cultural immersion.",
@@ -22180,8 +22123,7 @@
           "Don't book a 'beginner' camp for an experienced player — too basic"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "guitar-luthier-schools-spain",
@@ -23619,7 +23561,7 @@
   {
     "id": "cycling-training-camps-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Cycling Training Camps in Spain (English-Speaking)",
     "summary": "Spain cycling training camps recruiting international cyclists: Sun Tri Sports (Sierra Nevada altitude 2300m), SierraNevada.cc (€750pp/week), Ciclolodge (Sierra de Guadarrama Madrid), Norrøna MTB Madrid. Road + mountain bike.",
     "content": "Spain is one of Europe's premier cycling training destinations — combining world-class terrain (Pyrenees, Sierra Nevada, Sierra de Guadarrama), year-round ridable weather, and established cycling culture (home to Vuelta a España, Tour de France mountain stages, and many pro cyclists' winter bases). Multiple operators run English-language cycling camps recruiting international cyclists. Sun Tri Sports organizes cycling altitude training camps in Sierra Nevada, Spain — stay and train at 2,300m while they handle everything else around the camp. SierraNevada.cc runs cycling training camps in southern Spain from €750/person (7 nights, 5 guided rides, café cortados included), 1 hour from Málaga airport. Ciclolodge runs training camps in the Sierra de Guadarrama National Park near Madrid — Cuenca Alta del Manzanares Biosphere Reserve setting. Norrøna Adventure offers 5-day Sierra Madrid mountain biking programs with expert coaching for all levels on world-class singletrack. Epic Road Rides maintains a comprehensive guide to cycling camps in Spain covering all budgets and rider abilities. The Madrid-area cycling camp market is anchored by the Sierra de Guadarrama — 1 hour north of Madrid, with smooth climbing roads (Navacerrada, Cotos, León) and excellent mountain biking (La Pedriza, Siete Picos). Madrid-area camps are particularly accessible for international cyclists: Madrid-Barajas airport is a major hub, and the Sierra de Guadarrama climbs start just 45 minutes from the city center. Road cycling camps cost €750-€2,000/week (typically including accommodation, guided rides, mechanical support, and meals). Mountain bike camps cost €800-€1,800/week. Best seasons: spring (March-May) and fall (September-November). Summer is too hot for serious training; winter can be cold at altitude.",
@@ -23760,13 +23702,12 @@
           "Don't skip the recovery meals — Spanish cycling food is excellent"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "altitude-running-camps-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Altitude & Marathon Training Camps in Spain",
     "summary": "Spain altitude training camps recruiting international runners: Alberto Athletes Representative (75km from Madrid), Scirocco TF (Motril), Box Altitude. Marathon and track athletes. Altitudes 1,500-2,300m.",
     "content": "Spain is one of Europe's premier altitude training destinations for runners — combining accessible altitude (Sierra Nevada, Pyrenees), year-round training weather, and established infrastructure. Multiple operators recruit international marathon and track athletes through English-language marketing. Alberto Athletes Representative runs altitude training camps in Spain at locations 75km from Madrid International Airport — for long distance athletes, with running routes at altitude. Scirocco TF (The Track & Field Academy) is based in Motril, southern Spain, training several international-level athletes with track and field focus. Box Altitude maintains a guide to altitude training camps popular with top-tier athletes who do at least one annual trek to unlock training benefits. The Altitude Centre runs two-month marathon running altitude camps. Marathon Handbook documents the 10 best altitude training destinations globally, including Spanish options. Spain's altitude training locations include: Sierra Nevada (2,300m+ at Veleta, Granada, southern Spain), Navacerrada (1,890m, 75km from Madrid, accessible by car/train), and various Pyrenees locations (Formigal, Panticosa at 1,500-2,200m). The physiological benefits of altitude training (increased red blood cell production, improved oxygen utilization) require stays of 14-28 days minimum. Costs: €1,500-€4,000 for 2-4 week altitude camps including accommodation, coached sessions, sports science support, and meals. The Madrid-accessible altitude option (Navacerrada, 75km from Madrid-Barajas) is particularly attractive for international athletes wanting shorter acclimatization stints.",
@@ -23900,8 +23841,7 @@
           "Don't skip hydration — altitude increases fluid loss"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "startup-accelerators-madrid",
@@ -25565,7 +25505,7 @@
   {
     "id": "surf-camps-spain-english",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Surf Camps in Spain (English-Speaking)",
     "summary": "Spain surf camps recruiting international students: Nomad Surfers (Cantabria, English activities), BookSurfCamps Spain (4.5 stars, 889 reviews), Pueblo Español surf camp (ages 13-17), The Surf Atlas Spain guide. Northern Spain + Canary Islands.",
     "content": "Spain has emerged as one of Europe's top surf destinations, with multiple operators recruiting international students through English-language marketing. Nomad Surfers runs an International Surf Summer Camp in Spain (Cantabria, northern Spain) — all activities done in English, with optional Spanish or English language lessons. BookSurfCamps lists surf camps in Spain with 4.5 stars from 889 reviews — 'Be part of the adventure on a Surf Camp in Spain. Browse reviews and prices.' Pueblo Español runs a summer camp in Spain with surf for young people aged 13-17, open to all nationalities — OnixCamp is an international summer camp. The Surf Atlas lists 8 handpicked surf camps in Spain for 2026 — 'countless surf camps to pick from, this guide can help you choose the ones that are riding high.' ESL Languages runs junior surfing language camps across Europe including Spain — surfing summer language camps in picturesque destinations. Spain's main surf destinations: Cantabria + Basque Country (northern Spain, 4-6 hours from Madrid by car), Canary Islands (year-round warm water, 2.5-hour flight from Madrid), and Cadiz/Andalusia (southern Spain, 5-6 hours from Madrid). The Spanish surf camp market targets: (1) international teens wanting surf + Spanish combination, (2) adult beginners wanting European surf vacation, (3) families wanting active beach holiday, (4) experienced surfers wanting Spanish waves. Programs typically run 1-2 weeks with costs €600-€1,500/week including accommodation, surf instruction, equipment, and often meals. Best seasons: Northern Spain (May-October), Canary Islands (year-round), Andalusia (March-November).",
@@ -25689,13 +25629,12 @@
           }
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "volleyball-camps-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Volleyball Camps in Spain (English-Speaking)",
     "summary": "Spain volleyball camps recruiting international juniors: ISC Spain Spanish + Volleyball (Alicante), SLAM International Volleyball Campus, NBC Volleyball Travel Team (US to Spain), Agora Madrid International multisport.",
     "content": "Spain has a small but growing volleyball camp ecosystem recruiting international juniors, with multiple operators marketing in English. ISC Spain runs a Spanish + Volleyball package in Alicante — a program designed for people who want to learn Spanish and also play volleyball in the Alicante sun. SLAM International School runs a Volleyball Campus hosting 90 boys and girls passionate about volleyball, running weekly from July 2 to July 30 (Sunday to Sunday format). NBC Camps (US Sports Camps) runs an NBC Volleyball Travel Team to Spain 2026 — traveling from Seattle, WA to Spain for an 'unforgettable international volleyball experience.' Agora Madrid International School includes volleyball in its Multisports summer camp — students experience a different sport every day from basketball, volleyball, and paddle tennis to other options. The Spanish volleyball camp market targets: (1) international teens wanting volleyball + Spanish combination, (2) competitive junior players wanting European experience, (3) American players wanting international travel team experience, (4) recreational players wanting beach volleyball vacation. Spain's volleyball scene is small but professional — the Spanish men's national volleyball team has had some international success, and the Spanish women's league is developing. Beach volleyball is particularly popular in Spain's coastal areas. Programs typically run 1-2 weeks with costs €600-€1,500/week. The Spanish volleyball camp market is much smaller than soccer or basketball, but the international recruitment angle is well-developed.",
@@ -25787,8 +25726,7 @@
           }
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   },
   {
     "id": "equestrian-holidays-spain",
@@ -26625,8 +26563,7 @@
           }
         ]
       }
-    ],
-    "subsubcategory": "Active Sports in Madrid"
+    ]
   },
   {
     "id": "kids-music-summer-camps-madrid",
@@ -27141,7 +27078,7 @@
   {
     "id": "paddle-tennis-camps-madrid",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Paddle Tennis (Pádel) Camps in Spain (English-Speaking)",
     "summary": "Spain paddle tennis camps recruiting international players: Enforex paddle tennis (Madrid summer camps), don Quijote Madrid, Premier Padel Madrid Summer Camp Adults 2026 (€390, English/Spanish coaches). Spain is pádel's spiritual home.",
     "content": "Spain is the spiritual home of pádel (paddle tennis) — a racquet sport similar to squash-tennis played in doubles on an enclosed court. Spain has the world's largest pádel infrastructure with 25,000+ courts and 4+ million players. Multiple Spanish operators run pádel camps recruiting international players through English-language marketing. Enforex includes paddle tennis in its Madrid summer camp sports options — 12 lessons per two-week period, with international student mix. don Quijote Madrid Summer Camp also includes paddle tennis in its facilities at Universidad Francisco de Vitoria. Premier Padel Academy runs Madrid Summer Camp Adults 2026 — from €390 per person, June 29 - July 3, 2026, with coaches speaking both Spanish and English. Enfocamp (Enforex camps) documents paddle tennis lessons as part of its summer camp sports offering. The Madrid paddle tennis market targets: (1) international padel enthusiasts wanting Spanish training (Spain has the world's best players), (2) adults wanting pádel vacation, (3) juniors wanting to learn the sport, (4) tennis players wanting to try pádel. Madrid is particularly strong in pádel — the city has 1,000+ pádel courts, the World Padel Tour (WPT) Madrid Open is held annually, and many Spanish professional pádel players are based in Madrid. Pádel is the second-most popular sport in Spain (after football) by participation. Programs typically run 1-2 weeks with costs €300-€800/week for adults, often combined with Spanish language classes. Premier Padel Academy is the most explicitly English-language option for adults.",
@@ -27279,7 +27216,6 @@
           "Don't book without verifying English-speaking coaches (most clubs are Spanish-only)"
         ]
       }
-    ],
-    "subsubcategory": "International Training Camps"
+    ]
   }
 ]

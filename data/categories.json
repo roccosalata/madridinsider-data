@@ -25,10 +25,26 @@
       {
         "id": "transportation",
         "slug": "transport",
-        "title": "Transport",
+        "title": "Getting Around Madrid",
         "icon": "🚇",
-        "summary": "Metro, buses, trains, airport, taxis, ride-sharing, driving, and luggage storage.",
-        "tips": "Metro is the fastest way around (€1.50-2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Airport: Metro L8 (€4.50 supplement), Express Bus 203 (€5), or taxi (€30 flat rate). Night buses (Búhos) run from Cibeles after Metro closes."
+        "summary": "Metro, city buses, bikes, scooters, taxis, ride-sharing, walking, driving, and parking within Madrid.",
+        "tips": "Metro is the fastest way around (€1.50-2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30min) are great for short hops. Taxis are white with a red diagonal stripe — use the Radio Taxi app or hail on street."
+      },
+      {
+        "id": "airport",
+        "slug": "airport",
+        "title": "Madrid-Barajas Airport",
+        "icon": "✈️",
+        "summary": "Airport terminals, airlines, express bus, private transfers, shuttles, information desks, delays, and left luggage at Barajas.",
+        "tips": "Madrid-Barajas (MAD) has 4 terminals (T1-T4). Metro L8 (€4.50+€3 airport supplement) connects all terminals to city center in 15 min. Express Bus 203 (€5, 24h) goes to Atocha/Cibeles. Taxi flat rate: €30 to city center. Allow 2 hours before European flights, 3 for intercontinental. T4 is the main Iberia/Oneworld hub."
+      },
+      {
+        "id": "trains",
+        "slug": "trains",
+        "title": "Trains & Intercity Travel",
+        "icon": "🚄",
+        "summary": "Atocha and Chamartín stations, AVE high-speed, Renfe, Cercanías commuter rail, Eurail passes, intercity buses, and coach stations.",
+        "tips": "AVE high-speed trains connect Madrid to Seville (2.5h), Barcelona (2.5h), Valencia (1.5h). Book 7+ days ahead at renfe.com for best prices. Cercanías commuter rail (€1.55-2.60) connects suburbs and is included in some tourist passes. Atocha = south/east destinations. Chamartín = north/west. Intercity buses (ALSA) are cheaper but slower than AVE."
       },
       {
         "id": "communication",
@@ -236,10 +252,18 @@
       {
         "id": "sports",
         "slug": "sports",
-        "title": "Sports",
+        "title": "Active Sports",
         "icon": "⚽",
-        "summary": "Football (Real Madrid, Atlético), basketball, tennis, padel, swimming, golf, cycling, running, skiing, yoga, gyms.",
+        "summary": "Football, basketball, tennis, padel, swimming, golf, cycling, running, skiing, yoga, gyms, and active wellness retreats.",
         "tips": "Real Madrid: Bernabéu tour €25, match tickets €30-300 (book 2+ weeks ahead). Atlético: cheaper tickets (€20-150). Padel is Spain's #2 sport — book via Playtomic app. Madrid Open tennis (April-May, €20-200). Skiing: Valdesquí is 1 hour north (€39-45/day pass, December-March). San Silvestre Vallecana: 40,000-runner New Year's Eve 10K — register in October."
+      },
+      {
+        "id": "sports-camps",
+        "slug": "sports-camps",
+        "title": "Training Camps & Certification",
+        "icon": "🏅",
+        "summary": "International sports camps recruiting English-speaking juniors: soccer, tennis, golf, basketball, volleyball, paddle, cycling, altitude, surf, climbing, ski, scuba, plus YTT and Pilates certification.",
+        "tips": "Spain's sports academies actively recruit international students through English-language marketing. Soccer camps (Real Madrid Foundation, Atlético): €600-€1,500/week. Tennis academies (Sánchez-Casal, Rafa Nadal): €1,500-€3,000/week. Book by March for summer — popular weeks sell out. Certification programs (YTT, Pilates): €2,000-€5,000 for multi-week intensives."
       },
       {
         "id": "shopping",
