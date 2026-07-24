@@ -3050,8 +3050,8 @@
   {
     "id": "cafe-central-jazz",
     "title": "Café Central — Jazz",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Madrid's most famous jazz club. 4 nights a week, two sets each night.",
     "content": "Plaza del Ángel, 10. Cover €10–25 depending on the artist. Two sets nightly at 21:00 and 22:30. Order a drink at the bar (minimum) and stay for the show. Bookings recommended in summer. The acoustics are great — focus is on the music, not the food.\n\n⚠️ UPDATE 2026: Café Central at Plaza del Ángel 10 is closing/relocating in early 2026. The venue is transitioning to 'Café Central Ateneo' at a new location. Check cafecentralmadrid.com for the latest status and new address. The jazz programming continues under the new venue name.",
     "official_url": "https://www.cafecentralmadrid.com",
@@ -3067,8 +3067,7 @@
       "flamenco-madrid",
       "malasana-bars-nightlife",
       "teatro-real-madrid"
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "real-madrid-bernabeu",
@@ -6473,15 +6472,15 @@
   {
     "id": "zoo-aquarium-madrid",
     "title": "Zoo Aquarium de Madrid",
-    "category": "do",
-    "subcategory": "family",
+    "category": "see",
+    "subcategory": "family-attractions",
     "summary": "Madrid's main zoo in Casa de Campo. 6,000+ animals, dolphin show, aquarium, panda bears. €26 adult, €20 child.",
     "content": "Zoo Aquarium de Madrid is in Casa de Campo (Metro: Casa de Campo L5 or Batán L10 + 15 min walk). It's one of the oldest zoos in Europe (founded 1770) and houses 6,000+ animals across 130 species. Highlights: giant pandas (one of only 4 zoos in Europe with them), koalas, gorillas, tigers, and the aquarium (sharks, penguins, jellyfish). The dolphin show (extra €3) runs 2-3 times daily. New in 2023: the Asia zone with red pandas and snow leopards. Admission: €26 adult, €20 child (3-7), under 3 free. Online discount: €22 adult. Open daily 11am-7pm (extended in summer). Plan 3-4 hours for a full visit. Tip: bring a picnic (food inside is overpriced) and rent a stroller at the entrance if you have small kids (€6, the zoo is large).",
     "official_url": "https://www.zoomadrid.com/en",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "family",
       "zoo",
@@ -6493,7 +6492,6 @@
       "aquopolis-water-park",
       "retiro-park"
     ],
-    "subsubcategory": "Animals & Nature",
     "sections": [
       {
         "type": "callout",
@@ -6575,15 +6573,15 @@
   {
     "id": "imax-planetarium-madrid",
     "title": "IMAX & Planetarium (Pablo VI Cultural Center)",
-    "category": "do",
-    "subcategory": "family",
+    "category": "see",
+    "subcategory": "family-attractions",
     "summary": "Giant screen IMAX cinema + planetarium in Tierno Galván park. €8 adult, €6 child. Spanish narration mostly.",
     "content": "The Pablo VI Cultural Center in Parque Tierno Galván (south Madrid) houses an IMAX giant-screen cinema and the Madrid Planetarium. The IMAX shows nature, science, and space documentaries (45-60 min) on a 600m² screen — most are in Spanish, some have English audio via headset (ask at the ticket counter). The planetarium has 3-4 shows daily (45 min) on astronomy and space exploration, also in Spanish. Admission: €8 adult, €6 child per show, or €12 combined. The cultural center also has a small science museum (free). Getting there: Metro Méndez Álvaro (L6) + 10 min walk, or bus 8, 102, 148. Best for: rainy days, families with kids 6+, astronomy enthusiasts. Check the program ahead — Spanish-only narration can be frustrating if you don't speak Spanish. The IMAX screen itself is impressive regardless of language.",
     "official_url": "https://www.madrid.es/planetario",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "family",
       "imax",
@@ -6594,8 +6592,7 @@
     "related_records": [
       "parque-de-atracciones-madrid",
       "zoo-aquarium-madrid"
-    ],
-    "subsubcategory": "Family Shows"
+    ]
   },
   {
     "id": "warner-park-madrid",
@@ -6701,15 +6698,15 @@
   {
     "id": "madrid-kids-museums",
     "title": "Museums for Kids (Ciencia, Wax, Tren)",
-    "category": "do",
-    "subcategory": "family",
+    "category": "see",
+    "subcategory": "family-attractions",
     "summary": "Three kid-friendly museums: Science Museum (CosmoCaixa), Wax Museum, Railway Museum. €3-6 each, good rainy-day options.",
     "content": "Madrid has several museums geared toward children, perfect for rainy days. The CosmoCaixa Science Museum (Alcobendas, north Madrid) has interactive exhibits on physics, biology, and technology — kids can touch everything, do experiments, see a planetarium show. €6 adult, €4 child. Closed Mondays. The Wax Museum (Museo de Cera) on Paseo de Recoletos has 450+ wax figures (Spanish royalty, celebrities, sports stars, historical figures). €18 adult, €13 child. Slightly overpriced but kids love it. The Railway Museum (Museo del Ferrocarril) in Delicias has steam locomotives, vintage train cars, and a model railway. €6 adult, free for kids under 7. Sunday morning has a kids' train ride. Other options: the Museo Nacional de Ciencias Naturales (dinosaurs, animals) and the Andén 0 (old Metro station museum, free). All have Spanish signage — CosmoCaixa has some English, the others have English audio guides available.",
     "official_url": "https://www.cosmocaixa.org/es/madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "family",
       "museum",
@@ -6721,8 +6718,7 @@
     "related_records": [
       "museo-del-prado",
       "museo-reina-sofia"
-    ],
-    "subsubcategory": "Museums for Kids"
+    ]
   },
   {
     "id": "social-security-number-spain",
@@ -9535,8 +9531,8 @@
   {
     "id": "teatro-real-madrid",
     "title": "Teatro Real (Royal Opera House)",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Madrid's opera house, opened 1850. Opera, ballet, concerts. Tickets €20-200. Beautiful 19th century interior.",
     "content": "The Teatro Real (Royal Theater) is Madrid's opera house, located at Plaza de Oriente (next to the Royal Palace). Opened in 1850, restored in 1997 after decades of disuse. Today it's one of Europe's top opera houses, with a season from September to July. What's on: (1) Opera — 8-10 productions per season, classics (Verdi, Puccini, Mozart) and contemporary works. Tickets €20-200. (2) Ballet — Spanish National Ballet and international companies. €25-80. (3) Concerts — Madrid Symphony Orchestra and guest orchestras. €20-80. (4) Family performances — Sunday mornings, €10-20. Tips for cheap tickets: (1) Standing room (galería) — €8-15, sold 2 hours before the show, queue early. (2) Last-minute tickets — 50% off at the box office 1 hour before the show (if available). (3) Under-35 tickets — 50% off with ID (for selected performances). (4) Live broadcast — major operas are broadcast free on screens in Plaza de Oriente and on Spanish TV. Building tour: €12, daily 10am-2pm (in English at 11:30am). Includes the auditorium, stage, royal box, and rehearsal rooms. Allow 1 hour. Dress code: smart casual for evening performances (no jeans or sneakers). Metro: Ópera (L2, L5, Ramal).",
     "official_url": "https://www.teatroreal.es/en",
@@ -9556,7 +9552,6 @@
       "royal-palace",
       "almudena-cathedral"
     ],
-    "subsubcategory": "Venues & Performances",
     "sections": [
       {
         "type": "table",
@@ -10906,8 +10901,8 @@
   {
     "id": "movie-theaters-madrid",
     "title": "Movie Theaters & Cinema (Cines) in Madrid",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Cinesa, Yelmo, Kinépolis. Original version (V.O.) films at Cinesa Manoteras, Cine Doré. €7-12. Cheap days: Mon-Wed.",
     "content": "Madrid cinema. MAIN CHAINS: (1) Cinesa — 15+ locations. Cinesa Manoteras (Calle de Manoteras) has the most V.O. (versión original, English with Spanish subtitles) screenings. Cinesa La Gavia (south Madrid) has the largest screen in Spain (Dolby Cinema). €8-11. (2) Yelmo Cines — 10+ locations. Yelmo Ideal (Calle del Doctor Cortezo) is the most central, with V.O. screenings. €7-10. (3) Kinépolis — large multiplexes in Ciudad de la Imagen (Pozuelo) and San Sebastián de los Reyes. €9-12. (4) Odeon Multicines (Calle de la Princesa) — historic, central, popular. €8. V.O. (ORIGINAL VERSION) THEATERS: (1) Cine Doré (Calle de Santa Magdalena 10) — Spanish Film Institute cinema, art house, V.O. always, €3. (2) Cinesa Manoteras — most V.O. screenings in Madrid. (3) Yelmo Ideal — second-most V.O. (4) Cine Estudio Imax (Calle de la Riviera) — IMAX and V.O. (5) Renoir Plaza de España (closed, but check Renoir preciados). CHEAP DAYS: Most theaters have 'día del espectador' (spectator day) on Monday-Wednesday — €5-6 tickets. Some also have cheaper matinees before 5pm. TIPS: (1) For V.O., look for 'V.O.' (versión original), 'V.O.S.' (versión original subtitulada), or 'V.O.S.E.' (versión original subtitulada en español) on listings. (2) Spanish cinemas have assigned seats — pick when booking. (3) Bring a jacket — Spanish cinemas are cold. (4) Popcorn (palomitas) is sweet or salty — order 'salada' for salty. (5) Some screenings have a 10-minute intermission (especially long films).",
     "official_url": "https://www.cinesa.es/",
@@ -10926,8 +10921,7 @@
     "related_records": [
       "imax-planetarium-madrid",
       "teatro-real-madrid"
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "casinos-gambling-madrid",
@@ -11068,8 +11062,8 @@
   {
     "id": "flamenco-madrid",
     "title": "Flamenco Shows in Madrid",
-    "category": "do",
-    "subcategory": "traditions",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Top tablaos: Cardamomo, Casa Patas, Corral de la Morería. €30-50 with drink, €60-90 with dinner.",
     "content": "Madrid is one of the best places in Spain to see flamenco — performers come from all over Spain (especially Andalusia) to dance in Madrid's tablaos. TOP TABLAOS: (1) Cardamomo (Calle de Echegaray 15, Las Letras) — intimate venue, 60 capacity, top performers. €30 show + drink, €50 with tapas. 2 shows nightly (8pm, 10pm). Reserve ahead. (2) Casa Patas (CLOSED 2025-2026) — was at Calle de Cañizares 10. For alternatives, see Cardamomo, Corral de la Morería, or Las Tablas. (3) Corral de la Morería (Calle de la Morería 17, Plaza Mayor area) — oldest (1956), most historic, Michelin-starred restaurant. €50-90 with dinner. (4) Torres Bermejas (Calle de la Flor Baja 9, Gran Vía) — larger venue, Alhambra-style decor. €40-70. (5) Las Carboneras (Plaza del Conde de Miranda 1) — modern, central, good value €30. (6) La Latina (Calle de la Cava Baja 32) — small, in La Latina. WHAT TO EXPECT: A typical show is 60-90 minutes with 4-5 artists: 1-2 dancers (bailaor/bailaora), 1-2 singers (cantaor/cantaora), 1-2 guitarists (tocador). The show is intense and emotional — flamenco is UNESCO intangible cultural heritage. TIPS: (1) Book ahead, especially weekends. (2) Dress smart-casual. (3) Don't talk during the performance — Spaniards take flamenco seriously. (4) Photography is usually not allowed during the show. (5) The 'with dinner' option is a 3-course Spanish meal — worth it for the experience but the food is secondary to the show. (6) For a free flamenco experience, check Sala El Sol (Calle de los Candilejos) on certain nights, or the flamenco peñas (clubs) in Lavapiés.",
     "official_url": "https://cardamomo.com/en",
@@ -11093,7 +11087,6 @@
       "flamenco-dance-intensives-madrid",
       "guitar-luthier-schools-spain"
     ],
-    "subsubcategory": "Flamenco",
     "sections": [
       {
         "type": "table",
@@ -11170,8 +11163,8 @@
   {
     "id": "magic-comedy-madrid",
     "title": "Magic & Comedy Shows in Madrid",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Stand-up: Faena Bar, Comedy Clubhouse. Magic: Mágico Antón, Anuba. Most shows in Spanish; some English comedy nights.",
     "content": "Madrid's comedy and magic scene. STAND-UP COMEDY (in Spanish unless noted): (1) Faena Bar (Calle de la Colegiata 12) — weekly stand-up, mostly Spanish. €8-12. (2) Comedy Clubhouse (Calle de la Colegiata 12) — Madrid's only dedicated comedy club. Spanish + English nights. €10-15. Check for 'Comedy in English Madrid' nights (monthly). (3) Sala Galileo Galilei (Calle de Galileo 100) — comedy + music, larger venue. €12-20. (4) El Club de la Comedia (multiple venues, including Teatro Alcázar) — established comedy brand. €15-25. (5) Stand Up Madrid (various venues) — showcases, often English/Spanish bilingual. MAGIC SHOWS: (1) Mágico Antón (Calle de San Mateo 4) — small intimate magic theater, weekly shows. €15. Book ahead. (2) Anuba Madrid (Calle de San Vicente Ferrer 47) — close-up magic, dinner shows. €40-60. (3) As de Copas (Calle de la Madera 14) — bar with magic shows some nights, free entry. (4) Teatro Reina Victoria (Calle de Espíritu Santo 5) — hosts touring magic shows. IMPROV: (1) IMPRO Madrid (Calle de la Colegiata 12) — weekly improv shows. €8-12. (2) El Imparcial Teatro (Calle de la Colegiata 13) — improv + theater. TIPS: (1) Most comedy is in Spanish — but the 'English comedy nights' at Comedy Clubhouse are excellent. (2) Magic shows often need no language. (3) Check meetup.com for open mic nights. (4) Spanish humor is loud, physical, and political — different from US/UK. (5) Book ahead for weekend shows.",
     "official_url": "https://www.comedyclubhouse.com/",
@@ -11191,14 +11184,13 @@
       "teatro-real-madrid",
       "movie-theaters-madrid",
       "madrid-music-festivals"
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "summer-outdoor-cinema-madrid",
     "title": "Summer Outdoor Cinema & Events",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Cine de Verano (summer cinema): Retiro Park, Matadero, Cine Doré rooftop. June-September. €3-8, some free.",
     "content": "Madrid's summer outdoor cinema season runs June-September. MAIN VENUES: (1) Cine de Verano en el Retiro (Retiro Park, near Puerta de Alcalá) — nightly screenings in July-August, classic and recent films in V.O. with Spanish subtitles. €6. Bring a blanket or low chair. Food trucks on site. (2) Matadero Madrid (Plaza de Legazpi) — outdoor cinema on the patio, contemporary and art house films. €4-6. Check mataderomadrid.org. (3) Cine Doré (Calle de Santa Magdalena 10) — Spanish Film Institute, rooftop cinema in summer. €3. Art house classics, V.O. (4) Cineteca Matadero (Plaza de Legazpi) — independent cinema, indoor + outdoor in summer. €5. (5) Azotea del Círculo de Bellas Artes (Calle de Alcalá 42) — rooftop cinema some summer weekends. €10. (6) Parque Tierno Galván (Calle de Meneses) — large outdoor cinema, 1,500 seats. €4. Pop, classic, and recent films. OTHER SUMMER EVENTS: (1) Veranos de la Villa (July-August) — Madrid's big summer festival with concerts, theater, dance at venues across the city. Many free. (2) Festival Internacional de Teatro (July) — avant-garde theater. (3) Conciertos de la Almudena (September) — classical music at the cathedral. TIPS: (1) Bring a light jacket — Madrid nights are cool even in summer. (2) Mosquitoes can be a problem near water — bring repellent. (3) Most screenings are V.O. with Spanish subtitles. (4) Buy tickets online — popular screenings sell out. (5) For free screenings, arrive 1 hour early to get a good spot.",
     "official_url": "https://www.esmadrid.com/en/veranos-villa",
@@ -11218,8 +11210,7 @@
       "movie-theaters-madrid",
       "veranos-de-la-villa",
       "retiro-park"
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "phone-tv-internet-providers-madrid",
@@ -12557,9 +12548,8 @@
   {
     "id": "flamenco-tablaos-nightlife",
     "title": "Flamenco Tablaos (Live Flamenco Shows)",
-    "category": "do",
-    "subcategory": "nightlife",
-    "subsubcategory": "Live Music",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Late-night flamenco shows at tablaos. Cardamomo, Corral de la Morería, Casa Patas. €30-50 with drink, €60-90 with dinner.",
     "content": "See our Flamenco Shows record (in Madrid Culture) for the full guide to flamenco tablaos in Madrid. This record focuses on the late-night (10pm+) shows that are part of Madrid's nightlife scene. LATE-NIGHT SHOWS: (1) Cardamomo (Calle de Echegaray 15) — 10pm and midnight shows, intimate, €30-35 with drink. The latest show (midnight) is the most authentic and rowdy. (2) Corral de la Morería (Calle de la Morería 17) — 10:30pm late show, €50-90 with dinner. The Michelin-starred restaurant makes this a dinner-and-show destination. (3) Casa Patas (Calle de Cañizares 10) — 10:30pm show, €35 with drink. After the show, the bar stays open with impromptu flamenco — sometimes better than the show itself. (4) Las Tablas (Plaza de España 9) — 10pm and midnight shows, €35. Modern tablaos with younger performers. (5) Torres Bermejas (Calle de la Flor Baja 9) — 10pm late show, €40-70. Larger venue. WHAT TO EXPECT AT LATE SHOWS: The midnight shows are where flamenco comes alive. Performers are loosened up, the audience is more engaged, and there's more improvisation. The atmosphere is smoky (despite smoking bans, some tablaos bend rules), intimate, and electric. TIPS: (1) Book the late show (midnight) for the most authentic experience. (2) Don't talk during the performances — Spaniards take flamenco seriously. (3) The 'with dinner' option is good but the food is secondary to the show. (4) Late shows end around 1:30-2am — perfect for continuing the night at a nearby bar. (5) Some tablaos have a bar after the show where performers and audience mingle — the best flamenco moments often happen here, spontaneously.",
     "official_url": "https://cardamomo.com/en",
@@ -12609,16 +12599,15 @@
   {
     "id": "jazz-blues-madrid",
     "title": "Jazz & Blues in Madrid",
-    "category": "do",
-    "subcategory": "nightlife",
-    "subsubcategory": "Live Music",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Top jazz: Café Central, Clamores, Populart, Bogui Jazz. €10-20 entry + drink. Nightly shows from 9pm.",
     "content": "Madrid has a strong jazz scene. TOP JAZZ CLUBS: (1) Café Central (Plaza del Ángel 10, near Plaza Santa Ana) — Madrid's most famous jazz club, since 1982. 2 shows nightly (9pm, 11pm). €15-20 entry (includes drink). Open Tue-Sun. International and Spanish artists. Book ahead. (2) Clamores (Calle de Alburquerque 14, Malasaña) — historic, since 1981. Jam sessions, modern jazz. €10-12 entry. (3) Populart (Calle de las Huertas 22, Barrio de las Letras) — small, intimate, free entry (just buy drinks). Live jazz nightly 10pm-midnight. Best for casual listeners. (4) Bogui Jazz (Calle de la Barco 34, Malasaña) — newer, modern jazz, €10-15 entry. (5) Berlin Café (Calle de la Costanilla de San Andrés 20, La Latina) — café + jazz, free entry, drinks €6-10. (6) El Junco (Plaza de Santa Bárbara 10, Alonso Martínez) — jazz + blues + soul, free entry before 11pm, €5 after. FESTIVALS: (1) Madrid Jazz Festival (November-December) — international headliners at Circo Price, Teatro Fernán Gómez, Conde Duque. €20-60. (2) Jazz en la Latina (summer) — free outdoor jazz in La Latina's plazas. (3) Festival de Jazz de Madrid (Nov) — city-wide. BLUES: Madrid's blues scene is smaller. (1) Moe's Blues Bar (Calle de la Colegiata 9) — live blues Wed-Sat. €5-10. (2) Taberna El Almendro (Calle de la Almendro 13) — occasional blues. TIPS: (1) Café Central is the must-visit — book 1-2 days ahead. (2) Many jazz clubs have free entry early — arrive by 9pm. (3) Order a drink (€6-12) on top of the entry fee. (4) Spanish jazz audience is respectful — quiet during performances, applause between songs. (5) Madrid jazz festivals in November-December are world-class.",
     "official_url": "https://www.cafecentralmadrid.com/en/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "nightlife",
       "jazz",
@@ -13846,9 +13835,8 @@
   {
     "id": "clamores-jazz-club",
     "title": "Clamores Jazz Club",
-    "category": "do",
-    "subcategory": "arts",
-    "subsubcategory": "Venues & Performances",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Historic jazz club in Malasaña since 1981. Jam sessions, modern jazz. €10-12 entry. Calle de Alburquerque 14.",
     "content": "Clamores (Calle de Alburquerque 14, Malasaña, Metro Bilbao L1/L4) is one of Madrid's oldest jazz clubs, founded in 1981. Unlike Café Central (which is more touristy and expensive), Clamores is a locals' jazz club — intimate, dark, and serious about the music. The programming leans modern: contemporary jazz, fusion, and Latin jazz. Jam sessions on Wednesdays are legendary — local musicians show up to sit in. ENTRY: €10-12 (includes first drink). HOURS: Tue-Sat 9pm-2am, closed Sun-Mon. Two sets nightly: 10pm and midnight. TIPS: (1) The room is small (80 capacity) — arrive by 9:30pm for a good seat. (2) No food, just drinks. (3) The crowd is older and serious about jazz — don't talk during performances. (4) Cheaper and more authentic than Café Central. (5) Metro Bilbao (L1, L4), 5 min walk.",
     "official_url": "https://www.clamoresmadrid.com/",
@@ -13871,9 +13859,8 @@
   {
     "id": "gran-via-theaters-musicals",
     "title": "Gran Vía Theaters & Musicals",
-    "category": "do",
-    "subcategory": "arts",
-    "subsubcategory": "Venues & Performances",
+    "category": "see",
+    "subcategory": "performing-arts",
     "summary": "Gran Vía is Madrid's Broadway — musicals, plays, concerts at Lope de Vega, Coliseum, Compac. €20-60 tickets.",
     "content": "Gran Vía is Madrid's theater district — Spain's equivalent of London's West End or New York's Broadway. 6 major theaters line the street, hosting long-running musicals, touring plays, and concerts. MAIN THEATERS: (1) Teatro Lope de Vega (Gran Vía 57) — largest, hosts big musicals (The Lion King ran here for years). €25-60. (2) Teatro Coliseum (Gran Vía 78) — musicals and concerts. €20-50. (3) Teatro Compac Gran Vía (Gran Vía 66) — plays and cultural events. €15-45. (4) Teatro Häagen-Dazs Calderón (Calle de la Atocha 18) — large venue, concerts and musicals. €20-60. (5) Nuevo Teatro Alcalá (Calle de la Jorge Juan 62) — off-Gran Vía, plays and comedy. €15-40. BOOKING: (1) At the theater box office (cheapest, no booking fee). (2) Online at entradas.com or ataquilla.com (€2-3 booking fee). (3) El Corte Inglés ticket counters (in-store, no fee). (4) Last-minute: Taquilla de Última Hora at Plaza de la Independencia — same-day tickets at 50% off (cash only, queue from 5pm). TIPS: (1) Wednesday is the cheapest day (día del espectador, €5-8 cheaper). (2) Spanish musicals are in Spanish — check if the show is suitable for non-Spanish speakers. (3) Some theaters have obstructed-view seats — check the seating chart. (4) Dress code: smart casual (no shorts or flip-flops).",
     "official_url": "https://www.entradas.com/",
@@ -13923,16 +13910,15 @@
   {
     "id": "faunia-madrid",
     "title": "Faunia Nature Park",
-    "category": "do",
-    "subcategory": "family",
-    "subsubcategory": "Animals & Nature",
+    "category": "see",
+    "subcategory": "family-attractions",
     "summary": "Interactive nature park with 4 ecosystems. 1,000+ animals, tropical forest, polar ecosystem. €18 adult, €14 child. South Madrid.",
     "content": "Faunia (Avenida de las Comunidades 28, Metro Valdebernardo L9) is a nature and wildlife theme park — different from the Zoo Aquarium (which is a traditional zoo). Faunia is organized by ecosystem: (1) Tropical Forest — monkeys, birds, reptiles in a heated greenhouse. (2) Polar Ecosystem — penguins and cold-climate animals. (3) Temperate Forest — European wildlife. (4) Desert — reptiles and arid-climate animals. Plus: butterfly house, aquarium, and interactive animal encounters. ADMISSION: €18 adult, €14 child (3-10), under 3 free. Online discount: €15 adult. HOURS: Daily 10am-6pm (until 8pm summer). Allow 3-4 hours. BEST FOR: Kids 3-10 (more interactive than the zoo, less walking). TIPS: (1) The penguin feeding (2pm daily) is the highlight. (2) Bring a picnic — food inside is overpriced. (3) Less crowded than Zoo Aquarium. (4) Good rainy-day option (many exhibits are indoors). (5) Metro Valdebernardo (L9), 25 min from Sol.",
     "official_url": "https://www.faunia.es/en",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "family",
       "animals",
@@ -14025,16 +14011,15 @@
   {
     "id": "marionetas-titere-madrid",
     "title": "Puppet Shows & Children's Theater",
-    "category": "do",
-    "subcategory": "family",
-    "subsubcategory": "Family Shows",
+    "category": "see",
+    "subcategory": "family-attractions",
     "summary": "Puppet theaters (títeres) and kids' shows at Retiro Park, Teatro del Príncipe, weekend festivals. €3-8. Mostly Spanish.",
     "content": "Puppet shows (títeres) and children's theater in Madrid. OUTDOOR (free or cheap): (1) Retiro Park — weekend puppet shows at the 'Títere' kiosk near the Puerta de Alcalá entrance. Free or €2-3 donation. Saturdays and Sundays at 12pm and 1pm. In Spanish but visual enough for non-Spanish speakers. (2) Plaza de las Comendadoras (Calle de la Princessa) — summer weekend puppet shows. Free. (3) Various neighborhood festivals — look for 'teatro infantil' in event listings. INDOOR: (1) Teatro del Príncipe (Calle del Príncipe 25) — children's theater and puppet shows. €5-8. Weekends. (2) Sala Cuarta Pared (Calle de la Ercilla 17, Lavapiés) — experimental children's theater. €4-6. (3) Centro Cultural Conde Duque (Calle del Conde Duque 11) — weekend family programming. €3-5. FESTIVALS: (1) Festival de Títeres de Madrid (May) — city-wide puppet festival, many free shows. (2) Teatralia (March) — children's theater festival. TIPS: (1) Retiro Park puppet shows are the best free family activity in Madrid. (2) Arrive 15 min early for outdoor shows — they get crowded. (3) Most shows are in Spanish, but puppetry is visual — kids don't need to understand the language. (4) Bring a blanket to sit on for outdoor shows.",
     "official_url": "https://www.esmadrid.com/en/kids-madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "family",
       "puppet",
@@ -14052,16 +14037,15 @@
   {
     "id": "natural-sciences-museum-madrid",
     "title": "Natural Sciences Museum (Dinosaurs!)",
-    "category": "do",
-    "subcategory": "family",
-    "subsubcategory": "Museums for Kids",
+    "category": "see",
+    "subcategory": "family-attractions",
     "summary": "Museo de Ciencias Naturales — dinosaurs, minerals, taxidermy, planetarium. €7 adult, €3 child. Near Nuevos Ministerios.",
     "content": "Museo Nacional de Ciencias Naturales (Calle de José Gutiérrez Abascal 2, Metro Gregorio Marañón L7) is Madrid's natural history museum. Founded 1771. HIGHLIGHTS FOR KIDS: (1) Dinosaur hall — full-size T. rex skeleton, Megatherium, Triceratops. The star attraction. (2) Mineral gallery — 15,000+ specimens, fluorescent minerals, giant crystals. (3) Biodiversity wing — taxidermy animals from around the world, interactive displays. (4) Mediterranean ecosystem — local fauna and flora. (5) Temporary exhibitions — rotating science and nature shows. ADMISSION: €7 adult, €3 child (6-18), under 6 free. Free on Sunday mornings (9:30am-2pm). HOURS: Tue-Fri 10am-5pm, Sat-Sun 10am-8pm. Closed Mondays, Jan 1, May 1, Dec 25. Allow 2-3 hours. TIPS: (1) The dinosaur hall is the highlight — go there first. (2) The museum is smaller than London's or NYC's natural history museums — don't expect a full day. (3) Free Sunday mornings get crowded — arrive at 9:30am. (4) Most signage is in Spanish — but dinosaurs speak for themselves. (5) Combine with the Sorolla Museum (15 min walk) or Nuevos Ministerios shopping.",
     "official_url": "https://www.mcn.csic.es/en",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "family",
       "museum",
@@ -18400,7 +18384,7 @@
   {
     "id": "music-summer-programs-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Music Summer Programs in Madrid (English-Taught)",
     "summary": "Madrid's music institutions recruit international students: Reina Sofía Higher School of Music (Young Artists bilingual camp), Música Creativa, Canción de Invierno (guitar + flamenco), Tablao de Carmen flamenco school. From classical to flamenco.",
     "content": "Madrid's music education ecosystem actively recruits international students through English-language summer programs. The most prestigious is the Reina Sofía Higher School of Music's Young Artists Summer Camp — a bilingual (English/Spanish) program offering high-level instrumental instruction with individual classes and chamber music focus. Música Creativa is a Madrid-based Higher Music Education institution recognized by the Spanish Ministry, with international programs including English-taught options. Canción de Invierno runs 2-week summer courses in Madrid covering classical, flamenco, rock, and blues guitar — explicitly welcoming international students. For flamenco specifically, Tablao de Carmen in Madrid runs one of the most respected flamenco schools in Spain, with English-language instruction available for dance, guitar, and singing. The market targets two audiences: serious young classical musicians (Reina Sofía, Música Creativa) and amateur/enthusiast guitarists and flamenco learners (Canción de Invierno, Tablao de Carmen). Programs range from 1-week intensives to 4-week residential programs. Costs: €600-€2,500 depending on length and intensity. Madrid is particularly attractive for flamenco learners because it's the capital of flamenco performance — students can attend world-class shows at Cardamomo, Corral de la Morería, and other tablaos as part of their studies.",
@@ -19347,7 +19331,7 @@
   {
     "id": "film-schools-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Film Schools in Madrid (Cinema & Audiovisual)",
     "summary": "Madrid's film schools recruit international students: ECAM (Madrid Film School, founded 1994), Septima Ars, TAI. 3-year programs + shorter intensives. ECAM is the most prestigious, located in Pozuelo de Alarcón.",
     "content": "Madrid is Spain's film education capital, with multiple schools training the next generation of Spanish and international filmmakers. The most prestigious is ECAM (Escuela de Cinematografía y del Audiovisual de la Comunidad de Madrid) — the Madrid Film School, founded in 1994 as a non-profit cultural foundation. ECAM is located in Ciudad de la Imagen, Pozuelo de Alarcón (just west of Madrid), and is a member of CILECT (International Association of Film and Television Schools). ECAM offers 3-year undergraduate programs in directing, screenwriting, cinematography, editing, sound, and producing, plus shorter intensive courses. While ECAM primarily teaches in Spanish, it attracts international students and has growing English-language offerings. Septima Arts is another respected Madrid film school with English-language programs. TAI (Taller de Artistas Internacionales) is a Madrid-based arts university that includes cinema programs. The Madrid film ecosystem also includes the Madrid Film Office (Madrid Film Commission), which supports international productions shooting in the city. For English-speaking film students, Madrid offers a more affordable alternative to London or Los Angeles, with strong industry connections (Pedro Almodóvar's El Deseo production company is Madrid-based). Programs cost €8,000-€15,000/year for 3-year undergraduate programs. Application is competitive — ECAM admits ~30 students per year across all specialties.",
@@ -19462,7 +19446,7 @@
   {
     "id": "flamenco-dance-intensives-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Flamenco Dance Intensives in Madrid",
     "summary": "Madrid hosts multiple flamenco dance intensives for international students: Factory Ballet (intensive flamenco), Cervantes Escuela Internacional, Enforex, Isabel Quintero. Summer/Christmas/Easter intensives. From 1-4 weeks.",
     "content": "Madrid is one of the world's premier destinations for flamenco dance intensives — combining authentic instruction with the chance to see world-class performances nightly at the city's tablaos. Multiple schools actively recruit international students through English-language marketing. Factory Ballet runs intensive flamenco courses for beginner and intermediate levels in central Madrid (Goya area), with sessions in summer, Christmas, and Easter. Cervantes Escuela Internacional combines Spanish language with flamenco dance (20 language + 6 flamenco classes per week, 1-4 weeks). Enforex offers a Flamenco/Salsa course with 8 dance lessons per week. Isabel Quintero runs summer intensive courses in Flamenco, Bolero School, Classical Spanish, and Teaching Methodology. Most programs are explicitly designed for international students and welcome English speakers — instructors often speak English. Costs: €200-€500/week for intensives, with longer programs (4 weeks) typically €1,000-€1,500. Programs run year-round but most popular in summer (June-September). Madrid's flamenco scene is uniquely suited to learning because students can attend live performances nightly at Cardamomo, Corral de la Morería, Cafe de Chinitas, and other tablaos — an essential complement to studio instruction. Many programs include discounted tickets to performances.",
@@ -19882,7 +19866,7 @@
   {
     "id": "acting-schools-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Acting Schools & Theater in English in Madrid",
     "summary": "Madrid's English-language acting and improv scene: Act Attack (English acting & improv courses), MBT Espacio Escénico (acting in English intensive), Acting In English school, Face 2 Face theater in English. Plus Madrid International Theater Group meetup.",
     "content": "Madrid has a small but vibrant English-language acting and theater scene, with multiple schools and groups offering instruction in English. The scene serves two audiences: (1) English-speaking expats wanting to do theater in their native language, (2) Spanish actors wanting to develop English-language skills for international castings. Act Attack offers high-quality acting and improv courses in English year-round in Madrid, including beginner classes on Mondays. They're associated with the Madrid International Theater Group meetup, an active community of English-speaking theater enthusiasts. MBT Espacio Escénico offers 'Acting in English' intensive weekend workshops designed for Spanish film and theater actors preparing for international castings and self-tapes. Acting In English started as an extracurricular activity for kids in 2018 and evolved into a successful English-language teaching method for Spanish students. Face 2 Face Teatro Interactivo en Inglés performs theater in English for schools and colleges, plus large-scale adaptations of classics in major Madrid theaters. The market is small but actively growing — Madrid's international population is increasing, and Spanish actors increasingly need English for international work. The Madrid International Theater Group on Meetup is the most accessible entry point for newcomers — regular meetings, social atmosphere, no prior experience required. Costs: €100-€300 for 8-12 week courses, €80-€150 for weekend intensives.",
@@ -20590,7 +20574,7 @@
   {
     "id": "art-design-schools-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Art & Design Schools in Madrid (English-Taught)",
     "summary": "IED Madrid (Istituto Europeo di Design) is the leading English-taught art/design school in Madrid. Undergraduate + Master's + Summer courses in fashion, product, interior, graphic design. Summer courses in English from €1,300.",
     "content": "Madrid has emerged as a serious destination for English-taught art and design education, anchored by IED Madrid (Istituto Europeo di Design). IED is a network of design schools across Europe with a major Madrid campus, offering undergraduate courses, Master's programs, and Summer courses in Design, Fashion, Visual Arts, and Communication. IED Madrid's summer courses are explicitly taught in English and recruit international students — including a 3-week Global Design Summer Course covering Fashion, Product, Interior, and Graphic Design. The Summer Course in Design Experience explores how one concept can be developed into a visual identity, physical object, wearable piece, and spatial experience. IED programs are attended in English, Italian, Spanish, and Portuguese (depending on campus). Madrid's design scene is particularly strong in fashion (with Madrid Fashion Week / Mercedes-Benz Fashion Week Madrid) and product design (with many Spanish design studios headquartered in Madrid). The IED Madrid campus is in the city center, providing easy access to Madrid's museums (Prado, Reina Sofía, Thyssen), galleries, and design studios. Beyond IED, Madrid's design education ecosystem includes TAI (arts university with cinema programs including design), the School of Architecture at UPM (Polytechnic University of Madrid, public tuition), and various smaller specialized schools. Costs: €1,300-€2,500 for summer courses (2-4 weeks), €8,000-€12,000/year for undergraduate, €12,000-€18,000/year for Master's.",
@@ -22127,7 +22111,7 @@
   {
     "id": "guitar-luthier-schools-spain",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Spanish Guitar Building (Luthier) Schools in Spain",
     "summary": "Spain is the home of classical guitar building — multiple luthier schools recruit international students: Glissando (Madrid), European Institute of Guitar Making, Solera Artisans School (Granada). 12-day to 1-month intensives. €1,500-€3,500.",
     "content": "Spain is the spiritual home of classical guitar building — the Spanish guitar is the foundation of modern classical and flamenco guitar construction. Multiple Spanish luthier schools actively recruit international students through English-language marketing. Glissando (Madrid-based, glissandoguitar.com) offers Luthier courses and workshops — the Spanish guitar course lasts approximately 200 hours depending on availability and pace. European Institute of Guitar Making runs Complete Spanish Guitar Building Courses as 1-month intensives — they run 2-3 of these exclusive top-level courses per year. Solera Artisans School offers a 12-day Spanish Guitar Building Course where participants learn everything from basics to advanced lutherie techniques, with each day featuring intensive hands-on work. Guitarras de Luthier (Madrid, Calle 28012) offers 4 kinds of guitar classes and courses including building. The Guild of American Luthiers maintains a Lutherie Schools International list including Spanish options — they note the original month intensive full-time Spanish guitar making experience in Granada province (Southern Spain). For English-speaking guitar enthusiasts wanting to learn traditional Spanish lutherie, Spain is the obvious destination — the Madrid school tradition (Ramírez, Contreras, Bernabe) and Granada school tradition (Antonio de Torres origin) are both alive and accepting international students. Costs: €1,500-€3,500 for intensive courses (12 days to 1 month). Most courses include materials, tools, and a finished guitar to take home. The Madrid school of lutherie is particularly accessible — Glissando is in Madrid, and Guitarras de Luthier is at +34 91 468 1 (Calle 28012 Madrid).",
@@ -22258,7 +22242,7 @@
   {
     "id": "photography-workshops-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Photography Workshops in Madrid (English-Speaking)",
     "summary": "Madrid photography workshops in English: Pentaprisma (one-to-one + small groups, English), CIEE Photography & Spanish Culture (high schoolers), Ollie Taylor Photography Spain workshops. From €100-€500.",
     "content": "Madrid has a small but growing English-language photography workshop scene, with multiple operators recruiting English-speaking students. Pentaprisma runs photography workshops in Madrid in English (Spanish also available for one-to-one sessions) — no formal training required, suitable for all skill levels. Workshops include Madrid photo walks and one-to-one instruction. CIEE offers a Photography & Spanish Culture summer program in Madrid for high school students — hands-on classes, workshops, and guided photo walks with professional photographers practicing in real-world settings. Ollie Taylor Photography runs Spain Photography Workshops covering various Spanish locations including Madrid, with upcoming workshops listed and bookable online. Academy for Photographographers notes that while Spanish-language photography workshops are abundant in Spain, English-language options are less common — making the operators who do offer English particularly valuable for international students. Facebook groups (Spain Photography Workshops) organize additional workshops including urban photo walks and portrait photography studio sessions. The Madrid photography scene is particularly attractive for street photography (lively street life, colorful neighborhoods like Lavapiés and Malasaña), architecture (mix of historic and contemporary), and people photography (Madrileños are generally friendly to being photographed). Madrid's light is famously photogenic — the late afternoon 'golden hour' is especially beautiful. For English-speaking photography enthusiasts, Madrid workshops offer access to local knowledge, models, and locations that independent photographers would struggle to arrange.",
@@ -22838,7 +22822,7 @@
   {
     "id": "architecture-summer-programs-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Architecture Summer Programs in Madrid (English)",
     "summary": "Madrid architecture summer programs recruiting international students: IE University Introduction to Architecture (€5,900), University of Navarra Drawing Architecture in Spain, IED Madrid. For high school + university students.",
     "content": "Madrid offers multiple English-taught architecture summer programs recruiting international students. IE University runs an Introduction to Architecture summer course at IE Tower in Madrid — €5,900 (~$6,916), one of Europe's premier architecture summer programs for high school students considering architecture as a career. The program teaches basic freehand sketching to develop observation and perception skills, using Madrid as a living laboratory. University of Navarra runs 'Drawing Architecture in Spain,' a summer course complementing architect training with specific knowledge of Spanish Architecture and Art. IED Madrid offers summer courses in creative arts and design including architecture-related subjects, taught in English or Spanish. Summer Schools in Europe lists an Introduction to Architecture course in Madrid that teaches basic freehand sketching using Madrid's urban environment. Educations.com lists 10 creative arts and design summer course programs in Madrid including architecture-adjacent offerings. The Madrid architecture summer market targets: (1) high school students considering architecture careers (IE University pre-university), (2) undergraduate architecture students wanting Spanish architecture exposure (University of Navarra), (3) design professionals wanting Madrid-specific inspiration. Madrid is uniquely attractive for architecture study because of its mix of historic (Habsburg, Bourbon), 19th-century (Gran Vía), and contemporary (CaixaForum, Matadero) architecture. Program costs: €1,300 (short IED courses) to €5,900+ (IE University comprehensive program). Programs typically run 2-6 weeks in June-July.",
@@ -23084,7 +23068,7 @@
   {
     "id": "jazz-music-workshops-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Jazz & Contemporary Music Workshops in Madrid (English)",
     "summary": "Madrid jazz and contemporary music workshops recruiting international students: Música Creativa (international jazz focus), Forum Musikae International Music Summer Workshop, Jazz9tus Summer Camp. Classical, pop, rock, jazz coverage.",
     "content": "Madrid has a growing jazz and contemporary music education ecosystem, with multiple institutions recruiting international students through English-language marketing. Música Creativa (musicacreativa.com) is a Madrid-based Higher Music Education institution that strives to be an international centre of reference in jazz and contemporary music higher education and research — international mobility is a core focus. Forum Musikae runs the Academia Internacional de Música Forum Musikae Madrid International Music Summer Workshop, where participants learn the knowledge and skills required of professionals at classical, pop, rock, and jazz workshops held in Madrid. Instruments covered include piano, guitar, strings, wind, voice, and percussion. Jazz9tus runs a Summer Camp (28 July - 1 August) offering five days in 'the most exciting jazz community' — English version of the camp available. The Reina Sofía Higher School of Music Young Artists Summer Camp (already documented in music-summer-programs-madrid) also covers jazz-adjacent classical music. The Madrid jazz scene itself is small but vibrant — Café Central (Plaza del Ángel) is the city's most famous jazz club, programming international acts nightly. Clamores Jazz (Alonso Martínez) is the second major venue. The Madrid International Jazz Festival (November) brings international headliners. For English-speaking jazz students, Madrid offers: lower cost than New York or London, growing jazz education infrastructure, intimate performance opportunities at local clubs, and the chance to study with Spanish jazz musicians who often have international backgrounds. Costs: €600-€2,500 for summer workshops (1-4 weeks).",
@@ -23996,8 +23980,8 @@
   },
   {
     "id": "spanish-film-festivals",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "title": "Spanish Film Festivals (International Cinema Industry)",
     "summary": "Spain hosts A-list film festivals recruiting international industry: San Sebastián International Film Festival (FIAPF A-category, September), Málaga Film Festival (Spanish cinema, March). Plus Madrid's film festival ecosystem.",
     "content": "Spain hosts two of Europe's most important film festivals, both recruiting international cinema industry through English-language marketing. The San Sebastián International Film Festival (Donostia Zinemaldia) is Spain's most prestigious film event — one of only 15 FIAPF A-category film festivals worldwide (alongside Cannes, Berlin, Venice, Locarno, Karlovy Vary, Moscow, Montreal, Shanghai, Tokyo, Mar del Plata, Cairo, Goa, and Tallinn). Held annually in September in the Basque city of San Sebastián (4.5 hours from Madrid by car, or 1-hour flight + 1-hour drive). The festival features international competition, Spanish cinema showcases, and an industry forum attracting distributors, sales agents, and producers globally. The Málaga Film Festival (Festival de Málaga) is the leading Spanish-language cinema festival — held annually in March in Málaga (3 hours from Madrid by AVE train or 1-hour flight). The 29th edition (March 6-15, 2026) features 263 films showcasing the diversity of Spanish cinema. Málaga is the premier market for Spanish-language films and Latin American cinema. SpainFilmCommission documents the major film festivals in Spain and their role in the international film industry. Cineuropa covers Spanish cinema news with English-language content. Madrid itself has a smaller film festival ecosystem: the Madrid International Film Festival (April/May), Alcine (Alcalá de Henares, November), and various genre festivals (Sitges - Fantasy, October). For Madrid-based film industry professionals, the Madrid Film Office supports international productions shooting in the city. Film festival attendance for industry: San Sebastián industry accreditation €200-€500, Málaga industry accreditation €150-€400. The festivals are major recruitment channels for international cinema professionals — programmers, distributors, sales agents, and producers.",
@@ -24120,8 +24104,7 @@
           "Don't skip the industry forums — that's where real business happens"
         ]
       }
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "robotics-stem-camps-madrid",
@@ -24397,8 +24380,8 @@
   },
   {
     "id": "theater-festivals-madrid",
-    "category": "do",
-    "subcategory": "arts",
+    "category": "see",
+    "subcategory": "performing-arts",
     "title": "Theater & Performing Arts Festivals in Madrid",
     "summary": "Madrid theater festivals recruiting international audiences: Teatralia (March, performing arts for children/youth), Mérida International Classical Theatre Festival (July), Madrid's broader performing arts festival ecosystem. English-friendly programming.",
     "content": "Madrid hosts multiple theater and performing arts festivals throughout the year, several with international recruitment focus. Teatralia Festival is Madrid's premier performing arts festival for children and youth — held in March (30th edition March 6-29, 2026) with shows combining theatre, puppets, magic, circus, and dance. The festival is documented by esMadrid (official Madrid tourism portal) and listed by ASSITEJ International (International Association of Theatre for Children and Young People). The Mérida International Classical Theatre Festival is Spain's leading classical theatre festival — held in July in Mérida (Extremadura, 3 hours from Madrid by car/train). 70 editions of the festival have been held, each attracting tens of thousands of spectators — making it one of the leading theatre festivals in the Spanish-speaking world. American Theatre magazine documents summer theatre festivals across the globe including Spanish options. Critical Stages maintains an international theatre and performing arts festival guide with Spanish entries. Madrid itself has multiple year-round theater offerings: Teatro Español (classical Spanish theater), Teatro de la Abadía (contemporary), Teatros del Canal (international programming), and the Fernán Gómez Centro Cultural de la Villa. The Madrid theater festival ecosystem targets: (1) international theater professionals wanting Spanish-language work exposure, (2) families wanting children's programming (Teatralia), (3) classical theater enthusiasts (Mérida), (4) Spanish-language theater students. Most festivals have English-language programming information available. Theater ticket costs in Madrid: €15-€60 for regular performances, €20-€80 for festival performances. The Mérida Classical Theatre Festival is unique — staged in the Roman Theatre of Mérida (3rd century AD, UNESCO World Heritage), one of the world's most atmospheric classical performance venues.",
@@ -24522,8 +24505,7 @@
           "Don't underestimate Madrid theater scene — major year-round programming"
         ]
       }
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "business-spanish-executives-madrid",
@@ -24669,7 +24651,7 @@
   {
     "id": "creative-writing-workshops-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Creative Writing Workshops in Madrid (English)",
     "summary": "Madrid creative writing workshops recruiting English-language writers: SLU-Madrid Creative Writing Summer Institute, IE University Paul Pen workshops, Círculo de Bellas Artes writing workshops, UpTrek writing retreats Spain.",
     "content": "Madrid has a small but growing English-language creative writing workshop ecosystem, with multiple institutions recruiting international writers. Saint Louis University (SLU) Madrid runs a Creative Writing Summer Institute — an intensive, workshop-based program designed for writers at every stage of their practice, taught at SLU's Madrid campus. IE University runs Write Short Stories, a series of creative writing workshops led by Spanish author and screenwriter Paul Pen in Madrid and Segovia. Círculo de Bellas Artes (one of Madrid's premier cultural centers) runs creative writing workshops (taller de escritura creativa) — the first part begins with an overview of the genre and introduction to famous authors. UpTrek runs Creative Development and Writing Retreats with bestselling author Courtney Maum in Spain — writing sessions, individual tutoring, and a structured program. A Madrid-based literary non-profit (referenced in Madrid Expats Facebook group) has been organizing creative writing workshops and author talks online and in person — useful for ongoing workshop community. The Madrid creative writing market targets: (1) English-language writers wanting structured workshop feedback, (2) expats wanting creative community in Madrid, (3) aspiring novelists wanting professional instruction, (4) serious hobbyists wanting skill development. Programs range from 1-day workshops (€80-€150) to multi-week summer institutes (€1,000-€2,500). Madrid is attractive for creative writing because of its literary tradition (Cervantes, Lope de Vega, Benito Pérez Galdós, Javier Marías), vibrant contemporary writing scene, and lower cost than London/New York writing workshops. The Barrio de las Letras (Literary Quarter) is the spiritual home of Spanish Golden Age literature and a frequent workshop venue.",
@@ -25987,7 +25969,7 @@
   {
     "id": "contemporary-dance-intensives-madrid",
     "category": "do",
-    "subcategory": "arts",
+    "subcategory": "arts-education",
     "title": "Contemporary Dance & Ballet Intensives in Madrid (English)",
     "summary": "Madrid contemporary dance + ballet intensives recruiting international dancers: Factory Ballet (contemporary intensives), ART of Ballet Summer Course Madrid, Danza 180 summer program, Ballet de Catalunya (English classes).",
     "content": "Madrid has a growing English-language contemporary dance and ballet intensive ecosystem, complementing the flamenco intensives already documented. Factory Ballet runs Contemporary Dance Intensive Courses in central Madrid for youth and adults, open to all levels from beginners to Intermediate-Advanced. Sessions run June 22-26 and July (multiple dates). ART of | Ballet Summer Course Madrid trains dancers in July with world-class ballet teachers, William Forsythe Improvisation Technologies, and Repertoire Workshops. Danza 180 runs a 12-day professional summer program in Madrid with contemporary dance from July 1-12. Ballet de Catalunya runs Summer Intensives described as 'transformative' for dancers aged 5+, including contemporary dance, character, solos, and Pilates — with English classes in their workshop. go&dance lists Contemporary Dance intensive courses (Tuesday July 19 and Thursday July 21, 18-20h) focusing on technique. The Madrid contemporary dance market targets: (1) international dance students wanting European training, (2) professional dancers wanting summer intensive continuing education, (3) adult beginners wanting structured dance instruction in English, (4) dancers considering Spanish dance careers. Madrid's contemporary dance scene is anchored by Compañía Nacional de Danza (Spanish National Dance Company, directed by Joaquín de Luz since 2019) and the Teatro del Canal which programs contemporary dance. Programs typically run 1-2 weeks with costs €300-€1,200. Madrid is particularly attractive for dance intensives because of lower cost than London/Paris, established dance infrastructure, and growing international recognition of Spanish contemporary choreographers.",
@@ -26274,8 +26256,8 @@
   },
   {
     "id": "madrid-music-festivals",
-    "category": "do",
-    "subcategory": "nightlife",
+    "category": "see",
+    "subcategory": "performing-arts",
     "title": "Madrid International Music Festivals (English-Friendly)",
     "summary": "Madrid music festivals recruiting international audiences: Mad Cool Festival (July 8-11, 2026, Foo Fighters + Florence + Lorde), Río Babel, Tomavistas, Mulafest. English-language marketing. Madrid's growing festival scene.",
     "content": "Madrid has become one of Europe's major music festival destinations, with multiple festivals recruiting international audiences through English-language marketing. Mad Cool Festival is Madrid's premier international music festival — its 10th anniversary edition (July 8-11, 2026) features Foo Fighters, Florence + The Machine, Twenty One Pilots, Nick Cave & The Bad Seeds, Pulp, Lorde, Pixies, A Perfect Circle, and 70+ first-rate artists. The festival is documented by esMadrid (official Madrid tourism portal) and major international music press (The Forty Five, Live for Live Music). Mad Cool is held at Espacio Mad Cool (Valdebebas, north Madrid, accessible by Metro Line 8 + shuttle). Beyond Mad Cool, Madrid hosts: Río Babel (world music, June, Caja Mágica), Tomavistas (indie/alternative, May), Mulafest (urban culture), and Sonorama Ribera (Aranda de Duero, August, 2 hours from Madrid). Madrid's festival scene has grown significantly since 2016 when Mad Cool launched — the city is now a serious competitor to Barcelona (Primavera Sound) and Lisbon (NOS Alive) for international music tourists. Festival tickets: Mad Cool 4-day pass €230-€320, single day €80-€110. The festival market targets: (1) international music tourists wanting European festival experience, (2) English-speaking expats in Madrid, (3) Spanish festival-goers wanting international lineups, (4) DJs and electronic music fans (Mad Cool's electronic stages). Madrid is particularly attractive for festival-goers because of lower cost than UK festivals, sunny July weather, vibrant nightlife extending festival experience, and easy European access via Madrid-Barajas airport.",
@@ -26402,8 +26384,7 @@
           "Don't drive to the festival — parking impossible"
         ]
       }
-    ],
-    "subsubcategory": "Venues & Performances"
+    ]
   },
   {
     "id": "yoga-wellness-retreats-spain",

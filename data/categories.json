@@ -156,7 +156,7 @@
   {
     "id": "see",
     "title": "See in Madrid",
-    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks and gardens, plazas and landmarks, neighborhoods, day trips, guided tours, and live spectator sports (Real Madrid, Atlético, Madrid Open, bullfighting).",
+    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks, plazas, neighborhoods, day trips, tours, live spectator sports, live performances (theater, opera, jazz, flamenco, cinema), and family attractions (zoo, aquarium, planetarium, kid museums).",
     "emoji": "🏛️",
     "color": "green",
     "subcategories": [
@@ -223,13 +223,29 @@
         "icon": "🏟️",
         "summary": "Real Madrid, Atlético Madrid, Rayo Vallecano, ACB basketball, Madrid Open tennis, and bullfighting at Las Ventas.",
         "tips": "Real Madrid: Bernabéu tour €25, match tickets €30-300 (book 2+ weeks ahead at realmadrid.com). Atlético: cheaper tickets (€20-150). Madrid Open tennis: late April-early May, €20-200. Bullfighting at Las Ventas: March-October Sundays 7pm, €25-150 — controversial but culturally significant. Basketball (ACB): €15-40, Estudiantes and Real Madrid both play in Madrid."
+      },
+      {
+        "id": "performing-arts",
+        "slug": "performing-arts",
+        "title": "Live Performances",
+        "icon": "🎭",
+        "summary": "Theater, opera, zarzuela, musicals, jazz clubs, comedy, cinema, flamenco shows, music festivals, and film festivals — where you SIT and WATCH.",
+        "tips": "Teatro Real (opera): €8-€120, standing room €8-15. Gran Vía = Madrid's Broadway (musicals, theaters). Café Central + Clamores = best jazz clubs (€15-25 cover). Flamenco: Cardamomo (€30, intimate) or Corral de la Morería (€50-90 with dinner). For English films look for 'V.O.' (versión original). Mad Cool Festival (July): €230-€320 4-day pass."
+      },
+      {
+        "id": "family-attractions",
+        "slug": "family-attractions",
+        "title": "Zoos, Aquariums & Kid Museums",
+        "icon": "🦒",
+        "summary": "Zoo Aquarium, Faunia nature park, IMAX, planetarium, natural sciences museum, puppet shows, and kid-friendly museums — where families observe and watch.",
+        "tips": "Zoo Aquarium (Casa de Campo): €22-26, has giant pandas. Faunia (east Madrid): €20-26, indoor + outdoor nature park. IMAX + Planetarium: Pablo VI Cultural Center. Natural Sciences Museum: dinosaurs, €6. Puppet shows: El Retiro puppet theater (weekends). For theme parks and water parks (where kids RIDE and PLAY), see Do → Family & Kids."
       }
     ]
   },
   {
     "id": "do",
     "title": "Do in Madrid",
-    "description": "What to do in Madrid — eat and drink (tapas, vermouth, restaurants), performing arts (flamenco, theater, cinema, comedy), nightlife (bars, clubs, rooftops, casinos), sports (football, tennis, golf, swimming), shopping, Spanish culture and traditions, and family activities.",
+    "description": "What to do in Madrid — eat and drink (tapas, vermouth), go out (bars, clubs, rooftops, spas), play sports (tennis, padel, golf, swimming), shop, experience traditions (festivals, retreats), enjoy theme parks and camps with kids, and learn arts (acting, film, dance, music, writing).",
     "emoji": "🎉",
     "color": "purple",
     "subcategories": [
@@ -242,20 +258,20 @@
         "tips": "Eat on Spanish schedule: lunch 2-3:30pm, dinner 9-11pm. Restaurants don't serve lunch before 1pm. 'Menú del día' (3-course lunch, €10-12, weekdays) is the best value. Tapas are NOT free in Madrid (unlike Granada) — order and pay. Must-try: bocata de calamares (€3.50 at Plaza Mayor), cocido madrileño, vermouth at La Latina. Avoid tourist-trap restaurants on Plaza Mayor — walk 5 min to Cava Baja."
       },
       {
-        "id": "arts",
-        "slug": "arts",
-        "title": "Performing Arts",
-        "icon": "🎭",
-        "summary": "Cinema (V.O. original version), opera and theater (Teatro Real), comedy, magic, IMAX, summer outdoor cinema.",
-        "tips": "For English-language films, look for 'V.O.' (versión original) or 'V.O.S.E.' (original version with Spanish subtitles). Cinesa Manoteras and Yelmo Ideal have the most V.O. screenings. Cheap days: Monday-Wednesday (€5-6). Teatro Real (opera) has standing room for €8-15. Summer: free outdoor cinema in Retiro Park (July-August)."
+        "id": "arts-education",
+        "slug": "arts-education",
+        "title": "Arts Education",
+        "icon": "🎨",
+        "summary": "Acting, film, art/design, architecture, photography, music, dance, flamenco, jazz, creative writing, and guitar luthier schools — where YOU learn and create.",
+        "tips": "These programs recruit international students through English-language marketing. IE University, IED Madrid, ECAM film school, Reina Sofía music school, Factory Ballet dance intensives. From €100 (1-day workshops) to €5,000+ (multi-week intensives). For watching performances (theater, opera, jazz, cinema), see Live Performances."
       },
       {
         "id": "nightlife",
         "slug": "nightlife",
         "title": "Nightlife",
         "icon": "🌙",
-        "summary": "Bars, rooftop terraces, clubs, casinos, salsa, jazz, flamenco tablaos, hammams.",
-        "tips": "Madrid nightlife starts late: bars fill at 11pm, clubs at 1:30am, peak 3-4am. Metro runs until 1:30am (2:30am Fri/Sat), then night buses (Búhos) from Cibeles. Best rooftops: Riu Plaza España (€10, highest), Círculo de Bellas Artes (€5). Pre-game (botellón) in parks to save money — club drinks are €10-15. Flamenco at Cardamomo (midnight show is best). Dress smart for hotel rooftops."
+        "summary": "Bars, rooftop terraces, nightclubs, casinos, salsa dancing, hammams, spas, and bingo — where you GO OUT and PARTICIPATE.",
+        "tips": "Madrid nightlife starts late: bars fill at 11pm, clubs at 1:30am, peak 3-4am. Best rooftops: Riu Plaza España (€10, highest), Círculo de Bellas Artes (€5). Pre-game (botellón) in parks to save money — club drinks are €10-15. For watching live music, jazz, or flamenco shows, see Live Performances. For dancing classes (salsa, etc.), see Active Sports."
       },
       {
         "id": "sports",
@@ -286,16 +302,16 @@
         "slug": "traditions",
         "title": "Madrid Culture",
         "icon": "🎊",
-        "summary": "Flamenco, verbenas (street festivals), chotis dance, San Isidro festival, monastery stays, and meditation/spiritual retreats.",
-        "tips": "Flamenco: Cardamomo (€30, intimate) or Corral de la Morería (€50-90, with dinner). Bullfighting: Las Ventas (March-October, Sundays 7pm, €25-150) — controversial but culturally significant. Verbenas (street festivals): San Isidro (May), San Cayetano, San Lorenzo, La Paloma (August) — free, crowded, fun. San Isidro (May 11-15) is Madrid's biggest festival — 9 days of events."
+        "summary": "Flamenco culture, verbenas (street festivals), chotis dance, San Isidro festival, monastery stays, and meditation retreats — Madrid's living traditions.",
+        "tips": "Verbenas (street festivals): San Isidro (May), San Cayetano, San Lorenzo, La Paloma (August) — free, crowded, fun. San Isidro (May 11-15) is Madrid's biggest festival. Chotis: Madrid's traditional dance, slow and graceful. For watching flamenco shows, see Live Performances. For learning flamenco dance, see Arts Education."
       },
       {
         "id": "family",
         "slug": "family",
-        "title": "Family & Kids",
+        "title": "Theme Parks & Active Family Fun",
         "icon": "🎡",
-        "summary": "Theme parks, water parks, zoo, aquarium, IMAX, planetarium, kid-friendly museums.",
-        "tips": "Parque de Atracciones (Casa de Campo): Madrid's main amusement park, €25-35. Zoo Aquarium: €22-26, has giant pandas. Aquópolis: water parks, summer only, €19-28. Warner Park: 30km south, €32-45, shuttle from Méndez Álvaro. Rainy day: CosmoCaixa science museum (€6), Wax Museum (€18). Retiro Park playgrounds are free and excellent. Buy theme park tickets online 7+ days ahead for discounts."
+        "summary": "Theme parks, water parks, summer camps, horse riding camps, and STEM camps — where kids RIDE, PLAY, and PARTICIPATE.",
+        "tips": "Parque de Atracciones (Casa de Campo): €25-35. Warner Park: 30km south, €32-45, shuttle from Méndez Álvaro. Aquópolis: water parks, summer only, €19-28. For zoos, aquariums, planetarium, and kid museums (where kids observe), see Zoos & Kid Museums. Buy theme park tickets online 7+ days ahead for discounts."
       }
     ]
   },
