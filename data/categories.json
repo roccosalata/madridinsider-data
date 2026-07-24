@@ -156,7 +156,7 @@
   {
     "id": "see",
     "title": "See in Madrid",
-    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks, plazas, neighborhoods, day trips, tours, live spectator sports, live performances (theater, opera, jazz, flamenco, cinema), and family attractions (zoo, aquarium, planetarium, kid museums).",
+    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks, plazas, neighborhoods, day trips, live spectator sports, live performances (theater, opera, jazz, flamenco, cinema), and family attractions (zoo, aquarium, planetarium). For guided tours (walking, food, wine, Segway), see Do → Tours.",
     "emoji": "🏛️",
     "color": "green",
     "subcategories": [
@@ -206,15 +206,7 @@
         "title": "Day Trips",
         "icon": "🚆",
         "summary": "Toledo, Segovia, El Escorial — UNESCO cities within 1 hour of Madrid by train or bus.",
-        "tips": "Toledo: 30 min by AVE train (€15-25) or 1 hr by bus (€11). Segovia: 30 min by AVE (€15-25) — Roman aqueduct. El Escorial: 1 hr by Cercanías C8 (€5.60). Book AVE trains 7+ days ahead for cheapest fares. For budget: intercity buses (ALSA) are cheaper but slower. Or take an organized day tour (€50-100, includes transport + guide)."
-      },
-      {
-        "id": "tours",
-        "slug": "tours",
-        "title": "Tours",
-        "icon": "🚶",
-        "summary": "Bus tours, walking tours, Segway tours, food tours, bike tours, and day tours from Madrid.",
-        "tips": "Free (tip-based) walking tours depart Puerta del Sol daily at 11am and 4pm — tip €5-10. Tapas tours (€35-65) are worth it for first-timers — the guide orders and translates. Segway tours (€35-65) are great for Retiro Park. Bus tours (hop-on hop-off, €22/24h) are good for orientation on day one. Book food and Segway tours ahead."
+        "tips": "Toledo: 30 min by AVE train (€15-25) or 1 hr by bus (€11). Segovia: 30 min by AVE (€15-25) — Roman aqueduct. El Escorial: 1 hr by Cercanías C8 (€5.60). Book AVE trains 7+ days ahead for cheapest fares. For budget: intercity buses (ALSA) are cheaper but slower. Or take an organized day tour (€50-100, includes transport + guide). For organized guided tours to these destinations (with transport + guide), see Do → Tours."
       },
       {
         "id": "spectator-sports",
@@ -245,7 +237,7 @@
   {
     "id": "do",
     "title": "Do in Madrid",
-    "description": "What to do in Madrid — eat and drink (tapas, vermouth), go out (bars, clubs, rooftops, spas), play sports (tennis, padel, golf, swimming), shop, experience traditions (festivals, retreats), enjoy theme parks and camps with kids, and learn arts (acting, film, dance, music, writing).",
+    "description": "What to do in Madrid — eat and drink (tapas, vermouth), go out (bars, clubs, rooftops, spas), play sports (tennis, padel, golf, swimming), take tours (walking, food, wine, Segway, day trips), shop, experience traditions (festivals, retreats), enjoy theme parks and camps with kids, and learn arts (acting, film, dance, music, writing).",
     "emoji": "🎉",
     "color": "purple",
     "subcategories": [
@@ -288,6 +280,14 @@
         "icon": "🏅",
         "summary": "International sports camps recruiting English-speaking juniors: soccer, tennis, golf, basketball, volleyball, paddle, cycling, altitude, surf, climbing, ski, scuba, plus YTT and Pilates certification.",
         "tips": "Spain's sports academies actively recruit international students through English-language marketing. Soccer camps (Real Madrid Foundation, Atlético): €600-€1,500/week. Tennis academies (Sánchez-Casal, Rafa Nadal): €1,500-€3,000/week. Book by March for summer — popular weeks sell out. Certification programs (YTT, Pilates): €2,000-€5,000 for multi-week intensives."
+      },
+      {
+        "id": "tours",
+        "slug": "tours",
+        "title": "Tours",
+        "icon": "🚶",
+        "summary": "Walking tours, food tours, bike tours, Segway tours, bus tours, wine tours, and day tours from Madrid — where you GO and EXPLORE.",
+        "tips": "Free (tip-based) walking tours depart Puerta del Sol daily at 11am and 4pm — tip €5-10. Food tours (€60-120) from Devour Madrid are worth it for first-timers. Segway tours (€35-65) are great for Retiro Park. Wine tours to Ribera del Duero (€150-€300/day). For self-guided exploration of museums, neighborhoods, and landmarks, see See in Madrid."
       },
       {
         "id": "shopping",

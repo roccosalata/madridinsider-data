@@ -5926,7 +5926,7 @@
   {
     "id": "bus-tours-madrid",
     "title": "Hop-On Hop-Off Bus Tours",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "summary": "Madrid City Tour and Madrid Tour official hop-on-off-off buses. €22/24h, 2 routes, audio in 14 languages.",
     "content": "Madrid has two hop-on hop-off tourist buses. The official Madrid City Tour (red buses) has 2 routes: Historical Madrid (17 stops, includes Sol, Royal Palace, Prado) and Modern Madrid (10 stops, includes Castellana, AZCA, Las Ventas). One ticket covers both routes. €22 for 24 hours, €26 for 48 hours. Audio guide in 14 languages including English. Buses run every 10-15 minutes in summer, every 20-25 in winter. The competitor Madrid Tour (yellow buses) is similar in price and route. Tip: in summer, the open-top buses get very hot — sit on the lower deck or wait until evening. For the best value, combine the bus with a Madrid Card (which includes the bus + free entry to 50+ museums). Buy tickets on the bus or online (slight discount).",
@@ -5934,7 +5934,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "tour",
       "bus",
@@ -5952,7 +5952,7 @@
   {
     "id": "walking-tours-madrid",
     "title": "Walking Tours (Free & Paid)",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "summary": "Free tip-based walking tours (€5-10 tip) and specialty tours (tapas, flamenco, Jewish Madrid) from €20.",
     "content": "Madrid has a thriving walking tour scene. The free (tip-based) tours run twice daily (11am and 4pm) from Puerta del Sol — look for guides with red umbrellas (the main companies are Madrid Free Tours, OgoTours, and Cool Tours). Tour lasts 2.5-3 hours and covers Sol, Plaza Mayor, Royal Palace, Mercado de San Miguel, and the Habsburg old town. Tip €5-10 per person. Specialty tours cost €20-40: tapas tours (4-5 bars, food included, €35-50), flamenco tours (show + dinner, €50-70), Jewish Madrid history (€25), Civil War Madrid (€25), ghost tours (€20, evening). For an English-speaking guide for a private tour, expect €100-150 for 3 hours. Madrid has several specialized tour operators: Madrid Food Tour, Devour Tours, and Madrid Urban Adventures all have good reputations.",
@@ -5960,7 +5960,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "tour",
       "walking",
@@ -6065,7 +6065,7 @@
   {
     "id": "seg-tours-madrid",
     "title": "Segway Tours",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "summary": "Segway tours of Madrid from €35 for 90 min. Popular for Retiro Park and the historic center. Age 12+.",
     "content": "Segway tours are a fun way to cover more ground than walking, especially for Retiro Park (which is large). Tours start at €35 for 90 minutes (Retiro Park) up to €65 for 3 hours (full city). Most tours include a 10-minute training session at the start. Weight limit: 45-117 kg. Age limit: usually 12+ (children under 16 must be accompanied by an adult). Helmet provided. The main operators are Madrid Segway Tour, Segway Trip Madrid, and Roll Madrid. All have English-speaking guides. Tours run year-round, with more frequent departures in spring and fall (summer afternoons are too hot for Segway). Tip: book the first tour of the day (9am) for fewer crowds and cooler weather. Retiro Park in the morning is particularly beautiful — the Segway lets you see all of it in 90 minutes.",
@@ -6090,7 +6090,7 @@
   {
     "id": "food-tours-madrid",
     "title": "Food & Tapas Tours",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "summary": "Guided tapas crawls in La Latina, Malasaña, and San Miguel. €35-65, includes 4-5 stops with food and drinks.",
     "content": "Food tours are one of the best ways to experience Madrid's tapas culture, especially if you don't speak Spanish (the guide translates and helps you order). Tours run €35-65 per person for 3-4 hours, visiting 4-5 bars with 10+ tastings and 3-4 drinks (beer, wine, vermouth). Main operators: Madrid Food Tour (high-end, €65, 4 stops), Devour Madrid (mid-range, €55, 5 stops), and Tapas Taverns Tour (budget, €35, 4 stops). Most popular tours are in La Latina (traditional tapas), Malasaña (modern and creative), and around San Miguel market (tourist-friendly). Vegetarian options available on most tours — book ahead. For wine lovers, specialized sherry and Rioja tours are available (€50-70). Tip: don't eat lunch before a tapas tour — you'll be full by the end.",
@@ -6203,7 +6203,7 @@
   {
     "id": "bike-tours-madrid",
     "title": "Bicycle Tours",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "summary": "Bike tours of Madrid center and Retiro Park. €25-35 for 3 hours. Electric bikes (e-bikes) available for €40-50.",
     "content": "Madrid is mostly flat in the center, making it ideal for bike tours. Tours run €25-35 for 3 hours on a regular bike, €40-50 for an electric bike (recommended in summer when it's hot). Most tours start near Plaza de España or Sol and cover the historic center, Retiro Park, and Madrid Río. The main operators are Bravo Bike (oldest, English-speaking guides), Madrid Bike Tours, and Trixi. All include bike rental and helmet (optional). Weight limit: 120 kg. Children's seats and tag-along bikes available. Best time: spring and fall (10am or 4pm departures). Summer: book the 9am departure to avoid the heat. Madrid Río park has dedicated bike lanes and is especially bike-friendly.",
@@ -6211,7 +6211,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "tour",
       "bike",
@@ -6229,7 +6229,7 @@
   {
     "id": "day-tours-from-madrid",
     "title": "Day Tours from Madrid (Toledo, Segovia, El Escorial)",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "summary": "Organized day trips to Toledo, Segovia, El Escorial, Ávila. €50-100 with transport + guide.",
     "content": "If you don't want to organize a day trip yourself, several companies offer guided day tours from Madrid. The most popular destinations are Toledo (medieval capital, €50-70), Segovia (Roman aqueduct, €60-80), El Escorial (royal monastery, €50-70), and Ávila (medieval walls, €70-90). Tours include luxury bus transport, English-speaking guide, and sometimes museum tickets and lunch. Duration: 8-11 hours (full day). Main operators: Viator (largest selection), GetYourGuide (good for last-minute), Madrid Day Tours, and local specialists like Naturanda and Walking Tours Madrid. For a budget option, take the public bus or train yourself (see our Transport records) and explore independently — you'll save €30-50 and have more flexibility. Group tours have 15-50 people; private tours cost €200-400 but you set the pace.",
@@ -6237,7 +6237,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "tour",
       "day-trip",
@@ -15656,7 +15656,7 @@
   },
   {
     "id": "devour-madrid-food-tours",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "title": "Devour Madrid Food Tours",
     "summary": "Award-winning English-language food tour company operating in Madrid since 2012. Co-founded by Lauren Aloise. Specializes in small-group tapas, market, and neighborhood food tours with English-speaking local guides.",
@@ -20988,7 +20988,7 @@
   },
   {
     "id": "wine-tours-from-madrid",
-    "category": "see",
+    "category": "do",
     "subcategory": "tours",
     "title": "Wine Tours from Madrid (Ribera del Duero, Rioja)",
     "summary": "Guided wine tours from Madrid to Ribera del Duero (1.5 hours) and Rioja (3 hours). English-speaking guides. Wine Tourism Spain, Winerist, Wine Tours Rioja. Day trips €150-€300 per person.",
