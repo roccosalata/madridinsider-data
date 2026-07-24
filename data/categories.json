@@ -156,7 +156,7 @@
   {
     "id": "see",
     "title": "See in Madrid",
-    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks and gardens, plazas and landmarks, neighborhoods, day trips, and guided tours.",
+    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks and gardens, plazas and landmarks, neighborhoods, day trips, guided tours, and live spectator sports (Real Madrid, Atlético, Madrid Open, bullfighting).",
     "emoji": "🏛️",
     "color": "green",
     "subcategories": [
@@ -215,6 +215,14 @@
         "icon": "🚶",
         "summary": "Bus tours, walking tours, Segway tours, food tours, bike tours, and day tours from Madrid.",
         "tips": "Free (tip-based) walking tours depart Puerta del Sol daily at 11am and 4pm — tip €5-10. Tapas tours (€35-65) are worth it for first-timers — the guide orders and translates. Segway tours (€35-65) are great for Retiro Park. Bus tours (hop-on hop-off, €22/24h) are good for orientation on day one. Book food and Segway tours ahead."
+      },
+      {
+        "id": "spectator-sports",
+        "slug": "spectator-sports",
+        "title": "Live Sports & Spectator Events",
+        "icon": "🏟️",
+        "summary": "Real Madrid, Atlético Madrid, Rayo Vallecano, ACB basketball, Madrid Open tennis, and bullfighting at Las Ventas.",
+        "tips": "Real Madrid: Bernabéu tour €25, match tickets €30-300 (book 2+ weeks ahead at realmadrid.com). Atlético: cheaper tickets (€20-150). Madrid Open tennis: late April-early May, €20-200. Bullfighting at Las Ventas: March-October Sundays 7pm, €25-150 — controversial but culturally significant. Basketball (ACB): €15-40, Estudiantes and Real Madrid both play in Madrid."
       }
     ]
   },
@@ -254,8 +262,8 @@
         "slug": "sports",
         "title": "Active Sports",
         "icon": "⚽",
-        "summary": "Football, basketball, tennis, padel, swimming, golf, cycling, running, skiing, yoga, gyms, and active wellness retreats.",
-        "tips": "Real Madrid: Bernabéu tour €25, match tickets €30-300 (book 2+ weeks ahead). Atlético: cheaper tickets (€20-150). Padel is Spain's #2 sport — book via Playtomic app. Madrid Open tennis (April-May, €20-200). Skiing: Valdesquí is 1 hour north (€39-45/day pass, December-March). San Silvestre Vallecana: 40,000-runner New Year's Eve 10K — register in October."
+        "summary": "Tennis, padel, golf, swimming, cycling, running, skiing, yoga, gyms, ice skating, bowling, go-karts, and active wellness retreats — where YOU play.",
+        "tips": "Padel is Spain's #2 sport — book via Playtomic app. Golf: Club de Campo and Centro Nacional are most accessible. Running: Retiro Park (4km loop) and Madrid Río (10km) are best. Skiing: Valdesquí is 1 hour north (€39-45/day, December-March). San Silvestre Vallecana: 40,000-runner New Year's Eve 10K — register in October. For spectating (Real Madrid, Atlético, Madrid Open tennis), see Live Sports & Spectator Events."
       },
       {
         "id": "sports-camps",
@@ -278,7 +286,7 @@
         "slug": "traditions",
         "title": "Madrid Culture",
         "icon": "🎊",
-        "summary": "Bullfighting, flamenco, verbenas (street festivals), chotis dance, San Isidro festival, monastery stays, and meditation/spiritual retreats.",
+        "summary": "Flamenco, verbenas (street festivals), chotis dance, San Isidro festival, monastery stays, and meditation/spiritual retreats.",
         "tips": "Flamenco: Cardamomo (€30, intimate) or Corral de la Morería (€50-90, with dinner). Bullfighting: Las Ventas (March-October, Sundays 7pm, €25-150) — controversial but culturally significant. Verbenas (street festivals): San Isidro (May), San Cayetano, San Lorenzo, La Paloma (August) — free, crowded, fun. San Isidro (May 11-15) is Madrid's biggest festival — 9 days of events."
       },
       {
