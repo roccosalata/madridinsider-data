@@ -156,7 +156,7 @@
   {
     "id": "see",
     "title": "See in Madrid",
-    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks, plazas, neighborhoods, day trips, live spectator sports, live performances (theater, opera, jazz, flamenco, cinema), and family attractions (zoo, aquarium, planetarium). For guided tours (walking, food, wine, Segway), see Do → Tours.",
+    "description": "What to see in Madrid — world-class museums (Prado, Reina Sofía, Thyssen), royal sites (Palace, Almudena, El Escorial), parks, plazas, neighborhoods, live spectator sports, live performances (theater, opera, jazz, flamenco, cinema), and family attractions (zoo, aquarium, planetarium). For guided tours and day trips, see Do → Tours & Day Trips.",
     "emoji": "🏛️",
     "color": "green",
     "subcategories": [
@@ -199,14 +199,6 @@
         "icon": "🗺️",
         "summary": "Sol, Malasaña, Chueca, La Latina, Lavapiés, Chamberí, Salamanca, Retiro, Argüelles, Tetuán.",
         "tips": "Each neighborhood has its own character: Sol (tourist center), Malasaña (hipster), Chueca (LGBTQ+), La Latina (tapas), Lavapiés (multicultural), Chamberí (local), Salamanca (luxury), Retiro (museums/parks). Pick 2-3 to explore per day — they're all walkable. Best first walk: Sol → Plaza Mayor → La Latina (tapas)."
-      },
-      {
-        "id": "day-trips",
-        "slug": "day-trips",
-        "title": "Day Trips",
-        "icon": "🚆",
-        "summary": "Toledo, Segovia, El Escorial — UNESCO cities within 1 hour of Madrid by train or bus.",
-        "tips": "Toledo: 30 min by AVE train (€15-25) or 1 hr by bus (€11). Segovia: 30 min by AVE (€15-25) — Roman aqueduct. El Escorial: 1 hr by Cercanías C8 (€5.60). Book AVE trains 7+ days ahead for cheapest fares. For budget: intercity buses (ALSA) are cheaper but slower. Or take an organized day tour (€50-100, includes transport + guide). For organized guided tours to these destinations (with transport + guide), see Do → Tours."
       },
       {
         "id": "spectator-sports",
@@ -284,10 +276,10 @@
       {
         "id": "tours",
         "slug": "tours",
-        "title": "Tours",
+        "title": "Tours & Day Trips",
         "icon": "🚶",
-        "summary": "Walking tours, food tours, bike tours, Segway tours, bus tours, wine tours, and day tours from Madrid — where you GO and EXPLORE.",
-        "tips": "Free (tip-based) walking tours depart Puerta del Sol daily at 11am and 4pm — tip €5-10. Food tours (€60-120) from Devour Madrid are worth it for first-timers. Segway tours (€35-65) are great for Retiro Park. Wine tours to Ribera del Duero (€150-€300/day). For self-guided exploration of museums, neighborhoods, and landmarks, see See in Madrid."
+        "summary": "Walking tours, food tours, bike tours, Segway tours, bus tours, wine tours, and day trips to Toledo, Segovia, El Escorial, Ávila, and Camino de Santiago — where you GO and EXPLORE.",
+        "tips": "Free (tip-based) walking tours depart Puerta del Sol daily at 11am and 4pm — tip €5-10. Food tours (€60-120) from Devour Madrid. Day trips: Toledo (30 min AVE), Segovia (30 min AVE), El Escorial (1hr Cercanías). Wine tours to Ribera del Duero (€150-€300/day). Camino de Santiago: luggage transfer services for pilgrims. For self-guided exploration of Madrid's museums and landmarks, see See in Madrid."
       },
       {
         "id": "shopping",
