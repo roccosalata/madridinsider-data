@@ -2025,7 +2025,7 @@
     "official_url": "https://www.museodelprado.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "museums",
       "prado",
@@ -2037,7 +2037,8 @@
       "metro-de-madrid",
       "museo-reina-sofia",
       "museo-thyssen-bornemisza-detail",
-      "puerta-del-sol"
+      "puerta-del-sol",
+      "spanish-art-history-madrid"
     ],
     "subsubcategory": "Golden Triangle",
     "sections": [
@@ -2163,7 +2164,7 @@
     "official_url": "https://www.museoreinasofia.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "museums",
       "reina-sofia",
@@ -2175,7 +2176,8 @@
       "metro-de-madrid",
       "museo-del-prado",
       "museo-thyssen-bornemisza-detail",
-      "artist-residencies-madrid"
+      "artist-residencies-madrid",
+      "spanish-art-history-madrid"
     ],
     "subsubcategory": "Golden Triangle",
     "sections": [
@@ -2352,7 +2354,7 @@
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-del-retiro",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "parks",
       "retiro",
@@ -2365,7 +2367,8 @@
       "madrid-rio",
       "madrid-uv-index",
       "madrid-weather",
-      "teleferico"
+      "teleferico",
+      "madrid-book-fair-literary-events"
     ],
     "subsubcategory": "Central Parks",
     "sections": [
@@ -5717,7 +5720,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "retiro",
@@ -5729,7 +5732,8 @@
       "museo-del-prado",
       "museo-reina-sofia",
       "museo-thyssen-bornemisza-detail",
-      "retiro-park"
+      "retiro-park",
+      "madrid-book-fair-literary-events"
     ],
     "subsubcategory": "Residential",
     "sections": [
@@ -8757,7 +8761,8 @@
       "spanish-immersion-adults-spain",
       "instituto-cervantes-accredited-schools-madrid",
       "spanish-history-culture-courses-madrid",
-      "business-spanish-executives-madrid"
+      "business-spanish-executives-madrid",
+      "spanish-family-immersion-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -8887,7 +8892,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "education",
       "university",
@@ -8902,7 +8907,8 @@
       "accent-global-madrid",
       "english-taught-masters-madrid",
       "english-mba-programs-madrid",
-      "pre-university-summer-madrid"
+      "pre-university-summer-madrid",
+      "science-summer-programs-spain"
     ],
     "subsubcategory": "Universities",
     "sections": [
@@ -10536,7 +10542,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "swimming",
@@ -10549,7 +10555,8 @@
       "aquopolis-water-park",
       "running-madrid",
       "gyms-fitness-madrid",
-      "scuba-diving-certification-madrid"
+      "scuba-diving-certification-madrid",
+      "surf-camps-spain-english"
     ],
     "subsubcategory": "Water Sports"
   },
@@ -14623,7 +14630,8 @@
       "museo-del-prado",
       "teatro-real-madrid",
       "writer-residencies-spain",
-      "creative-writing-workshops-madrid"
+      "creative-writing-workshops-madrid",
+      "madrid-book-fair-literary-events"
     ]
   },
   {
@@ -16592,7 +16600,8 @@
       "golf-academies-spain",
       "equestrian-camps-madrid",
       "pre-university-summer-madrid",
-      "robotics-stem-camps-madrid"
+      "robotics-stem-camps-madrid",
+      "spanish-family-immersion-madrid"
     ],
     "sections": [
       {
@@ -17152,7 +17161,8 @@
       "tennis-academies-spain",
       "golf-academies-spain",
       "basketball-camps-spain",
-      "robotics-stem-camps-madrid"
+      "robotics-stem-camps-madrid",
+      "volleyball-camps-spain"
     ],
     "sections": [
       {
@@ -19085,7 +19095,8 @@
       "gap-year-programs-madrid",
       "pre-university-summer-madrid",
       "coding-bootcamps-madrid",
-      "startup-accelerators-madrid"
+      "startup-accelerators-madrid",
+      "teen-entrepreneurship-summer-madrid"
     ],
     "sections": [
       {
@@ -19600,14 +19611,15 @@
       "dhamma-sacca",
       "dhamma-dena"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "monastery-stays-spain",
       "yoga-teacher-training-spain",
       "spa-madrid",
       "hammams-arab-baths-madrid",
-      "writer-residencies-spain"
+      "writer-residencies-spain",
+      "equestrian-holidays-spain"
     ],
     "sections": [
       {
@@ -19747,14 +19759,15 @@
       "au-pair",
       "temporary-childcare"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "aupair-spain-madrid",
       "english-summer-camps-madrid",
       "bilingual-schools-madrid",
       "english-speaking-doctors-madrid",
-      "moving2madrid-relocation"
+      "moving2madrid-relocation",
+      "spanish-family-immersion-madrid"
     ],
     "sections": [
       {
@@ -20017,14 +20030,15 @@
       "residential",
       "sports-academy"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "soccer-camps-madrid",
       "english-summer-camps-madrid",
       "madrid-open-tennis",
       "tennis-madrid",
-      "basketball-camps-spain"
+      "basketball-camps-spain",
+      "volleyball-camps-spain"
     ],
     "sections": [
       {
@@ -20311,7 +20325,8 @@
       "soccer-camps-madrid",
       "parque-de-atracciones-madrid",
       "faunia-madrid",
-      "robotics-stem-camps-madrid"
+      "robotics-stem-camps-madrid",
+      "equestrian-holidays-spain"
     ],
     "sections": [
       {
@@ -20598,7 +20613,7 @@
       "english-taught",
       "summer-course"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "fashion-summer-courses-madrid",
@@ -20607,7 +20622,8 @@
       "acting-schools-madrid",
       "flamenco-dance-intensives-madrid",
       "photography-workshops-madrid",
-      "architecture-summer-programs-madrid"
+      "architecture-summer-programs-madrid",
+      "spanish-art-history-madrid"
     ],
     "sections": [
       {
@@ -21018,7 +21034,8 @@
       "food-tours-madrid",
       "toledo",
       "segovia-day-trip",
-      "cooking-holidays-spain"
+      "cooking-holidays-spain",
+      "equestrian-holidays-spain"
     ],
     "sections": [
       {
@@ -21318,7 +21335,8 @@
       "gap-year-programs-madrid",
       "instituto-cervantes-accredited-schools-madrid",
       "spanish-history-culture-courses-madrid",
-      "business-spanish-executives-madrid"
+      "business-spanish-executives-madrid",
+      "spanish-family-immersion-madrid"
     ],
     "sections": [
       {
@@ -21463,11 +21481,12 @@
       "open-water",
       "ssi"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "swimming-pools-madrid",
-      "madrid-open-tennis"
+      "madrid-open-tennis",
+      "surf-camps-spain-english"
     ],
     "sections": [
       {
@@ -21881,7 +21900,9 @@
       "universities-madrid",
       "architecture-summer-programs-madrid",
       "model-united-nations-madrid",
-      "robotics-stem-camps-madrid"
+      "robotics-stem-camps-madrid",
+      "teen-entrepreneurship-summer-madrid",
+      "science-summer-programs-spain"
     ],
     "sections": [
       {
@@ -22000,7 +22021,8 @@
       "tennis-academies-spain",
       "golf-academies-spain",
       "english-summer-camps-madrid",
-      "robotics-stem-camps-madrid"
+      "robotics-stem-camps-madrid",
+      "volleyball-camps-spain"
     ],
     "sections": [
       {
@@ -22567,7 +22589,8 @@
       "spanish-learning-resources",
       "survival-spanish",
       "restaurant-spanish",
-      "business-spanish-executives-madrid"
+      "business-spanish-executives-madrid",
+      "spanish-family-immersion-madrid"
     ],
     "sections": [
       {
@@ -22822,13 +22845,14 @@
       "international-students",
       "design"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "art-design-schools-madrid",
       "fashion-summer-courses-madrid",
       "photography-workshops-madrid",
-      "pre-university-summer-madrid"
+      "pre-university-summer-madrid",
+      "spanish-art-history-madrid"
     ],
     "sections": [
       {
@@ -22956,7 +22980,8 @@
       "literary-quarter-madrid",
       "meditation-retreats-spain",
       "monastery-stays-spain",
-      "creative-writing-workshops-madrid"
+      "creative-writing-workshops-madrid",
+      "madrid-book-fair-literary-events"
     ],
     "sections": [
       {
@@ -23188,7 +23213,9 @@
       "language-schools-madrid",
       "gap-year-programs-madrid",
       "pre-university-summer-madrid",
-      "business-spanish-executives-madrid"
+      "business-spanish-executives-madrid",
+      "humanities-philosophy-summer-spain",
+      "spanish-art-history-madrid"
     ],
     "sections": [
       {
@@ -23423,13 +23450,14 @@
       "conference",
       "debate"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "pre-university-summer-madrid",
       "english-taught-masters-madrid",
       "international-school-jobs-madrid",
-      "international-chambers-madrid"
+      "international-chambers-madrid",
+      "teen-entrepreneurship-summer-madrid"
     ],
     "sections": [
       {
@@ -23828,7 +23856,8 @@
       "coworking-madrid",
       "freelancing-spain",
       "international-chambers-madrid",
-      "english-mba-programs-madrid"
+      "english-mba-programs-madrid",
+      "teen-entrepreneurship-summer-madrid"
     ],
     "sections": [
       {
@@ -24105,7 +24134,8 @@
       "pre-university-summer-madrid",
       "soccer-camps-madrid",
       "equestrian-camps-madrid",
-      "basketball-camps-spain"
+      "basketball-camps-spain",
+      "science-summer-programs-spain"
     ],
     "sections": [
       {
@@ -24225,7 +24255,8 @@
       "devour-madrid-food-tours",
       "food-tours-madrid",
       "wine-tours-from-madrid",
-      "mercados-madrid"
+      "mercados-madrid",
+      "equestrian-holidays-spain"
     ],
     "sections": [
       {
@@ -24640,7 +24671,8 @@
       "literary-quarter-madrid",
       "artist-residencies-madrid",
       "photography-workshops-madrid",
-      "film-schools-madrid"
+      "film-schools-madrid",
+      "madrid-book-fair-literary-events"
     ],
     "sections": [
       {
@@ -24749,6 +24781,1172 @@
           "Don't expect MFA-level training in 1-day workshops",
           "Don't skip the workshop feedback process — that's the point",
           "Don't forget to visit Café Gijón — historic literary café"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "humanities-philosophy-summer-spain",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Humanities & Philosophy Summer Programs in Spain (English)",
+    "summary": "Madrid humanities and philosophy summer programs: IE University Arts & Culture 10-day immersive, Carlos V Education summer program, educations.com 5 humanities programs. Spain's rich intellectual tradition.",
+    "content": "Madrid offers multiple English-taught humanities and philosophy summer programs for international students. IE University runs an Arts & Culture Summer Program — a 10-day immersive program taking students beyond the classroom into Madrid's living culture. Carlos V Education runs a Summer Program 2026 in Madrid offering opportunity to learn Spanish, explore a new culture, and enjoy a summer experience that leaves lasting impact. educations.com lists 5 humanities summer course programs in Spain covering culture courses that explore Spain's art, history, and traditions with expert professors. International House Madrid offers English summer courses 2026 for all ages and levels, including humanities content. Spain is uniquely attractive for humanities study because of its rich intellectual tradition: the Spanish Golden Age (Cervantes, Lope de Vega, Góngora, Quevedo), the Spanish Inquisition (scholarly debate material), the Spanish Civil War (Orwell, Hemingway, Spanish intellectuals), the Franco dictatorship (post-Franco 'Transition' to democracy studied globally), and contemporary Spanish philosophy (Unamuno, Ortega y Gasset, María Zambrano). Madrid is the natural location for humanities study in Spain because it's the capital — home to the Spanish Parliament, Royal Palace, National Library, Archaeological Museum, Prado, Reina Sofía, and Complutense University (one of Europe's oldest, founded 1299). Humanities summer programs target: (1) US university students wanting European academic credit, (2) adult learners wanting substantive cultural education, (3) students considering Spanish university enrollment, (4) professionals wanting sabbatical enrichment. Costs: €1,500-€4,500 for 2-6 week programs. Madrid's humanities programs uniquely combine classroom learning with site visits — Prado for art history, National Library for literature, Royal Palace for political history, Valle de los Caídos for Civil War memory.",
+    "official_url": "https://www.ie.edu/ie-summer-school/university/arts-and-culture",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "humanities",
+      "philosophy",
+      "summer-program",
+      "english-taught",
+      "ie-university",
+      "spanish-culture",
+      "intellectual-history",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "spanish-history-culture-courses-madrid",
+      "art-design-schools-madrid",
+      "architecture-summer-programs-madrid",
+      "creative-writing-workshops-madrid",
+      "pre-university-summer-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's humanities tradition attracts summer programs",
+        "body": "Multiple Madrid institutions recruit international students for English-taught humanities programs. IE University, Carlos V Education, IH Madrid. €1,500-€4,500. Spain's Golden Age + Civil War + Transition history as living material.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "10 days to 6 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€4,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught"
+          },
+          {
+            "label": "Top program",
+            "value": "IE University Arts & Culture (10-day)"
+          },
+          {
+            "label": "Academic credit",
+            "value": "Available at some programs"
+          },
+          {
+            "label": "Best for",
+            "value": "US university students + adult learners"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid humanities summer programs",
+        "items": [
+          {
+            "title": "IE University Arts & Culture Summer Program",
+            "body": "10-day immersive. Beyond classroom into Madrid's living culture. Most established Madrid humanities summer program.",
+            "meta": [
+              "ie.edu/ie-summer-school/university/arts-and-culture"
+            ]
+          },
+          {
+            "title": "Carlos V Education Summer Program 2026",
+            "body": "Spanish learning + new culture + summer experience. International student focus. Madrid.",
+            "meta": [
+              "carlosveducation.es/en/summer-program-2026-in-madrid-an-international-experience-for-students-and-groups"
+            ]
+          },
+          {
+            "title": "International House Madrid English Summer Courses",
+            "body": "All ages and levels. 24 hours face-to-face. Humanities content included.",
+            "meta": [
+              "ihmadrid.com/en/english-summer-courses"
+            ]
+          },
+          {
+            "title": "educations.com Humanities Programs Spain",
+            "body": "5 humanities summer course programs. Culture courses with expert professors. Spain's art, history, traditions.",
+            "meta": [
+              "educations.com/summer-courses/humanities-studies/spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spanish intellectual tradition to study",
+        "items": [
+          {
+            "title": "Spanish Golden Age (Siglo de Oro)",
+            "body": "16th-17th century. Cervantes (Don Quixote), Lope de Vega, Góngora, Quevedo, Velázquez, El Greco. Madrid was the imperial capital."
+          },
+          {
+            "title": "Spanish Civil War (1936-1939)",
+            "body": "Orwell (Homage to Catalonia), Hemingway (For Whom the Bell Tolls), Spanish intellectuals (Lorca, Machado). Franco's dictatorship followed."
+          },
+          {
+            "title": "Spanish philosophy",
+            "body": "Unamuno, Ortega y Gasset ('Revolt of the Masses'), María Zambrano, Fernando Savater. Distinct from French/German traditions."
+          },
+          {
+            "title": "Transition to democracy (1975-1986)",
+            "body": "Post-Franco 'Transición' to constitutional monarchy. Studied globally as model of peaceful democratic transition. Madrid as political center."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madrid-book-fair-literary-events",
+    "category": "do",
+    "subcategory": "traditions",
+    "title": "Madrid Book Fair & Literary Events (Feria del Libro)",
+    "summary": "Madrid Book Fair (Feria del Libro de Madrid) is the city's annual book festival in El Retiro Park (May-June). Plus READ Madrid Festival at Reina Sofía. Madrid's literary quarter (Barrio de las Letras) is the historical hub.",
+    "content": "The Madrid Book Fair (Feria del Libro de Madrid) is one of Spain's most important literary events — held annually in late May to mid-June in El Retiro Park. The fair features bookstores and publishers organizing book signing sessions with the most popular authors, plus books of all kinds at the stands. The fair is documented by esMadrid (official Madrid tourism portal) and Spain.info. OneShot Hotels publishes a guide to the Madrid Book Fair 2026 with dates, history, curiosities, author signings, and tips for enjoying it in El Retiro Park. Beyond the main book fair, the READ Madrid Festival of Books and Ideas is held at the Museo Reina Sofía — emerging as a meeting space for critical and experimental voices in literature, theory, and publishing. Madrid has a deep literary tradition documented through literary walks: Cervantes' Madrid, Ernest Hemingway's Madrid, Alatriste's Madrid (Arturo Pérez-Reverte's fictional swordsman), and Benito Pérez Galdós' Madrid (the 19th-century realist novelist). The Barrio de las Letras (Literary Quarter) is the historical home of Spanish Golden Age writers — Calle de las Huertas has sidewalk plaques with literary quotes from Cervantes, Lope de Vega, and Góngora. The Guadalajara International Book Fair (Mexico, November/December) has welcomed Madrid as Guest of Honor — 90 authors from Madrid attended the 2017 Guadalajara fair, including Almudena Grandes and Ray Loriga. For English-speaking literature enthusiasts, Madrid's literary ecosystem offers: world-class bookshops (La Central, La Casa del Libro, Ocho y Medio), historic cafés (Café Gijón, since 1914), the Cervantes Institute (global Spanish language promotion), and the National Library (rare manuscripts including Cervantes' original Don Quixote editions).",
+    "official_url": "https://www.esmadrid.com/en/whats-on/ferialibromadrid-parque-de-el-retiro",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "book-fair",
+      "literary-events",
+      "feria-del-libro",
+      "retiro-park",
+      "read-madrid",
+      "spanish-literature",
+      "author-signings",
+      "literary-quarter"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "creative-writing-workshops-madrid",
+      "writer-residencies-spain",
+      "literary-quarter-madrid",
+      "retiro-park",
+      "retiro-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid Book Fair = annual literary celebration",
+        "body": "Feria del Libro de Madrid (late May-mid June) in El Retiro Park. Author signings + publisher stands. Plus READ Madrid Festival at Reina Sofía. Madrid's literary quarter (Barrio de las Letras) is the historical hub.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Madrid Book Fair dates",
+            "value": "Late May to mid-June annually"
+          },
+          {
+            "label": "Location",
+            "value": "El Retiro Park (Paseo de Coches)"
+          },
+          {
+            "label": "Free entry",
+            "value": "Yes"
+          },
+          {
+            "label": "Author signings",
+            "value": "Daily, multiple authors"
+          },
+          {
+            "label": "READ Madrid Festival",
+            "value": "Reina Sofía Museum"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's literary ecosystem",
+        "items": [
+          {
+            "title": "Madrid Book Fair (Feria del Libro)",
+            "body": "Late May-mid June. El Retiro Park. Bookstores + publishers + author signings. Free entry. Most popular books.",
+            "meta": [
+              "esmadrid.com/en/whats-on/ferialibromadrid-parque-de-el-retiro"
+            ]
+          },
+          {
+            "title": "READ Madrid Festival of Books and Ideas",
+            "body": "Reina Sofía Museum. Critical and experimental voices in literature, theory, publishing. Meeting space.",
+            "meta": [
+              "museoreinasofia.es/en/activity/read-madrid"
+            ]
+          },
+          {
+            "title": "Barrio de las Letras (Literary Quarter)",
+            "body": "Calle de las Huertas + Plaza de Santa Ana. Spanish Golden Age writers' home. Sidewalk plaques with literary quotes.",
+            "meta": [
+              "See literary-quarter-madrid record"
+            ]
+          },
+          {
+            "title": "Casa Museo Lope de Vega",
+            "body": "Calle de Cervantes 11. Lope de Vega's house museum (where he lived 1610-1635). Restored."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's literary walking routes",
+        "items": [
+          {
+            "title": "Cervantes' Madrid",
+            "body": "Calle de las Huertas (where Cervantes lived his final years), Convento de las Trinitarias (where he's buried), Casa Museo de Cervantes (Alcalá de Henares, day trip)."
+          },
+          {
+            "title": "Ernest Hemingway's Madrid",
+            "body": "Hotel Suecia (Hemingway's base), Museo Chicote (his favorite cocktail bar), Cervecería Alemana (Plaza Santa Ana), Café Comercial."
+          },
+          {
+            "title": "Alatriste's Madrid (Arturo Pérez-Reverte)",
+            "body": "17th-century Madrid locations from the Captain Alatriste novels. Plaza Mayor, Calle de Toledo, Plaza de la Villa."
+          },
+          {
+            "title": "Benito Pérez Galdós' Madrid",
+            "body": "19th-century realist novelist. Locations from the 'Episodios Nacionales' and 'Fortunata y Jacinta'. Chamberí and Centro."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's best bookshops (English-friendly)",
+        "items": [
+          {
+            "title": "La Central (Calle del Postigo de San Martín)",
+            "body": "Most beautiful Madrid bookshop. Bilingual staff. Strong Spanish + international literature selection."
+          },
+          {
+            "title": "La Casa del Libro (Gran Vía 29)",
+            "body": "Largest Madrid bookshop. Spanish + some English. Multiple floors."
+          },
+          {
+            "title": "Ocho y Medio (Calle del Pez 21, Malasaña)",
+            "body": "Cinema bookshop. Spanish + English. Strong film + literature crossover."
+          },
+          {
+            "title": "J&J Books and Coffee (Calle del Espíritu Santo 18, Malasaña)",
+            "body": "English-language bookshop + coffee shop. Most English books in Madrid. Events in English."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spanish-family-immersion-madrid",
+    "category": "essentials",
+    "subcategory": "communication",
+    "title": "Spanish Family Immersion Programs in Madrid (English-Speaking)",
+    "summary": "Madrid Spanish immersion for families: LAE Kids Spanish for Kids and Families, TANDEM Madrid family courses, Vamos Spanish family programs, don Quijote Family Program. Tailor-made for parents + kids together.",
+    "content": "Madrid offers multiple Spanish immersion programs specifically designed for families wanting to learn Spanish together. LAE Kids runs Spanish for Kids and Families in Madrid — Spanish Immersion Camp in Madrid Spring 2026, with classes ideal for families looking to learn about the Spanish language. TANDEM Madrid runs Spanish for Families courses for families (minimum 2 people) who want to spend time together in Madrid and combine Spanish learning with cultural activities. Vamos Spanish offers Spanish classes for kids and families in Madrid — immersion-style program that prepares families for their travels, knowing how great the benefit of Spanish exposure. don Quijote runs a Family Program — a tailor-made course for families that want to learn Spanish in Spain or Latin America while spending quality time together. The Madrid family immersion market targets: (1) expat families wanting their children to maintain or improve Spanish, (2) international families wanting to learn Spanish before relocating, (3) tourists wanting family cultural immersion beyond typical sightseeing, (4) bilingual families wanting structured Spanish instruction. Programs typically run 1-4 weeks with costs €500-€2,000/week depending on family size and program intensity. Most programs include: shared Spanish classes (parents + kids together), separate age-appropriate activities (parents cultural visits, kids games), family cultural activities, and accommodation options (homestay for full immersion, apartment for independence). Madrid is particularly attractive for family Spanish immersion because of its safety (one of Europe's safest capitals), family-friendly infrastructure (parks, museums, public transport), and the cultural density (Prado family programs, Retiro Park, Madrid Río).",
+    "official_url": "https://laekids.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "spanish-immersion",
+      "family-program",
+      "kids-spanish",
+      "parents-spanish",
+      "english-speaking",
+      "lae-kids",
+      "tandem-madrid",
+      "don-quijote",
+      "international-families"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "spanish-immersion-adults-spain",
+      "instituto-cervantes-accredited-schools-madrid",
+      "language-schools-madrid",
+      "english-summer-camps-madrid",
+      "nanny-agencies-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid family Spanish immersion programs",
+        "body": "Multiple Madrid schools offer Spanish immersion for families learning together. LAE Kids, TANDEM Madrid, Vamos Spanish, don Quijote. €500-€2,000/week. Tailor-made for parents + kids.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-4 weeks"
+          },
+          {
+            "label": "Cost per week",
+            "value": "€500-€2,000/family"
+          },
+          {
+            "label": "Minimum family size",
+            "value": "2 people"
+          },
+          {
+            "label": "Languages",
+            "value": "English-administered, Spanish-taught"
+          },
+          {
+            "label": "Housing",
+            "value": "Homestay or apartment options"
+          },
+          {
+            "label": "Includes",
+            "value": "Shared classes, family activities, separate age-appropriate activities"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid family Spanish immersion providers",
+        "items": [
+          {
+            "title": "LAE Kids — Spanish for Kids and Families",
+            "body": "Madrid. Spanish Immersion Camp Spring 2026. Ideal for families learning Spanish.",
+            "meta": [
+              "laekids.com"
+            ]
+          },
+          {
+            "title": "TANDEM Madrid — Spanish for Families",
+            "body": "Minimum 2 people. Combine Spanish learning with cultural activities. Time together in Madrid.",
+            "meta": [
+              "tandemmadrid.com/c/spanish-families"
+            ]
+          },
+          {
+            "title": "Vamos Spanish — Classes for Kids & Families",
+            "body": "Madrid. Immersion-style program preparing families for travels. Spanish exposure benefits.",
+            "meta": [
+              "vamospanish.com/madrid/spanish-classes-for-families-kids-in-madrid"
+            ]
+          },
+          {
+            "title": "don Quijote — Family Program",
+            "body": "Tailor-made for families learning Spanish in Spain or Latin America. Quality time together.",
+            "meta": [
+              "donquijote.org/specialized-spanish-courses/family-program"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What family immersion programs include",
+        "items": [
+          {
+            "title": "Shared Spanish classes",
+            "body": "Parents + kids learn together. Age-appropriate materials. Games and activities for engagement."
+          },
+          {
+            "title": "Separate age-appropriate activities",
+            "body": "Parents: cultural visits, museum tours, cooking classes. Kids: games, crafts, sports in Spanish."
+          },
+          {
+            "title": "Family cultural activities",
+            "body": "Tapas tours, flamenco shows, market visits, Retiro Park excursions — all in Spanish."
+          },
+          {
+            "title": "Homestay option",
+            "body": "Stay with Spanish family for full immersion. Most effective for language learning."
+          },
+          {
+            "title": "Apartment option",
+            "body": "Self-catering apartment. More independence, less immersion. Good for families with dietary restrictions."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Madrid family immersion",
+        "do": [
+          "Choose homestay for maximum Spanish practice",
+          "Choose LAE Kids for most established kids-focused program",
+          "Choose TANDEM Madrid for parents + kids together format",
+          "Combine 2-4 week immersion with family travel in Spain",
+          "Tell the school about kids' ages and Spanish levels"
+        ],
+        "dont": [
+          "Don't expect 1-week immersion to dramatically improve Spanish — minimum 2 weeks",
+          "Don't force kids into classes they hate — engagement matters more than hours",
+          "Don't skip the cultural activities — they're often the highlight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spanish-art-history-madrid",
+    "category": "essentials",
+    "subcategory": "communication",
+    "title": "Spanish Art History Courses in Madrid (English)",
+    "summary": "Madrid art history summer programs recruiting international students: IE University Arts & Culture, CEA CAPA Spanish Museology, Prado Museum Visual Arts Summer Program, IES Abroad Madrid cultural studies. Madrid's museum ecosystem as classroom.",
+    "content": "Madrid is one of Europe's premier destinations for English-taught art history study — combining world-class museums (Prado, Reina Sofía, Thyssen-Bornemisza) with academic programs that use the city as a living classroom. Multiple institutions recruit international students through English-language marketing. IE University runs an Arts & Culture Summer Program — a 10-day immersive experience taking students beyond the classroom into Madrid's living culture. CEA CAPA offers Introduction to Spanish Museology, Society and Culture in Madrid — a course introducing students to Spanish society, culture, and museology with focus on Madrid's rich and varied museum landscape. The Prado Museum Visual Arts Summer Program (listed by Summer Schools in Europe) is an intensive and rigorous project-based Art Immersion Course in Madrid, focusing on Historical and Cultural Patrimonies. IES Abroad Madrid Summer Language & Cultural Studies integrates Madrid's historic and cultural opportunities into intermediate and advanced Spanish courses. educations.com lists 10 creative arts and design summer course programs in Madrid including art history content — full time 2-week on-campus courses in English and Spanish. The Madrid art history study market targets: (1) US university students wanting European academic credit, (2) adult art enthusiasts wanting structured museum education, (3) art professionals wanting Spanish art specialization, (4) retirees wanting substantive cultural education. Madrid's museum ecosystem is unique: the 'Golden Triangle of Art' (Prado, Reina Sofía, Thyssen within 10-minute walk of each other), plus 50+ other museums (Sorolla, Lázaro Galdiano, Arqueológico, Romanticismo, Cerralbo). Programs typically run 2-10 weeks with costs €1,500-€5,000. The Prado alone has 8,000+ paintings — more than any other museum in the world.",
+    "official_url": "https://www.ie.edu/ie-summer-school/university/arts-and-culture",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "art-history",
+      "spanish-art",
+      "museology",
+      "english-taught",
+      "prado-museum",
+      "ie-university",
+      "cea-capa",
+      "ies-abroad",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "humanities-philosophy-summer-spain",
+      "spanish-history-culture-courses-madrid",
+      "art-design-schools-madrid",
+      "architecture-summer-programs-madrid",
+      "museo-del-prado",
+      "museo-reina-sofia"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid = Europe's art history classroom",
+        "body": "Multiple Madrid institutions run English-taught art history programs using the city's museums as living classrooms. IE University, CEA CAPA, Prado Summer Program, IES Abroad. €1,500-€5,000 for 2-10 weeks.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "10 days to 10 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€5,000"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught (some Spanish)"
+          },
+          {
+            "label": "Academic credit",
+            "value": "Available (CEA, IES Abroad)"
+          },
+          {
+            "label": "Top program",
+            "value": "IE University Arts & Culture (10-day)"
+          },
+          {
+            "label": "Madrid museums",
+            "value": "50+ museums + 'Golden Triangle of Art'"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid art history summer programs",
+        "items": [
+          {
+            "title": "IE University Arts & Culture Summer Program",
+            "body": "10-day immersive. Madrid's living culture. Beyond classroom. Most established Madrid art history summer program.",
+            "meta": [
+              "ie.edu/ie-summer-school/university/arts-and-culture"
+            ]
+          },
+          {
+            "title": "CEA CAPA — Introduction to Spanish Museology",
+            "body": "Madrid. Spanish society, culture, museology. Focus on Madrid's museum landscape. Academic credit.",
+            "meta": [
+              "ceastudyabroad.com/program/course-details/pre-law-immersive-studies-1282/summer-2027-session-i-18992/madrid-museums-introduction-to-spanish-museology-society-and-culture-23466-9043"
+            ]
+          },
+          {
+            "title": "Prado Museum Visual Arts Summer Program",
+            "body": "Intensive project-based Art Immersion Course in Madrid. Historical + Cultural Patrimonies focus.",
+            "meta": [
+              "summerschoolsineurope.eu/course/prado-museum-visual-arts-summer-program"
+            ]
+          },
+          {
+            "title": "IES Abroad Madrid Summer Language & Cultural Studies",
+            "body": "Madrid's historic + cultural opportunities integrated. Spanish language + cultural studies. Academic credit.",
+            "meta": [
+              "iesabroad.org/programs/madrid-summer-language-cultural-studies"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's 'Golden Triangle of Art'",
+        "items": [
+          {
+            "title": "Museo del Prado",
+            "body": "Spain's national art museum. Velázquez, Goya, El Bosco, El Greco, Rubens. 8,000+ paintings. Most paintings of any museum worldwide.",
+            "meta": [
+              "See museo-del-prado record"
+            ]
+          },
+          {
+            "title": "Museo Reina Sofía",
+            "body": "Modern art. Picasso's Guernica. Dalí, Miró. 20th-century Spanish art.",
+            "meta": [
+              "See museo-reina-sofia record"
+            ]
+          },
+          {
+            "title": "Thyssen-Bornemisza Museum",
+            "body": "Private collection spanning 8 centuries of European art. Impressionists, Expressionists. Complements Prado + Reina Sofía."
+          },
+          {
+            "title": "Other Madrid museums",
+            "body": "Sorolla (artist's house-museum), Lázaro Galdiano (decorative arts), Arqueológico Nacional (ancient Spain), Romanticismo, Cerralbo (19th-century aristocratic home)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teen-entrepreneurship-summer-madrid",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Teen Entrepreneurship Summer Programs in Madrid (English)",
+    "summary": "Madrid teen entrepreneurship summer programs: IE University Entrepreneurship Bootcamp, Aquinas American School entrepreneurship program for grades 10-12, EU Business School International Summer School. English-taught.",
+    "content": "Madrid offers multiple English-taught teen entrepreneurship summer programs for high school students considering business careers. IE University runs an Entrepreneurship Bootcamp as part of its Summer School — 'Transform your vision into reality with our Entrepreneurship Summer School in Madrid.' The bootcamp is part of IE's broader pre-university programming for high school students. Aquinas American School (Madrid) runs an entrepreneurship program available to 10th, 11th, and 12th graders — empowering students to develop future-ready skills while creating. The Immerse Education guide to 15 business summer programs in Europe for high school students lists the International Summer School at EU Business School as 'a hands-on business and entrepreneurial experience program.' educations.com lists 11 business and management summer course programs in Spain, including the TBS Education Summer School tailored for international students wanting to discover Europe while earning ECTS credits. The Madrid teen entrepreneurship market targets: (1) high school students considering business/entrepreneurship careers, (2) teens with existing business ideas wanting structured development, (3) international students considering IE University for undergraduate study, (4) parents wanting summer enrichment that builds practical skills. Programs typically run 1-3 weeks with costs €1,500-€4,500. Madrid is particularly attractive for teen entrepreneurship because of its growing startup ecosystem (Cabify, Glovo, Wallapop all Madrid-headquartered), Spain's Ley de Startups (24% flat tax for first 6 years), and the active Spanish venture capital community. IE University is Madrid's premier entrepreneurship education institution — its Entrepreneurship Bootcamp connects teens with IE professors and Madrid startup founders. Programs often include: idea generation workshops, business model canvas, pitch deck development, market research, financial modeling basics, and a final pitch competition.",
+    "official_url": "https://www.ie.edu/ie-summer-school/university/entrepreneurship-bootcamp",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "entrepreneurship",
+      "teen-entrepreneurship",
+      "summer-program",
+      "english-taught",
+      "ie-university",
+      "high-school",
+      "startup",
+      "business-education",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "pre-university-summer-madrid",
+      "startup-accelerators-madrid",
+      "english-mba-programs-madrid",
+      "humanities-philosophy-summer-spain",
+      "model-united-nations-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid teen entrepreneurship programs growing",
+        "body": "Multiple Madrid institutions run English-taught entrepreneurship bootcamps for teens. IE University, Aquinas American School, EU Business School. €1,500-€4,500. Madrid's startup ecosystem (Cabify, Glovo, Wallapop) as inspiration.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "15-18 (high school)"
+          },
+          {
+            "label": "Program length",
+            "value": "1-3 weeks"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€4,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught"
+          },
+          {
+            "label": "Top program",
+            "value": "IE University Entrepreneurship Bootcamp"
+          },
+          {
+            "label": "Includes",
+            "value": "Idea workshops, business model, pitch deck, pitch competition"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid teen entrepreneurship programs",
+        "items": [
+          {
+            "title": "IE University Entrepreneurship Bootcamp",
+            "body": "Transform vision into reality. Madrid. IE professors + startup founders. Pitch competition.",
+            "meta": [
+              "ie.edu/ie-summer-school/university/entrepreneurship-bootcamp"
+            ]
+          },
+          {
+            "title": "Aquinas American School Entrepreneurship Program",
+            "body": "Madrid. Grades 10-12. Future-ready skills. Student venture creation.",
+            "meta": [
+              "aquinas-american-school.es/en/academics/entrepreneurship-program"
+            ]
+          },
+          {
+            "title": "IE University Pre-University Summer Program",
+            "body": "Ages 15-17. Hands-on intro to European higher education. Includes entrepreneurship track.",
+            "meta": [
+              "ie.edu/ie-summer-school/pre-university/pre-university-summer-program"
+            ]
+          },
+          {
+            "title": "EU Business School International Summer School",
+            "body": "Hands-on business and entrepreneurial experience program. Listed in Immerse Education guide.",
+            "meta": [
+              "immerse.education/knowledge-base/15-business-summer-programs-in-europe-for-high-school-students"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What teen entrepreneurship programs cover",
+        "items": [
+          {
+            "title": "Idea generation",
+            "body": "Brainstorming techniques, problem identification, opportunity recognition. Creative thinking."
+          },
+          {
+            "title": "Business model canvas",
+            "body": "Lean Startup methodology. Value proposition, customer segments, revenue streams, cost structure."
+          },
+          {
+            "title": "Pitch deck development",
+            "body": "10-15 slide presentation. Problem, solution, market, business model, traction, team, ask."
+          },
+          {
+            "title": "Market research basics",
+            "body": "Customer interviews, surveys, competitive analysis, market sizing."
+          },
+          {
+            "title": "Pitch competition",
+            "body": "Final presentation to judges (often Madrid entrepreneurs + investors). Prizes + feedback."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Madrid teen entrepreneurship program",
+        "do": [
+          "Choose IE University for most prestigious program",
+          "Choose Aquinas American School for school-year program (not just summer)",
+          "Apply 4-6 months ahead for summer programs",
+          "Bring a business idea (even rough) for development",
+          "Plan pitch presentation prep in advance"
+        ],
+        "dont": [
+          "Don't expect to launch a real business in 2 weeks — these are educational",
+          "Don't skip the pitch competition — that's the culminating experience",
+          "Don't underestimate Spanish language — even English programs benefit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surf-camps-spain-english",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Surf Camps in Spain (English-Speaking)",
+    "summary": "Spain surf camps recruiting international students: Nomad Surfers (Cantabria, English activities), BookSurfCamps Spain (4.5 stars, 889 reviews), Pueblo Español surf camp (ages 13-17), The Surf Atlas Spain guide. Northern Spain + Canary Islands.",
+    "content": "Spain has emerged as one of Europe's top surf destinations, with multiple operators recruiting international students through English-language marketing. Nomad Surfers runs an International Surf Summer Camp in Spain (Cantabria, northern Spain) — all activities done in English, with optional Spanish or English language lessons. BookSurfCamps lists surf camps in Spain with 4.5 stars from 889 reviews — 'Be part of the adventure on a Surf Camp in Spain. Browse reviews and prices.' Pueblo Español runs a summer camp in Spain with surf for young people aged 13-17, open to all nationalities — OnixCamp is an international summer camp. The Surf Atlas lists 8 handpicked surf camps in Spain for 2026 — 'countless surf camps to pick from, this guide can help you choose the ones that are riding high.' ESL Languages runs junior surfing language camps across Europe including Spain — surfing summer language camps in picturesque destinations. Spain's main surf destinations: Cantabria + Basque Country (northern Spain, 4-6 hours from Madrid by car), Canary Islands (year-round warm water, 2.5-hour flight from Madrid), and Cadiz/Andalusia (southern Spain, 5-6 hours from Madrid). The Spanish surf camp market targets: (1) international teens wanting surf + Spanish combination, (2) adult beginners wanting European surf vacation, (3) families wanting active beach holiday, (4) experienced surfers wanting Spanish waves. Programs typically run 1-2 weeks with costs €600-€1,500/week including accommodation, surf instruction, equipment, and often meals. Best seasons: Northern Spain (May-October), Canary Islands (year-round), Andalusia (March-November).",
+    "official_url": "https://nomadsurfers.com/summer-surf-camp-kids-spain-cantabria",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "surf-camp",
+      "surfing",
+      "spain-surf",
+      "english-speaking",
+      "international-students",
+      "cantabria",
+      "canary-islands",
+      "summer-camp"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "scuba-diving-certification-madrid",
+      "english-summer-camps-madrid",
+      "swimming-pools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = top European surf destination",
+        "body": "Spain's Cantabria, Canary Islands, and Andalusia coasts attract international surfers. English-language surf camps recruit globally. €600-€1,500/week. Northern Spain + Canary Islands accessible from Madrid.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-2 weeks typical"
+          },
+          {
+            "label": "Cost per week",
+            "value": "€600-€1,500"
+          },
+          {
+            "label": "Includes",
+            "value": "Accommodation, surf instruction, equipment, often meals"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Best season (N Spain)",
+            "value": "May-October"
+          },
+          {
+            "label": "Canary Islands season",
+            "value": "Year-round"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish surf camps (English)",
+        "items": [
+          {
+            "title": "Nomad Surfers (Cantabria)",
+            "body": "International Surf Summer Camp in Spain. Cantabria, northern Spain. All activities in English. Optional Spanish/English lessons.",
+            "meta": [
+              "nomadsurfers.com/summer-surf-camp-kids-spain-cantabria"
+            ]
+          },
+          {
+            "title": "BookSurfCamps Spain",
+            "body": "4.5 stars from 889 reviews. Multiple Spanish surf camps. Browse + book online.",
+            "meta": [
+              "booksurfcamps.com/all/d/europe/spain"
+            ]
+          },
+          {
+            "title": "Pueblo Español OnixCamp (ages 13-17)",
+            "body": "Summer camp in Spain with surf. Open to all nationalities. International summer camp.",
+            "meta": [
+              "puebloespanol.com/onix-summer-camp-in-spain-with-surf"
+            ]
+          },
+          {
+            "title": "The Surf Atlas Spain Guide",
+            "body": "8 handpicked surf camps in Spain for 2026. Curated selection.",
+            "meta": [
+              "thesurfatlas.com/surfing-spain/surf-camps-in-spain"
+            ]
+          },
+          {
+            "title": "ESL Junior Surfing Language Camps",
+            "body": "Surfing summer language camps across Europe including Spain. Junior programs.",
+            "meta": [
+              "esl-languages.com/en/programs/course-plus-junior/sport/surf"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's best surf regions",
+        "items": [
+          {
+            "title": "Cantabria + Basque Country (Northern Spain)",
+            "body": "4-6 hours from Madrid by car or 1-hour flight to Bilbao/Santander. Mundaka (left-hand wave), Sopelana, Zarautz. Best May-October."
+          },
+          {
+            "title": "Canary Islands",
+            "body": "2.5-hour flight from Madrid. Year-round warm water. Lanzarote (Famara), Tenerife (El Médano), Fuerteventura (Corralejo)."
+          },
+          {
+            "title": "Andalusia (Southern Spain)",
+            "body": "5-6 hours from Madrid by car or 1-hour flight to Seville/Jerez. Tarifa (wind + kite + surf), El Palmar (Vejer). Best March-November."
+          },
+          {
+            "title": "Galicia (Northwest Spain)",
+            "body": "6 hours from Madrid. Less crowded. Pantín (host of WSL events). Cold water but quality waves."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "volleyball-camps-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Volleyball Camps in Spain (English-Speaking)",
+    "summary": "Spain volleyball camps recruiting international juniors: ISC Spain Spanish + Volleyball (Alicante), SLAM International Volleyball Campus, NBC Volleyball Travel Team (US to Spain), Agora Madrid International multisport.",
+    "content": "Spain has a small but growing volleyball camp ecosystem recruiting international juniors, with multiple operators marketing in English. ISC Spain runs a Spanish + Volleyball package in Alicante — a program designed for people who want to learn Spanish and also play volleyball in the Alicante sun. SLAM International School runs a Volleyball Campus hosting 90 boys and girls passionate about volleyball, running weekly from July 2 to July 30 (Sunday to Sunday format). NBC Camps (US Sports Camps) runs an NBC Volleyball Travel Team to Spain 2026 — traveling from Seattle, WA to Spain for an 'unforgettable international volleyball experience.' Agora Madrid International School includes volleyball in its Multisports summer camp — students experience a different sport every day from basketball, volleyball, and paddle tennis to other options. The Spanish volleyball camp market targets: (1) international teens wanting volleyball + Spanish combination, (2) competitive junior players wanting European experience, (3) American players wanting international travel team experience, (4) recreational players wanting beach volleyball vacation. Spain's volleyball scene is small but professional — the Spanish men's national volleyball team has had some international success, and the Spanish women's league is developing. Beach volleyball is particularly popular in Spain's coastal areas. Programs typically run 1-2 weeks with costs €600-€1,500/week. The Spanish volleyball camp market is much smaller than soccer or basketball, but the international recruitment angle is well-developed.",
+    "official_url": "https://www.languageinternational.com/course/spanish-volleyball-isc-spain-116502",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "volleyball",
+      "volleyball-camp",
+      "spanish-volleyball",
+      "international-students",
+      "english-speaking",
+      "summer-camp",
+      "isc-spain",
+      "slam-international"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "soccer-camps-madrid",
+      "basketball-camps-spain",
+      "tennis-academies-spain",
+      "english-summer-camps-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain volleyball camps recruit internationally",
+        "body": "Multiple operators run English-language volleyball camps in Spain. ISC Spain (Alicante), SLAM International, NBC Camps Travel Team, Agora Madrid. €600-€1,500/week.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost per week",
+            "value": "€600-€1,500"
+          },
+          {
+            "label": "Program length",
+            "value": "1-2 weeks typical"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Ages",
+            "value": "12-18 (varies)"
+          },
+          {
+            "label": "Top option",
+            "value": "ISC Spain Spanish + Volleyball (Alicante)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish volleyball camps",
+        "items": [
+          {
+            "title": "ISC Spain — Spanish + Volleyball",
+            "body": "Alicante. Learn Spanish + play volleyball in Alicante sun. Combined language + sport program.",
+            "meta": [
+              "languageinternational.com/course/spanish-volleyball-isc-spain-116502"
+            ]
+          },
+          {
+            "title": "SLAM International School Volleyball Campus",
+            "body": "Weekly July 2-30. Sunday to Sunday format. 90 boys + girls passionate about volleyball.",
+            "meta": [
+              "slaminternationalschool.com/volleyball-campus"
+            ]
+          },
+          {
+            "title": "NBC Volleyball Travel Team to Spain 2026",
+            "body": "US Sports Camps. Seattle, WA to Spain. International volleyball experience for American players.",
+            "meta": [
+              "ussportscamps.com/volleyball/nbc/nbc-international-volleyball-tours-usa-to-spain"
+            ]
+          },
+          {
+            "title": "Agora Madrid International Multisports Camp",
+            "body": "Madrid. Different sport every day: basketball, volleyball, paddle tennis. International school.",
+            "meta": [
+              "madrid.agorainternationalschool.es/en/school-life/summer-camp"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "equestrian-holidays-spain",
+    "category": "do",
+    "subcategory": "family",
+    "title": "Horse Riding Holidays in Spain (English-Speaking Adults)",
+    "summary": "Spanish horse riding holidays recruiting international adults: Equitours (17 vacations, from $2,800), Equus Journeys (Andalusia virgin beaches), Far and Ride (Andalusia Trails 2-8 day), BookHorseRidingHolidays top 10 Spain. Andalusia + Pyrenees focus.",
+    "content": "Spain is one of Europe's premier horse riding holiday destinations, with multiple operators recruiting international adults through English-language marketing. The market is distinct from children's equestrian camps (see equestrian-camps-madrid record) — these are adult riding vacations combining trail riding, dressage training, and Spanish equestrian culture. Equitours offers 17 well-tested horseback riding vacations in Spain, from Andalusia to the Pyrenees, with 6-night programs starting at $2,800. Equus Journeys runs 'Virgin beaches of Andalucía' — a horseback ride in the heart of the Cabo de Gata Natural Park, enjoying magnificent Spanish bays and beaches of Andalusia. Far and Ride runs 'Andalucia Trails' — a unique trekking centre based in the heart of Andalusia, offering 2-8 day trail rides for families, friends, and singles, for all abilities. BookHorseRidingHolidays lists the top 10 horse riding holidays in Spain for 2026/2027, including multi-day mountain treks, dressage training, and relaxing horse + yoga retreats. TripAdvisor lists 15+ Andalucia horseback riding tours — 'great ride up on the hills above Estepona on beautifully trained horses.' The Spanish equestrian holiday market targets: (1) experienced riders wanting Spanish equestrian culture (Andalusian horse tradition), (2) beginners wanting supported riding in beautiful settings, (3) couples wanting active + cultural vacation, (4) yoga/retreat enthusiasts wanting horse + yoga combination. Programs typically run 2-8 days with costs €800-€3,500/person. Spain's main equestrian holiday regions: Andalusia (Jerez de la Frontera — home of the Royal Andalusian School of Equestrian Art, Costa de la Luz, Cabo de Gata), Pyrenees (mountain trail riding), and Catalonia (Priorat wine country riding). Andalusia is the spiritual home of Spanish equestrian culture — the Andalusian horse (Pura Raza Española) is one of the world's oldest horse breeds, and Jerez de la Frontera is famous for the 'How the Andalusian Horses Dance' show at the Royal School.",
+    "official_url": "https://www.equitours.com/europe/spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "horse-riding-holiday",
+      "equestrian-vacation",
+      "andalusia",
+      "english-speaking",
+      "adults",
+      "trail-riding",
+      "spanish-horses",
+      "international"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "equestrian-camps-madrid",
+      "cooking-holidays-spain",
+      "wine-tours-from-madrid",
+      "meditation-retreats-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = Andalusian horse + trail riding paradise",
+        "body": "Spain's Andalusia region (Jerez, Cabo de Gata, Costa de la Luz) is the spiritual home of the Andalusian horse. Multiple operators run English-language riding holidays. €800-€3,500 for 2-8 days.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "2-8 days"
+          },
+          {
+            "label": "Cost per person",
+            "value": "€800-€3,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Top region",
+            "value": "Andalusia (Jerez, Cabo de Gata)"
+          },
+          {
+            "label": "Equitours Spain options",
+            "value": "17 vacations"
+          },
+          {
+            "label": "Best for",
+            "value": "Experienced riders + beginners (varies by program)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish horse riding holiday operators",
+        "items": [
+          {
+            "title": "Equitours Spain",
+            "body": "17 well-tested horseback riding vacations in Spain. From Andalusia to Pyrenees. 6-night programs from $2,800.",
+            "meta": [
+              "equitours.com/europe/spain"
+            ]
+          },
+          {
+            "title": "Equus Journeys — Virgin beaches of Andalucía",
+            "body": "Cabo de Gata Natural Park. Magnificent Spanish bays and beaches of Andalusia. Multi-day ride.",
+            "meta": [
+              "equus-journeys.com/riding-holidays/spain/virgin-beaches-of-andalucia-48350.html"
+            ]
+          },
+          {
+            "title": "Far and Ride — Andalucia Trails",
+            "body": "Heart of Andalusia. 2-8 day trail rides. Families, friends, singles. All abilities.",
+            "meta": [
+              "farandride.com/riding-holidays/spain/andalucia_trails"
+            ]
+          },
+          {
+            "title": "BookHorseRidingHolidays Spain Top 10",
+            "body": "Multi-day mountain treks, dressage training, horse + yoga retreats. Browse and book.",
+            "meta": [
+              "bookhorseridingholidays.com/all/d/europe/spain"
+            ]
+          },
+          {
+            "title": "TripAdvisor Andalucia horseback tours",
+            "body": "15+ Andalucia horseback riding tours. Reviews and ratings. Includes Estepona hills rides.",
+            "meta": [
+              "tripadvisor.com/Attractions-g187428-Activities-c61-t62-Andalucia.html"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's equestrian holiday regions",
+        "items": [
+          {
+            "title": "Andalusia — Jerez de la Frontera",
+            "body": "Home of Royal Andalusian School of Equestrian Art. 'How the Andalusian Horses Dance' show. Pura Raza Española (Andalusian horse) breeding. 1hr from Seville."
+          },
+          {
+            "title": "Andalusia — Cabo de Gata Natural Park",
+            "body": "Virgin beaches. Cabo de Gata Natural Park. Magnificent Spanish bays. Beach riding. Almería province."
+          },
+          {
+            "title": "Pyrenees (Huesca, Navarra)",
+            "body": "Mountain trail riding. Multi-day treks. Beautiful scenery. 5-6 hours from Madrid."
+          },
+          {
+            "title": "Catalonia — Priorat wine country",
+            "body": "Riding through vineyards. Wine + horse combination. 5 hours from Madrid."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "science-summer-programs-spain",
+    "category": "living",
+    "subcategory": "education",
+    "title": "Science Summer Programs in Spain (English, High School)",
+    "summary": "Spain-based science summer programs for international high schoolers: SSP International (5-week residential research), IE University STEM programs, Madrid universities' STEM outreach. Biology, astrophysics, biochemistry, research focus.",
+    "content": "Spain has a small but growing science summer program ecosystem recruiting international high school students through English-language marketing. SSP International (Summer Science Program) runs a rigorous 5-week residential summer research experience designed for highly motivated high school students — one of the oldest residential STEM education programs in the nation (US-based but increasingly international). While SSP's main programs are in the US, the model has been referenced for Spanish equivalents. Immerse Education documents 15 biology summer programs in Europe for high school students, including Spanish options — labs, research projects, university-level life science. Pioneer Academics publishes a guide to the Summer Science Program for high school students, noting international students may include English-language requirements. Madrid's universities have active STEM outreach: Universidad Politécnica de Madrid (UPM) runs summer STEM programs, Universidad Carlos III de Madrid (UC3M) hosts IE University summer programs including STEM tracks, and IE University's Breakthrough Robotics (already in robotics-stem-camps-madrid record) is a Madrid science summer option. The Spanish science summer market targets: (1) international high school students considering STEM university study, (2) students wanting research experience before university applications, (3) teens interested in Spanish science + research culture, (4) parents wanting rigorous academic summer enrichment. Programs typically run 2-5 weeks with costs €1,500-€6,000. Spain's science strengths: astronomy (Canary Islands observatories — among world's best), marine biology (Cabo de Palos, Canary Islands), renewable energy (Spain is a leader in solar and wind), and high-energy physics (CIEMAT research center in Madrid). For Madrid-based students, the city's research institutions (Spanish National Research Council CSIC, CIEMAT, Carlos III Health Institute) offer summer internship and program opportunities.",
+    "official_url": "https://ssp.org",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "science-summer",
+      "stem-program",
+      "research-experience",
+      "high-school",
+      "english-taught",
+      "biology",
+      "astrophysics",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "robotics-stem-camps-madrid",
+      "pre-university-summer-madrid",
+      "humanities-philosophy-summer-spain",
+      "teen-entrepreneurship-summer-madrid",
+      "universities-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Science summer programs growing in Spain",
+        "body": "Multiple institutions run English-taught science summer programs for international high schoolers. SSP International model, IE University STEM, Madrid universities' outreach. €1,500-€6,000 for 2-5 weeks.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "2-5 weeks residential"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€6,000"
+          },
+          {
+            "label": "Languages",
+            "value": "English-taught"
+          },
+          {
+            "label": "Ages",
+            "value": "High school (15-18)"
+          },
+          {
+            "label": "Focus areas",
+            "value": "Biology, astrophysics, biochemistry, research"
+          },
+          {
+            "label": "Top program model",
+            "value": "SSP International (5-week research)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified science summer programs",
+        "items": [
+          {
+            "title": "SSP International (Summer Science Program)",
+            "body": "5-week residential summer research experience. Highly motivated high school students. One of oldest residential STEM programs. Hands-on experimental science.",
+            "meta": [
+              "ssp.org"
+            ]
+          },
+          {
+            "title": "Immerse Education — 15 Biology Summer Programs Europe",
+            "body": "Includes Spanish options. Labs, research projects, university-level life science. For high school students.",
+            "meta": [
+              "immerse.education/knowledge-base/15-biology-summer-programs-in-europe-for-high-school-students"
+            ]
+          },
+          {
+            "title": "Pioneer Academics — SSP Guide",
+            "body": "Guide to Summer Science Program. 5-week residential research. International students + English requirements.",
+            "meta": [
+              "pioneeracademics.com/news/guide-to-summer-science-program-for-high-school-students"
+            ]
+          },
+          {
+            "title": "IE University STEM programs",
+            "body": "IE University Madrid runs STEM-focused summer programs including Breakthrough Robotics. See robotics-stem-camps-madrid record."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's science research strengths",
+        "items": [
+          {
+            "title": "Astronomy (Canary Islands)",
+            "body": "Teide Observatory (Tenerife), Roque de los Muchachos Observatory (La Palma). Among world's best observing sites. Multiple international telescopes."
+          },
+          {
+            "title": "Marine biology",
+            "body": "Cabo de Palos (Murcia), Medes Islands (Catalonia), Canary Islands. Marine reserves with active research stations."
+          },
+          {
+            "title": "Renewable energy",
+            "body": "Spain is global leader in solar (PS10, PS20 solar towers near Seville) and wind (Galicia, Castilla-La Mancha). Iberdrola world leader."
+          },
+          {
+            "title": "High-energy physics",
+            "body": "CIEMAT research center in Madrid. Spanish participation in CERN. Particle physics research."
+          },
+          {
+            "title": "Madrid research institutions",
+            "body": "Spanish National Research Council (CSIC), Carlos III Health Institute, National Centre for Biotechnology. Summer internship opportunities."
+          }
         ]
       }
     ]
