@@ -558,7 +558,7 @@
     "official_url": "https://www.adif.es/en/services/consignas",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "transport",
       "luggage"
@@ -569,7 +569,7 @@
       "madrid-barajas-airport",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Storage & Lockers",
+    "subsubcategory": "Daily Practical",
     "sections": [
       {
         "type": "table",
@@ -2895,7 +2895,7 @@
     "official_url": "https://www.mercadodesanmiguel.es/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "mercado",
@@ -2911,7 +2911,7 @@
       "cooking-classes-tourists-madrid",
       "chef-masterclass-madrid"
     ],
-    "subsubcategory": "Food Markets",
+    "subsubcategory": "Markets & Food Halls",
     "sections": [
       {
         "type": "stats",
@@ -2985,7 +2985,7 @@
     "official_url": "https://chocolateriasangines.com",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "churros",
@@ -2998,7 +2998,7 @@
       "vermouth-madrid",
       "mercado-san-miguel"
     ],
-    "subsubcategory": "Traditional Dishes",
+    "subsubcategory": "Food Culture & Basics",
     "sections": [
       {
         "type": "stats",
@@ -3039,7 +3039,7 @@
     "content": "Vermouth (vermut) is having a renaissance in Madrid. The 'hora del vermut' (vermouth hour) is the sacred pre-lunch tradition — around 12:30pm-2pm on weekends, madrileños gather at vermuterías for a glass of vermouth on tap (vermut de grifo) with olives, gildas (olive+anchovy+pepper on a skewer), and conservas (tinned seafood). It's an aperitif, not a drink to get drunk on. BEST VERMUTERÍAS: (1) Casa Alberto (Calle de las Huertas 18) — oldest taberna in Madrid (1827), Cervantes once lived here. (2) Bodegas Ricla (Calle Cava Baja 7) — tiny, no-frills, locals' favorite in La Latina. (3) La Concha (Calle de la Cava Baja 12) — modern vermutería with great conservas. (4) Bodegas La Ardosa (Calle Colón 13, Malasaña) — historic taberna, great tortilla. (5) Casa Macareno (Calle de la Cava Baja 32) — trendy, modern vermouth. HOW TO ORDER: 'un vermut de grifo, por favor' (a draft vermouth please). €2-4 for the vermouth, €3-6 for olives or a gilda. Served over ice with an orange slice and an olive. Sweet (rojo), dry (seco), or reserve (reserva, aged). Vermouth hour is a Madrid must-do — arrive at noon on Saturday to experience it at its best.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "vermouth",
@@ -3052,7 +3052,7 @@
       "wine-certification-spain"
     ],
     "official_url": "https://www.esmadrid.com/en/gastronomy",
-    "subsubcategory": "Drinks Culture"
+    "subsubcategory": "Food Culture & Basics"
   },
   {
     "id": "cafe-central-jazz",
@@ -3064,7 +3064,7 @@
     "official_url": "https://www.cafecentralmadrid.com",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "jazz",
@@ -3075,7 +3075,7 @@
       "malasana-bars-nightlife",
       "teatro-real-madrid"
     ],
-    "subsubcategory": "Jazz & Blues"
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "real-madrid-bernabeu",
@@ -3087,7 +3087,7 @@
     "official_url": "https://www.realmadrid.com/en",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "football",
@@ -3098,7 +3098,7 @@
       "rayo-vallecas",
       "soccer-camps-madrid"
     ],
-    "subsubcategory": "Football",
+    "subsubcategory": "Active Sports in Madrid",
     "sections": [
       {
         "type": "stats",
@@ -3176,7 +3176,7 @@
     "official_url": "https://www.rayovallecano.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "football",
@@ -3186,7 +3186,7 @@
     "related_records": [
       "real-madrid-bernabeu"
     ],
-    "subsubcategory": "Football"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "traditions-summary",
@@ -4859,7 +4859,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "post-office",
@@ -4870,7 +4870,7 @@
       "moving-shipping-madrid",
       "translating-services-madrid"
     ],
-    "subsubcategory": "Postal & Shipping"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "launderettes-madrid",
@@ -4883,14 +4883,14 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "laundry",
       "dry-cleaning"
     ],
     "related_records": [],
-    "subsubcategory": "Home & Laundry"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "locksmiths-madrid",
@@ -4903,7 +4903,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "locksmith",
@@ -4913,7 +4913,7 @@
     "related_records": [
       "emergency-numbers"
     ],
-    "subsubcategory": "Home & Laundry"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "moving-shipping-madrid",
@@ -4926,7 +4926,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "moving",
@@ -4936,7 +4936,7 @@
     "related_records": [
       "post-office-madrid"
     ],
-    "subsubcategory": "Postal & Shipping"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "translating-services-madrid",
@@ -4961,7 +4961,7 @@
       "empadronamiento",
       "post-office-madrid"
     ],
-    "subsubcategory": "Professional Services"
+    "subsubcategory": "Professional Services (English-Speaking)"
   },
   {
     "id": "barbers-hairdressers-madrid",
@@ -4974,7 +4974,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "barber",
@@ -4982,7 +4982,7 @@
       "salon"
     ],
     "related_records": [],
-    "subsubcategory": "Hair & Beauty"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "sol-gran-via-neighborhood",
@@ -5308,7 +5308,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "salamanca",
@@ -5319,7 +5319,7 @@
       "sol-gran-via-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Upscale",
+    "subsubcategory": "Upscale & Residential",
     "sections": [
       {
         "type": "callout",
@@ -5424,7 +5424,7 @@
       "sol-gran-via-neighborhood",
       "walking-tours-madrid"
     ],
-    "subsubcategory": "Historic",
+    "subsubcategory": "Historic & Traditional",
     "sections": [
       {
         "type": "callout",
@@ -5529,7 +5529,7 @@
       "artist-residencies-madrid",
       "photography-workshops-madrid"
     ],
-    "subsubcategory": "Historic",
+    "subsubcategory": "Historic & Traditional",
     "sections": [
       {
         "type": "callout",
@@ -5619,7 +5619,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "chamberi",
@@ -5630,7 +5630,7 @@
       "malasana-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Residential",
+    "subsubcategory": "Upscale & Residential",
     "sections": [
       {
         "type": "callout",
@@ -5735,7 +5735,7 @@
       "retiro-park",
       "madrid-book-fair-literary-events"
     ],
-    "subsubcategory": "Residential",
+    "subsubcategory": "Upscale & Residential",
     "sections": [
       {
         "type": "callout",
@@ -5828,7 +5828,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "arguelles",
@@ -5841,7 +5841,7 @@
       "metro-de-madrid",
       "retiro-neighborhood"
     ],
-    "subsubcategory": "Student & West",
+    "subsubcategory": "Upscale & Residential",
     "sections": [
       {
         "type": "callout",
@@ -5931,7 +5931,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "tetuan",
@@ -5943,7 +5943,7 @@
       "chamberi-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "North & Diverse"
+    "subsubcategory": "Upscale & Residential"
   },
   {
     "id": "bus-tours-madrid",
@@ -7506,7 +7506,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "shopping",
       "market",
@@ -7524,7 +7524,7 @@
       "cooking-classes-tourists-madrid",
       "chef-masterclass-madrid"
     ],
-    "subsubcategory": "Markets",
+    "subsubcategory": "Markets & Food Halls",
     "sections": [
       {
         "type": "callout",
@@ -8912,7 +8912,7 @@
       "science-summer-programs-spain",
       "madrid-law-summer-programs"
     ],
-    "subsubcategory": "Universities",
+    "subsubcategory": "Universities & Schools",
     "sections": [
       {
         "type": "callout",
@@ -9025,7 +9025,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "education",
       "school",
@@ -9043,7 +9043,7 @@
       "international-school-jobs-madrid",
       "nanny-agencies-madrid"
     ],
-    "subsubcategory": "Schools"
+    "subsubcategory": "Universities & Schools"
   },
   {
     "id": "language-schools-madrid-education",
@@ -9056,7 +9056,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "education",
       "language",
@@ -9068,7 +9068,7 @@
       "language-schools-madrid",
       "universities-madrid"
     ],
-    "subsubcategory": "Language Schools"
+    "subsubcategory": "Language Learning"
   },
   {
     "id": "museo-arqueologico-madrid",
@@ -9385,7 +9385,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "cocido",
@@ -9398,7 +9398,7 @@
       "mercado-san-miguel",
       "food-tours-madrid"
     ],
-    "subsubcategory": "Traditional Dishes",
+    "subsubcategory": "Food Culture & Basics",
     "sections": [
       {
         "type": "table",
@@ -9461,7 +9461,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "football",
@@ -9474,7 +9474,7 @@
       "metro-de-madrid",
       "soccer-camps-madrid"
     ],
-    "subsubcategory": "Football"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "malasana-bars-nightlife",
@@ -9569,7 +9569,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "opera",
@@ -9582,7 +9582,7 @@
       "royal-palace",
       "almudena-cathedral"
     ],
-    "subsubcategory": "Opera & Theater",
+    "subsubcategory": "Venues & Performances",
     "sections": [
       {
         "type": "table",
@@ -10142,7 +10142,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "wine",
@@ -10157,7 +10157,7 @@
       "wine-certification-spain",
       "wine-tours-from-madrid"
     ],
-    "subsubcategory": "Drinks Culture"
+    "subsubcategory": "Food Culture & Basics"
   },
   {
     "id": "madrid-open-tennis",
@@ -10170,7 +10170,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "tennis",
@@ -10184,7 +10184,7 @@
       "atletico-madrid-wanda-metropolitano",
       "tennis-academies-spain"
     ],
-    "subsubcategory": "Racquet Sports"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "basketball-madrid",
@@ -10197,7 +10197,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "basketball",
@@ -10209,7 +10209,7 @@
       "real-madrid-bernabeu",
       "madrid-open-tennis"
     ],
-    "subsubcategory": "Basketball"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "running-madrid",
@@ -10239,7 +10239,7 @@
       "gyms-fitness-madrid",
       "altitude-running-camps-spain"
     ],
-    "subsubcategory": "Running"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "photoespana-festival",
@@ -10562,7 +10562,7 @@
       "scuba-diving-certification-madrid",
       "surf-camps-spain-english"
     ],
-    "subsubcategory": "Water Sports"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "gyms-fitness-madrid",
@@ -10575,7 +10575,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "gym",
@@ -10590,7 +10590,7 @@
       "yoga-madrid",
       "pilates-teacher-training-madrid"
     ],
-    "subsubcategory": "Fitness & Wellness",
+    "subsubcategory": "Active Sports in Madrid",
     "sections": [
       {
         "type": "callout",
@@ -10689,7 +10689,7 @@
       "swimming-pools-madrid",
       "golf-academies-spain"
     ],
-    "subsubcategory": "Golf"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "cycling-mtb-madrid",
@@ -10723,7 +10723,7 @@
       "ski-school-spain-english",
       "cycling-training-camps-spain"
     ],
-    "subsubcategory": "Cycling",
+    "subsubcategory": "Active Sports in Madrid",
     "sections": [
       {
         "type": "callout",
@@ -10828,7 +10828,7 @@
       "tennis-academies-spain",
       "paddle-tennis-camps-madrid"
     ],
-    "subsubcategory": "Racquet Sports"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "skiing-snowboarding-madrid",
@@ -10841,7 +10841,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "skiing",
@@ -10855,7 +10855,7 @@
       "el-escorial-day-trip",
       "segovia-day-trip"
     ],
-    "subsubcategory": "Winter Sports"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "supermarkets-grocery-madrid",
@@ -10868,7 +10868,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "supermarket",
@@ -10880,7 +10880,7 @@
       "mercados-madrid",
       "post-office-madrid"
     ],
-    "subsubcategory": "Food & Grocery",
+    "subsubcategory": "Daily Practical",
     "sections": [
       {
         "type": "table",
@@ -10949,7 +10949,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "cinema",
@@ -10962,7 +10962,7 @@
       "imax-planetarium-madrid",
       "teatro-real-madrid"
     ],
-    "subsubcategory": "Cinema"
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "casinos-gambling-madrid",
@@ -11073,7 +11073,7 @@
       "pilates-teacher-training-madrid",
       "yoga-wellness-retreats-spain"
     ],
-    "subsubcategory": "Fitness & Wellness"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "hammams-arab-baths-madrid",
@@ -11228,7 +11228,7 @@
       "movie-theaters-madrid",
       "madrid-music-festivals"
     ],
-    "subsubcategory": "Comedy & Magic"
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "summer-outdoor-cinema-madrid",
@@ -11241,7 +11241,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "cinema",
@@ -11255,7 +11255,7 @@
       "veranos-de-la-villa",
       "retiro-park"
     ],
-    "subsubcategory": "Cinema"
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "phone-tv-internet-providers-madrid",
@@ -11280,7 +11280,7 @@
     "related_records": [
       "sim-cards-madrid"
     ],
-    "subsubcategory": "Communications"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "satellite-tv-madrid",
@@ -11293,7 +11293,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "satellite",
@@ -11307,7 +11307,7 @@
       "phone-tv-internet-providers-madrid",
       "movie-theaters-madrid"
     ],
-    "subsubcategory": "Communications"
+    "subsubcategory": "Daily Practical"
   },
   {
     "id": "computer-electronics-stores-madrid",
@@ -11320,7 +11320,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "electronics",
@@ -11332,7 +11332,7 @@
       "sim-cards-madrid",
       "supermarkets-grocery-madrid"
     ],
-    "subsubcategory": "Electronics & Tech",
+    "subsubcategory": "Daily Practical",
     "sections": [
       {
         "type": "table",
@@ -11383,7 +11383,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "bookstore",
@@ -11396,7 +11396,7 @@
       "el-rastro-flea-market",
       "language-schools-madrid"
     ],
-    "subsubcategory": "Books & Music",
+    "subsubcategory": "Daily Practical",
     "sections": [
       {
         "type": "table",
@@ -11734,7 +11734,7 @@
       "tipping-spain",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Budget Eats",
+    "subsubcategory": "Food Culture & Basics",
     "sections": [
       {
         "type": "table",
@@ -11804,7 +11804,7 @@
       "mercado-san-miguel",
       "lavapies-neighborhood"
     ],
-    "subsubcategory": "Special Diets",
+    "subsubcategory": "Food Culture & Basics",
     "sections": [
       {
         "type": "table",
@@ -11867,7 +11867,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "ice-cream",
@@ -11880,7 +11880,7 @@
       "cheap-eats-madrid",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Desserts & Sweets"
+    "subsubcategory": "Food Culture & Basics"
   },
   {
     "id": "churches-religion-madrid",
@@ -11893,7 +11893,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "religion",
@@ -11910,7 +11910,7 @@
       "english-speaking-wedding-planners-madrid",
       "meditation-retreats-spain"
     ],
-    "subsubcategory": "Community & Faith",
+    "subsubcategory": "Spiritual & Wellness",
     "sections": [
       {
         "type": "table",
@@ -12017,7 +12017,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "education",
       "library",
@@ -12030,7 +12030,7 @@
       "bookstores-madrid-detail",
       "universities-madrid"
     ],
-    "subsubcategory": "Libraries",
+    "subsubcategory": "Universities & Schools",
     "sections": [
       {
         "type": "stats",
@@ -12084,7 +12084,7 @@
       "international-school-jobs-madrid",
       "english-taught-masters-madrid"
     ],
-    "subsubcategory": "Teacher Training",
+    "subsubcategory": "Summer & Pre-University Programs",
     "sections": [
       {
         "type": "table",
@@ -12472,7 +12472,7 @@
     "title": "Padel in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Racquet Sports",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Padel is Spain's #2 sport. 100+ clubs in Madrid. Top: Padel Club Madrid, Sangrano Padel. €20-40/court/hour. Easy to learn.",
     "content": "Padel is a racquet sport invented in Mexico, hugely popular in Spain (3 million players, second only to football). It's like squash-meets-tennis — played in doubles on an enclosed court with glass walls. The ball can bounce off the walls (like squash). Easier to learn than tennis — most beginners can rally after 30 min. Top clubs in Madrid: (1) Padel Club Madrid (Calle de la Calerilla 12, Las Tablas) — 14 courts, restaurant, pro shop. €30-40/court/hour peak, €20-25 off-peak. (2) Sangrano Padel Club (Calle del Santo Ángel de la Guarda 24, near Cuatro Caminos) — 9 courts, popular with expats. €25-35/hour. (3) Pádel La Finca (Pozuelo, west of Madrid) — 12 courts, upscale. €35-45/hour. (4) Centro Nacional de Pádel (Calle de Arroyo del Monte) — public, €20-25/hour. (5) Top Pádel Madrid Indoor (Calle del Payaso Fofó) — 8 indoor courts, €25-30/hour. BOOKING: most clubs use the Playtomic app (English) — find a partner, book a court, join games. FAMILIAR FACES: Real Madrid players, Spanish celebrities, and Spanish PM Pedro Sánchez all play padel. TIPS: (1) Wear padel-specific shoes (or tennis shoes with herringbone soles). (2) Racquets (palas) are different from tennis — shorter, solid, with holes. Rent €5 or buy €50-300. (3) Balls are similar to tennis but slightly smaller and lower pressure. (4) Scoring is identical to tennis. (5) After 2-3 lessons, you can play socially. (6) Madrid's climate allows outdoor padel year-round. (7) Padel is the best way to meet Spanish people — join the 'Madrid Pádel International' WhatsApp/Facebook groups.",
     "official_url": "https://playtomic.com/padel-courts/madrid",
@@ -13008,7 +13008,7 @@
     "title": "Left Luggage at Barajas Airport",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Storage & Lockers",
+    "subsubcategory": "Daily Practical",
     "summary": "Left luggage at Madrid-Barajas Airport. T1 and T4. €4-5.50/bag/day. Open 24/7.",
     "content": "Barajas Airport has left luggage (consignas) at two terminals. T1 (Terminal 1): located in the arrivals area, near parking P1. €4/bag/day (any size). Open 24/7. T4 (Terminal 4): located in the arrivals area, level 0. €5.50/bag/day. Open 24/7. T2 and T3 do NOT have left luggage — walk to T1 (5 min covered walkway). PRICES: T1 €4/bag/day, T4 €5.50/bag/day. Pay by cash or card. Maximum bag size: 80cm x 50cm x 30cm. SECURITY: bags are X-rayed before storage. ID required (passport). Staffed 24/7 with CCTV. TIPS: (1) The airport is the most expensive left luggage in Madrid — only use it if you have a layover. (2) For sightseeing before a flight, consider left luggage at Atocha (€3.90/day) instead — cheaper and closer to the center. (3) Allow 15-20 min for drop-off and pickup during peak hours. (4) Don't leave electronics, documents, or valuables. (5) Take a photo of your bag and keep the claim ticket. See also our master Left Luggage record and the Barajas Airport record.",
     "official_url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas/airport-services/luggage.html",
@@ -13034,14 +13034,14 @@
     "title": "Left Luggage at Atocha Station",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Storage & Lockers",
+    "subsubcategory": "Daily Practical",
     "summary": "Left luggage at Atocha train station. €3.90-5.50/bag/day. Open 5:30am-10:30pm. Near the tropical garden.",
     "content": "Atocha Station has the most convenient left luggage in central Madrid. LOCATION: ground floor, near the tropical garden (the old station hall with 4,000 plants). Follow signs for 'Consignas'. PRICES: €3.90/bag/day (size S/M, up to 60cm), €5.50/bag/day (size L, over 60cm). Pay by cash or card. HOURS: 5:30am-10:30pm daily (last drop-off 10pm, last pickup 10:30pm). SECURITY: bags are X-rayed. ID required (passport or NIE). Staffed with CCTV. MAXIMUM STAY: 30 days (then bags are sent to lost property). TIPS: (1) Atocha is the best option for sightseeing — central location, near the Prado and Reina Sofía. (2) Arrive early (before 9am) to avoid lines — cruise ship groups and tour buses use this facility. (3) The tropical garden is free to visit while you wait. (4) Don't leave valuables or electronics. (5) Keep your claim ticket — losing it requires ID verification and a 30+ min wait. (6) For longer storage, see Public Storage (Trasteros). (7) Atocha also has a VIP luggage service (left luggage + delivery to your hotel) for €15-25.",
     "official_url": "https://www.adif.es/en/stations/atocha",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "left-luggage",
@@ -13061,14 +13061,14 @@
     "title": "Left Luggage at Chamartín Station",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Storage & Lockers",
+    "subsubcategory": "Daily Practical",
     "summary": "Left luggage at Chamartín train station. €3.90-5.50/bag/day. Open 6am-11pm. Near the VIPS café.",
     "content": "Chamartín Station (Madrid's second major train station, north of center) has left luggage facilities. LOCATION: ground floor, near the VIPS café. Follow signs for 'Consignas'. PRICES: same as Atocha — €3.90/bag/day (size S/M, up to 60cm), €5.50/bag/day (size L, over 60cm). HOURS: 6am-11pm daily (last drop-off 10:30pm, last pickup 11pm). SECURITY: bags are X-rayed. ID required (passport or NIE). Staffed with CCTV. MAXIMUM STAY: 30 days. TIPS: (1) Chamartín is less crowded than Atocha — usually no lines. (2) Chamartín is in the north of Madrid — use it if you're staying in Chamartín, Tetuán, or financial district. (3) For tourists staying in the center, Atocha is more convenient. (4) The station has good food options (VIPS, Starbucks) while you wait. (5) Don't leave valuables or electronics. (6) Keep your claim ticket. (7) Chamartín connects to Barajas Airport via Cercanías C1 (25 min) — if you have a layover, you could store bags at Chamartín and take the train to the airport.",
     "official_url": "https://www.adif.es/en/stations/chamartin",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "left-luggage",
@@ -13087,7 +13087,7 @@
     "title": "Left Luggage at Bus Stations (Estación Sur)",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Storage & Lockers",
+    "subsubcategory": "Daily Practical",
     "summary": "Left luggage at Estación Sur (Méndez Álvaro) bus station. €3/bag/day. Open 6am-midnight.",
     "content": "Estación Sur (also called Méndez Álvaro) — Madrid's main long-distance bus station — has left luggage. LOCATION: inside the station, ground floor, near platform 1. Follow signs for 'Consignas'. PRICES: €3/bag/day (any size). Cheapest left luggage in Madrid. HOURS: 6am-midnight daily (last drop-off 11:30pm). SECURITY: bags are X-rayed. ID required. Staffed with CCTV. TIPS: (1) Estación Sur is the cheapest option (€3 vs €3.90-5.50 at train stations). (2) Located south of center — take Metro L6 to Méndez Álvaro (15 min from Sol). (3) Less crowded than Atocha. (4) The bus station has food courts and shops while you wait. (5) Other bus stations (Moncloa, Plaza Elíptica) do NOT have left luggage — only Estación Sur. (6) Don't leave valuables. (7) Keep your claim ticket. ALTERNATIVE: If you're near Moncloa or Plaza Elíptica, consider taking the Metro to Estación Sur specifically for the cheaper luggage storage.",
     "official_url": "https://www.alsa.com/en/bus-stations/madrid-sur-station",
@@ -13114,14 +13114,14 @@
     "title": "Public Storage (Trasteros) — Long-Term",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Storage & Lockers",
+    "subsubcategory": "Daily Practical",
     "summary": "Self-storage units (trasteros) for long-term storage. €50-150/month. Chains: Accessa, City Trastero, Trastero Madrid.",
     "content": "Trasteros are self-storage units — like Public Storage in the US or Access Self Storage in the UK. Used for long-term storage (weeks, months, or years) — much cheaper than left luggage for extended periods. MAIN CHAINS: (1) Accessa (accessa.es) — Spain's largest, 8 locations in Madrid area. Units from 1m² to 20m². €50-200/month depending on size. 24/7 access at most locations. (2) City Trastero (citytrastero.com) — 4 locations in Madrid. €60-150/month. Modern, clean. (3) Trastero Madrid (trasteromadrid.com) — local, 3 locations. €45-120/month. (4) Storage Madrid — small, central. (5) Ibertrastero — chain, multiple. PRICING: 1m² (a few boxes) €45-60/month. 3m² (small apartment contents) €80-120/month. 6m² (1-bedroom apartment) €120-180/month. 10m²+ (house) €180-300/month. First month often discounted (€1 promotions). WHAT'S INCLUDED: 24/7 access (most), CCTV, climate control (some), free truck + driver for move-in (some), packing supplies for sale. USES: (1) Between apartments (store furniture during a move). (2) For expats going home for summer. (3) For businesses storing inventory. (4) For students storing stuff between academic years. TIPS: (1) Compare prices — there's a big range. (2) Negotiate — ask for a discount, especially for 6+ month commitments. (3) Check access hours — some are 24/7, some 8am-8pm. (4) Insurance: usually €10-15/month extra. (5) Climate control matters for electronics, art, leather — ask if the unit has it. (6) Reserve 1-2 weeks ahead in summer (peak season for student storage).",
     "official_url": "https://www.accessa.es/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "storage",
@@ -13435,14 +13435,14 @@
     "title": "Optical Shops (Ópticas) in Madrid",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Health & Optical",
+    "subsubcategory": "Daily Practical",
     "summary": "Optical shops: Óptica Universitaria, Alain Afflelou, Multiópticas. Eye exams €40-80, glasses €80-300.",
     "content": "Optical shops (ópticas) in Madrid. MAIN CHAINS: (1) Alain Afflelou — French chain, 50+ Madrid locations, eye exams €40-60, glasses from €80. (2) Multiópticas — Spanish chain, similar pricing. (3) Óptica Universitaria (Calle Gran Vía 28) — central, popular with students. (4) Cottet — Catalan chain, premium. (5) Óptica Suiza — high-end. INDEPENDENT: (1) Óptica Besada (Calle de la Velázquez 21) — English-speaking, premium. (2) Óptica Val (Calle de la Alcalá 55) — mid-range. SERVICES: Eye exams (examen de la vista) €40-80, sometimes free with glasses purchase. Contact lens fitting €50-80. Glasses (gafas) from €80 (basic) to €300+ (designer). Contact lenses (lentillas) €30-60/month. Sunglasses (gafas de sol) from €50. INSURANCE: Spanish public health covers eye exams for under-18s and over-65s. Private insurance (Sanitas, Adeslas) often includes optical coverage €100-200/year. TIPS: (1) Bring your prescription — Spanish opticians accept international prescriptions. (2) Glasses are ready in 1-2 hours for standard lenses, 1-2 weeks for special prescriptions. (3) Tax-free shopping available for non-EU residents on purchases over €90. (4) Bargaining is not common but chains sometimes offer promotions (2-for-1, free eye exam with purchase).",
     "official_url": "https://www.afflelou.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "optical",
@@ -13459,14 +13459,14 @@
     "title": "Music Stores in Madrid",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Books & Music",
+    "subsubcategory": "Daily Practical",
     "summary": "Music stores: El Corte Inglés music, Discos Melopelo (vinyl), Mariscal (instruments). CDs €10-20, vinyl €15-30.",
     "content": "Music stores in Madrid. CD/DVD: (1) El Corte Inglés (multiple) — Spain's largest CD/DVD selection, 7th floor of Castellana store. Mainstream and Spanish artists. CDs €10-18, DVDs €10-20. (2) FNAC (Calle Marqués de Casa Riera 4) — good selection, similar pricing. VINYL: (1) Discos Melopelo (Calle de la Colegiata 12, La Latina) — Madrid's best vinyl shop, new and used, €15-30 per LP. Jazz, rock, flamenco, electronic. (2) Flash Records (Calle de la Escorial 6, Malasaña) — used vinyl, €10-25. (3) Bicolor Music (Calle de la Pez 8) — new vinyl, focus on indie. (4) Disco 100 (Calle de la Montera 30) — dance/electronic vinyl. INSTRUMENTS: (1) Mariscal (Calle de la Marqués de Cubas 4) — Madrid's oldest music shop (1921), guitars, violins, brass. (2) Casa Luthier (Calle de la Balmes 22) — classical guitars, high-end. (3) Yamaha Music Madrid (Calle de la Alcalá 119) — pianos, keyboards, all instruments. (4) Guitar Center Madrid (Calle de la Atocha 28) — guitars, amps. CONCERT TICKETS: (1) El Corte Inglés ticket counters — large events. (2) Tick Tack Ticket (online) — most concerts. (3) Wegow (online) — indie concerts. TIPS: (1) Vinyl is having a renaissance in Madrid — Melopelo is the must-visit. (2) Spanish music to look for: flamenco (Paco de Lucía, Camarón), pop (Alaska, Rosalía), rock (Héroes del Silencio, Jarabe de Palo). (3) El Corte Inglés has the best selection of Spanish classical and flamenco CDs.",
     "official_url": "https://www.elcorteingles.es/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "music",
@@ -13485,14 +13485,14 @@
     "title": "International Grocery Stores",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Food & Grocery",
+    "subsubcategory": "Daily Practical",
     "summary": "International food: Mantequerías Alemanas (German), Tatsumi (Japanese), Seoul (Korean), Lavapiés (Indian/African).",
     "content": "International grocery stores in Madrid for expat and specialty foods. BRITISH/IRISH: (1) The Irish Shop (Calle de la Espíritu Santo 1, Malasaña) — HP sauce, Marmite, Cadbury, Walker's crisps. (2) UK food sections at El Corte Inglés (Castellana, Goya) — PG Tips, McVitie's, Colman's. GERMAN: (1) Mantequerías Alemanas (Calle de Ayala 25, Salamanca) — German bread, sausages, beer, mustard. Established 1930. JAPANESE: (1) Tatsumi (Calle del General Yagüe 14) — Japanese groceries, sushi-grade fish, miso, nori, sake. (2) Warehouse Japanese Market (Calle de la Orense 31) — larger selection. KOREAN: (1) Seoul (Calle de la Princesa 5) — kimchi, gochujang, Korean snacks. (2) Korean Market (Calle de la Luna 3) — smaller. CHINESE: (1) Casa Asia (Calle del Cardenal Cisneros 9) — has a small Asian food section. (2) Barrio de Usera (south Madrid) — Madrid's Chinatown, 20+ Chinese supermarkets. INDIAN/PAKISTANI: (1) Lavapiés neighborhood (Calle de Lavapiés, Calle de la Ollerías) — 10+ Indian grocery stores, spices, lentils, basmati. (2) Yatai Market (Calle de la Lavapiés 28) — pan-Asian. LATIN AMERICAN: (1) Mercado de la Cebada (La Latina) — Latin American products. (2) Calle de la Tolmo (Lavapiés) — Peruvian, Colombian, Ecuadorian. AFRICAN: (1) Calle de la Lavapiés (south end) — Senegalese, Nigerian products. HALAL: (1) Halal Butcher shops in Lavapiés and Cuatro Caminos. ITALIAN: (1) Obika (various) — mozzarella bar, Italian products. (2) Giglio (Calle de la Jorge Juan 10) — Italian deli. AMERICAN: (1) Taste of America (Calle de la Modesto Lafuente 45) — American candy, baking supplies, Pepsi Wild Cherry. TIPS: (1) El Corte Inglés Gourmet section (Castellana) has the best all-in-one international selection. (2) For Asian ingredients, Usera is cheapest. (3) For Latin American, La Latina is best. (4) Most international stores are closed Sundays.",
     "official_url": "https://www.elcorteingles.es/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "grocery",
@@ -13559,14 +13559,14 @@
     "title": "Architects & General Contractors (Refurbishment)",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Home Services",
+    "subsubcategory": "Daily Practical",
     "summary": "Architects and contractors for apartment renovation. Permits required from City Hall. Budget €800-1,500/m² for full renovation.",
     "content": "Architects and contractors for apartment renovation in Madrid. WHEN YOU NEED AN ARCHITECT: (1) Structural changes (removing walls, changing layout). (2) Changing facade or windows. (3) Adding bathrooms or kitchens. (4) Any work requiring a city permit (licencia de obra). WHEN YOU NEED A CONTRACTOR (without architect): (1) Painting, flooring. (2) Kitchen/bathroom replacement (no layout change). (3) Electrical and plumbing upgrades. (4) Minor repairs. ARCHITECTS: (1) COAM (Colegio Oficial de Arquitectos de Madrid) — the official architects' association. Search their directory at coam.org. Rates: €80-150/hour or 8-12% of project cost. (2) Recommended English-speaking architects: BmasC Arquitectos, Studio Marco Vermeulen, OOAA Arquitectura. CONTRACTORS (Empresas de Reformas): (1) Reformas Madrid (multiple) — chains, €800-1,200/m² for full renovation. (2) Pepe's Reformas — local, mid-range. (3) Habitissimo (habitissimo.es) — online platform to get quotes from multiple contractors. PERMITS: (1) Licencia de obra mayor — major renovation (structural changes). Apply at Madrid City Hall (Portal de Urbanismo). Takes 1-3 months. Fee €300-800. (2) Licencia de obra menor — minor work (painting, flooring). Takes 2-4 weeks. Fee €50-200. (3) Comunidad de Propietarios — you MUST notify your building's community before starting work. They can't refuse but may set conditions (hours, elevator use). COSTS: Full apartment renovation (80m²): €60,000-120,000. Kitchen: €8,000-20,000. Bathroom: €4,000-10,000. Flooring: €30-80/m². Painting: €10-20/m². TIMELINE: 2-4 months for full renovation (including permits). TIPS: (1) Get 3+ quotes. (2) Check the contractor's license ( Registro de Empresas Calificadas). (3) Never pay more than 30% upfront. (4) Get everything in writing. (5) For building permits, use a 'gestor' (administrative agent) — €200-400 to handle paperwork.",
     "official_url": "https://www.coam.org/",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "architect",
@@ -13616,14 +13616,14 @@
     "title": "Meeting Rooms & Rehearsal Spaces",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Home Services",
+    "subsubcategory": "Daily Practical",
     "summary": "Rent meeting rooms and rehearsal spaces by the hour. Spaces: WeWork, Atenasia, Espacio Ronda. €15-50/hour.",
     "content": "Meeting rooms and rehearsal spaces for rent in Madrid. MEETING ROOMS: (1) WeWork (3 locations: Velázquez, Caleido, Castellana) — meeting rooms for members and non-members. €15-30/hour. English. (2) Atenasia (Calle de la Zorrilla 7) — meeting rooms, videoconferencing. €20-40/hour. (3) Spaces (Calle de la Miguel Ángel 22) — Regus brand, meeting rooms €20-50/hour. (4) Regus (multiple) — business centers, meeting rooms €15-50/hour. (5) Impact Hub Madrid (Calle de la Goya 43) — coworking + meeting rooms, social enterprise focus. REHEARSAL SPACES (music/theater): (1) Espacio Ronda (Calle de la Ronda de Segovia 39) — rehearsal rooms for music, theater, dance. €10-15/hour. (2) La Nave (Calle de la Creta 12) — music rehearsal rooms. €8-12/hour. (3) Music Gallery (Calle de la Almirante 18) — band rehearsal, equipment included. €12-18/hour. (4) Estudio Río (Calle del Río Tajo 14) — recording + rehearsal. €15-25/hour. CONFERENCE ROOMS (larger events): (1) Hotel meeting rooms — most hotels rent meeting rooms. €200-800/day. (2) Círculo de Bellas Artes (Calle de Alcalá 42) — event spaces, €500-2,000/day. (3) Matadero Madrid (Plaza de Legazpi) — cultural event spaces. (4) IFEMA (Campo de las Naciones) — large conference venue, 10,000+ capacity. FREE OPTIONS: (1) Madrid public libraries have free meeting rooms (book ahead, 1 week). (2) Some cafés (Starbucks, Café de Oriente) allow small meetings with purchase. TIPS: (1) Book 1-2 weeks ahead for meeting rooms. (2) Bring your own laptop/HDMI adapter. (3) Most spaces have wifi and whiteboards. (4) For rehearsal spaces, bring your own instruments (some have drum kits/PAs). (5) Coworking spaces often offer 1 free meeting room hour per day for members.\n\nIMPORTANT ADDITION: EL HORNO (Calle de la Esgrima 11, Metro Tribunal L1/L10, phone 91 527 57 01, centroelhorno.com) — Madrid's longest-running rehearsal space (since the 1980s). 13 rooms for music, dance, and theater rehearsal. €49/month for unlimited off-peak access. Also offers dance classes, fitness, yoga, pilates, and pole dance. Active Facebook page (4.6 stars, 125 reviews). English spoken. Open Mon-Fri 10am-11pm, Sat 10am-8pm.",
     "official_url": "https://www.wework.com/buildings/madrid-spain",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "services",
       "meeting-room",
@@ -13685,14 +13685,14 @@
     "title": "Ice Skating in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Winter Sports",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Ice rinks: Palacio de Hielo (indoor, year-round), seasonal outdoor rinks at Plaza de España and Callao (Nov-Jan). €8-12.",
     "content": "Ice skating in Madrid. INDOOR (year-round): (1) Palacio de Hielo (Calle de la Silvia 4, Metro Canillas L4) — Madrid's only permanent ice rink, 1,800m². €10 entry + €3 skate rental. Open daily 10am-10pm. Also has a shopping center, restaurants, and a small amusement area. OUTDOOR (seasonal, November-January): (1) Plaza de España — pop-up rink, €8, daily 10am-9pm. (2) Callao (Gran Vía) — smaller pop-up rink, €6. (3) Madrid Caja Mágica — sometimes has seasonal rinks. TIPS: (1) Palacio de Hielo is the real ice skating experience — the pop-up rinks are small and crowded. (2) Bring gloves (mandatory at most rinks). (3) Socks required. (4) Best time: weekday mornings (empty), avoid weekends (packed with kids). (5) The Palacio de Hielo also offers ice skating lessons (€20/hour) and hockey sessions.",
     "official_url": "https://www.palaciodehielo.com/",
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "ice-skating",
@@ -13709,14 +13709,14 @@
     "title": "Pool & Billiards in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Indoor Games",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Pool halls: Billar Centro, Madrid Billar Pool. €4-8/hour per table. Popular with locals. Snooker rare in Spain.",
     "content": "Pool and billiards in Madrid. POOL HALLS: (1) Billar Centro (Calle de la Colegiata 9, La Latina) — central, 12 tables, €5/hour per table. Open Mon-Sat 11am-1am. (2) Madrid Billar Pool (Calle de la Alcalá 55) — 8 tables, €4/hour. (3) Billar Luna (Calle de la Luna 5, Sol) — small, touristy, €6/hour. (4) Club de Billar Madrid (Calle de la Príncipe de Vergara 50) — members + walk-ins, 10 tables, €4/hour. (5) Piszpool (Calle de la Alcalá 110) — newer, clean, €5/hour. WHAT'S AVAILABLE: (1) Pool (billar americano) — 8-ball, 9-ball. Most common. (2) French billiards (billar francés / carambola) — 3-cushion, no pockets. Popular with older Spaniards. (3) Snooker — very rare in Spain. Only at British expat clubs. TIPS: (1) Pay per table (not per person) — split the cost. (2) Cues provided (bring your own only if serious). (3) Chalk provided. (4) Spanish pool halls serve drinks — order at the table. (5) Avoid weekend evenings (packed, loud). (6) The game in Spain is typically 8-ball (bola 8) with slightly different rules than US/UK.",
     "official_url": "https://www.billarcentro.com/",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "pool",
@@ -13733,14 +13733,14 @@
     "title": " Bowling in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Indoor Games",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Bowling alleys: Bowling Madrid (Palacio de Hielo), Sfinx Bowling. €5-8/game. Also has arcade games and food.",
     "content": "Bowling in Madrid. ALLEYS: (1) Bowling Madrid (Calle de la Silvia 4, inside Palacio de Hielo, Metro Canillas L4) — 16 lanes, modern, €5-7/game + €2 shoe rental. Open daily 10am-10pm. Also has arcade games, mini-golf, and restaurants. (2) Sfinx Bowling (Calle de la de los Ochoa 11, Pozuelo, west Madrid) — 12 lanes, €5-6/game. (3) Bolera Mercamadrid (Calle de la del Vino 3, Mercamadrid) — 8 lanes, €4-5/game. Budget option. TIPS: (1) Book ahead on weekends — leagues take up lanes. (2) Shoe rental €2. (3) Most alleys serve food and drinks — it's a family entertainment center, not just bowling. (4) Bumper lanes available for kids. (5) Spanish bowling (bolos) is a different game (outdoor, larger pins) — what Americans call 'bowling' is called 'bowling' in Spain too. (6) Cosmic bowling (glow-in-the-dark with music) on Friday and Saturday nights.",
     "official_url": "https://www.palaciodehielo.com/",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "bowling",
@@ -13758,14 +13758,14 @@
     "title": "Go-Kart Racing in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Motor Sports",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Indoor karting: Carlos Sainz Kart Center, Indoor Karting Madrid. €15-25/10-min session. Outdoor: Karting Campos.",
     "content": "Go-kart racing in Madrid. INDOOR: (1) Carlos Sainz Kart Center (Calle de la Botiguesa 10, Las Rozas, 30 min NW) — owned by the rally legend, 600m indoor track, electric karts up to 50 km/h. €18/10-min session, €45/3 sessions. Open daily 11am-10pm. (2) Indoor Karting Madrid (Calle de la de la Aragonesa 9, San Sebastián de los Reyes, 30 min NE) — 500m indoor track, petrol karts. €15/10-min session. OUTDOOR: (1) Karting Campos (Calle de la de la Vega 32, Ciempozuelos, 40 min S) — 1,100m outdoor track, faster karts. €25/15-min session. (2) Karting Carlos III (Calle de la Carlos III, Aranjuez) — smaller outdoor track. TIPS: (1) Indoor = electric karts (cleaner, quieter, similar speed). Outdoor = petrol karts (faster, smellier). (2) Wear closed-toe shoes (mandatory). (3) Helmets provided. (4) Minimum height usually 1.40m for adult karts, 1.20m for junior karts. (5) Lap times displayed on screens — competitive! (6) Group events and corporate bookings available — book 1 week ahead. (7) The Carlos Sainz Kart Center also has a sim-racing area and a museum with Sainz's rally cars.",
     "official_url": "https://www.carlossainzkartcenter.es/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "karting",
@@ -13810,14 +13810,14 @@
     "title": "Madrid Districts Overview (21 Districts)",
     "category": "see",
     "subcategory": "neighborhoods",
-    "subsubcategory": "District Overview",
+    "subsubcategory": "Overview & Creative",
     "summary": "Madrid has 21 districts. Our neighborhood guides cover the central 10. This overview explains all 21.",
     "content": "Madrid is divided into 21 districts (distritos), each with its own character. Our neighborhood guides cover the 10 most relevant to visitors and expats. Here's the full list: CENTRAL (our guides cover these): (1) Centro — Sol, Gran Vía, Plaza Mayor, La Latina, Lavapiés, Malasaña, Chueca, Huertas. (2) Chamberí — residential, authentic. (3) Salamanca — upscale, luxury. (4) Retiro — parks, museums, residential. (5) Moncloa-Aravaca — students (Complutense), Argüelles, Moncloa. (6) Tetuán — diverse, Cuatro Caminos. OTHER DISTRICTS (less touristy but worth knowing): (7) Carabanchel — working-class, immigrant communities. (8) Usera — Madrid's Chinatown, Asian community. (9) Puente de Vallecas — working-class, Rayo Vallecano football. (10) Moratalaz — residential, quiet. (11) Ciudad Lineal — residential, family-friendly. (12) Hortaleza — residential, upscale suburbs. (13) Villaverde — industrial, southern edge. (14) Villa de Vallecas — new developments, expanding. (15) Vicálvaro — university campus (URJC), quiet. (16) San Blas-Canillejas — residential, near airport. (17) Barajas — airport, logistics. (18) Latina — residential, Aluche. (19) Carabanchel — see above. (20) Arganzuela — Madrid Río, Matadero, south of center. (21) Fuencarral-El Pardo — largest district, includes Mirasierra and El Pardo nature reserve. TIPS: (1) For visitors, stay in districts 1-5 (Centro, Chamberí, Salamanca, Retiro, Moncloa). (2) For budget accommodation, districts 6, 8, 9 (Tetuán, Usera, Vallecas) are cheaper. (3) For nature, El Pardo (district 21) has forests and hiking. (4) For Asian food, Usera (district 8) is the place. (5) District numbers are used in postal codes (280XX where XX = district).",
     "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/The-City/Districts",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "district",
@@ -13896,14 +13896,14 @@
     "title": "Clamores Jazz Club",
     "category": "do",
     "subcategory": "arts",
-    "subsubcategory": "Jazz & Blues",
+    "subsubcategory": "Venues & Performances",
     "summary": "Historic jazz club in Malasaña since 1981. Jam sessions, modern jazz. €10-12 entry. Calle de Alburquerque 14.",
     "content": "Clamores (Calle de Alburquerque 14, Malasaña, Metro Bilbao L1/L4) is one of Madrid's oldest jazz clubs, founded in 1981. Unlike Café Central (which is more touristy and expensive), Clamores is a locals' jazz club — intimate, dark, and serious about the music. The programming leans modern: contemporary jazz, fusion, and Latin jazz. Jam sessions on Wednesdays are legendary — local musicians show up to sit in. ENTRY: €10-12 (includes first drink). HOURS: Tue-Sat 9pm-2am, closed Sun-Mon. Two sets nightly: 10pm and midnight. TIPS: (1) The room is small (80 capacity) — arrive by 9:30pm for a good seat. (2) No food, just drinks. (3) The crowd is older and serious about jazz — don't talk during performances. (4) Cheaper and more authentic than Café Central. (5) Metro Bilbao (L1, L4), 5 min walk.",
     "official_url": "https://www.clamoresmadrid.com/",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "jazz",
@@ -13921,14 +13921,14 @@
     "title": "Gran Vía Theaters & Musicals",
     "category": "do",
     "subcategory": "arts",
-    "subsubcategory": "Opera & Theater",
+    "subsubcategory": "Venues & Performances",
     "summary": "Gran Vía is Madrid's Broadway — musicals, plays, concerts at Lope de Vega, Coliseum, Compac. €20-60 tickets.",
     "content": "Gran Vía is Madrid's theater district — Spain's equivalent of London's West End or New York's Broadway. 6 major theaters line the street, hosting long-running musicals, touring plays, and concerts. MAIN THEATERS: (1) Teatro Lope de Vega (Gran Vía 57) — largest, hosts big musicals (The Lion King ran here for years). €25-60. (2) Teatro Coliseum (Gran Vía 78) — musicals and concerts. €20-50. (3) Teatro Compac Gran Vía (Gran Vía 66) — plays and cultural events. €15-45. (4) Teatro Häagen-Dazs Calderón (Calle de la Atocha 18) — large venue, concerts and musicals. €20-60. (5) Nuevo Teatro Alcalá (Calle de la Jorge Juan 62) — off-Gran Vía, plays and comedy. €15-40. BOOKING: (1) At the theater box office (cheapest, no booking fee). (2) Online at entradas.com or ataquilla.com (€2-3 booking fee). (3) El Corte Inglés ticket counters (in-store, no fee). (4) Last-minute: Taquilla de Última Hora at Plaza de la Independencia — same-day tickets at 50% off (cash only, queue from 5pm). TIPS: (1) Wednesday is the cheapest day (día del espectador, €5-8 cheaper). (2) Spanish musicals are in Spanish — check if the show is suitable for non-Spanish speakers. (3) Some theaters have obstructed-view seats — check the seating chart. (4) Dress code: smart casual (no shorts or flip-flops).",
     "official_url": "https://www.entradas.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "arts",
       "theater",
@@ -14128,14 +14128,14 @@
     "title": "Mercado de San Antón (Chueca)",
     "category": "do",
     "subcategory": "food",
-    "subsubcategory": "Food Markets",
+    "subsubcategory": "Markets & Food Halls",
     "summary": "Modern food market in Chueca. Ground floor fresh produce, 2nd floor tapas bars, rooftop restaurant. €4-8/tapa.",
     "content": "Mercado de San Antón (Calle de Augusto Figueroa 24, Chueca, Metro Chueca L5) is a modern food market — less touristy than San Miguel, more popular with locals. 3 FLOORS: (1) Ground floor — traditional market stalls selling fresh produce, meat, fish, bread. The fish counter is excellent. (2) 2nd floor — food court with 8+ stalls: oysters, croquetas, sushi, paella, burgers, wine. Order at any stall, sit at shared tables. €4-8/tapa, €8-14/main. (3) Rooftop — La Cocina de San Antón restaurant (sit-down, €15-25 mains). The rooftop has great views over Chueca. HOURS: Mon-Sat 10am-midnight, Sun 10am-5pm. TIPS: (1) Less crowded than San Miguel — you can actually sit down. (2) The oyster bar (ground floor, stall 12) is excellent — €2.50/oyster. (3) The rooftop restaurant requires a reservation on weekends. (4) Good for lunch — order from 2-3 stalls and share. (5) The market is in the heart of Chueca — combine with shopping or pre-dinner drinks.",
     "official_url": "https://www.mercadosananton.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "market",
@@ -14154,14 +14154,14 @@
     "title": "Menú del Día — The Best Lunch Deal",
     "category": "do",
     "subcategory": "food",
-    "subsubcategory": "Budget Eats",
+    "subsubcategory": "Food Culture & Basics",
     "summary": "3-course lunch with bread, drink, and coffee for €10-14. Weekdays only. The best value meal in Madrid. Look for 'menú del día' signs.",
     "content": "The menú del día (menu of the day) is the best value meal in Madrid — a 3-course lunch for €10-14, including bread, a drink (beer, wine, water, or soda), and coffee or dessert. Available at most restaurants Monday-Friday. HOW IT WORKS: (1) The restaurant posts 3-5 options for each course (primer plato, segundo plato, postre). (2) You choose one from each. (3) The waiter brings bread and a drink (usually a small beer, glass of wine, or bottled water). (4) After the main course, you get coffee or dessert. WHAT TO EXPECT: First course — soup, salad, pasta, rice, or vegetables (€4-5 value). Second course — meat, fish, or chicken with sides (€8-12 value). Dessert — flan, ice cream, fruit, or coffee (€2-3 value). Total value: €14-20. You pay: €10-14. SAVING: 30-50%. WHERE TO FIND: (1) Look for chalkboards outside restaurants saying 'Menú del día €X'. (2) Almost every neighborhood restaurant offers it — avoid tourist areas (Sol, Plaza Mayor) where it's €15-18 and worse quality. (3) Best areas: Chamberí, Salamanca, La Latina, Malasaña. TIPS: (1) The menú is only at lunch (1-4pm) — don't expect it at dinner. (2) Weekdays only — some restaurants offer it Saturday but not Sunday. (3) The drink is included — get a small beer (caña) or a glass of house wine (vino de la casa). (4) If you don't want coffee, ask for dessert instead (or vice versa). (5) The menú changes daily — ask '¿Qué hay de primer plato?' (What's the first course?).",
     "official_url": "https://www.esmadrid.com/en/eating-madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "budget",
@@ -14180,7 +14180,7 @@
     "title": "Gluten-Free & Celiac in Madrid",
     "category": "do",
     "subcategory": "food",
-    "subsubcategory": "Special Diets",
+    "subsubcategory": "Food Culture & Basics",
     "summary": "Madrid is increasingly celiac-friendly. 'Sin gluten' signs everywhere. Dedicated GF restaurants: Celicioso, Fitzpatrick. Most restaurants accommodate.",
     "content": "Madrid is one of Europe's most celiac-friendly cities — Spanish awareness of celiac disease (enfermedad celíaca) is high, and 'sin gluten' (gluten-free) options are everywhere. DEDICATED GF RESTAURANTS: (1) Celicioso (Calle de la Hortaleza 4, Centro) — 100% gluten-free bakery + café. Bread, pastries, pizzas, sandwiches. €4-8. The best GF baked goods in Madrid. (2) Fitzpatrick (Calle de la Sagasta 22, Malasaña) — 100% GF Irish pub. Burgers, fish & chips, beer (GF Estrella Damm). €8-14. (3) La Panzanella (Calle de la Cardenal Cisneros 11) — GF Italian. Pizza, pasta. €9-14. GF-FRIENDLY CHAINS: (1) 100 Montaditos — has a GF menu (ask for 'menú sin gluten'). Mini sandwiches on GF bread. (2) Foster's Hollywood — American-style, has GF menu. (3) VIPS — has GF options. SUPERMARKETS: (1) Mercadona — GF section with pasta, bread, crackers, beer. Look for 'Sin Gluten' signs. (2) Carrefour Bio — largest GF selection. (3) El Corte Inglés — premium GF section. TIPS: (1) Say 'Soy celíaco' (I'm celiac) or 'Sin gluten, por favor' (gluten-free, please) — most restaurant staff understand. (2) Spanish law requires restaurants to declare allergens on menus — look for 'AL' (altramuces), 'C' (cereales), 'G' (gluten) codes. (3) The Spanish Celiac Association (FACE) has a restaurant guide at face-online.org. (4) Farmacias sell GF bread and products if you're in a pinch. (5) Spanish tortilla (potato omelet) is naturally GF — but confirm no flour was added.",
     "official_url": "https://madridsingluten.org/?lang=en",
@@ -14206,14 +14206,14 @@
     "title": "Churros, Porras & Chocolaterías",
     "category": "do",
     "subcategory": "food",
-    "subsubcategory": "Desserts & Sweets",
+    "subsubcategory": "Food Culture & Basics",
     "summary": "Beyond San Ginés: churros, porras (thicker), chocolate a la taza. Best: San Ginés, Chocolatería 1902, Valor. €3-5.",
     "content": "Churros con chocolate is Madrid's most iconic food experience — and there's more to it than just San Ginés. CHURROS vs PORRAS: Churros are thin, ridged, and crispy. Porras are thicker, softer, and smoother (like a giant churro). Both are fried dough, served with thick dark chocolate for dipping. Most churrerías serve both — try a mix. BEST CHOCOLATERÍAS: (1) Chocolatería San Ginés (Pasadizo de San Ginés 5) — the famous one, open 24h, €4.50. See our separate record. (2) Chocolatería 1902 (Calle de la Bon Salvador 7) — older than San Ginés (1902!), less touristy, better chocolate. €4. (3) Chocolatería Valor (multiple locations) — Spanish chain, reliable, €3.50. Good for hot chocolate to go. (4) Chocolatería de la San Martín (Calle de la San Martín 4) — neighborhood spot, €3.50. (5) Federico's Churrería (Calle de la Duque de Alba 4, La Latina) — locals' favorite for breakfast, €3. WHAT TO ORDER: 'Churros con chocolate' (6 churros + chocolate, €4-4.50). 'Porras con chocolate' (3 porras + chocolate, €4-4.50). 'Mixto' (3 churros + 2 porras, €4.50). 'Chocolate a la taza' (just chocolate, €3). The chocolate is thick, dark, and bittersweet — not like hot chocolate, more like a dipping sauce. Eat with your hands. Dip, bite, repeat. TIPS: (1) Go at 4am on a Saturday — it's a Madrid tradition after a night out. (2) The chocolate is very thick — if you want it thinner, ask for 'chocolate más claro'. (3) Coffee is also served with churros for breakfast — 'café con churros' (€3-4). (4) The line at San Ginés looks long but moves fast (5-10 min). (5) For a less touristy experience, go to Chocolatería 1902 or any neighborhood churrería.",
     "official_url": "https://www.chocolateriasangines.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "churros",
@@ -14430,14 +14430,14 @@
     "title": "Movistar Estudiantes Basketball",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Basketball",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Madrid's historic basketball club (founded 1948). Currently in LEB Oro (2nd division). Smaller, intimate atmosphere. €10-25 tickets.",
     "content": "Movistar Estudiantes is Madrid's second basketball club (after Real Madrid Baloncesto). Founded in 1948 by students at the Instituto Ramiro de Maeztu (hence 'Estudiantes' = Students). Currently in LEB Oro (second division) after financial difficulties, but with a passionate fan base. VENUE: Polideportivo Antonio Magariños (Calle de Serrano 37, Metro Rubén Darío L5). Capacity 2,000 — one of the most intimate basketball venues in Spain. You're right on top of the action. TICKETS: €10-25. Buy at the door or at estudiantes.cl. Season: October-May. HOURS: Games typically Saturday 6pm or Sunday 12:30pm. TIPS: (1) The atmosphere at Magariños is legendary — small, loud, and passionate. Even in the second division, the fans are some of the most devoted in Spanish basketball. (2) Estudiantes has produced NBA players: Carlos Jiménez, Felipe Reyes (who later became a Real Madrid legend). (3) The venue is inside a school — the entrance is on Serrano, look for the 'Magariños' sign. (4) Tickets are cheap and available at the door — no need to book ahead. (5) For top-level basketball, see our Real Madrid Baloncesto record (EuroLeague, €20-60).",
     "official_url": "https://www.estudiantes.cl/",
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "basketball",
@@ -14454,14 +14454,14 @@
     "title": "Parkrun & Free Group Runs in Madrid",
     "category": "do",
     "subcategory": "sports",
-    "subsubcategory": "Running",
+    "subsubcategory": "Active Sports in Madrid",
     "summary": "Free weekly 5K parkrun at Casa de Campo (Sat 9am). Plus Hash House Harriers, Madrid Running Club. Free, social, all levels.",
     "content": "Free organized running in Madrid. PARKRUN: Free 5K timed run every Saturday at 9am in Casa de Campo (start near the lake). Register free at parkrun.es. Barcode system — scan after the run for your time. 100-300 runners weekly. All levels welcome (walkers too). Post-run coffee at the lake café. FREE, social, well-organized. OTHER FREE GROUP RUNS: (1) Madrid Hash House Harriers — 'a drinking club with a running problem'. Runs every 2 weeks, various locations. €3 (includes beer). Facebook: 'Madrid HHH'. Social, fun, not competitive. (2) Madrid Running Club — meets Thursday 7pm at Puerta del Sol. 5-10km easy run through the center. Free. English-speaking. (3) Lululemon Community Run — Saturday 10am from Lululemon Gran Vía store. 5km, free, free swag. (4) Nike Run Club — Tuesday 7pm from Nike Gran Vía. Free, coach-led. (5) Madrid Trail Running — weekend trail runs in the Sierra de Guadarrama. Facebook group. RUNNING STORES WITH GROUP RUNS: (1) Running Company (Calle de la Hermanos García Noblejas 49) — Thursday 7pm. (2) Boston Runners (Calle de la Alcalá 110) — Wednesday 7pm. TIPS: (1) Parkrun is the best — free, timed, and the Casa de Campo route is beautiful. (2) Summer: run before 9am (too hot after). (3) Winter: mornings can be near freezing — dress in layers. (4) All groups welcome beginners — don't be intimidated. (5) For race registration, see our Running in Madrid record.",
     "official_url": "https://www.parkrun.es/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "running",
@@ -14590,14 +14590,14 @@
     "title": "Street Art & Graffiti in Madrid",
     "category": "see",
     "subcategory": "neighborhoods",
-    "subsubcategory": "Cultural Districts",
+    "subsubcategory": "Overview & Creative",
     "summary": "Madrid has a vibrant street art scene. Lavapiés is the epicenter. Guided tours, self-guided walks, annual festival (Urvanity). Free.",
     "content": "Madrid is one of Europe's best street art cities. WHERE TO SEE IT: (1) Lavapiés — the epicenter. Calle de la Argumosa, Calle del Casino, and side streets are covered in murals. The 'CaixaForum' vertical garden on Paseo del Prado is a landmark. (2) Malasaña — smaller pieces, paste-ups, and stickers around Calle del Pez and Calle del Espíritu Santo. (3) Tabacalera (Calle de la Embajadores 53) — former tobacco factory, now a cultural center with constantly changing street art. Free entry. (4) La Latina — murals around Plaza de la Cebada and Mercado de la Cebada. (5) Calle de la Mira (El Rastro area) — known for its murals. GUIDED TOURS: (1) Madrid Street Art Tour (€15, 2 hours, English) — covers Lavapiés and Tabacalera. Book at streetarttourmadrid.com. (2) Self-guided: download the 'Madrid Street Art' map from google.com/maps. FESTIVALS: (1) Urvanity Art (February-March) — international street art fair at COAM. (2) Muros de Tabacalera — ongoing mural program at Tabacalera. ARTISTS TO KNOW: (1) Okuda — colorful geometric animals (look for his murals in Lavapiés). (2) Suso33 — distinctive portrait style. (3) Zosen — cartoonish characters. (4) El Niño de las Pinturas — pioneer. TIPS: (1) Street art changes constantly — what's there today may be painted over tomorrow. (2) The best time to photograph is morning (good light, fewer people). (3) Tabacalera is free and open Tue-Sun 11am-8pm. (4) Respect the art — don't touch or deface.",
     "official_url": "https://www.esmadrid.com/en/street-art-madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "street-art",
@@ -14617,7 +14617,7 @@
     "title": "Barrio de las Letras (Literary Quarter)",
     "category": "see",
     "subcategory": "neighborhoods",
-    "subsubcategory": "Historic",
+    "subsubcategory": "Historic & Traditional",
     "summary": "Madrid's literary neighborhood where Cervantes, Lope de Vega, and Quevedo lived. Golden Age quotes on the streets. Plaza de Santa Ana.",
     "content": "Barrio de las Letras (Literary Quarter, also called Huertas) is the neighborhood east of Puerta del Sol, between Paseo del Prado and Calle de Atocha. In the 16th-17th centuries, Spain's Golden Age writers lived here: Cervantes (author of Don Quixote), Lope de Vega, Quevedo, Góngora, Tirso de Molina. WHAT TO SEE: (1) Golden Age quotes — famous literary quotes are embedded in the sidewalk in golden letters along Calle de las Huertas. Walk slowly and read them. (2) Cervantes' house (Calle de la León 8, now the Cervantes Institute) — not the original, but a reconstruction. (3) Lope de Vega's house (Calle de Cervantes 11) — the actual house where he lived 1610-1635. Small museum, €5. (4) Plaza de Santa Ana — the neighborhood's main square, lined with café terraces. The Hotel Reina Victoria (now ME Madrid) on the corner was where bullfighters stayed. (5) Congreso de los Diputados (Carrera de San Jerónimo) — Spain's Parliament, at the west end of the neighborhood. (6) Ateneo de Madrid (Calle del Prado 21) — historic cultural institution, library, literary events. LITERARY WALK: Start at Plaza de Santa Ana → Calle de las Huertas (read the quotes) → Lope de Vega's house → Cervantes' house → Plaza de las Cortes (Parliament). Allow 1-2 hours. TIPS: (1) The golden quotes on Calle de las Huertas are the highlight — don't rush. (2) Plaza de Santa Ana is great for a drink — but touristy. (3) The neighborhood is also called 'Huertas' (orchards) — both names refer to the same area. (4) Best at evening when the cafés spill onto the street.",
     "official_url": "https://www.esmadrid.com/en/barrio-de-las-letras",
@@ -14649,14 +14649,14 @@
     "title": "Coffee Culture & Best Cafés in Madrid",
     "category": "do",
     "subcategory": "food",
-    "subsubcategory": "Drinks Culture",
+    "subsubcategory": "Food Culture & Basics",
     "summary": "Third-wave coffee in Madrid: Toma Café, Bouteclare, HanSo. Plus traditional cafés: Café Comercial, Café Gijón. €1.50-4/coffee.",
     "content": "Madrid's coffee scene has exploded in the last 10 years. Traditional Spanish coffee (torrefacto, dark roasted with sugar) is still common, but specialty coffee is everywhere. SPECIALTY COFFEE SHOPS: (1) Toma Café (Calle de la Espíritu Santo 3, Malasaña) — the pioneer. Single-origin beans, flat whites, filter coffee. €2.50-4. The place that started Madrid's specialty coffee revolution. (2) Bouteclare (Calle de la Luna 5, Malasaña) — beautiful interior, excellent espresso. €2.50-4. (3) HanSo Café (Calle de la San Andrés 38, Malasaña) — Korean-owned, minimalist design, great filter. €2.50-4. (4) Momoka (Calle de la San Vicente Ferrer 28, Malasaña) — specialty coffee + cakes. (5) Accent Coffee (Calle de la Alonso Martínez 9) — newer, excellent flat whites. (6) Blue Bottle (Calle Gran Vía 28) — US chain, but reliable. TRADITIONAL CAFÉS: (1) Café Comercial (Calle de la Glorieta de Bilbao 7) — Madrid's oldest café (1887, reopened 2017). Beautiful modernist interior. €1.80 coffee. (2) Café Gijón (Paseo de Recoletos 21) — historic literary café (1905). Hemingway and Orson Welles drank here. €2.50. (3) Café del Jardín (inside the Egyptian Embassy garden, Calle de la Vicuña 6) — secret garden café. €2. HOW TO ORDER IN SPAIN: 'Café con leche' (coffee with milk, like a latte). 'Cortado' (espresso with a splash of milk). 'Café solo' (espresso, no milk). 'Carajillo' (espresso with brandy/whisky — a Spanish tradition). 'Café americano' (espresso with extra water — weaker). TIPS: (1) Spanish breakfast is coffee + a pastry (€2-3 total at a traditional bar). (2) Stand at the bar — it's cheaper than sitting at a table. (3) Specialty coffee shops are in Malasaña and Chueca — not in the tourist center. (4) 'Toma Café' is the must-visit for coffee lovers.",
     "official_url": "https://www.tomacafe.es/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "coffee",
@@ -14702,14 +14702,14 @@
     "title": "Best Photography Spots in Madrid",
     "category": "see",
     "subcategory": "neighborhoods",
-    "subsubcategory": "Cultural Districts",
+    "subsubcategory": "Overview & Creative",
     "summary": "Top photo spots: Temple of Debod sunset, Gran Vía rooftop, Retiro Crystal Palace, Plaza Mayor at night, Alcalá arch. Free.",
     "content": "Best photography spots in Madrid. SUNSET/GOLDEN HOUR: (1) Temple of Debod (Parque del Oeste) — the iconic sunset shot. Egyptian temple silhouette against orange sky. Arrive 45 min before sunset. Free. (2) Círculo de Bellas Artes rooftop (Calle Alcalá 42) — €5, 360° views of Gran Vía. Best for blue hour. (3) Riu Plaza España rooftop (Gran Vía 137) — €10, highest viewpoint in Madrid. Great for sunset + cityscape. ARCHITECTURE: (4) Plaza Mayor — best at night when lit up, or early morning when empty. (5) Gran Vía from above — photograph from the Círculo de Bellas Artes rooftop or Hotel Riu. (6) Puerta de Alcalá — best from Plaza de la Independencia at golden hour. (7) Crystal Palace (Retiro Park) — light through the glass, reflections in the pond. Best mid-morning. (8) Atocha tropical garden — the old station hall with 4,000 plants. Atmospheric. STREET/LIFESTYLE: (9) El Rastro flea market (Sundays) — colorful, crowded, authentic Madrid. (10) Lavapiés — multicultural street life, colorful buildings. (11) Malasaña — hipster cafés, vintage shops, street art. (12) Mercado de San Miguel — food close-ups, bustling atmosphere. HIDDEN GEMS: (13) Plaza de la Villa — medieval square, few tourists. (14) Estación de Chamberí (Andén 0) — preserved 1919 Metro station, beautiful tile work. Free. (15) Jardines de Sabatini — formal gardens with Royal Palace backdrop. Best at sunset. TIPS: (1) Golden hour in Madrid: 7-8:30pm summer, 5-6pm winter. (2) Blue hour: 8:30-9pm summer, 6-6:30pm winter. (3) Tripods allowed outdoors but not inside museums. (4) Drone photography: regulated in Madrid city center — check AESA rules. (5) People photography: Spaniards are generally fine being photographed in public, but always ask for portraits. (6) Best Instagram spot: Temple of Debod at sunset — it's the Madrid equivalent of the Eiffel Tower.",
     "official_url": "https://www.esmadrid.com/en/photography-madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "photography",
@@ -14843,14 +14843,14 @@
     "title": "Spanish Food Basics — What to Know",
     "category": "do",
     "subcategory": "food",
-    "subsubcategory": "Traditional Dishes",
+    "subsubcategory": "Food Culture & Basics",
     "summary": "Olive oil, jamón, tortilla, gazpacho, paella, churros. What to try, what to order, what to avoid. The food primer for visitors.",
     "content": "Spanish food basics for visitors. THE BIG 10 TO TRY: (1) Jamón ibérico — cured ham from free-range Iberian pigs. Look for 'bellota' (acorn-fed) — the best. €5-15/plate. (2) Tortilla de patatas — Spanish potato omelet. Every bar makes one. €2-4/slice. (3) Gazpacho — cold tomato soup (summer). €4-6. (4) Paella — rice dish from Valencia (NOT Madrid, but everywhere). €12-20. (5) Croquetas — deep-fried bechamel fritters (jamón, chicken, cod). €2-3 for 2. (6) Patatas bravas — fried potatoes with spicy sauce. €3-5. (7) Pulpo a la gallega — Galician-style octopus with paprika. €8-12. (8) Cocido madrileño — Madrid's chickpea stew (winter). €15-22. (9) Churros con chocolate — fried dough with thick chocolate. €4.50. (10) Tinto de verano — red wine with lemon soda (like sangria but better). €2-4. WHAT TO AVOID: (1) Paella with chorizo — authentic paella never has chorizo (that's a tourist version). (2) Sangria — most Spaniards drink 'tinto de verano' instead (simpler, cheaper, better). (3) Restaurants with pictures of food outside — tourist traps. (4) Eating on Plaza Mayor or Puerta del Sol — overpriced and mediocre. (5) 'Menú del día' in tourist areas — go 2 streets away for better food at half the price. TAPAS ETIQUETTE: (1) Tapas are NOT free in Madrid (unlike Granada). You order and pay. (2) 'Ración' = full plate (share with 2-3 people). 'Media ración' = half. 'Tapa' = small portion. (3) Order 2-3 tapas per person for a meal. (4) Sharing is normal — order different dishes and pass them around. (5) Bread is not free — you'll be charged €1-2 if they bring it. Say 'sin pan' if you don't want it. OLIVE OIL: Spain produces 50% of the world's olive oil. 'Virgen extra' (extra virgin) is the best. Use it for everything — drizzling on bread, salads, cooking. A good bottle costs €5-10 in the supermarket. SPANISH MEALTIMES: See our Spanish Culture record — lunch is 2-3:30pm, dinner is 9-11pm. Don't try to eat dinner at 6pm — restaurants are closed.",
     "official_url": "https://www.esmadrid.com/en/gastronomy",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "food",
       "spanish",
@@ -15327,7 +15327,7 @@
     "title": "Hot English Magazine (Madrid-Based English Learning)",
     "category": "living",
     "subcategory": "education",
-    "subsubcategory": "Language Schools",
+    "subsubcategory": "Language Learning",
     "summary": "English learning magazine published from Madrid (Torrelodones). 260+ issues. Active at learnhotenglish.com. Print + digital + audio/video.",
     "content": "Hot English Magazine (learnhotenglish.com) is an English-language learning magazine published from Madrid. The company (Hot English Publishing Ltd) is based in Torrelodones, a suburb 30km northwest of Madrid. The magazine has been publishing since at least 2006 and is still active — issue 263 is the latest. WHAT IT IS: A monthly magazine for learning (or teaching) English as a second language. Tagline: 'The Fun & Easy Way To Learn Or Teach English.' It's designed for non-native English speakers worldwide — not specifically for Madrid expats, but it's produced in Madrid and has a Madrid connection. CONTENT: (1) Vocabulary — themed vocabulary (travel, business, idioms, phrasal verbs). (2) Reading — articles on culture, film, music, travel, news, business. (3) Listening — audio tracks accompanying each article. (4) Video — video content for visual learners. (5) Grammar — practical grammar in context. (6) Pronunciation — accent and pronunciation tips. (7) Skills booklet — additional exercises with each issue. FORMATS: (1) Print magazine — monthly, available by subscription. (2) Digital — via Pocketmags app. (3) Audio — MP3 downloads. (4) Video — online. (5) E-books — complete method packages. (6) Teacher resources — lesson plans, worksheets. HISTORY: Founded by Hot English Publishing Ltd. The company has 107 followers on LinkedIn. Originally at hotenglishmagazine.com (now redirects to learnhotenglish.com / learnhotenglishcorp.com). Based at Carrer Roser 65, 28250 Torrelodones, Madrid. MADRID CONNECTION: While the magazine is for English learners worldwide, it's produced in Madrid by a Madrid-based team. It represents Madrid's role as a hub for English-language education (Madrid has one of Europe's largest English teaching communities). The magazine may have been distributed at English academies and language schools in Madrid. HOW IT RELATES TO MADRID INSIDER: Hot English is for learning English (for Spanish speakers and others). Madrid Insider is for navigating Madrid in English (for English speakers). They're complementary — Hot English helps Spaniards learn English, Madrid Insider helps English speakers navigate Madrid. STATUS: Active at learnhotenglish.com (redirects to learnhotenglishcorp.com). 260+ issues published. Available by subscription (digital and print). TIPS: (1) Not specifically a Madrid guide — it's an English learning magazine produced in Madrid. (2) Useful if you're teaching English in Madrid (see our Teach English record) — the teacher resources are practical. (3) The magazine is popular in Spain, particularly in Madrid's large English academy market. (4) Available at some English bookstores in Madrid (see our Bookstores record). (5) The Torrelodones office is not open to the public.",
     "official_url": "https://learnhotenglishcorp.com/",
@@ -15385,14 +15385,14 @@
     "title": "IberEnglish (Madrid English Academy)",
     "category": "living",
     "subcategory": "education",
-    "subsubcategory": "Language Schools",
+    "subsubcategory": "Language Learning",
     "summary": "Active Madrid English academy run by Rebecca Gaspar. Classes for kids, teens, adults. Kids English Club summer camps. Calle Amalia 9, Madrid.",
     "content": "IberEnglish (iberenglish.com) is an active English academy in Madrid, run by director Rebecca Gaspar. It offers English classes and training for all ages. WHAT THEY OFFER: (1) English classes for kids — after-school and weekend programs. (2) English classes for teens — exam prep (Cambridge, Trinity), school support. (3) English classes for adults — general English, business English, conversation. (4) Kids English Club (KEC) — 100% English summer camps in Madrid. Activities include sports, arts, science, all in English. (5) Professional English training — in-company classes for businesses. (6) Business Basics for Kids — entrepreneurship program for children in English. LOCATIONS: (1) C/ Mundillo 3, 28029 Madrid (main office). (2) Calle Amalia 9, Madrid (academy). Phone: 931 521 43. DIRECTOR: Rebecca Gaspar — experienced in marketing, financial management, and English language training. University of Pennsylvania graduate. LinkedIn: linkedin.com/in/gasparrebecca. Described as 'Gaspar English Language Training Consultant.' HISTORY: IberEnglish has been operating in Madrid for several years. Rebecca Gaspar is listed as Director of IberEnglish LP. The company appears to have grown from a small language school into a broader English education provider, including summer camps and business training. THE ESL CAFE CONNECTION: The user mentioned that Rebecca 'bought' ESL Cafe at some point. This likely refers to a Spain-specific ESL resource or community that Rebecca acquired or managed — not Dave's ESL Cafe (the global site, which is still owned by Dave Sperling). The exact details are unclear from public records, but the connection between IberEnglish and Madrid's English teaching community is well-established. STATUS: Active at iberenglish.com. Facebook page active (facebook.com/iberenglish, 5.0 rating). Currently hiring English teachers (native, qualified). TIPS: (1) If you're looking for English classes in Madrid (for yourself or your children), contact IberEnglish directly. (2) If you're an English teacher looking for work, they're hiring — see their 'Become a Teacher' page at iberenglish.com/web/become-a-teacher. (3) The Kids English Club summer camp is popular — book early (March-April for summer). (4) For the ESL Cafe Spain forum (job board for English teachers), see our Dave's ESL Cafe record.",
     "official_url": "https://iberenglish.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "education",
       "academy",
@@ -15429,7 +15429,7 @@
       "b2b",
       "incoming-agency"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "evergreen",
     "related_records": [
       "accent-global-madrid",
@@ -15512,7 +15512,8 @@
         "body": "FOROCIO was already active during the original Madrid Insider era (2014) and is referenced in old Wayback Machine snapshots of the site. They are one of the few Madrid ecosystem operators that has been continuously active for 20+ years and is still independent.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "accent-global-madrid",
@@ -15532,7 +15533,7 @@
       "malasana",
       "english-language"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "evergreen",
     "related_records": [
       "forocio-study-abroad",
@@ -15606,7 +15607,8 @@
         "body": "Accent does not enroll individual students directly. You must be participating through a partner US university to attend an Accent program. If you are an individual student looking for a Madrid study-abroad experience, see Universities in Madrid or Spanish Language Schools instead.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "awc-madrid",
@@ -15627,7 +15629,7 @@
       "nonprofit",
       "newcomers"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "evergreen",
     "related_records": [
       "churches-religion-madrid",
@@ -15715,7 +15717,8 @@
           "Don't assume men can join — the AWC is women-only (see American Club of Madrid for mixed-gender alternative)"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Community & Pets"
   },
   {
     "id": "devour-madrid-food-tours",
@@ -15965,7 +15968,7 @@
       "inheritance",
       "business"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "nie-tie",
@@ -16077,7 +16080,8 @@
         "body": "Property purchase (always), inheritance from a Spanish-domiciled deceased (always), non-lucrative visa application (recommended), Golden Visa investment (always), business formation (recommended), tax dispute with Agencia Tributaria (always), divorce with Spanish-domiciled spouse (always).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Professional Services (English-Speaking)"
   },
   {
     "id": "english-speaking-therapists-madrid",
@@ -16345,7 +16349,7 @@
       "church-of-england",
       "expat"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "evergreen",
     "related_records": [
       "churches-religion-madrid",
@@ -16449,7 +16453,8 @@
           "Don't be put off if you're not Anglican — the church is welcoming to all faith backgrounds"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Spiritual & Wellness"
   },
   {
     "id": "english-speaking-vets-madrid",
@@ -16472,7 +16477,7 @@
       "expat",
       "house-calls"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-speaking-doctors-madrid",
@@ -16576,7 +16581,8 @@
         "body": "If bringing a pet from outside the EU: (1) Microchip (ISO 11784/85), (2) Rabies vaccination at least 21 days before travel, (3) Animal health certificate issued by an official vet within 10 days of travel, (4) Tapeworm treatment (dogs only) 24-120 hours before arrival. Allow 3+ months lead time.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Community & Pets"
   },
   {
     "id": "english-summer-camps-madrid",
@@ -17270,7 +17276,8 @@
           "Don't assume English-only — camps are bilingual, basic Spanish helps kids integrate"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "yoga-teacher-training-spain",
@@ -17389,7 +17396,8 @@
           "Don't expect to teach immediately after — YTT is foundational, practice required"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Certification Programs"
   },
   {
     "id": "camino-de-santiago-services",
@@ -17639,7 +17647,8 @@
           "Don't book tourist classes without checking reviews on TripAdvisor"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Culinary Education"
   },
   {
     "id": "medical-tourism-madrid",
@@ -18194,7 +18203,8 @@
         "body": "A 1-year English-taught master's at UC3M costs €3,000-€6,000 (non-EU) — vs €30,000-€50,000 for a US master's. Even IE University at €30,000 is comparable to mid-tier US programs and includes Madrid living costs (50% lower than NYC/London).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Higher Education (English-Taught)"
   },
   {
     "id": "wine-certification-spain",
@@ -18216,7 +18226,7 @@
       "isg",
       "spanish-wine-scholar"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "spanish-wines-madrid",
@@ -18317,7 +18327,8 @@
           "Don't skip the tasting exam — many strong students fail the tasting portion"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Culinary Education"
   },
   {
     "id": "pilates-teacher-training-madrid",
@@ -18339,7 +18350,7 @@
       "stott-pilates",
       "wellness"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "yoga-teacher-training-spain",
@@ -18436,7 +18447,8 @@
           "Don't enroll without verifying the certifying organization's international recognition"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Certification Programs"
   },
   {
     "id": "music-summer-programs-madrid",
@@ -18563,7 +18575,8 @@
           "Don't confuse Spanish classical guitar (Canción de Invierno) with flamenco guitar"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "monastery-stays-spain",
@@ -18684,7 +18697,8 @@
         "body": "Contrary to popular belief, monks don't take a vow of silence. They observe 'Great Silence' from evening Compline to morning Lauds — typically 8pm to 7am. During the day, monks speak during designated times. Guests are expected to respect the silence schedule.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Spiritual & Wellness"
   },
   {
     "id": "artist-residencies-madrid",
@@ -18800,7 +18814,8 @@
           "Don't underestimate Spanish skills — even English-language residencies benefit from local language"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Overview & Creative"
   },
   {
     "id": "internship-services-madrid",
@@ -19235,7 +19250,8 @@
         "body": "Spain's HQP (Highly Qualified Professional) visa is the most common post-MBA path — fast-track (20 days) for jobs paying €50,000+. The Ley de Startups also offers a Digital Nomad Visa for MBA graduates starting companies. See digital-nomad-visa-spain-services record.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Higher Education (English-Taught)"
   },
   {
     "id": "english-speaking-wedding-planners-madrid",
@@ -19257,7 +19273,7 @@
       "ceremony",
       "english-speaking"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "churches-religion-madrid",
@@ -19377,7 +19393,8 @@
         "body": "No bridal party traditionally. Ceremony is Catholic (or civil). Reception is 6+ hours with dinner + dancing. Guests give cash in envelopes (€100-300 typical per couple) — no gift registry. Orange blossom (azahar) is traditional. The bride often wears a black dress (mantilla) — though modern brides wear white.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Family & Life-Stage"
   },
   {
     "id": "film-schools-madrid",
@@ -19491,7 +19508,8 @@
           "Don't underestimate Spanish — even international programs benefit from local language"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "flamenco-dance-intensives-madrid",
@@ -19609,7 +19627,8 @@
           "Don't underestimate physical demand — flamenco is high-impact"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "meditation-retreats-spain",
@@ -19759,7 +19778,8 @@
         "body": "monastery-stays-spain (Christian contemplative retreats), yoga-teacher-training-spain (YTT programs often include meditation), spa-madrid (wellness without silence).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Spiritual & Wellness"
   },
   {
     "id": "nanny-agencies-madrid",
@@ -19908,7 +19928,8 @@
         "body": "If you're visiting Madrid and need evening childcare at your hotel, Tripsitta and Peekaboo both offer tourist babysitting services. Typically €15-€25/hour, English-speaking sitters, can handle hotel pickups. Book 2-3 days in advance.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Family & Life-Stage"
   },
   {
     "id": "acting-schools-madrid",
@@ -20031,7 +20052,8 @@
           "Don't be put off if you're the only non-native English speaker — many Spanish members"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "tennis-academies-spain",
@@ -20177,7 +20199,8 @@
         "body": "Madrid residents reach Sánchez-Casal (Barcelona) in 2.5 hours by AVE train or 1-hour flight. Rafa Nadal Academy (Manacor, Mallorca) is 1.5-hour flight from Madrid-Barajas + 45-min drive. Madrid also has its own tennis infrastructure at Caja Mágica (Madrid Open venue).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "golf-academies-spain",
@@ -20199,7 +20222,7 @@
       "international-students",
       "summer-camp"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "tennis-academies-spain",
@@ -20321,7 +20344,8 @@
           "Don't forget sun protection — Spanish golf is year-round but summer is brutal"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "equestrian-camps-madrid",
@@ -20437,7 +20461,8 @@
           "Don't book without confirming safety record and instructor certifications"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "ivf-fertility-clinics-madrid",
@@ -20746,7 +20771,8 @@
           "Don't skip the portfolio — most programs require it"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "fashion-summer-courses-madrid",
@@ -21027,7 +21053,8 @@
           "Don't skip breakfast assuming you'll eat immediately — cooking takes 2+ hours before eating"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Culinary Education"
   },
   {
     "id": "wine-tours-from-madrid",
@@ -21195,7 +21222,7 @@
       "cultural-immersion",
       "study-abroad"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-taught-masters-madrid",
@@ -21327,7 +21354,8 @@
         "body": "Lower cost than London/Paris. Safe city (one of Europe's safest capitals). Growing international community. Spanish language learning. Easy European travel (1-2 hour flights to all major European cities). Mild climate (except July-August heat).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "spanish-immersion-adults-spain",
@@ -21616,7 +21644,8 @@
           "Don't expect warm water at Spanish coast in winter (12-15°C)"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "rock-climbing-courses-madrid",
@@ -21756,7 +21785,8 @@
           "Don't skip the safety briefing — Spanish climbing has specific conventions"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "ski-school-spain-english",
@@ -21777,7 +21807,7 @@
       "granada",
       "instructor"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "rock-climbing-courses-madrid",
@@ -21894,7 +21924,8 @@
           "Don't skip lunch — Spanish ski culture includes long midday meals"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "pre-university-summer-madrid",
@@ -22019,7 +22050,8 @@
           "Don't book without reading reviews on Go Overseas"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "basketball-camps-spain",
@@ -22147,7 +22179,8 @@
           "Don't book a 'beginner' camp for an experienced player — too basic"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "guitar-luthier-schools-spain",
@@ -22168,7 +22201,7 @@
       "international-students",
       "english-taught"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "music-summer-programs-madrid",
@@ -22277,7 +22310,8 @@
           "Don't forget travel insurance covering tools and finished guitar"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "photography-workshops-madrid",
@@ -22414,7 +22448,8 @@
           "Don't expect English at most Spanish-language workshops — verify in advance"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "retirement-spain-english",
@@ -22587,7 +22622,8 @@
         "body": "english-speaking-doctors-madrid, english-speaking-financial-advisors-madrid, english-speaking-lawyers-madrid, healthcare,modelo-720, spain-golden-visa-ended (for historical investment visa context).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Family & Life-Stage"
   },
   {
     "id": "instituto-cervantes-accredited-schools-madrid",
@@ -22983,7 +23019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "writer-residencies-spain",
@@ -23099,7 +23136,8 @@
           "Don't skip the orientation — local context matters"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Overview & Creative"
   },
   {
     "id": "jazz-music-workshops-madrid",
@@ -23121,7 +23159,7 @@
       "forum-musikae",
       "jazz9tus"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "music-summer-programs-madrid",
@@ -23215,7 +23253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "spanish-history-culture-courses-madrid",
@@ -23460,7 +23499,8 @@
           "Don't expect to learn professional chef skills in a half-day — these are elevated home cooking"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Culinary Education"
   },
   {
     "id": "model-united-nations-madrid",
@@ -23572,7 +23612,8 @@
           "Don't skip committee sessions — attendance required for awards consideration"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "cycling-training-camps-spain",
@@ -23718,7 +23759,8 @@
           "Don't skip the recovery meals — Spanish cycling food is excellent"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "altitude-running-camps-spain",
@@ -23857,7 +23899,8 @@
           "Don't skip hydration — altitude increases fluid loss"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "startup-accelerators-madrid",
@@ -24137,7 +24180,8 @@
           "Don't skip the industry forums — that's where real business happens"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "robotics-stem-camps-madrid",
@@ -24408,7 +24452,8 @@
           "Don't skip the market visits — they're the highlight"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Culinary Education"
   },
   {
     "id": "theater-festivals-madrid",
@@ -24537,7 +24582,8 @@
           "Don't underestimate Madrid theater scene — major year-round programming"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "business-spanish-executives-madrid",
@@ -24820,7 +24866,8 @@
           "Don't forget to visit Café Gijón — historic literary café"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "humanities-philosophy-summer-spain",
@@ -24944,7 +24991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "madrid-book-fair-literary-events",
@@ -25510,7 +25558,8 @@
           "Don't underestimate Spanish language — even English programs benefit"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "surf-camps-spain-english",
@@ -25639,7 +25688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "volleyball-camps-spain",
@@ -25736,7 +25786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   },
   {
     "id": "equestrian-holidays-spain",
@@ -25992,7 +26043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "contemporary-dance-intensives-madrid",
@@ -26131,7 +26183,8 @@
           "Don't skip the warm-up — Spanish dance culture is rigorous"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "spanish-seniors-programs-spain",
@@ -26411,7 +26464,8 @@
           "Don't drive to the festival — parking impossible"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Venues & Performances"
   },
   {
     "id": "yoga-wellness-retreats-spain",
@@ -26570,7 +26624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Spiritual & Wellness"
   },
   {
     "id": "kids-music-summer-camps-madrid",
@@ -26832,7 +26887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Higher Education (English-Taught)"
   },
   {
     "id": "ai-ml-summer-programs-spain",
@@ -26958,7 +27014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "madrid-poetry-literary-festivals",
@@ -27221,6 +27278,7 @@
           "Don't book without verifying English-speaking coaches (most clubs are Spanish-only)"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "International Training Camps"
   }
 ]
