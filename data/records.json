@@ -4961,7 +4961,7 @@
       "empadronamiento",
       "post-office-madrid"
     ],
-    "subsubcategory": "Professional Services (English-Speaking)"
+    "subsubcategory": "Translating & Interpreting"
   },
   {
     "id": "barbers-hairdressers-madrid",
@@ -11910,7 +11910,7 @@
       "english-speaking-wedding-planners-madrid",
       "meditation-retreats-spain"
     ],
-    "subsubcategory": "Spiritual & Wellness",
+    "subsubcategory": "Community & Faith",
     "sections": [
       {
         "type": "table",
@@ -15718,7 +15718,7 @@
         ]
       }
     ],
-    "subsubcategory": "Community & Pets"
+    "subsubcategory": "Community & Faith"
   },
   {
     "id": "devour-madrid-food-tours",
@@ -15949,7 +15949,7 @@
   {
     "id": "english-speaking-lawyers-madrid",
     "category": "living",
-    "subcategory": "services",
+    "subcategory": "bureaucracy",
     "title": "English-Speaking Lawyers in Madrid",
     "summary": "Madrid-based law firms with English-speaking attorneys for expats: property, immigration, inheritance, tax, business. Most offer initial consultations in English.",
     "content": "Spanish legal matters — buying property, navigating inheritance, resolving a tax dispute, setting up a business, dealing with residency — are complicated enough in your native language. Doing them in Spanish, when the stakes are often five or six figures, is risky. Madrid has a small but solid ecosystem of English-speaking law firms built specifically for the expat market. Some are full-service firms with 20+ years of experience; others are boutique practices focused on one area (typically immigration or property). Most offer an initial consultation in English (often free or credited against any engagement). The biggest mistake expats make is using a 'friend's recommendation' from a Facebook group without verifying the lawyer's bar registration (colegiado) number — always ask for it and check it against the Madrid Bar Association (ICAM) registry. The second-biggest mistake is using a notary (notario) for legal advice — Spanish notaries are public officials who authenticate documents, not advocates; they cannot advise you on strategy.",
@@ -16081,7 +16081,7 @@
         "tone": "info"
       }
     ],
-    "subsubcategory": "Professional Services (English-Speaking)"
+    "subsubcategory": "Legal & Professional Help"
   },
   {
     "id": "english-speaking-therapists-madrid",
@@ -16454,7 +16454,7 @@
         ]
       }
     ],
-    "subsubcategory": "Spiritual & Wellness"
+    "subsubcategory": "Community & Faith"
   },
   {
     "id": "english-speaking-vets-madrid",
@@ -16582,7 +16582,7 @@
         "tone": "warning"
       }
     ],
-    "subsubcategory": "Community & Pets"
+    "subsubcategory": "Community & Faith"
   },
   {
     "id": "english-summer-camps-madrid",
@@ -18580,8 +18580,8 @@
   },
   {
     "id": "monastery-stays-spain",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "traditions",
     "title": "Monastery Stays & Silent Retreats in Spain",
     "summary": "Spain's monasteries offer affordable silent retreats and B&B stays. Madrid monasteries (Hieronymite, Augustinian) accept guests. Silence, meditation, simple meals. From €40-€80/night including meals.",
     "content": "Spain has a centuries-old tradition of monastery hospitality — the Benedictine, Cistercian, Hieronymite, and Augustinian orders all maintain monasteries that accept guests for silent retreats, spiritual renewal, or simple affordable accommodation. This is one of the most authentic — and least touristy — ways to experience Spanish religious culture. Madrid itself has several monasteries that accept guests, including monastery bed and breakfasts bookable via monasteries.com. The Great Silence of St. Benedict is respected at most contemplative monasteries, where guests join the monks/nuns for the Liturgy of the Hours (sung in Latin or Spanish) and eat simple meals in silence. While silence is observed, contrary to popular myth monks don't take a vow of silence — they speak during designated times. Beyond Madrid, the most famous silent retreat monasteries in Spain include the Monastery of San Juan de la Peña (Aragon), Monastery of Santo Domingo de Silos (Burgos — famous for Gregorian chant), and the Cistercian monastery of Santa María de Huerta (Soria). Spain's official tourism portal (spain.info) actively promotes monastery stays as part of cultural tourism. Costs are typically €40-€80/night including all meals, with stays from 1 night to several weeks. For English speakers, the contemplative community at Montserrat (Catalonia) is the most international-friendly; Madrid-area monasteries vary in English capacity.",
@@ -18698,7 +18698,7 @@
         "tone": "info"
       }
     ],
-    "subsubcategory": "Spiritual & Wellness"
+    "subsubcategory": "Spiritual & Retreat Experiences"
   },
   {
     "id": "artist-residencies-madrid",
@@ -18967,7 +18967,7 @@
       "blevins-franks",
       "modelo-720"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "banking",
@@ -19094,7 +19094,8 @@
           "Don't move pensions/investments without specialist advice — irreversible tax mistakes"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Financial Advisors & Tax"
   },
   {
     "id": "english-mba-programs-madrid",
@@ -19632,8 +19633,8 @@
   },
   {
     "id": "meditation-retreats-spain",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "traditions",
     "title": "Meditation Retreats in Spain (Vipassana & Silent)",
     "summary": "Spain hosts multiple Vipassana meditation centers offering free 10-day silent retreats in English. Dhamma Sacca (Navarra), Dhamma Dena (Andalusia). Plus paid silent retreats via BookRetreats. 62+ silent retreats across Spain.",
     "content": "Spain has become a major European destination for meditation retreats, particularly Vipassana meditation as taught by S.N. Goenka. The Vipassana tradition offers FREE 10-day residential silent retreats — funded entirely by donor contributions. Spain has two main Vipassana centers: Dhamma Sacca in Navarra (northern Spain, ~4 hours from Madrid) and Dhamma Dena in Andalusia (southern Spain, ~5 hours from Madrid). Both run courses in English and Spanish. Courses are genuinely free — no fee, donation-only at the end. Beyond Vipassana, Spain hosts 62+ silent retreats listed on BookRetreats, ranging from €400-€1,500 for 3-10 day programs. These include mindfulness-based stress reduction (MBSR), Zen meditation, Christian contemplative retreats, and secular silence retreats. Major retreat operators include Silent Focus (English-language silent retreats in Spain), and various independent teachers. Spain is attractive for meditation retreats because of: (1) the free Vipassana offering, (2) sunny climate year-round, (3) lower cost than UK/Netherlands equivalents, (4) monastic tradition of silence (see monastery-stays-spain record). Madrid Insider can partner with BookRetreats (affiliate program), Silent Focus, and the Vipassana centers (link exchange — they don't pay commissions but offer genuine value to readers).",
@@ -19779,7 +19780,7 @@
         "tone": "info"
       }
     ],
-    "subsubcategory": "Spiritual & Wellness"
+    "subsubcategory": "Spiritual & Retreat Experiences"
   },
   {
     "id": "nanny-agencies-madrid",
@@ -26469,8 +26470,8 @@
   },
   {
     "id": "yoga-wellness-retreats-spain",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "sports",
     "title": "Yoga & Wellness Retreats in Spain (English-Speaking)",
     "summary": "Spain yoga + wellness retreats recruiting international guests: BookYogaRetreats (top 10), BookRetreats (580 wellness), yoga + massage + meditation. From €500-€2,500/week. Andalusia, Canary Islands, Mallorca strongest.",
     "content": "Spain is one of Europe's premier yoga and wellness retreat destinations, with hundreds of operators recruiting international guests through English-language marketing. BookYogaRetreats lists the top 10 yoga retreats in Spain for 2026/2027 — including 8-day Yoga and Wellness Relaxation Holidays, plus festivals that include yoga workshops and meditation sessions. BookRetreats lists 580 best wellness retreats around Spain with 21,131 reviews — covering rejuvenation of mind, body, and soul. Condé Nast Traveller documents Europe's best affordable yoga retreats including Spanish options. Responsible Travel covers yoga vacations in Spain — from daily yoga, massage, and meditation classes to authentic Spanish experiences. The Spanish yoga retreat market is concentrated in: Andalusia (Cabo de Gata, Tarifa, Granada), Canary Islands (Tenerife, Lanzarote, Fuerteventura), Mallorca, and Ibiza (luxury wellness). Madrid itself has fewer residential yoga retreats but is the gateway city — most international guests fly into Madrid-Barajas then transfer. The yoga retreat market targets: (1) stressed professionals wanting decompression, (2) solo female travelers wanting safe wellness travel, (3) couples wanting active + spiritual vacation, (4) experienced yogis wanting daily practice in beautiful settings. Programs typically run 3-8 days with costs €500-€2,500/person including accommodation, all meals (usually vegetarian/vegan), 2x daily yoga, meditation sessions, and often massage/treatments. Most Spanish retreats follow a similar daily schedule: 7-8am meditation, 8-10am yoga, 10am brunch, free time/excursion, 4-5pm workshop, 6-8pm yoga, 8pm dinner. Spain is particularly attractive for yoga retreats because of: sunny climate year-round, lower cost than Italy/France, established wellness infrastructure, and Mediterranean diet supporting healthy eating.",
@@ -26625,7 +26626,7 @@
         ]
       }
     ],
-    "subsubcategory": "Spiritual & Wellness"
+    "subsubcategory": "Active Sports in Madrid"
   },
   {
     "id": "kids-music-summer-camps-madrid",
