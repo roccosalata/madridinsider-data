@@ -2208,7 +2208,7 @@
     "official_url": "https://www.patrimonionacional.es/en/visita/royal-palace-madrid",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "royal",
       "palace",
@@ -2218,7 +2218,8 @@
       "almudena-cathedral",
       "metro-de-madrid",
       "plaza-mayor",
-      "puerta-del-sol"
+      "puerta-del-sol",
+      "zarzuela-madrid"
     ],
     "subsubcategory": "Royal Palace",
     "sections": [
@@ -7377,7 +7378,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "royal",
       "garden",
@@ -7387,9 +7388,18 @@
     "related_records": [
       "royal-palace",
       "plaza-de-oriente",
-      "almudena-cathedral"
+      "almudena-cathedral",
+      "zarzuela-madrid"
     ],
-    "subsubcategory": "Gardens"
+    "subsubcategory": "Gardens",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Summer outdoor events",
+        "body": "The Sabatini Gardens host outdoor cultural events throughout summer (July-August), including zarzuela performances, concerts, and dance shows — all with the Royal Palace as backdrop. Organized by Madrid's municipal culture department, often free. Check esmadrid.com for current programming. See zarzuela-madrid record for Spain's operetta tradition.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "plaza-de-oriente",
@@ -9550,7 +9560,8 @@
     "related_records": [
       "plaza-de-oriente",
       "royal-palace",
-      "almudena-cathedral"
+      "almudena-cathedral",
+      "zarzuela-madrid"
     ],
     "sections": [
       {
@@ -13878,7 +13889,8 @@
     "related_records": [
       "teatro-real-madrid",
       "gran-via",
-      "movie-theaters-madrid"
+      "movie-theaters-madrid",
+      "zarzuela-madrid"
     ]
   },
   {
@@ -27309,6 +27321,129 @@
         "type": "callout",
         "heading": "Want to RIDE horses instead?",
         "body": "For equestrian holidays (trail riding, dressage training, horse + yoga retreats) where you PARTICIPATE, see equestrian-holidays-spain (Equitours, Equus Journeys, Far and Ride) in Do → Theme Parks & Active Family Fun. For kids' equestrian camps, see equestrian-camps-madrid.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "zarzuela-madrid",
+    "category": "see",
+    "subcategory": "performing-arts",
+    "title": "Zarzuela — Spanish Operetta",
+    "summary": "Spain's unique operetta tradition blending singing, spoken dialogue, and dance. Teatro de la Zarzuela (Calle de Jovellanos) is the national home. Outdoor zarzuela performances at Sabatini Gardens (Royal Palace) in summer. €15-€60.",
+    "content": "Zarzuela is Spain's answer to operetta — a uniquely Spanish art form that blends singing, spoken dialogue, dance, and popular music. Originating in the 17th century at the Palacio de la Zarzuela (near Madrid, now the Spanish royal family's residence), zarzuela reached its golden age in the 19th and early 20th centuries with composers like Francisco Asenjo Barbieri, Federico Chueca, and Tomás Bretón. The Teatro de la Zarzuela (Calle de Jovellanos, near Gran Vía) is Spain's national zarzuela venue — opened in 1856, it's the spiritual home of the art form, programming full zarzuela seasons alongside opera and ballet. Tickets €15-€60. In summer, outdoor zarzuela performances are held at the Sabatini Gardens (next to the Royal Palace) — a magical setting with the palace as backdrop, under the stars. These free or low-cost events are organized by Madrid's municipal culture department and are hugely popular with locals. Zarzuela is also performed at the Teatro Real (which programs some zarzuela alongside opera) and at festivals like the Festival de Otoño (Autumn Festival). For visitors, zarzuela offers a uniquely Spanish cultural experience — the music is accessible, the stories are often comic or romantic, and the lyrics are in Spanish (surtitles sometimes available). The Teatro de la Zarzuela offers English-language program notes for major productions. Even if you don't understand Spanish, the music and staging are worth experiencing as a living Spanish cultural tradition that predates and influenced Broadway musicals.",
+    "official_url": "https://teatrodelazarzuela.mcu.es/en",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "zarzuela",
+      "operetta",
+      "spanish-opera",
+      "teatro-de-la-zarzuela",
+      "sabatini-gardens",
+      "outdoor-performance",
+      "spanish-culture",
+      "performing-arts",
+      "royal-palace"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "teatro-real-madrid",
+      "gran-via-theaters-musicals",
+      "sabatini-gardens",
+      "royal-palace",
+      "flamenco-madrid",
+      "andalusian-horses-dance-show"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's unique operetta tradition",
+        "body": "Zarzuela is to Spain what operetta is to Vienna or Broadway is to New York — a popular musical theater form blending singing, spoken dialogue, and dance. Originating in 17th-century Madrid, it's a living cultural tradition you can't see anywhere else.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Home venue",
+            "value": "Teatro de la Zarzuela (Calle de Jovellanos)"
+          },
+          {
+            "label": "Founded",
+            "value": "1856 (theater), 17th century (art form)"
+          },
+          {
+            "label": "Ticket cost",
+            "value": "€15-€60 (indoor), free-€15 (outdoor summer)"
+          },
+          {
+            "label": "Summer outdoor venue",
+            "value": "Sabatini Gardens (Royal Palace)"
+          },
+          {
+            "label": "Languages",
+            "value": "Spanish (English program notes available)"
+          },
+          {
+            "label": "Best for",
+            "value": "Cultural travelers wanting uniquely Spanish experience"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Where to see zarzuela in Madrid",
+        "items": [
+          {
+            "title": "Teatro de la Zarzuela (Calle de Jovellanos)",
+            "body": "Spain's national zarzuela venue since 1856. Full season of zarzuela + opera + ballet. Calle de Jovellanos 4 (near Gran Vía). €15-€60.",
+            "meta": [
+              "teatrodelazarzuela.mcu.es"
+            ]
+          },
+          {
+            "title": "Sabatini Gardens (summer outdoor)",
+            "body": "Outdoor zarzuela performances next to Royal Palace in summer. Magical setting — palace backdrop, under stars. Free or low-cost. Very popular with locals."
+          },
+          {
+            "title": "Teatro Real (occasional)",
+            "body": "Royal Opera House programs some zarzuela alongside opera. Higher production values. See teatro-real-madrid record."
+          },
+          {
+            "title": "Festival de Otoño (Autumn Festival)",
+            "body": "October-November. Includes zarzuela productions at various Madrid venues."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "What is zarzuela?",
+        "body": "Zarzuela blends sung arias, spoken dialogue, chorus numbers, and dance. Two main types: género grande (full-length, 2-3 acts, more operatic) and género chico (short, 1 act, more comic/popular). Stories range from historical dramas to Madrid working-class comedies. The music is melodic, accessible, and deeply Spanish — influenced by folk music, flamenco, and popular song. Many Spaniards know zarzuela tunes the way Americans know Broadway showtunes.",
+        "tone": "info"
+      },
+      {
+        "type": "do_dont",
+        "heading": "Experiencing zarzuela",
+        "do": [
+          "Check Teatro de la Zarzuela season schedule before your trip",
+          "Choose género chico (shorter, comic) for first-time experience",
+          "Ask for English program notes at the Teatro de la Zarzuela",
+          "Attend summer outdoor performances at Sabatini Gardens (free/cheap)",
+          "Read a synopsis online before attending (stories are in Spanish)"
+        ],
+        "dont": [
+          "Don't worry if you don't understand Spanish — the music and staging carry the experience",
+          "Don't confuse zarzuela with opera (more dialogue, more accessible)",
+          "Don't miss the summer outdoor performances — they're magical and uniquely Madrid"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Summer outdoor events at Royal Palace gardens",
+        "body": "The Sabatini Gardens (next to Royal Palace) and nearby Plaza de Oriente host outdoor cultural events throughout summer (July-August), including zarzuela performances, concerts, and dance shows. These are organized by Madrid's municipal culture department and are often free. Check esmadrid.com for current summer programming. See sabatini-gardens record for garden details.",
         "tone": "info"
       }
     ]
