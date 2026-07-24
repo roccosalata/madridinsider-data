@@ -2471,7 +2471,7 @@
     "content": "Madrid Río is a 10km linear park along the Manzanares River, created in 2011 when the M-30 highway was put underground. Runs from Príncipe Pío (north) to Getafe (south). HIGHLIGHTS: (1) 17 play areas for kids — the most famous is the 'Hammock' swings and the giant slide. The playgrounds are among the best in Europe. (2) The Fountain Walk (Salón de Pinos) — 30 fountains, great for cooling off in summer. Free. (3) Arganzuela Beach (Playa de Arganzuela) — urban beach with 3 pools, open June-August, FREE. (4) Puente de Toledo — 18th-century baroque bridge, Instagram-worthy. (5) BiciMAD stations throughout — rent a bike and ride the full 10km. (6) Jardines de Puerta de Toledo and Jardines del Puente de Segovia — formal gardens. (7) Matadero Madrid (contemporary arts center) at the south end. GETTING THERE: Metro Príncipe Pío (L6, L10), Puerta de Toledo (L5), Marqués de Vadillo (L5). COST: Free, open 24/7. TIPS: (1) Best for families with kids — the playgrounds are amazing. (2) Best for runners and cyclists — flat, paved, 10km. (3) Best for summer cooling — the fountains and urban beach. (4) Combine with Matadero Madrid (contemporary art) for a full day. (5) The park connects to Casa de Campo (west) and Retiro (east, via Paseo de la Rey). (6) At night, the park is well-lit and safe.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-24",
     "tags": [
       "parks",
       "madrid-rio",
@@ -2482,7 +2482,8 @@
       "cycling-mtb-madrid",
       "madrid-weather",
       "retiro-park",
-      "teleferico"
+      "teleferico",
+      "cycling-training-camps-spain"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio",
     "subsubcategory": "Central Parks"
@@ -4776,7 +4777,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "connectivity",
       "coworking",
@@ -4790,7 +4791,8 @@
       "public-wifi-madrid",
       "spanish-cv-interview",
       "digital-nomads-madrid",
-      "coding-bootcamps-madrid"
+      "coding-bootcamps-madrid",
+      "startup-accelerators-madrid"
     ],
     "subsubcategory": "Internet"
   },
@@ -6114,7 +6116,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "tour",
       "food",
@@ -6128,7 +6130,8 @@
       "malasana-neighborhood",
       "devour-madrid-food-tours",
       "cooking-classes-tourists-madrid",
-      "wine-tours-from-madrid"
+      "wine-tours-from-madrid",
+      "cooking-holidays-spain"
     ],
     "subsubcategory": "Food Tours",
     "sections": [
@@ -7247,7 +7250,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "work",
       "freelance",
@@ -7263,7 +7266,8 @@
       "international-chambers-madrid",
       "digital-nomad-visa-spain-services",
       "digital-nomads-madrid",
-      "coding-bootcamps-madrid"
+      "coding-bootcamps-madrid",
+      "startup-accelerators-madrid"
     ],
     "subsubcategory": "Freelancing",
     "sections": [
@@ -8735,7 +8739,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "language",
       "school",
@@ -8752,7 +8756,8 @@
       "english-taught-masters-madrid",
       "spanish-immersion-adults-spain",
       "instituto-cervantes-accredited-schools-madrid",
-      "spanish-history-culture-courses-madrid"
+      "spanish-history-culture-courses-madrid",
+      "business-spanish-executives-madrid"
     ],
     "subsubcategory": "Learning"
   },
@@ -10207,7 +10212,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "running",
@@ -10221,7 +10226,8 @@
       "madrid-uv-index",
       "madrid-weather",
       "retiro-park",
-      "gyms-fitness-madrid"
+      "gyms-fitness-madrid",
+      "altitude-running-camps-spain"
     ],
     "subsubcategory": "Running"
   },
@@ -10685,7 +10691,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "sports",
       "cycling",
@@ -10703,7 +10709,8 @@
       "retiro-park",
       "running-madrid",
       "rock-climbing-courses-madrid",
-      "ski-school-spain-english"
+      "ski-school-spain-english",
+      "cycling-training-camps-spain"
     ],
     "subsubcategory": "Cycling",
     "sections": [
@@ -14601,7 +14608,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "neighborhood",
       "literary",
@@ -14615,7 +14622,8 @@
       "retiro-neighborhood",
       "museo-del-prado",
       "teatro-real-madrid",
-      "writer-residencies-spain"
+      "writer-residencies-spain",
+      "creative-writing-workshops-madrid"
     ]
   },
   {
@@ -14713,7 +14721,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "tags": [
       "work",
       "digital-nomad",
@@ -14728,7 +14736,8 @@
       "malasana-neighborhood",
       "sim-cards-madrid",
       "digital-nomad-visa-spain-services",
-      "public-wifi-madrid"
+      "public-wifi-madrid",
+      "startup-accelerators-madrid"
     ],
     "sections": [
       {
@@ -15709,7 +15718,7 @@
       "malasana",
       "lavapies"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "food-tours-madrid",
@@ -15718,7 +15727,8 @@
       "malasana-neighborhood",
       "la-latina-tapas-nightlife",
       "cooking-classes-tourists-madrid",
-      "wine-tours-from-madrid"
+      "wine-tours-from-madrid",
+      "cooking-holidays-spain"
     ],
     "sections": [
       {
@@ -16200,7 +16210,7 @@
       "international",
       "advocacy"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "job-search-spain",
@@ -16209,7 +16219,8 @@
       "expat-publications-madrid",
       "awc-madrid",
       "english-mba-programs-madrid",
-      "model-united-nations-madrid"
+      "model-united-nations-madrid",
+      "startup-accelerators-madrid"
     ],
     "sections": [
       {
@@ -16567,7 +16578,7 @@
       "family",
       "international-school"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "bilingual-schools-madrid",
@@ -16580,7 +16591,8 @@
       "tennis-academies-spain",
       "golf-academies-spain",
       "equestrian-camps-madrid",
-      "pre-university-summer-madrid"
+      "pre-university-summer-madrid",
+      "robotics-stem-camps-madrid"
     ],
     "sections": [
       {
@@ -16833,7 +16845,7 @@
       "consultants",
       "non-eu"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "digital-nomads-madrid",
@@ -16842,7 +16854,8 @@
       "english-speaking-lawyers-madrid",
       "coworking-madrid",
       "nie-tie",
-      "coding-bootcamps-madrid"
+      "coding-bootcamps-madrid",
+      "startup-accelerators-madrid"
     ],
     "sections": [
       {
@@ -17129,7 +17142,7 @@
       "residential",
       "international"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-summer-camps-madrid",
@@ -17138,7 +17151,8 @@
       "parque-de-atracciones-madrid",
       "tennis-academies-spain",
       "golf-academies-spain",
-      "basketball-camps-spain"
+      "basketball-camps-spain",
+      "robotics-stem-camps-madrid"
     ],
     "sections": [
       {
@@ -17497,7 +17511,7 @@
       "english-taught",
       "international-students"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "mercados-madrid",
@@ -17507,7 +17521,8 @@
       "spanish-food-basics",
       "wine-certification-spain",
       "cooking-classes-tourists-madrid",
-      "chef-masterclass-madrid"
+      "chef-masterclass-madrid",
+      "cooking-holidays-spain"
     ],
     "sections": [
       {
@@ -18417,7 +18432,7 @@
       "international-students",
       "reina-sofia"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "flamenco-madrid",
@@ -18430,7 +18445,8 @@
       "fashion-summer-courses-madrid",
       "guitar-luthier-schools-spain",
       "photography-workshops-madrid",
-      "jazz-music-workshops-madrid"
+      "jazz-music-workshops-madrid",
+      "theater-festivals-madrid"
     ],
     "sections": [
       {
@@ -18661,7 +18677,7 @@
       "matadero",
       "artconnect"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "lavapies-neighborhood",
@@ -18669,7 +18685,8 @@
       "museo-reina-sofia",
       "prado-current",
       "reina-sofia-current",
-      "writer-residencies-spain"
+      "writer-residencies-spain",
+      "creative-writing-workshops-madrid"
     ],
     "sections": [
       {
@@ -19056,7 +19073,7 @@
       "postgraduate",
       "executive-education"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-taught-masters-madrid",
@@ -19067,7 +19084,8 @@
       "work-visa-spain",
       "gap-year-programs-madrid",
       "pre-university-summer-madrid",
-      "coding-bootcamps-madrid"
+      "coding-bootcamps-madrid",
+      "startup-accelerators-madrid"
     ],
     "sections": [
       {
@@ -19351,14 +19369,15 @@
       "tai",
       "directing"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "music-summer-programs-madrid",
       "acting-schools-madrid",
       "museo-del-prado",
       "art-design-schools-madrid",
-      "photography-workshops-madrid"
+      "photography-workshops-madrid",
+      "spanish-film-festivals"
     ],
     "sections": [
       {
@@ -19874,14 +19893,16 @@
       "expat-community",
       "international-castings"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "film-schools-madrid",
       "flamenco-dance-intensives-madrid",
       "music-summer-programs-madrid",
       "language-exchanges-madrid",
-      "art-design-schools-madrid"
+      "art-design-schools-madrid",
+      "spanish-film-festivals",
+      "theater-festivals-madrid"
     ],
     "sections": [
       {
@@ -20283,13 +20304,14 @@
       "equus-elm",
       "torrejon"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-summer-camps-madrid",
       "soccer-camps-madrid",
       "parque-de-atracciones-madrid",
-      "faunia-madrid"
+      "faunia-madrid",
+      "robotics-stem-camps-madrid"
     ],
     "sections": [
       {
@@ -20838,7 +20860,7 @@
       "market-visit",
       "culinary-experience"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "devour-madrid-food-tours",
@@ -20847,7 +20869,8 @@
       "mercado-san-miguel",
       "mercados-madrid",
       "spanish-food-basics",
-      "chef-masterclass-madrid"
+      "chef-masterclass-madrid",
+      "cooking-holidays-spain"
     ],
     "sections": [
       {
@@ -20985,7 +21008,7 @@
       "wine-tourism",
       "tempranillo"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "day-tours-from-madrid",
@@ -20994,7 +21017,8 @@
       "devour-madrid-food-tours",
       "food-tours-madrid",
       "toledo",
-      "segovia-day-trip"
+      "segovia-day-trip",
+      "cooking-holidays-spain"
     ],
     "sections": [
       {
@@ -21284,7 +21308,7 @@
       "harvard-summer",
       "expanish"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "language-schools-madrid",
@@ -21293,7 +21317,8 @@
       "survival-spanish",
       "gap-year-programs-madrid",
       "instituto-cervantes-accredited-schools-madrid",
-      "spanish-history-culture-courses-madrid"
+      "spanish-history-culture-courses-madrid",
+      "business-spanish-executives-madrid"
     ],
     "sections": [
       {
@@ -21567,12 +21592,14 @@
       "outdoor-sports",
       "mountain"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "cycling-mtb-madrid",
       "parque-de-atracciones-madrid",
-      "casa-de-campo"
+      "casa-de-campo",
+      "cycling-training-camps-spain",
+      "altitude-running-camps-spain"
     ],
     "sections": [
       {
@@ -21844,7 +21871,7 @@
       "international-students",
       "academic"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "english-summer-camps-madrid",
@@ -21853,7 +21880,8 @@
       "gap-year-programs-madrid",
       "universities-madrid",
       "architecture-summer-programs-madrid",
-      "model-united-nations-madrid"
+      "model-united-nations-madrid",
+      "robotics-stem-camps-madrid"
     ],
     "sections": [
       {
@@ -21965,13 +21993,14 @@
       "five-star",
       "spain"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "soccer-camps-madrid",
       "tennis-academies-spain",
       "golf-academies-spain",
-      "english-summer-camps-madrid"
+      "english-summer-camps-madrid",
+      "robotics-stem-camps-madrid"
     ],
     "sections": [
       {
@@ -22217,14 +22246,15 @@
       "street-photography",
       "international-students"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "art-design-schools-madrid",
       "film-schools-madrid",
       "malasana-neighborhood",
       "lavapies-neighborhood",
-      "architecture-summer-programs-madrid"
+      "architecture-summer-programs-madrid",
+      "creative-writing-workshops-madrid"
     ],
     "sections": [
       {
@@ -22529,14 +22559,15 @@
       "lae-madrid",
       "inhispania"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "language-schools-madrid",
       "spanish-immersion-adults-spain",
       "spanish-learning-resources",
       "survival-spanish",
-      "restaurant-spanish"
+      "restaurant-spanish",
+      "business-spanish-executives-madrid"
     ],
     "sections": [
       {
@@ -22652,14 +22683,15 @@
       "career-change",
       "english-taught"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "job-search-spain",
       "digital-nomad-visa-spain-services",
       "freelancing-spain",
       "coworking-madrid",
-      "english-mba-programs-madrid"
+      "english-mba-programs-madrid",
+      "startup-accelerators-madrid"
     ],
     "sections": [
       {
@@ -22917,13 +22949,14 @@
       "literary",
       "creative-writing"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "artist-residencies-madrid",
       "literary-quarter-madrid",
       "meditation-retreats-spain",
-      "monastery-stays-spain"
+      "monastery-stays-spain",
+      "creative-writing-workshops-madrid"
     ],
     "sections": [
       {
@@ -23147,14 +23180,15 @@
       "academic-credit",
       "international-students"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "spanish-immersion-adults-spain",
       "instituto-cervantes-accredited-schools-madrid",
       "language-schools-madrid",
       "gap-year-programs-madrid",
-      "pre-university-summer-madrid"
+      "pre-university-summer-madrid",
+      "business-spanish-executives-madrid"
     ],
     "sections": [
       {
@@ -23275,7 +23309,7 @@
       "gourmet-madrid",
       "culinary-education"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-24",
     "status": "annual review",
     "related_records": [
       "culinary-schools-madrid",
@@ -23283,7 +23317,8 @@
       "mercados-madrid",
       "mercado-san-miguel",
       "menu-del-dia-guide",
-      "spanish-food-basics"
+      "spanish-food-basics",
+      "cooking-holidays-spain"
     ],
     "sections": [
       {
@@ -23474,6 +23509,1246 @@
           "Don't expect to attend without registration — MUNs require advance application",
           "Don't underestimate formal dress code — business attire required",
           "Don't skip committee sessions — attendance required for awards consideration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cycling-training-camps-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Cycling Training Camps in Spain (English-Speaking)",
+    "summary": "Spain cycling training camps recruiting international cyclists: Sun Tri Sports (Sierra Nevada altitude 2300m), SierraNevada.cc (€750pp/week), Ciclolodge (Sierra de Guadarrama Madrid), Norrøna MTB Madrid. Road + mountain bike.",
+    "content": "Spain is one of Europe's premier cycling training destinations — combining world-class terrain (Pyrenees, Sierra Nevada, Sierra de Guadarrama), year-round ridable weather, and established cycling culture (home to Vuelta a España, Tour de France mountain stages, and many pro cyclists' winter bases). Multiple operators run English-language cycling camps recruiting international cyclists. Sun Tri Sports organizes cycling altitude training camps in Sierra Nevada, Spain — stay and train at 2,300m while they handle everything else around the camp. SierraNevada.cc runs cycling training camps in southern Spain from €750/person (7 nights, 5 guided rides, café cortados included), 1 hour from Málaga airport. Ciclolodge runs training camps in the Sierra de Guadarrama National Park near Madrid — Cuenca Alta del Manzanares Biosphere Reserve setting. Norrøna Adventure offers 5-day Sierra Madrid mountain biking programs with expert coaching for all levels on world-class singletrack. Epic Road Rides maintains a comprehensive guide to cycling camps in Spain covering all budgets and rider abilities. The Madrid-area cycling camp market is anchored by the Sierra de Guadarrama — 1 hour north of Madrid, with smooth climbing roads (Navacerrada, Cotos, León) and excellent mountain biking (La Pedriza, Siete Picos). Madrid-area camps are particularly accessible for international cyclists: Madrid-Barajas airport is a major hub, and the Sierra de Guadarrama climbs start just 45 minutes from the city center. Road cycling camps cost €750-€2,000/week (typically including accommodation, guided rides, mechanical support, and meals). Mountain bike camps cost €800-€1,800/week. Best seasons: spring (March-May) and fall (September-November). Summer is too hot for serious training; winter can be cold at altitude.",
+    "official_url": "https://suntrisports.com/cycling-camp-sierra-nevada-spain",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "cycling",
+      "cycling-camp",
+      "training-camp",
+      "sierra-nevada",
+      "sierra-guadarrama",
+      "mountain-biking",
+      "road-cycling",
+      "altitude-training",
+      "international-cyclists"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "cycling-mtb-madrid",
+      "rock-climbing-courses-madrid",
+      "madrid-rio"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = Europe's cycling training capital",
+        "body": "Multiple operators run English-language cycling camps in Spain. Sierra Nevada altitude (2,300m), Sierra de Guadarrama (Madrid, 1hr from airport), Pyrenees. €750-€2,000/week including accommodation, guided rides, mechanical support.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Road cycling camp cost",
+            "value": "€750-€2,000/week"
+          },
+          {
+            "label": "Mountain bike camp cost",
+            "value": "€800-€1,800/week"
+          },
+          {
+            "label": "Sierra Nevada altitude",
+            "value": "2,300m"
+          },
+          {
+            "label": "Distance Madrid → Sierra de Guadarrama",
+            "value": "45 min by car"
+          },
+          {
+            "label": "Best seasons",
+            "value": "March-May, September-November"
+          },
+          {
+            "label": "Typical week includes",
+            "value": "7 nights accommodation, 5 guided rides, breakfast+dinner, mechanical support"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish cycling training camps (English)",
+        "items": [
+          {
+            "title": "Sun Tri Sports (Sierra Nevada)",
+            "body": "Cycling altitude training camp at 2,300m. All logistics handled. Southern Spain, 1hr from Málaga.",
+            "meta": [
+              "suntrisports.com/cycling-camp-sierra-nevada-spain"
+            ]
+          },
+          {
+            "title": "SierraNevada.cc (Southern Spain)",
+            "body": "Cycling training camps from €750/person. 7 nights, 5 guided rides, café cortados. 1hr from Málaga airport.",
+            "meta": [
+              "sierranevada.cc/cycling-training-camps-southern-spain"
+            ]
+          },
+          {
+            "title": "Ciclolodge (Sierra de Guadarrama, Madrid)",
+            "body": "Training camps in Sierra de Guadarrama National Park + Cuenca Alta del Manzanares Biosphere Reserve. Madrid-accessible.",
+            "meta": [
+              "ciclolodge.com/en/training-camps"
+            ]
+          },
+          {
+            "title": "Norrøna Adventure (Sierra Madrid MTB)",
+            "body": "5-day Sierra Madrid mountain biking. Expert coaching. World-class singletrack. All levels.",
+            "meta": [
+              "adventure.norrona.com/en/europe/spain/sierra-madrid-mountain-biking"
+            ]
+          },
+          {
+            "title": "Epic Road Rides Spain guide",
+            "body": "Comprehensive guide to cycling camps in Spain. All budgets and rider abilities.",
+            "meta": [
+              "epicroadrides.com/cycling-blog/cycling-camps-spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Best cycling areas accessible from Madrid",
+        "items": [
+          {
+            "title": "Sierra de Guadarrama (Madrid)",
+            "body": "45 min from Madrid center. Climbs: Navacerrada (1,890m), Cotos (1,830m), León (1,510m). Smooth roads, pro Vuelta stages."
+          },
+          {
+            "title": "La Pedriza (MTB)",
+            "body": "Granite boulder field. 45 min from Madrid. World-class mountain biking. Technical singletrack."
+          },
+          {
+            "title": "Toledo area",
+            "body": "1 hour south of Madrid. Rolling hills, olive groves, vineyards. Quieter roads than Sierra."
+          },
+          {
+            "title": "Sierra de Gredos",
+            "body": "2 hours southwest of Madrid. Bigger climbs, less traffic. Pico Almanzor (2,592m) area."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish cycling camp",
+        "do": [
+          "Book spring (March-May) or fall (September-November) — best weather",
+          "Choose Sierra Nevada for altitude training (2,300m)",
+          "Choose Sierra de Guadarrama for Madrid-accessible camps",
+          "Bring your own bike (rentals available but quality varies)",
+          "Budget €1,500-€2,500 all-in for week-long camp"
+        ],
+        "dont": [
+          "Don't cycle in July-August midday (35-40°C in central Spain)",
+          "Don't underestimate Sierra de Guadarrama climbing — bring compact crankset",
+          "Don't skip the recovery meals — Spanish cycling food is excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "altitude-running-camps-spain",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Altitude & Marathon Training Camps in Spain",
+    "summary": "Spain altitude training camps recruiting international runners: Alberto Athletes Representative (75km from Madrid), Scirocco TF (Motril), Box Altitude. Marathon and track athletes. Altitudes 1,500-2,300m.",
+    "content": "Spain is one of Europe's premier altitude training destinations for runners — combining accessible altitude (Sierra Nevada, Pyrenees), year-round training weather, and established infrastructure. Multiple operators recruit international marathon and track athletes through English-language marketing. Alberto Athletes Representative runs altitude training camps in Spain at locations 75km from Madrid International Airport — for long distance athletes, with running routes at altitude. Scirocco TF (The Track & Field Academy) is based in Motril, southern Spain, training several international-level athletes with track and field focus. Box Altitude maintains a guide to altitude training camps popular with top-tier athletes who do at least one annual trek to unlock training benefits. The Altitude Centre runs two-month marathon running altitude camps. Marathon Handbook documents the 10 best altitude training destinations globally, including Spanish options. Spain's altitude training locations include: Sierra Nevada (2,300m+ at Veleta, Granada, southern Spain), Navacerrada (1,890m, 75km from Madrid, accessible by car/train), and various Pyrenees locations (Formigal, Panticosa at 1,500-2,200m). The physiological benefits of altitude training (increased red blood cell production, improved oxygen utilization) require stays of 14-28 days minimum. Costs: €1,500-€4,000 for 2-4 week altitude camps including accommodation, coached sessions, sports science support, and meals. The Madrid-accessible altitude option (Navacerrada, 75km from Madrid-Barajas) is particularly attractive for international athletes wanting shorter acclimatization stints.",
+    "official_url": "https://albertoathletesrepresentative.es/services1/altitude-training-camp",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "altitude-training",
+      "running-camp",
+      "marathon-training",
+      "track-and-field",
+      "sierra-nevada",
+      "navacerrada",
+      "international-athletes"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "cycling-training-camps-spain",
+      "rock-climbing-courses-madrid",
+      "ski-school-spain-english",
+      "running-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = top altitude training destination",
+        "body": "Spain's Sierra Nevada (2,300m) and Navacerrada (1,890m, 75km from Madrid) attract international marathon and track athletes for altitude training. €1,500-€4,000 for 2-4 week camps.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Sierra Nevada altitude",
+            "value": "2,300m+ (Veleta)"
+          },
+          {
+            "label": "Navacerrada altitude",
+            "value": "1,890m (75km from Madrid)"
+          },
+          {
+            "label": "Minimum stay",
+            "value": "14-28 days for benefits"
+          },
+          {
+            "label": "Cost",
+            "value": "€1,500-€4,000 for 2-4 week camp"
+          },
+          {
+            "label": "Includes",
+            "value": "Accommodation, coached sessions, sports science support"
+          },
+          {
+            "label": "Best season",
+            "value": "Year-round (avoid Aug heat)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish altitude training camps",
+        "items": [
+          {
+            "title": "Alberto Athletes Representative",
+            "body": "Altitude training camp 75km from Madrid International Airport. For long distance athletes. Running routes at altitude.",
+            "meta": [
+              "albertoathletesrepresentative.es/services1/altitude-training-camp"
+            ]
+          },
+          {
+            "title": "Scirocco TF — The Track & Field Academy",
+            "body": "Motril, southern Spain. International-level track athletes. Coached training.",
+            "meta": [
+              "sciroccotf.world/the-academy"
+            ]
+          },
+          {
+            "title": "Box Altitude",
+            "body": "Altitude training camps popular with top-tier athletes. Annual trek for training benefits.",
+            "meta": [
+              "boxaltitude.com/blogs/news/altitude-training-camps"
+            ]
+          },
+          {
+            "title": "The Altitude Centre (Marathon Running Camp)",
+            "body": "2-month marathon running altitude camp. Trained + untrained runners. Strength improvements.",
+            "meta": [
+              "altitudecentre.com/the-altitude-training-camp-marathon-running"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Spain's main altitude training locations",
+        "items": [
+          {
+            "title": "Sierra Nevada (Granada)",
+            "body": "Veleta 2,300m+. Highest altitude in Spain. 1hr from Granada airport. Premium altitude training destination."
+          },
+          {
+            "title": "Navacerrada (Madrid area)",
+            "body": "1,890m. 75km from Madrid-Barajas airport. Accessible by Cercanías train. Most Madrid-accessible altitude."
+          },
+          {
+            "title": "Formigal / Panticosa (Pyrenees)",
+            "body": "1,500-2,200m. 6hrs from Madrid by car. Mountain resort infrastructure."
+          },
+          {
+            "title": "Candanchú / Astún (Pyrenees)",
+            "body": "1,500-2,200m. 6hrs from Madrid. Ski resort base for summer training."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Altitude training in Spain",
+        "do": [
+          "Book minimum 14 nights (28 ideal) for physiological benefits",
+          "Get bloodwork before/after to measure adaptation",
+          "Choose Navacerrada for Madrid-accessible altitude",
+          "Choose Sierra Nevada for highest altitude training",
+          "Bring HR monitor — heart rate response differs at altitude"
+        ],
+        "dont": [
+          "Don't push hard first 3-5 days — altitude acclimatization takes time",
+          "Don't underestimate UV at altitude — apply extra sunscreen",
+          "Don't expect flat training — Spanish altitude is mountainous",
+          "Don't skip hydration — altitude increases fluid loss"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "startup-accelerators-madrid",
+    "category": "living",
+    "subcategory": "work",
+    "title": "Startup Accelerators & Incubators in Madrid (English-Speaking)",
+    "summary": "Madrid startup accelerators recruiting international founders: IMPACT Accelerator, BBVA Spark, Tenity Madrid, IE Summer School Idea Validation. Top accelerators receive 1,000+ applications per cohort. English working language.",
+    "content": "Madrid has a growing startup accelerator ecosystem actively recruiting international founders through English-language marketing. Failory documents the top 15 accelerators and incubators in Madrid for 2026 — key players include IMPACT Accelerator (one of Spain's most established, with international cohort recruitment) and BBVA Spark (the bank's startup acceleration program). Startersss lists 28 accelerators in Madrid. Tenity Madrid is the Southern Europe innovation hub of the international Tenity network, working with startups, corporates, investors, and ecosystem partners. AcceleratorApp documents the top accelerators in Madrid for 2026 — top accelerators receive 1,000+ applications per cohort, indicating the international demand. IE University runs an Idea Validation Accelerator as part of its Summer School — an intensive 2-week bootcamp in Madrid to build an entrepreneurial mindset and refine startup skills with expert guidance. The Madrid accelerator ecosystem targets: (1) international founders wanting European startup ecosystem access, (2) Spanish startups wanting international networks, (3) career changers wanting startup experience, (4) entrepreneurs post-MBA wanting to launch ventures. Most accelerators run 3-6 month cohorts with equity investment (typically €50K-€500K for 5-10% equity), mentorship, office space, and demo day to investors. Application cycles typically open 2-3 times per year with 4-8% acceptance rates. Madrid's startup ecosystem strengths: fintech (BBVA, Santander infrastructure), proptech (Idealista, Tiko), mobility (Cabify, Bipi), and marketplaces (Wallapop, Milanuncios). Madrid startup salaries are 30-50% lower than US, but Spain's Ley de Startups (24% flat tax for first 6 years) and Digital Nomad Visa make it attractive for founders.",
+    "official_url": "https://www.failory.com/startups/madrid-accelerators-incubators",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "startup-accelerator",
+      "incubator",
+      "founders",
+      "entrepreneurship",
+      "impact-accelerator",
+      "bbva-spark",
+      "tenity",
+      "english-speaking",
+      "international-founders"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "coding-bootcamps-madrid",
+      "digital-nomad-visa-spain-services",
+      "digital-nomads-madrid",
+      "coworking-madrid",
+      "freelancing-spain",
+      "international-chambers-madrid",
+      "english-mba-programs-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's startup accelerator scene is growing",
+        "body": "Multiple Madrid accelerators recruit international founders in English: IMPACT Accelerator, BBVA Spark, Tenity Madrid, IE Summer School. Top accelerators receive 1,000+ applications per cohort. 4-8% acceptance rate.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Typical cohort length",
+            "value": "3-6 months"
+          },
+          {
+            "label": "Investment",
+            "value": "€50K-€500K for 5-10% equity"
+          },
+          {
+            "label": "Acceptance rate",
+            "value": "4-8% (top accelerators)"
+          },
+          {
+            "label": "Applications per cohort",
+            "value": "1,000+"
+          },
+          {
+            "label": "Languages",
+            "value": "English working language"
+          },
+          {
+            "label": "Application cycles",
+            "value": "2-3 per year"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid startup accelerators",
+        "items": [
+          {
+            "title": "IMPACT Accelerator",
+            "body": "One of Spain's most established accelerators. International cohort recruitment. Equity investment + mentorship + demo day.",
+            "meta": [
+              "failory.com/startups/madrid-accelerators-incubators"
+            ]
+          },
+          {
+            "title": "BBVA Spark",
+            "body": "BBVA bank's startup acceleration program. Fintech focus. Strong Spanish banking network access."
+          },
+          {
+            "title": "Tenity Madrid",
+            "body": "Southern Europe innovation hub. Works with startups, corporates, investors, ecosystem partners. International Tenity network.",
+            "meta": [
+              "tenity.com/about/madrid"
+            ]
+          },
+          {
+            "title": "IE Summer School Idea Validation Accelerator",
+            "body": "2-week bootcamp in Madrid. Build entrepreneurial mindset. Refine startup skills. IE University professors.",
+            "meta": [
+              "ie.edu/ie-summer-school/university/idea-validation-accelerator"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid startup ecosystem strengths",
+        "items": [
+          {
+            "title": "Fintech",
+            "body": "BBVA + Santander infrastructure. Strong fintech accelerator programs. Spanish-speaking Latin America expansion base."
+          },
+          {
+            "title": "Mobility",
+            "body": "Cabify (ride-hailing), Bipi (car subscription). Madrid is Spain's mobility startup capital."
+          },
+          {
+            "title": "Marketplaces",
+            "body": "Wallapop (general marketplace), Milanuncios (classifieds). Spanish-language marketplace expertise."
+          },
+          {
+            "title": "Proptech",
+            "body": "Idealista (property portal), Tiko (iBuyer). Madrid proptech cluster strong."
+          },
+          {
+            "title": "B2B SaaS",
+            "body": "Job&Talent (staffing), Carto (location intelligence). Growing B2B SaaS scene."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Applying to Madrid accelerators",
+        "do": [
+          "Apply 4-6 months before cohort start (typical cycles Jan-Apr, Jul-Oct)",
+          "Prepare a strong pitch deck (10-15 slides) in English",
+          "Get warm introductions from alumni or investors if possible",
+          "Choose IMPACT for most international network",
+          "Choose IE Summer School for idea-stage validation"
+        ],
+        "dont": [
+          "Don't expect Silicon Valley valuations — Madrid startups valued 30-50% lower",
+          "Don't skip the interview prep — competitive admissions",
+          "Don't underestimate Spanish language — even English accelerators benefit",
+          "Don't apply without traction (most accelerators want some proof)"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Spain's Ley de Startups advantages",
+        "body": "Spain's Ley de Startups (Startup Law) offers: 24% flat tax for first 6 years (vs up to 47% standard), stock option tax deferral, easier visa process for international founders, and reduced bureaucracy for new companies. See digital-nomad-visa-spain-services record for visa details.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "spanish-film-festivals",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Spanish Film Festivals (International Cinema Industry)",
+    "summary": "Spain hosts A-list film festivals recruiting international industry: San Sebastián International Film Festival (FIAPF A-category, September), Málaga Film Festival (Spanish cinema, March). Plus Madrid's film festival ecosystem.",
+    "content": "Spain hosts two of Europe's most important film festivals, both recruiting international cinema industry through English-language marketing. The San Sebastián International Film Festival (Donostia Zinemaldia) is Spain's most prestigious film event — one of only 15 FIAPF A-category film festivals worldwide (alongside Cannes, Berlin, Venice, Locarno, Karlovy Vary, Moscow, Montreal, Shanghai, Tokyo, Mar del Plata, Cairo, Goa, and Tallinn). Held annually in September in the Basque city of San Sebastián (4.5 hours from Madrid by car, or 1-hour flight + 1-hour drive). The festival features international competition, Spanish cinema showcases, and an industry forum attracting distributors, sales agents, and producers globally. The Málaga Film Festival (Festival de Málaga) is the leading Spanish-language cinema festival — held annually in March in Málaga (3 hours from Madrid by AVE train or 1-hour flight). The 29th edition (March 6-15, 2026) features 263 films showcasing the diversity of Spanish cinema. Málaga is the premier market for Spanish-language films and Latin American cinema. SpainFilmCommission documents the major film festivals in Spain and their role in the international film industry. Cineuropa covers Spanish cinema news with English-language content. Madrid itself has a smaller film festival ecosystem: the Madrid International Film Festival (April/May), Alcine (Alcalá de Henares, November), and various genre festivals (Sitges - Fantasy, October). For Madrid-based film industry professionals, the Madrid Film Office supports international productions shooting in the city. Film festival attendance for industry: San Sebastián industry accreditation €200-€500, Málaga industry accreditation €150-€400. The festivals are major recruitment channels for international cinema professionals — programmers, distributors, sales agents, and producers.",
+    "official_url": "https://www.sansebastianfestival.com/in",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "film-festival",
+      "san-sebastian",
+      "malaga",
+      "cinema-industry",
+      "fiapf",
+      "international-festival",
+      "spanish-cinema",
+      "industry-accreditation"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "film-schools-madrid",
+      "acting-schools-madrid",
+      "music-summer-programs-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain hosts 2 of Europe's top film festivals",
+        "body": "San Sebastián (FIAPF A-category, September) and Málaga (Spanish cinema, March) are Spain's premier film festivals. Both recruit international cinema industry through English-language marketing.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "San Sebastián Festival",
+            "value": "September annually"
+          },
+          {
+            "label": "Málaga Festival",
+            "value": "March annually (March 6-15, 2026)"
+          },
+          {
+            "label": "San Sebastián FIAPF status",
+            "value": "A-category (1 of 15 worldwide)"
+          },
+          {
+            "label": "Industry accreditation",
+            "value": "€150-€500"
+          },
+          {
+            "label": "Distance from Madrid",
+            "value": "San Sebastián 4.5hrs by car; Málaga 3hrs by AVE"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Spanish film festivals",
+        "items": [
+          {
+            "title": "San Sebastián International Film Festival",
+            "body": "Spain's most prestigious. FIAPF A-category (1 of 15 worldwide). September. International competition + Spanish cinema + industry forum.",
+            "meta": [
+              "sansebastianfestival.com/in"
+            ]
+          },
+          {
+            "title": "Málaga Film Festival",
+            "body": "Premier Spanish-language cinema festival. March. 263 films in 2026 edition. Industry market for Spanish-language films + Latin American cinema.",
+            "meta": [
+              "festivaldemalaga.com/en"
+            ]
+          },
+          {
+            "title": "Sitges Film Festival",
+            "body": "International Fantastic Cinema (fantasy, horror, sci-fi). October. Catalonia (4hrs from Madrid). Genre industry hub."
+          },
+          {
+            "title": "Madrid International Film Festival",
+            "body": "April/May. Smaller international festival. Madrid-based."
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid film industry resources",
+        "items": [
+          {
+            "title": "Madrid Film Office",
+            "body": "City's film commission. Supports international productions shooting in Madrid. Permit help, location scouting."
+          },
+          {
+            "title": "ECAM (Madrid Film School)",
+            "body": "Pozuelo de Alarcón. See film-schools-madrid record. Industry networking + graduate talent."
+          },
+          {
+            "title": "Pedro Almodóvar's El Deseo",
+            "body": "Madrid-based production company. Spain's most internationally famous filmmaker."
+          },
+          {
+            "title": "Netflix Spain + Movistar+",
+            "body": "Both have Madrid production hubs. Recruit international crew + creators."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Attending Spanish film festivals (industry)",
+        "do": [
+          "Apply for industry accreditation 2-3 months ahead",
+          "Choose San Sebastián for international art house cinema",
+          "Choose Málaga for Spanish-language cinema market",
+          "Book accommodation 6+ months ahead for San Sebastián (small city fills up)",
+          "Use festivals to network with sales agents + distributors"
+        ],
+        "dont": [
+          "Don't expect to attend without accreditation — public tickets limited for industry sections",
+          "Don't underestimate San Sebastián accommodation costs (premium during festival)",
+          "Don't skip the industry forums — that's where real business happens"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "robotics-stem-camps-madrid",
+    "category": "do",
+    "subcategory": "family",
+    "title": "Robotics & STEM Summer Camps in Madrid (English)",
+    "summary": "Madrid robotics and STEM camps recruiting international kids: Enforex robotics, IE University Breakthrough Robotics, Summer Tech Camp Madrid Moncloa, Costa Blanca robotics camp. Ages 5-17. English instruction.",
+    "content": "Madrid's robotics and STEM summer camp ecosystem is growing rapidly, with multiple operators recruiting international kids through English-language marketing. Enforex includes robotics in its summer camp activities — using science, technology, engineering, and mathematics (STEM) where campers take on different challenges by designing and building robots. IE University runs Breakthrough Robotics as part of its Summer School — students aged 15-17 enhance STEM skills and explore engineering careers, taught at IE's Madrid campus in English. Summer Tech Camp Madrid (Moncloa) runs a Robotics and Video Games camp for ages 5-16 — Madrid-based, English-language options. The Campamento de Ajedrez (Chess Camp) organization also runs a Summer Tech Camp in Madrid combining robotics and video game development for ages 5-16. Costa Blanca Camp runs a Spanish and English Robotics Summer Camp in Elche (Alicante) for ages 10-17 — 12 weekly sessions spread over four afternoons, with international recruitment. The Madrid robotics camp market targets: (1) international parents wanting STEM enrichment for their kids, (2) expat families wanting to maintain English academic skills, (3) Spanish parents wanting English-language STEM exposure, (4) kids considering engineering careers. Programs typically run 1-2 weeks in July, with costs €300-€800/week for day camps and €800-€1,500/week for residential. Most programs use LEGO Mindstorms, VEX Robotics, or Arduino platforms. Madrid is particularly strong in robotics education due to the presence of universities (UPM Polytechnic, UC3M Carlos III) with strong engineering programs and active STEM outreach.",
+    "official_url": "https://www.enforex.com/summercamps/activities-robotics.html",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "robotics",
+      "stem",
+      "summer-camp",
+      "kids",
+      "english-language",
+      "engineering",
+      "madrid",
+      "video-games",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "english-summer-camps-madrid",
+      "pre-university-summer-madrid",
+      "soccer-camps-madrid",
+      "equestrian-camps-madrid",
+      "basketball-camps-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's STEM camp scene is growing",
+        "body": "Multiple operators recruit international kids for robotics/STEM camps. IE University, Enforex, Summer Tech Camp Madrid Moncloa, Costa Blanca Camp. €300-€800/week day, €800-€1,500/week residential. Ages 5-17.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ages",
+            "value": "5-17 (varies by camp)"
+          },
+          {
+            "label": "Day camp cost",
+            "value": "€300-€800/week"
+          },
+          {
+            "label": "Residential cost",
+            "value": "€800-€1,500/week"
+          },
+          {
+            "label": "Languages",
+            "value": "English + Spanish"
+          },
+          {
+            "label": "Platforms used",
+            "value": "LEGO Mindstorms, VEX Robotics, Arduino"
+          },
+          {
+            "label": "Season",
+            "value": "July (some June dates)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid robotics/STEM camps",
+        "items": [
+          {
+            "title": "Enforex Robotics (Madrid Summer Camp)",
+            "body": "STEM-based robotics activities. Campers design + build robots. International student focus. Madrid location.",
+            "meta": [
+              "enforex.com/summercamps/activities-robotics.html"
+            ]
+          },
+          {
+            "title": "IE University Breakthrough Robotics",
+            "body": "Ages 15-17. STEM skills + engineering careers exploration. IE Madrid campus. English-taught. Most prestigious Madrid STEM camp.",
+            "meta": [
+              "ie.edu/ie-summer-school/university/robotics-summer-camp"
+            ]
+          },
+          {
+            "title": "Summer Tech Camp Madrid (Moncloa)",
+            "body": "Robotics + Video Games camp. Ages 5-16. Madrid Moncloa location. English-language options.",
+            "meta": [
+              "campamentodeajedrez.com/summer-tech-camp-robotics-and-video-games"
+            ]
+          },
+          {
+            "title": "Costa Blanca Robotics Camp (Elche, Alicante)",
+            "body": "Spanish + English Robotics Summer Camp. Ages 10-17. 12 weekly sessions. International recruitment.",
+            "meta": [
+              "costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Booking Madrid robotics camps",
+        "do": [
+          "Book by March for July dates — popular camps fill by April",
+          "Choose IE University for ages 15-17 (most prestigious)",
+          "Choose Enforex for international student mix (60% Spanish / 40% international)",
+          "Verify the curriculum matches your child's level",
+          "Bring a laptop if required (some camps provide, some don't)"
+        ],
+        "dont": [
+          "Don't expect advanced robotics for under-10s (mostly LEGO WeDo basics)",
+          "Don't underestimate Madrid summer heat — confirm air-conditioned facilities",
+          "Don't book without confirming language of instruction"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooking-holidays-spain",
+    "category": "do",
+    "subcategory": "food",
+    "title": "Cooking Holidays & Culinary Vacations in Spain (English)",
+    "summary": "Spanish cooking holidays recruiting international foodies: Annie B (Andalusia), Esme Tours (custom culinary vacations), Flavours Holidays (Andalusia), Let's Eat the World (Seville 8-day). 3-8 day residential programs. €800-€2,500.",
+    "content": "Spain is one of Europe's premier cooking holiday destinations — combining world-class cuisine (tapas, paella, jamón, vermouth, sherry), regional specialties (Andalusia, Basque Country, Catalonia, Galicia), and a relaxed Mediterranean lifestyle. Multiple operators run English-language cooking holidays recruiting international food enthusiasts. Annie B Spain runs food and wine adventures in southern Spain — authentic Andalusian slow food culture for people who love local food. Esme Tours (Spanish Sabores) offers culinary vacations in Spain ranging from three nights to a week, custom-built per group. Flavours Holidays runs Spanish Cooking Holidays in Andalusia — learn to cook traditional Spanish cuisine in warm Andalusian sun. Let's Eat the World runs an 8-day cooking holiday in Seville with a local chef — markets, flamenco, Jerez, hands-on Andalusian cooking for all levels, small group format. Tripaneer lists 20+ top culinary vacations in Spain — experience places through flavors, cooking classes, and food markets. The Spanish cooking holiday market targets: (1) serious foodies wanting authentic culinary immersion, (2) couples wanting food + travel combination, (3) food professionals wanting Spanish technique exposure, (4) empty nesters wanting relaxed learning holidays. Programs typically run 3-8 days residential, with costs €800-€2,500/person including accommodation, all meals, cooking classes, market visits, and excursions. Most cooking holidays include: hands-on cooking classes (2-4 hours/day), market visits, winery or sherry bodega tours, cultural excursions, and meals at restaurants. Best regions for cooking holidays: Andalusia (Seville, Jerez, Granada — tapas, sherry, gazpacho), Basque Country (San Sebastián — pintxos, Michelin stars), Catalonia (Barcelona — Mediterranean cuisine), Galicia (seafood, white wine). Madrid-area cooking holidays are less common but the city is the culinary gateway — most cooking holidays include Madrid arrival/departure.",
+    "official_url": "https://www.anniebspain.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "cooking-holiday",
+      "culinary-vacation",
+      "food-tour",
+      "spanish-cuisine",
+      "andalusia",
+      "english-speaking",
+      "international-foodies",
+      "residential"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "culinary-schools-madrid",
+      "cooking-classes-tourists-madrid",
+      "chef-masterclass-madrid",
+      "devour-madrid-food-tours",
+      "food-tours-madrid",
+      "wine-tours-from-madrid",
+      "mercados-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain = top European cooking holiday destination",
+        "body": "Multiple operators run 3-8 day English-language cooking holidays in Spain. Annie B (Andalusia), Esme Tours, Flavours Holidays, Let's Eat the World (Seville). €800-€2,500/person including accommodation, meals, classes.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "3-8 days residential"
+          },
+          {
+            "label": "Cost per person",
+            "value": "€800-€2,500"
+          },
+          {
+            "label": "Includes",
+            "value": "Accommodation, all meals, cooking classes, market visits, excursions"
+          },
+          {
+            "label": "Languages",
+            "value": "English"
+          },
+          {
+            "label": "Best regions",
+            "value": "Andalusia, Basque Country, Catalonia, Galicia"
+          },
+          {
+            "label": "Class time",
+            "value": "2-4 hours/day cooking"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Spanish cooking holiday operators",
+        "items": [
+          {
+            "title": "Annie B Spain (Andalusia)",
+            "body": "Food & wine adventures in southern Spain. Authentic Andalusian slow food culture. For people who love local food.",
+            "meta": [
+              "anniebspain.com"
+            ]
+          },
+          {
+            "title": "Esme Tours (Spanish Sabores)",
+            "body": "Custom culinary vacations in Spain. 3 nights to 1 week. Custom-built per group.",
+            "meta": [
+              "spanishsabores.com/traditional-spanish-cooking-classes-with-esme-tours"
+            ]
+          },
+          {
+            "title": "Flavours Holidays (Andalusia)",
+            "body": "Spanish Cooking Holidays in warm Andalusian sun. Traditional Spanish cuisine. Andalusian delights including jamón.",
+            "meta": [
+              "flavoursholidays.co.uk/cooking-holidays-in-italy/andalusia"
+            ]
+          },
+          {
+            "title": "Let's Eat the World (Seville 8-day)",
+            "body": "8-day cooking holiday in Seville with local chef. Markets, flamenco, Jerez, hands-on Andalusian cooking. Small group.",
+            "meta": [
+              "letseattheworld.com/course/week-in-seville-cooking-holidays-spain"
+            ]
+          },
+          {
+            "title": "Tripaneer Spain Culinary Vacations",
+            "body": "20+ top culinary vacations in Spain. Compare and book. Various regions + formats.",
+            "meta": [
+              "tripaneer.com/all/c/culinary/d/spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Best Spanish regions for cooking holidays",
+        "items": [
+          {
+            "title": "Andalusia (Seville, Jerez, Granada)",
+            "body": "Tapas culture, sherry, gazpacho, jamón ibérico. Most popular region for cooking holidays. Seville + Jerez sherry country + Granada Albaicín."
+          },
+          {
+            "title": "Basque Country (San Sebastián)",
+            "body": "Pintxos (Basque tapas), Michelin stars (most per capita in Europe), Basque cuisine. Most gourmet option."
+          },
+          {
+            "title": "Catalonia (Barcelona + Costa Brava)",
+            "body": "Mediterranean cuisine, fresh seafood, modernist cuisine (El Bulli legacy). Barcelona-based cooking holidays."
+          },
+          {
+            "title": "Galicia (Santiago de Compostela)",
+            "body": "Seafood (percebes, pulpo), Albariño white wine, green landscape. Less touristy than south."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish cooking holiday",
+        "do": [
+          "Book 2-3 months ahead for spring/fall (peak seasons)",
+          "Choose Andalusia (Seville/Jerez) for most authentic Spanish tapas",
+          "Choose San Sebastián for gourmet/Michelin experience",
+          "Tell operator about dietary restrictions at booking",
+          "Bring comfortable shoes for market visits + cooking"
+        ],
+        "dont": [
+          "Don't expect luxury at every program — some cooking holidays are rustic",
+          "Don't book without reading reviews on Tripadvisor/Tripaneer",
+          "Don't skip the market visits — they're the highlight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theater-festivals-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Theater & Performing Arts Festivals in Madrid",
+    "summary": "Madrid theater festivals recruiting international audiences: Teatralia (March, performing arts for children/youth), Mérida International Classical Theatre Festival (July), Madrid's broader performing arts festival ecosystem. English-friendly programming.",
+    "content": "Madrid hosts multiple theater and performing arts festivals throughout the year, several with international recruitment focus. Teatralia Festival is Madrid's premier performing arts festival for children and youth — held in March (30th edition March 6-29, 2026) with shows combining theatre, puppets, magic, circus, and dance. The festival is documented by esMadrid (official Madrid tourism portal) and listed by ASSITEJ International (International Association of Theatre for Children and Young People). The Mérida International Classical Theatre Festival is Spain's leading classical theatre festival — held in July in Mérida (Extremadura, 3 hours from Madrid by car/train). 70 editions of the festival have been held, each attracting tens of thousands of spectators — making it one of the leading theatre festivals in the Spanish-speaking world. American Theatre magazine documents summer theatre festivals across the globe including Spanish options. Critical Stages maintains an international theatre and performing arts festival guide with Spanish entries. Madrid itself has multiple year-round theater offerings: Teatro Español (classical Spanish theater), Teatro de la Abadía (contemporary), Teatros del Canal (international programming), and the Fernán Gómez Centro Cultural de la Villa. The Madrid theater festival ecosystem targets: (1) international theater professionals wanting Spanish-language work exposure, (2) families wanting children's programming (Teatralia), (3) classical theater enthusiasts (Mérida), (4) Spanish-language theater students. Most festivals have English-language programming information available. Theater ticket costs in Madrid: €15-€60 for regular performances, €20-€80 for festival performances. The Mérida Classical Theatre Festival is unique — staged in the Roman Theatre of Mérida (3rd century AD, UNESCO World Heritage), one of the world's most atmospheric classical performance venues.",
+    "official_url": "https://www.esmadrid.com/en/whats-on/teatralia",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "theater-festival",
+      "performing-arts",
+      "teatralia",
+      "merida",
+      "classical-theater",
+      "international-audience",
+      "english-language"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "acting-schools-madrid",
+      "film-schools-madrid",
+      "flamenco-madrid",
+      "magic-comedy-madrid",
+      "music-summer-programs-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's theater festival ecosystem",
+        "body": "Multiple festivals run throughout the year: Teatralia (March, children/youth), Mérida Classical (July, Roman theater venue), plus Madrid's year-round theater scene. Most programming accessible to English speakers.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Teatralia Festival",
+            "value": "March annually (2026: March 6-29, 30th edition)"
+          },
+          {
+            "label": "Mérida Classical Theatre Festival",
+            "value": "July annually (70+ editions)"
+          },
+          {
+            "label": "Mérida venue",
+            "value": "Roman Theatre (3rd century AD, UNESCO)"
+          },
+          {
+            "label": "Ticket costs",
+            "value": "€15-€60 regular, €20-€80 festival"
+          },
+          {
+            "label": "Distance Madrid → Mérida",
+            "value": "3 hours by car/train"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Madrid-accessible theater festivals",
+        "items": [
+          {
+            "title": "Teatralia Festival (Madrid)",
+            "body": "March. 30th edition 2026. Performing arts for children and youth. Theater, puppets, magic, circus, dance. Madrid venues.",
+            "meta": [
+              "esmadrid.com/en/whats-on/teatralia"
+            ]
+          },
+          {
+            "title": "Mérida International Classical Theatre Festival",
+            "body": "July. 70+ editions. Staged in Roman Theatre of Mérida (3rd century AD, UNESCO). Tens of thousands of spectators. 3hrs from Madrid.",
+            "meta": [
+              "festivaldemerida.es/en/the-festival"
+            ]
+          },
+          {
+            "title": "ASSITEJ International festival listings",
+            "body": "International Association of Theatre for Children/Young People. Lists Spanish festivals including Teatralia.",
+            "meta": [
+              "assitej-international.org/festival/teatralia-festival-de-artes-escenicas-para-ninos-y-jovenes-teatralia-performing-arts-festival-for-childrens-youthful"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid's year-round theater venues",
+        "items": [
+          {
+            "title": "Teatro Español",
+            "body": "Plaza de Santa Ana. Classical Spanish theater (Calderón, Lope de Vega, García Lorca). Historic venue."
+          },
+          {
+            "title": "Teatro de la Abadía",
+            "body": "Contemporary theater. Spanish + international work. Critical darling."
+          },
+          {
+            "title": "Teatros del Canal",
+            "body": "International programming. Dance + theater. Modern venue."
+          },
+          {
+            "title": "Fernán Gómez Centro Cultural de la Villa",
+            "body": "Municipal cultural center. Theater, exhibitions, cinema. Plaza de Colón."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Theater festivals in Spain",
+        "do": [
+          "Book Mérida Festival 2-3 months ahead — limited seating at Roman Theatre",
+          "Combine Mérida Festival with visit to Mérida's Roman ruins (UNESCO)",
+          "Choose Teatralia for family-friendly programming",
+          "Check Spanish-language vs. English-language performances (most are Spanish)",
+          "Visit Madrid's Teatro Español for classical Spanish theater year-round"
+        ],
+        "dont": [
+          "Don't expect English-language performances at most Spanish theater",
+          "Don't skip Mérida's archaeological site (UNESCO) while at the festival",
+          "Don't underestimate Madrid theater scene — major year-round programming"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-spanish-executives-madrid",
+    "category": "essentials",
+    "subcategory": "communication",
+    "title": "Business Spanish Courses for Executives in Madrid (English-Speaking)",
+    "summary": "Madrid business Spanish courses for executives: LSI Madrid (50+ years), TANDEM Madrid (intensive 1+ week), SpainIEE (1-4 weeks), Expanish Madrid. Recruiting international professionals. €500-€1,500/week.",
+    "content": "Madrid has a dedicated ecosystem of business Spanish courses designed for executives and professionals, with multiple operators recruiting international students through English-language marketing. LSI Madrid (Language Studies International) offers Business Spanish courses for professionals in small groups and private lessons — 50+ years of language training expertise. Language International lists business Spanish courses in Spain for business executives wanting to learn Spanish for Spanish business — 2-16 week courses. TANDEM Madrid runs an intensive Spanish for Business program lasting at least a week, including 20 group lessons per week + 10 private lessons. SpainIEE offers Spanish Courses for Professionals and Executives with 20 lessons including workshops + 5 individual tutorial lessons, duration 1-4 weeks. Expanish runs Madrid-based Spanish courses including intensive options for professionals — 'the perfect place to start your Spanish language journey!' The business Spanish market targets: (1) international executives being relocated to Spain or Latin America, (2) professionals doing business with Spanish-speaking clients, (3) MBA students wanting Spanish for Latin American markets, (4) diplomats and international organization staff. Programs typically run 1-4 weeks intensive, with costs €500-€1,500/week depending on group vs. private, intensity, and prestige of school. Most business Spanish programs include: business vocabulary (finance, marketing, HR), professional writing (emails, reports, presentations), cultural business etiquette, negotiation Spanish, and meeting facilitation. Some programs include industry-specific modules (banking, healthcare, engineering, law). Madrid is the natural destination for business Spanish because it's Spain's commercial capital — home to BBVA, Santander, Iberia, Inditex, Telefónica headquarters, plus the Madrid Stock Exchange and IE Business School.",
+    "official_url": "https://www.lsi.edu/en/business/spain/spanish-courses-for-professionals-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "business-spanish",
+      "executive-spanish",
+      "professional-spanish",
+      "lsi",
+      "tandem-madrid",
+      "spainiee",
+      "expanish",
+      "international-professionals"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "instituto-cervantes-accredited-schools-madrid",
+      "spanish-immersion-adults-spain",
+      "spanish-history-culture-courses-madrid",
+      "language-schools-madrid",
+      "international-chambers-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid business Spanish = professional upskilling",
+        "body": "Multiple Madrid schools offer business Spanish for executives: LSI (50+ years), TANDEM Madrid, SpainIEE, Expanish. €500-€1,500/week. Madrid is Spain's commercial capital — natural destination for business Spanish.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Program length",
+            "value": "1-4 weeks intensive"
+          },
+          {
+            "label": "Cost per week",
+            "value": "€500-€1,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English-administered, Spanish-taught"
+          },
+          {
+            "label": "Top school",
+            "value": "LSI Madrid (50+ years experience)"
+          },
+          {
+            "label": "Includes",
+            "value": "Group lessons + private tutorials + workshops"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid business Spanish schools",
+        "items": [
+          {
+            "title": "LSI Madrid (Language Studies International)",
+            "body": "50+ years experience. Small groups + private lessons. Business Spanish for professionals.",
+            "meta": [
+              "lsi.edu/en/business/spain/spanish-courses-for-professionals-madrid"
+            ]
+          },
+          {
+            "title": "TANDEM Madrid",
+            "body": "Intensive Spanish for Business program. Min. 1 week. 20 group lessons + 10 private lessons/week.",
+            "meta": [
+              "tandemmadrid.com/c/business-spanish-course"
+            ]
+          },
+          {
+            "title": "SpainIEE",
+            "body": "Spanish for Professionals + Executives. 20 lessons + workshops + 5 individual tutorials. 1-4 weeks.",
+            "meta": [
+              "spainiee.com/en/courses/spanish-courses-professionals-executives"
+            ]
+          },
+          {
+            "title": "Expanish Madrid",
+            "body": "Intensive Spanish Courses including business focus. Madrid location. Professional student focus.",
+            "meta": [
+              "expanish.com/school-madrid"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What business Spanish programs cover",
+        "items": [
+          {
+            "title": "Business vocabulary",
+            "body": "Finance, marketing, HR, sales, operations. Industry-specific terms."
+          },
+          {
+            "title": "Professional writing",
+            "body": "Business emails, reports, presentations, contracts. Formal Spanish conventions."
+          },
+          {
+            "title": "Business etiquette",
+            "body": "Spanish business culture: meetings, networking, gift-giving, hierarchy, time expectations."
+          },
+          {
+            "title": "Negotiation Spanish",
+            "body": "Persuasion, agreement, disagreement, closing deals. Cultural negotiation styles."
+          },
+          {
+            "title": "Industry-specific modules",
+            "body": "Some programs offer banking, healthcare, engineering, or legal Spanish specialization."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Madrid business Spanish course",
+        "do": [
+          "Choose LSI Madrid for most established (50+ years) program",
+          "Choose TANDEM for intensive 1-week minimum format",
+          "Tell the school your industry (some offer specialization)",
+          "Combine course with networking events (AmCham, British Chamber)",
+          "Plan 2-4 weeks for meaningful business Spanish improvement"
+        ],
+        "dont": [
+          "Don't expect to learn business Spanish in 1 week — minimum 2 for meaningful progress",
+          "Don't skip cultural business etiquette module — Spain has specific conventions",
+          "Don't choose general Spanish course for business needs — business programs differ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "creative-writing-workshops-madrid",
+    "category": "do",
+    "subcategory": "arts",
+    "title": "Creative Writing Workshops in Madrid (English)",
+    "summary": "Madrid creative writing workshops recruiting English-language writers: SLU-Madrid Creative Writing Summer Institute, IE University Paul Pen workshops, Círculo de Bellas Artes writing workshops, UpTrek writing retreats Spain.",
+    "content": "Madrid has a small but growing English-language creative writing workshop ecosystem, with multiple institutions recruiting international writers. Saint Louis University (SLU) Madrid runs a Creative Writing Summer Institute — an intensive, workshop-based program designed for writers at every stage of their practice, taught at SLU's Madrid campus. IE University runs Write Short Stories, a series of creative writing workshops led by Spanish author and screenwriter Paul Pen in Madrid and Segovia. Círculo de Bellas Artes (one of Madrid's premier cultural centers) runs creative writing workshops (taller de escritura creativa) — the first part begins with an overview of the genre and introduction to famous authors. UpTrek runs Creative Development and Writing Retreats with bestselling author Courtney Maum in Spain — writing sessions, individual tutoring, and a structured program. A Madrid-based literary non-profit (referenced in Madrid Expats Facebook group) has been organizing creative writing workshops and author talks online and in person — useful for ongoing workshop community. The Madrid creative writing market targets: (1) English-language writers wanting structured workshop feedback, (2) expats wanting creative community in Madrid, (3) aspiring novelists wanting professional instruction, (4) serious hobbyists wanting skill development. Programs range from 1-day workshops (€80-€150) to multi-week summer institutes (€1,000-€2,500). Madrid is attractive for creative writing because of its literary tradition (Cervantes, Lope de Vega, Benito Pérez Galdós, Javier Marías), vibrant contemporary writing scene, and lower cost than London/New York writing workshops. The Barrio de las Letras (Literary Quarter) is the spiritual home of Spanish Golden Age literature and a frequent workshop venue.",
+    "official_url": "https://www.slu.edu/madrid/academics/departments/humanities-and-social-sciences/english/creative-writing-summer-institute.php",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "creative-writing",
+      "writing-workshop",
+      "english-language",
+      "slu-madrid",
+      "ie-university",
+      "circulo-bellas-artes",
+      "writers",
+      "international-students"
+    ],
+    "last_updated": "2026-07-24",
+    "status": "annual review",
+    "related_records": [
+      "writer-residencies-spain",
+      "literary-quarter-madrid",
+      "artist-residencies-madrid",
+      "photography-workshops-madrid",
+      "film-schools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's English creative writing scene",
+        "body": "SLU-Madrid, IE University, Círculo de Bellas Artes, UpTrek all offer English-language creative writing workshops. From €80 (1-day) to €2,500 (multi-week). Madrid's literary tradition + lower cost than London/NYC.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "1-day workshop cost",
+            "value": "€80-€150"
+          },
+          {
+            "label": "Multi-week institute",
+            "value": "€1,000-€2,500"
+          },
+          {
+            "label": "Languages",
+            "value": "English (some Spanish option)"
+          },
+          {
+            "label": "Top program",
+            "value": "SLU-Madrid Creative Writing Summer Institute"
+          },
+          {
+            "label": "Best for aspiring novelists",
+            "value": "IE University Paul Pen workshops"
+          },
+          {
+            "label": "Literary tradition",
+            "value": "Cervantes, Lope de Vega, Galdós, Marías"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified Madrid creative writing workshops",
+        "items": [
+          {
+            "title": "SLU-Madrid Creative Writing Summer Institute",
+            "body": "Intensive workshop-based program. Writers at every stage. Saint Louis University Madrid campus. English-language.",
+            "meta": [
+              "slu.edu/madrid/academics/departments/humanities-and-social-sciences/english/creative-writing-summer-institute.php"
+            ]
+          },
+          {
+            "title": "IE University — Write Short Stories with Paul Pen",
+            "body": "Creative writing workshops led by Spanish author + screenwriter Paul Pen. Madrid + Segovia. Short story focus.",
+            "meta": [
+              "ie.edu/school-arts-humanities/think-big-write-short-stories-workshop-creative-writing-paul-pen"
+            ]
+          },
+          {
+            "title": "Círculo de Bellas Artes — Creative Writing Workshop",
+            "body": "Madrid's premier cultural center. Genre overview + famous author introductions. Spanish + English options.",
+            "meta": [
+              "circulobellasartes.com/en/talleres/taller-de-escritura-creativa"
+            ]
+          },
+          {
+            "title": "UpTrek — Creative Development Writing Retreat Spain",
+            "body": "Writing retreat with bestselling author Courtney Maum. Writing sessions, individual tutoring, structured program.",
+            "meta": [
+              "uptrek.com/retreat/creative-development-writing-retreat-bestselling-author-courtney-maum-spain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid literary landmarks",
+        "items": [
+          {
+            "title": "Barrio de las Letras (Literary Quarter)",
+            "body": "Calle de las Huertas + Plaza de Santa Ana. Cervantes, Lope de Vega, Góngora lived here. Plaques with literary quotes on sidewalks."
+          },
+          {
+            "title": "Casa Museo Lope de Vega",
+            "body": "Calle de Cervantes 11. Lope de Vega's house museum (where he lived 1610-1635). Restored. Small but authentic."
+          },
+          {
+            "title": "Biblioteca Nacional (National Library)",
+            "body": "Paseo de Recoletos. Spanish literary archive. Cervantes manuscripts, Goya drawings, historical maps."
+          },
+          {
+            "title": "Café Gijón",
+            "body": "Paseo de Recoletos 21. Historic literary café (since 1914). Spanish writers' meeting place. Still operates."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Madrid creative writing workshop",
+        "do": [
+          "Choose SLU-Madrid for most established English-language program",
+          "Choose IE University Paul Pen for short story focus",
+          "Combine workshop with visits to Barrio de las Letras (literary quarter)",
+          "Bring work-in-progress for workshop feedback",
+          "Plan 2+ weeks for meaningful progress + Madrid immersion"
+        ],
+        "dont": [
+          "Don't expect MFA-level training in 1-day workshops",
+          "Don't skip the workshop feedback process — that's the point",
+          "Don't forget to visit Café Gijón — historic literary café"
         ]
       }
     ]
