@@ -10327,8 +10327,8 @@
   {
     "id": "language-exchanges-madrid",
     "title": "Language Exchanges (Intercambios)",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "summary": "Free language exchange meetups in Madrid. Practice Spanish with locals, help them with English. Bars and cafés.",
     "content": "Intercambios (language exchanges) are meetups where you practice Spanish with locals and help them with English (or your native language). Free, social, and a great way to meet people. Major Madrid intercambios: (1) Madrid Babel — every Wednesday 9pm at The Dubliner (c/ San Vincente Ferrer 33, Malasaña). The original and biggest. Free entry, just buy a drink. (2) Mundo Lingo — every Thursday 9pm at different bars (check their website). Participants wear flag stickers showing what languages they speak. (3) Interpals / Conversation Exchange — online platforms to find 1-on-1 partners. (4) Meetup.com — search 'Madrid language exchange' for dozens of meetups. (5) University intercambios — Universidad Complutense and Carlos III host free exchanges for international and Spanish students. Tips: (1) Don't be shy — everyone is there to practice. (2) Spend half the time in Spanish, half in English. (3) Bring a notebook for new vocabulary. (4) Be patient with beginners. (5) Avoid the 'all English trap' — it's easy to default to English, force yourself to use Spanish.",
     "official_url": "https://www.meetup.com/find/?keywords=language%20exchange&location=es--Madrid",
@@ -10351,7 +10351,7 @@
       "acting-schools-madrid",
       "spanish-immersion-adults-spain"
     ],
-    "subsubcategory": "Learning",
+    "subsubcategory": "Language Learning",
     "sections": [
       {
         "type": "callout",
@@ -13470,8 +13470,8 @@
   {
     "id": "supermarkets-grocery-madrid",
     "title": "Supermarkets & Grocery Stores in Madrid",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "food",
     "summary": "Main chains: Mercadona (best value), Carrefour (largest), El Corte Inglés (premium), Lidl, Aldi. Open Mon-Sat 9am-9:30pm.",
     "content": "Madrid's supermarket scene. MAIN CHAINS: (1) Mercadona — Spain's largest, Spanish-owned, best value. ~40 stores in Madrid. Own-brand (Hacendado) is excellent quality. Known for fresh meat/fish counter (ask for what you want). Open Mon-Sat 9am-9:30pm. Closed Sundays. (2) Carrefour — French, largest hypermarkets (Carrefour Planet in Pinto, Alcobendas). Good international section, electronics, clothing. Some open Sundays. (3) El Corte Inglés Supermercados (Supercor, Hipercor) — premium, higher prices but excellent quality. Open Sundays 11am-9pm. Good for international products. (4) Lidl — German discount, good quality own-brand. ~25 stores. (5) Aldi — German discount, similar to Lidl. (6) Dia — Spanish discount, ~80 stores, very cheap. (7) Consum — Spanish, mid-range. (8) Ahorramás — Spanish, ~50 stores. INTERNATIONAL GROCERY: (1) Mantequerías Alemanas (Calle de Ayala) — German products. (2) Tatsumi (Calle del General Yagüe) — Japanese. (3) Seoul (Calle de la Princesa) — Korean. (4) El Mercado de la Cebada — Latin American products. (5) Calle de Lavapiés — Indian, Pakistani, African shops. TIPS: (1) Bring your own bags (€0.10/bag charge). (2) Most supermarkets don't take American Express. (3) Mercadona is cashless at many stores — bring Visa/Mastercard. (4) Self-checkout available at most (English option). (5) Sunday: only El Corte Inglés, Supercor, some Carrefour, and neighborhood 'ultramarinos' (small corner shops) are open.",
     "official_url": "https://www.mercadona.es/",
@@ -13491,7 +13491,7 @@
       "post-office-madrid",
       "health-food-stores-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Grocery & Food Stores",
     "sections": [
       {
         "type": "table",
@@ -14096,15 +14096,15 @@
   {
     "id": "computer-electronics-stores-madrid",
     "title": "Computer & Electronics Stores",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "shopping",
     "summary": "PcComponentes (best online), MediaMarkt (large retail), El Corte Inglés (premium), Apple Store Gran Vía.",
     "content": "Madrid electronics shopping. LARGE RETAIL CHAINS: (1) MediaMarkt — German, large electronics superstores. 8+ locations in Madrid area. Competitive prices, good selection. Open Mon-Sat 10am-10pm, some Sundays. (2) PcComponentes — Spanish online-only, often cheapest prices. Order online, deliver to home or pickup point. Excellent customer service. (3) El Corte Inglés (multiple, especially Castellana and Goya) — premium, higher prices but excellent service and 14-day returns. Open Sundays. (4) Worten (Portuguese) — similar to MediaMarkt, fewer locations. (5) Boulanger (French) — small premium chain. APPLE: (1) Apple Store Gran Vía (Calle Gran Vía 54) — flagship store, opened 2022. Genius Bar, all products. English-speaking staff. Open daily 10am-9pm. (2) Apple Store La Gavia (shopping mall south of Madrid) — smaller. (3) Apple Premium Resellers: K-tuin (multiple), Urule (Calle de Alcalá). COMPUTER PARTS (DIY): (1) PcComponentes (online) — best selection. (2) Coolmod (online) — gaming specialist. (3) Appinformática (Calle de la Princesa) — small retail store. REPAIR: (1) Tech Station (multiple) — phone and computer repair. (2) Mr. Phone (multiple) — phone repair. (3) Apple authorized service: K-tuin, Urule. TIPS: (1) Spanish warranty is 3 years on electronics (EU law). (2) VAT (IVA) 21% included in displayed prices. (3) Compare prices on idealo.es before buying. (4) El Corte Inglés price-matches MediaMarkt and PcComponentes — show them the lower price. (5) Black Friday (November) and Amazon Prime Day (July) have the best sales.",
     "official_url": "https://www.pccomponentes.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "electronics",
@@ -14116,7 +14116,7 @@
       "sim-cards-madrid",
       "supermarkets-grocery-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Specialty Shops",
     "sections": [
       {
         "type": "table",
@@ -16006,7 +16006,7 @@
     "id": "left-luggage-bus-station",
     "title": "Left Luggage at Bus Stations (Estación Sur)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Left luggage at Estación Sur (Méndez Álvaro) bus station. €3/bag/day. Open 6am-midnight.",
     "content": "Estación Sur (also called Méndez Álvaro) — Madrid's main long-distance bus station — has left luggage. LOCATION: inside the station, ground floor, near platform 1. Follow signs for 'Consignas'. PRICES: €3/bag/day (any size). Cheapest left luggage in Madrid. HOURS: 6am-midnight daily (last drop-off 11:30pm). SECURITY: bags are X-rayed. ID required. Staffed with CCTV. TIPS: (1) Estación Sur is the cheapest option (€3 vs €3.90-5.50 at train stations). (2) Located south of center — take Metro L6 to Méndez Álvaro (15 min from Sol). (3) Less crowded than Atocha. (4) The bus station has food courts and shops while you wait. (5) Other bus stations (Moncloa, Plaza Elíptica) do NOT have left luggage — only Estación Sur. (6) Don't leave valuables. (7) Keep your claim ticket. ALTERNATIVE: If you're near Moncloa or Plaza Elíptica, consider taking the Metro to Estación Sur specifically for the cheaper luggage storage.",
     "official_url": "https://www.alsa.com/en/bus-stations/madrid-sur-station",
@@ -16050,7 +16050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "public-storage-trasteros",
@@ -16409,9 +16410,9 @@
   {
     "id": "optical-shops-madrid",
     "title": "Optical Shops (Ópticas) in Madrid",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "do",
+    "subcategory": "shopping",
+    "subsubcategory": "Specialty Shops",
     "summary": "Optical shops: Óptica Universitaria, Alain Afflelou, Multiópticas. Eye exams €40-80, glasses €80-300.",
     "content": "Optical shops (ópticas) in Madrid. MAIN CHAINS: (1) Alain Afflelou — French chain, 50+ Madrid locations, eye exams €40-60, glasses from €80. (2) Multiópticas — Spanish chain, similar pricing. (3) Óptica Universitaria (Calle Gran Vía 28) — central, popular with students. (4) Cottet — Catalan chain, premium. (5) Óptica Suiza — high-end. INDEPENDENT: (1) Óptica Besada (Calle de la Velázquez 21) — English-speaking, premium. (2) Óptica Val (Calle de la Alcalá 55) — mid-range. SERVICES: Eye exams (examen de la vista) €40-80, sometimes free with glasses purchase. Contact lens fitting €50-80. Glasses (gafas) from €80 (basic) to €300+ (designer). Contact lenses (lentillas) €30-60/month. Sunglasses (gafas de sol) from €50. INSURANCE: Spanish public health covers eye exams for under-18s and over-65s. Private insurance (Sanitas, Adeslas) often includes optical coverage €100-200/year. TIPS: (1) Bring your prescription — Spanish opticians accept international prescriptions. (2) Glasses are ready in 1-2 hours for standard lenses, 1-2 weeks for special prescriptions. (3) Tax-free shopping available for non-EU residents on purchases over €90. (4) Bargaining is not common but chains sometimes offer promotions (2-for-1, free eye exam with purchase).",
     "official_url": "https://www.afflelou.com/",
@@ -16441,9 +16442,9 @@
   {
     "id": "music-stores-madrid",
     "title": "Music Stores in Madrid",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "do",
+    "subcategory": "shopping",
+    "subsubcategory": "Specialty Shops",
     "summary": "Music stores: El Corte Inglés music, Discos Melopelo (vinyl), Mariscal (instruments). CDs €10-20, vinyl €15-30.",
     "content": "Music stores in Madrid. CD/DVD: (1) El Corte Inglés (multiple) — Spain's largest CD/DVD selection, 7th floor of Castellana store. Mainstream and Spanish artists. CDs €10-18, DVDs €10-20. (2) FNAC (Calle Marqués de Casa Riera 4) — good selection, similar pricing. VINYL: (1) Discos Melopelo (Calle de la Colegiata 12, La Latina) — Madrid's best vinyl shop, new and used, €15-30 per LP. Jazz, rock, flamenco, electronic. (2) Flash Records (Calle de la Escorial 6, Malasaña) — used vinyl, €10-25. (3) Bicolor Music (Calle de la Pez 8) — new vinyl, focus on indie. (4) Disco 100 (Calle de la Montera 30) — dance/electronic vinyl. INSTRUMENTS: (1) Mariscal (Calle de la Marqués de Cubas 4) — Madrid's oldest music shop (1921), guitars, violins, brass. (2) Casa Luthier (Calle de la Balmes 22) — classical guitars, high-end. (3) Yamaha Music Madrid (Calle de la Alcalá 119) — pianos, keyboards, all instruments. (4) Guitar Center Madrid (Calle de la Atocha 28) — guitars, amps. CONCERT TICKETS: (1) El Corte Inglés ticket counters — large events. (2) Tick Tack Ticket (online) — most concerts. (3) Wegow (online) — indie concerts. TIPS: (1) Vinyl is having a renaissance in Madrid — Melopelo is the must-visit. (2) Spanish music to look for: flamenco (Paco de Lucía, Camarón), pop (Alaska, Rosalía), rock (Héroes del Silencio, Jarabe de Palo). (3) El Corte Inglés has the best selection of Spanish classical and flamenco CDs.",
     "official_url": "https://www.elcorteingles.es/",
@@ -16483,9 +16484,9 @@
   {
     "id": "international-grocery-madrid",
     "title": "International Grocery Stores",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "do",
+    "subcategory": "food",
+    "subsubcategory": "Grocery & Food Stores",
     "summary": "International food: Mantequerías Alemanas (German), Tatsumi (Japanese), Seoul (Korean), Lavapiés (Indian/African).",
     "content": "International grocery stores in Madrid for expat and specialty foods. BRITISH/IRISH: (1) The Irish Shop (Calle de la Espíritu Santo 1, Malasaña) — HP sauce, Marmite, Cadbury, Walker's crisps. (2) UK food sections at El Corte Inglés (Castellana, Goya) — PG Tips, McVitie's, Colman's. GERMAN: (1) Mantequerías Alemanas (Calle de Ayala 25, Salamanca) — German bread, sausages, beer, mustard. Established 1930. JAPANESE: (1) Tatsumi (Calle del General Yagüe 14) — Japanese groceries, sushi-grade fish, miso, nori, sake. (2) Warehouse Japanese Market (Calle de la Orense 31) — larger selection. KOREAN: (1) Seoul (Calle de la Princesa 5) — kimchi, gochujang, Korean snacks. (2) Korean Market (Calle de la Luna 3) — smaller. CHINESE: (1) Casa Asia (Calle del Cardenal Cisneros 9) — has a small Asian food section. (2) Barrio de Usera (south Madrid) — Madrid's Chinatown, 20+ Chinese supermarkets. INDIAN/PAKISTANI: (1) Lavapiés neighborhood (Calle de Lavapiés, Calle de la Ollerías) — 10+ Indian grocery stores, spices, lentils, basmati. (2) Yatai Market (Calle de la Lavapiés 28) — pan-Asian. LATIN AMERICAN: (1) Mercado de la Cebada (La Latina) — Latin American products. (2) Calle de la Tolmo (Lavapiés) — Peruvian, Colombian, Ecuadorian. AFRICAN: (1) Calle de la Lavapiés (south end) — Senegalese, Nigerian products. HALAL: (1) Halal Butcher shops in Lavapiés and Cuatro Caminos. ITALIAN: (1) Obika (various) — mozzarella bar, Italian products. (2) Giglio (Calle de la Jorge Juan 10) — Italian deli. AMERICAN: (1) Taste of America (Calle de la Modesto Lafuente 45) — American candy, baking supplies, Pepsi Wild Cherry. TIPS: (1) El Corte Inglés Gourmet section (Castellana) has the best all-in-one international selection. (2) For Asian ingredients, Usera is cheapest. (3) For Latin American, La Latina is best. (4) Most international stores are closed Sundays.",
     "official_url": "https://www.elcorteingles.es/",
@@ -25026,8 +25027,8 @@
   },
   {
     "id": "spanish-immersion-adults-spain",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "title": "Spanish Immersion Programs for Adults in Spain",
     "summary": "Adult Spanish immersion programs in Spain: Pueblo Español (8-day intensive, €1,800-€2,500), Expanish Young Adults (16-20), Harvard Summer School Madrid (8 weeks), IES Abroad. Recruit international adults.",
     "content": "Adult Spanish immersion programs are one of the most established English-language recruitment channels into Spain. These programs run intensive Spanish-language courses specifically designed for adult (and young adult) international students — combining formal language classes with cultural activities, homestays, and immersion experiences. Pueblo Español is a multi-day Spanish immersion program in Spain designed to greatly increase Spanish listening and communication skills — they offer 8-day intensives (€1,800-€2,500) in various Spanish cities including Madrid area. Expanish runs a Young Adults Program for ages 16-20 with small group classes, life skills workshops, and cultural activities. Harvard Summer School operates an 8-week immersion program in Madrid for intermediate Spanish students — academic credit available. IES Abroad Madrid Summer program offers intermediate and advanced Spanish language courses plus area studies courses taught in Spanish, with activities with Spaniards. LAE Madrid runs a Spanish Immersion Program designed to help students improve Spanish while immersing in Madrid life. The adult immersion market targets: (1) university students wanting summer academic credit, (2) professionals wanting to improve Spanish for career reasons, (3) retirees wanting to learn Spanish before relocating, (4) serious language learners wanting faster progress than weekly classes provide. Programs typically last 1-8 weeks, with prices ranging from €500/week (budget) to €3,000+/week (premium with accommodation + activities). Most programs include: placement test, daily Spanish classes (3-5 hours), cultural activities, accommodation options (homestay, residence, apartment), and a certificate of completion. Madrid is particularly popular for adult immersion because of its size, cultural offerings, and central location for weekend travel.",
@@ -25045,7 +25046,7 @@
       "harvard-summer",
       "expanish"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "language-schools-madrid",
@@ -25180,7 +25181,8 @@
           "Don't over-schedule — leave time for spontaneous Madrid life"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Language Learning"
   },
   {
     "id": "scuba-diving-certification-madrid",
@@ -26291,8 +26293,8 @@
   },
   {
     "id": "instituto-cervantes-accredited-schools-madrid",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "title": "Instituto Cervantes-Accredited Spanish Schools in Madrid",
     "summary": "Instituto Cervantes accreditation is the gold standard for Spanish language schools. Madrid accredited schools: Cervantes EI, LAE Madrid, Inhispania, Enforex, don Quijote. Quality assurance + international recognition.",
     "content": "Instituto Cervantes accreditation is the international gold standard for Spanish language teaching quality — analogous to Cambridge English for English schools. The accreditation system (SACIC) ensures accredited centers meet strict quality criteria in teaching, facilities, teacher qualifications, and student services. Madrid has multiple Instituto Cervantes-accredited Spanish schools, all actively recruiting international students through English-language marketing. Cervantes Escuela Internacional (cervantes.to) offers Spanish courses in Madrid for all levels — accredited, all ages, 41% of students aged 16-24. LAE Madrid (laemadrid.com) is accredited by Instituto Cervantes and has welcomed 1000s of students — they describe themselves as 'the highest reference in teaching Spanish worldwide.' Inhispania (inhispania.com) is a highly accredited and recognized Spanish language school in Madrid — Instituto Cervantes accredited. Enforex Madrid is part of the largest Spanish language school chain in Spain, with Instituto Cervantes accreditation. Don Quijote Madrid is similarly accredited. esMadrid (official Madrid tourism portal) maintains a list of Instituto Cervantes-accredited Spanish schools in Madrid. For international students choosing a Spanish school in Madrid, Instituto Cervantes accreditation is the most reliable quality signal — non-accredited schools may be cheaper but vary wildly in quality. The accreditation is reviewed every 3 years, so accredited schools must maintain standards. Costs at accredited schools: €150-€300/week for intensive courses (20 hours/week), with longer programs offering better per-week rates. Most accredited schools offer DELE exam preparation (the official Spanish proficiency exam, also run by Instituto Cervantes).",
@@ -26311,7 +26313,7 @@
       "lae-madrid",
       "inhispania"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "language-schools-madrid",
@@ -26414,7 +26416,8 @@
         "body": "The DELE (Diploma de Español como Lengua Extranjera) is the official Spanish proficiency certification, run by Instituto Cervantes. Levels A1-C2. Required for some Spanish university programs and Spanish citizenship. Accredited Madrid schools offer DELE preparation courses.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Language Learning"
   },
   {
     "id": "coding-bootcamps-madrid",
@@ -26923,8 +26926,8 @@
   },
   {
     "id": "spanish-history-culture-courses-madrid",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "do",
+    "subcategory": "arts-education",
     "title": "Spanish History & Culture Summer Courses in Madrid (English)",
     "summary": "Madrid university summer programs teaching Spanish history and culture in English: Cornell Summer Program (6 weeks), CEA CAPA Spanish Language & Culture, IES Abroad Madrid Summer, LAE Madrid culture-integrated Spanish.",
     "content": "Multiple Madrid institutions run summer programs teaching Spanish history and culture in English, recruiting international university students and adult learners. Cornell University runs a Summer Program in Madrid — an intensive 6-week program (May 24 - July 3 typical dates) where students immerse in Spanish culture, significantly improve their Spanish, and study Spanish history and culture. CEA CAPA offers Madrid Spanish Language & Culture summer programs (4-week sessions in July) — designed for students from beginner to advanced, immersing them in Spanish learning environment and local culture in Spain's capital. IES Abroad Madrid Summer Language & Cultural Studies (already in spanish-immersion-adults-spain) integrates Madrid's historic and cultural offerings into intermediate and advanced Spanish courses. Carlos V Education (already in pre-university-summer-madrid) runs summer programs with organized activities, cultural visits, and shared experiences where participants discover authentic Spanish life while practicing the language. LAE Madrid integrates gastronomy, history, and culture of Spain within their Spanish classes so students understand the fabric of the language and real-life context. The Madrid history/culture summer course market targets: (1) US university students wanting summer academic credit, (2) adult learners wanting substantive Spanish culture education, (3) serious Spanish students wanting context for language learning, (4) retirees wanting structured cultural education. Madrid is uniquely attractive for Spanish culture study because it's the capital — Spanish Parliament, Royal Palace, Prado Museum, Reina Sofía, Thyssen-Bornemisza, National Library, and Archaeological Museum all in one city. Program costs: €3,000-€7,000 for 4-6 week programs (often including housing and excursions). Cornell, IES Abroad, CEA CAPA offer academic credit transferable to US universities.",
@@ -26942,7 +26945,7 @@
       "academic-credit",
       "international-students"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "spanish-immersion-adults-spain",
@@ -27051,7 +27054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "chef-masterclass-madrid",
@@ -28251,8 +28255,8 @@
   },
   {
     "id": "business-spanish-executives-madrid",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "title": "Business Spanish Courses for Executives in Madrid (English-Speaking)",
     "summary": "Madrid business Spanish courses for executives: LSI Madrid (50+ years), TANDEM Madrid (intensive 1+ week), SpainIEE (1-4 weeks), Expanish Madrid. Recruiting international professionals. €500-€1,500/week.",
     "content": "Madrid has a dedicated ecosystem of business Spanish courses designed for executives and professionals, with multiple operators recruiting international students through English-language marketing. LSI Madrid (Language Studies International) offers Business Spanish courses for professionals in small groups and private lessons — 50+ years of language training expertise. Language International lists business Spanish courses in Spain for business executives wanting to learn Spanish for Spanish business — 2-16 week courses. TANDEM Madrid runs an intensive Spanish for Business program lasting at least a week, including 20 group lessons per week + 10 private lessons. SpainIEE offers Spanish Courses for Professionals and Executives with 20 lessons including workshops + 5 individual tutorial lessons, duration 1-4 weeks. Expanish runs Madrid-based Spanish courses including intensive options for professionals — 'the perfect place to start your Spanish language journey!' The business Spanish market targets: (1) international executives being relocated to Spain or Latin America, (2) professionals doing business with Spanish-speaking clients, (3) MBA students wanting Spanish for Latin American markets, (4) diplomats and international organization staff. Programs typically run 1-4 weeks intensive, with costs €500-€1,500/week depending on group vs. private, intensity, and prestige of school. Most business Spanish programs include: business vocabulary (finance, marketing, HR), professional writing (emails, reports, presentations), cultural business etiquette, negotiation Spanish, and meeting facilitation. Some programs include industry-specific modules (banking, healthcare, engineering, law). Madrid is the natural destination for business Spanish because it's Spain's commercial capital — home to BBVA, Santander, Iberia, Inditex, Telefónica headquarters, plus the Madrid Stock Exchange and IE Business School.",
@@ -28269,7 +28273,7 @@
       "expanish",
       "international-professionals"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "instituto-cervantes-accredited-schools-madrid",
@@ -28388,7 +28392,8 @@
           "Don't choose general Spanish course for business needs — business programs differ"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Language Learning"
   },
   {
     "id": "creative-writing-workshops-madrid",
@@ -28803,8 +28808,8 @@
   },
   {
     "id": "spanish-family-immersion-madrid",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "title": "Spanish Family Immersion Programs in Madrid (English-Speaking)",
     "summary": "Madrid Spanish immersion for families: LAE Kids Spanish for Kids and Families, TANDEM Madrid family courses, Vamos Spanish family programs, don Quijote Family Program. Tailor-made for parents + kids together.",
     "content": "Madrid offers multiple Spanish immersion programs specifically designed for families wanting to learn Spanish together. LAE Kids runs Spanish for Kids and Families in Madrid — Spanish Immersion Camp in Madrid Spring 2026, with classes ideal for families looking to learn about the Spanish language. TANDEM Madrid runs Spanish for Families courses for families (minimum 2 people) who want to spend time together in Madrid and combine Spanish learning with cultural activities. Vamos Spanish offers Spanish classes for kids and families in Madrid — immersion-style program that prepares families for their travels, knowing how great the benefit of Spanish exposure. don Quijote runs a Family Program — a tailor-made course for families that want to learn Spanish in Spain or Latin America while spending quality time together. The Madrid family immersion market targets: (1) expat families wanting their children to maintain or improve Spanish, (2) international families wanting to learn Spanish before relocating, (3) tourists wanting family cultural immersion beyond typical sightseeing, (4) bilingual families wanting structured Spanish instruction. Programs typically run 1-4 weeks with costs €500-€2,000/week depending on family size and program intensity. Most programs include: shared Spanish classes (parents + kids together), separate age-appropriate activities (parents cultural visits, kids games), family cultural activities, and accommodation options (homestay for full immersion, apartment for independence). Madrid is particularly attractive for family Spanish immersion because of its safety (one of Europe's safest capitals), family-friendly infrastructure (parks, museums, public transport), and the cultural density (Prado family programs, Retiro Park, Madrid Río).",
@@ -28822,7 +28827,7 @@
       "don-quijote",
       "international-families"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "spanish-immersion-adults-spain",
@@ -28945,12 +28950,13 @@
           "Don't skip the cultural activities — they're often the highlight"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Language Learning"
   },
   {
     "id": "spanish-art-history-madrid",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "do",
+    "subcategory": "arts-education",
     "title": "Spanish Art History Courses in Madrid (English)",
     "summary": "Madrid art history summer programs recruiting international students: IE University Arts & Culture, CEA CAPA Spanish Museology, Prado Museum Visual Arts Summer Program, IES Abroad Madrid cultural studies. Madrid's museum ecosystem as classroom.",
     "content": "Madrid is one of Europe's premier destinations for English-taught art history study — combining world-class museums (Prado, Reina Sofía, Thyssen-Bornemisza) with academic programs that use the city as a living classroom. Multiple institutions recruit international students through English-language marketing. IE University runs an Arts & Culture Summer Program — a 10-day immersive experience taking students beyond the classroom into Madrid's living culture. CEA CAPA offers Introduction to Spanish Museology, Society and Culture in Madrid — a course introducing students to Spanish society, culture, and museology with focus on Madrid's rich and varied museum landscape. The Prado Museum Visual Arts Summer Program (listed by Summer Schools in Europe) is an intensive and rigorous project-based Art Immersion Course in Madrid, focusing on Historical and Cultural Patrimonies. IES Abroad Madrid Summer Language & Cultural Studies integrates Madrid's historic and cultural opportunities into intermediate and advanced Spanish courses. educations.com lists 10 creative arts and design summer course programs in Madrid including art history content — full time 2-week on-campus courses in English and Spanish. The Madrid art history study market targets: (1) US university students wanting European academic credit, (2) adult art enthusiasts wanting structured museum education, (3) art professionals wanting Spanish art specialization, (4) retirees wanting substantive cultural education. Madrid's museum ecosystem is unique: the 'Golden Triangle of Art' (Prado, Reina Sofía, Thyssen within 10-minute walk of each other), plus 50+ other museums (Sorolla, Lázaro Galdiano, Arqueológico, Romanticismo, Cerralbo). Programs typically run 2-10 weeks with costs €1,500-€5,000. The Prado alone has 8,000+ paintings — more than any other museum in the world.",
@@ -29078,7 +29084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "teen-entrepreneurship-summer-madrid",
@@ -29852,8 +29859,8 @@
   },
   {
     "id": "spanish-seniors-programs-spain",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "title": "Spanish Programs for Seniors (50+) in Spain (English-Speaking)",
     "summary": "Spain Spanish programs for seniors 50+ recruiting internationally: IH Madrid 55+ program, Colegio de España 50+, Enforex Seniors (50+), Fluenz mature learners Madrid, Pueblo Español adult immersion.",
     "content": "Spain is one of Europe's top destinations for senior Spanish learners (50+), with multiple schools offering dedicated programs targeting the demographic. International House Madrid runs a 55+ program designed for mature learners to enjoy the language, culture, and the company of new friends in a relaxed, exclusive, and truly Spanish environment. Colegio de España runs a Spanish Program for Seniors 50+ designed exclusively for people who wish to learn or improve their Spanish with people of their own age group. Enforex runs a Seniors Program (50+) including 20 group Spanish classes and 4 cultural activities each week, plus one full-day weekend excursion. Fluenz runs a Spanish Immersion in Madrid specifically serving mature learners through sophisticated programming, educator expertise, and cultural depth. Pueblo Español runs adult Spanish immersion programs designed for an entertaining environment made comfortable for mature learners. The senior Spanish market targets: (1) retirees wanting to learn Spanish before/after relocating to Spain, (2) empty nesters wanting structured cultural travel, (3) professionals approaching retirement wanting Spanish for travel, (4) life-long learners wanting intellectual engagement. Programs typically run 1-4 weeks with costs €500-€2,000/week depending on intensity, accommodations, and inclusions. Most senior programs include: age-appropriate pacing, cultural activities (museum visits, cooking classes, wine tastings), accommodation in comfortable hotels or homestays, and small group sizes. Madrid is particularly attractive for senior Spanish learners because of safety (one of Europe's safest capitals), excellent healthcare, walkable historic center, world-class museums, and established expat community. The 50+ demographic is well-served in Spain — many schools explicitly market to this age group with tailored programming.",
@@ -29871,7 +29878,7 @@
       "ih-madrid",
       "enforex"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "spanish-immersion-adults-spain",
@@ -29996,7 +30003,8 @@
           "Don't skip travel insurance covering pre-existing conditions"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer & Pre-University Programs"
   },
   {
     "id": "madrid-music-festivals",
@@ -32041,8 +32049,8 @@
   },
   {
     "id": "health-food-stores-madrid",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "food",
     "title": "Health Food & Organic Stores in Madrid",
     "summary": "Madrid's organic and health food stores: Planeta Biológico, Herbolario Navarro, Ecocentro, Vegan Books. Organic produce, supplements, natural cosmetics, gluten-free, vegan products.",
     "content": "Madrid's health food and organic store ecosystem has grown significantly. Planeta Biológico (Calle de Cardenal Cisneros 27, Metro Bilbao) is one of Madrid's largest organic supermarkets — organic produce, bulk grains, supplements, natural cosmetics, eco-friendly household products. Herbolario Navarro (multiple locations including Calle de la Magdalena 14, Metro Antón Martín) is a chain of traditional herbalists with natural remedies, supplements, teas, and organic foods. Ecocentro (Calle de Espronceda 5, Metro Alvarado) is a 3-floor organic lifestyle center — supermarket, restaurant, bookshop, and natural beauty salon. Vegan Books (Calle del Espíritu Santo 18, Metro Noviciado — inside J&J Books and Coffee) offers vegan products alongside English books. El Corte Inglés supermarkets have growing organic sections ('biológico' aisle). For fresh organic produce markets, the Mercado de San Antón (Chueca) and Mercado de Vallehermoso (Chamberí) have organic stalls. Madrid's organic restaurant scene includes Ecocentro's restaurant, Vega (Centro), and Rayen Vegano (multiple locations). For supplements, Herbolario Navarro and Planeta Biológico have the best selection. Spanish organic certification: 'Agricultura Ecológica' (EU organic leaf logo + Spanish certification body code).",
@@ -32132,7 +32140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Grocery & Food Stores"
   },
   {
     "id": "japanese-restaurants-madrid",

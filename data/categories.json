@@ -51,8 +51,8 @@
         "slug": "language",
         "title": "Spanish Language",
         "icon": "💬",
-        "summary": "Key Spanish phrases, learning resources, language exchanges, and language schools.",
-        "tips": "Learn 20 key phrases before you arrive — see our Survival Spanish record. Free language exchanges (intercambios) at Madrid Babel (Wednesdays) and Mundo Lingo (Thursdays). Google Translate camera mode translates menus and signs instantly."
+        "summary": "Survival Spanish for visitors: essential phrases for restaurants, emergencies, and getting around. For full language courses and schools, see Living → Education.",
+        "tips": "Learn these 20 phrases before you arrive — they cover 80% of tourist interactions. For restaurant-specific vocabulary, see Restaurant Spanish. For full language programs (immersion, business Spanish, Cervantes-accredited schools), see Living → Education → Language Learning."
       },
       {
         "id": "safety",
@@ -124,16 +124,16 @@
         "slug": "education",
         "title": "Education",
         "icon": "🎓",
-        "summary": "Universities, bilingual schools, language schools, libraries, teacher training, summer programs, MBA, TEFL, gap year, and international student recruitment programs.",
-        "tips": "Public universities (Complutense, Carlos III) cost €1,500-2,000/year for EU, €4,000-6,000 for non-EU. International schools (King's College, Runnymede) cost €8,000-14,000/year. Spanish public schools are free but instruction is in Spanish — bilingual programs exist in many schools. The EOI (Escuela Oficial de Idiomas) offers cheap language courses (€200-300/year) but spots fill fast."
+        "summary": "Schools, universities, language learning, libraries, teacher training, and study-abroad programs. Spanish language schools, EOI, bilingual schools, language exchanges, immersion programs, and summer programs for all ages.",
+        "tips": "For Spanish language schools, look for Cervantes Institute accreditation. The EOI (Escuela Oficial de Idiomas) is the cheapest option (€200/year) but requires registration in September. For language exchanges (free practice with locals), see Language Exchanges. For children, bilingual schools start at age 3. For summer study-abroad programs, see Summer & Pre-University Programs."
       },
       {
         "id": "services",
         "slug": "services",
         "title": "Practical Services",
         "icon": "🛠️",
-        "summary": "Post office, supermarkets, launderettes, locksmiths, moving, translating, storage, barbers, optical, bookstores, electronics, community organizations, and family services.",
-        "tips": "Supermarkets: Mercadona (best value, closed Sundays), El Corte Inglés (premium, open Sundays). Post office: Correos (yellow signs). 24-hour pharmacies rotate — search 'farmacia de guardia Madrid'. For locksmiths, get a written quote BEFORE work starts — scams are common. Left luggage at Atocha (€3.90/day) is cheapest in the center."
+        "summary": "Practical everyday services for residents: post office, launderettes, locksmiths, moving, barbers, left luggage, meeting rooms, architects, and phone/TV/internet providers. For retail shopping, see Do → Shopping. For food stores, see Do → Food.",
+        "tips": "Post office (Correos) branches are everywhere — the largest is at Plaza de Cibeles. For left luggage, the main stations (Atocha, Chamartín) and Estación Sur bus station all have consignas. For retail stores (electronics, music, optical, books), see Do → Shopping. For food stores (supermarkets, international grocery, health food), see Do → Food."
       }
     ]
   },
@@ -222,16 +222,16 @@
         "slug": "food",
         "title": "Food & Tapas",
         "icon": "🍷",
-        "summary": "Food markets, tapas, vermouth, traditional dishes (cocido), wines, cheap eats, vegetarian, ice cream.",
-        "tips": "Eat on Spanish schedule: lunch 2-3:30pm, dinner 9-11pm. Restaurants don't serve lunch before 1pm. 'Menú del día' (3-course lunch, €10-12, weekdays) is the best value. Tapas are NOT free in Madrid (unlike Granada) — order and pay. Must-try: bocata de calamares (€3.50 at Plaza Mayor), cocido madrileño, vermouth at La Latina. Avoid tourist-trap restaurants on Plaza Mayor — walk 5 min to Cava Baja."
+        "summary": "Food & tapas culture, restaurants by cuisine, food markets, grocery stores, culinary education, and outdoor dining. From cheap eats to fine dining, Spanish food basics, international grocery, health food stores, and cooking classes.",
+        "tips": "Start at Mercado de San Miguel for tapas culture (touristy but iconic). For cheap eats, see Cheap Eats (under €12). For grocery shopping, Mercadona is best value; El Corte Inglés is premium. For international/health food, see Grocery & Food Stores group. For cooking classes in English, see Culinary Education."
       },
       {
         "id": "arts-education",
         "slug": "arts-education",
         "title": "Arts Education",
         "icon": "🎨",
-        "summary": "Acting, film, art/design, architecture, photography, music, dance, flamenco, jazz, creative writing, and guitar luthier schools — where YOU learn and create.",
-        "tips": "These programs recruit international students through English-language marketing. IE University, IED Madrid, ECAM film school, Reina Sofía music school, Factory Ballet dance intensives. From €100 (1-day workshops) to €5,000+ (multi-week intensives). For watching performances (theater, opera, jazz, cinema), see Live Performances."
+        "summary": "Arts education in Madrid: film schools, music programs, flamenco dance intensives, acting, art/design schools, architecture programs, art history courses, and Spanish culture/history summer courses. Talent agencies and film industry resources.",
+        "tips": "For flamenco dance intensives, see Flamenco Dance Intensives. For film schools, see Film Schools. For Spanish culture and art history courses (English-taught), see Arts Education group. For talent/modeling agencies, see Talent & Modeling Agencies."
       },
       {
         "id": "nightlife",
@@ -270,8 +270,8 @@
         "slug": "shopping",
         "title": "Shopping",
         "icon": "🛍️",
-        "summary": "Gran Vía (high street), Salamanca (luxury), El Rastro (flea market), food markets, bookstores.",
-        "tips": "El Rastro flea market: Sundays 9am-3pm, La Latina — bring cash, watch wallet. Luxury: Calle Serrano (Loewe, Hermès, Prada). Tax-free: non-EU residents claim 15-21% VAT back on purchases over €90. Rebajas (sales): January 7-February and July-August. El Corte Inglés price-matches competitors — show them the lower price. Most shops closed Sundays except tourist areas and December."
+        "summary": "Shopping in Madrid: luxury boutiques (Calle Serrano), flea markets (El Rastro), specialty shops (bookstores, electronics, music, optical), and shopping areas. Fashion, antiques, food markets, and more.",
+        "tips": "For luxury shopping, head to Calle Serrano (Salamanca district). For unique finds, El Rastro flea market is Sunday mornings only. For English-language books, see Specialty Shops. For food markets, see Do → Food → Markets & Food Halls."
       },
       {
         "id": "traditions",
