@@ -9,7 +9,7 @@
     "official_url": "https://www.metromadrid.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "metro",
@@ -37,7 +37,8 @@
       "royal-palace",
       "sol-gran-via-neighborhood",
       "taxis-madrid",
-      "walking-madrid"
+      "walking-madrid",
+      "cost-of-living-madrid"
     ],
     "sections": [
       {
@@ -125,7 +126,8 @@
           "Put feet on seats"
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "madrid-barajas-airport",
@@ -137,7 +139,7 @@
     "official_url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas.html",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "airport",
@@ -233,7 +235,8 @@
         "body": "Iberia and Oneworld partners use T4/T4S. Most other airlines use T1/T2/T3. Check your boarding pass — T4 to T1 is a 20-min shuttle ride. Allow extra time if transferring between terminals.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "atocha-station",
@@ -245,7 +248,7 @@
     "official_url": "https://www.adif.es/en/station/atocha",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "train",
@@ -332,7 +335,8 @@
         "body": "The old 19th-century hall is now a 4,000-plant tropical garden with turtles. Free to visit — worth a 10-minute wander even if you're not catching a train.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "chamartin-station",
@@ -344,7 +348,7 @@
     "official_url": "https://www.adif.es/en/station/chamartin",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "train",
@@ -423,7 +427,8 @@
         "body": "Chamartín is easier to navigate and less crowded than Atocha. For tourists staying in northern Madrid (Chamartín, Tetuán, financial district), this is more convenient. Connects to Atocha in 8 min via Cercanías C1.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "emt-buses",
@@ -435,7 +440,7 @@
     "official_url": "https://www.emtmadrid.es/Index.aspx?lang=en-GB",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "bus",
@@ -485,7 +490,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "taxis-madrid",
@@ -497,7 +503,7 @@
     "official_url": "https://www.taximadrid.org/english",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "taxi"
@@ -540,7 +546,8 @@
         "body": "Refuse fixed prices except the airport flat rate (€30 inside M-30, displayed in the taxi). Madrid taxis are honest — scams are rare. Tip: round up to the nearest euro.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "left-luggage",
@@ -552,7 +559,7 @@
     "official_url": "https://www.adif.es/en/services/consignas",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "luggage"
@@ -607,7 +614,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "renfe-trains",
@@ -619,7 +627,7 @@
     "official_url": "https://www.renfe.com/es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "train",
@@ -683,7 +691,8 @@
         "body": "Ouigo (ouigo.com) and Iryo (iryo.eu) compete with Renfe on Madrid-Barcelona and Madrid-Valencia. Fares from €9. Same travel time, less legroom.",
         "tone": "success"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "schengen-visa-us",
@@ -708,7 +717,8 @@
       "embassies",
       "spain-golden-visa-ended",
       "aupair-spain-madrid",
-      "usa-citizens-spain-guide"
+      "usa-citizens-spain-guide",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Schengen Visa",
     "sections": [
@@ -740,7 +750,8 @@
         "body": "You can stay 90 days within any rolling 180-day period across ALL Schengen countries. Example: enter Jan 1, stay 90 days, can't re-enter until July 1. Track your days carefully — overstaying can result in fines and a 1-3 year ban.",
         "tone": "warning"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "etias-2026",
@@ -752,7 +763,7 @@
     "official_url": "https://travel-europe.europa.eu/etias",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "etias",
       "schengen",
@@ -763,7 +774,8 @@
       "schengen-visa-uk",
       "passport-requirements"
     ],
-    "subsubcategory": "Schengen Visa"
+    "subsubcategory": "Schengen Visa",
+    "english_level": "english-available"
   },
   {
     "id": "schengen-visa-uk",
@@ -775,7 +787,7 @@
     "official_url": "https://www.gov.uk/foreign-travel-advice/spain/entry-requirements",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "visa",
       "schengen",
@@ -789,7 +801,8 @@
       "spain-golden-visa-ended",
       "aupair-spain-madrid"
     ],
-    "subsubcategory": "Schengen Visa"
+    "subsubcategory": "Schengen Visa",
+    "english_level": "english-available"
   },
   {
     "id": "passport-requirements",
@@ -801,7 +814,7 @@
     "official_url": "https://www.exteriores.gob.es/Consulados/losangeles/en/ServiciosConsulares/Paginas/Consular.aspx",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "passport",
       "entry"
@@ -813,7 +826,8 @@
       "lost-passport",
       "embassies"
     ],
-    "subsubcategory": "Documents"
+    "subsubcategory": "Documents",
+    "english_level": "english-available"
   },
   {
     "id": "euros-and-atms",
@@ -825,7 +839,7 @@
     "official_url": "https://www.ecb.europa.eu/euro/intro/html/index.en.html",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "money",
       "euros",
@@ -903,7 +917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "credit-card-acceptance",
@@ -914,7 +929,7 @@
     "content": "Spain is very card-friendly. ACCEPTED: Visa and Mastercard are accepted at 95%+ of businesses. Contactless payment (Apple Pay, Google Pay, Samsung Pay) works at most terminals — just look for the contactless symbol. Tap to pay up to €50 without PIN. LESS COMMON: American Express — accepted at hotels, department stores, and larger restaurants, but NOT at small bars, taxis, or market stalls. Discover — rarely accepted. NOT ACCEPTED: Diners Club, JCB — essentially useless in Spain. WHEN YOU NEED CASH: (1) Small tapas bars and cafés (under €10). (2) Market stalls (El Rastro, Mercado de San Miguel). (3) Some taxis (though most now accept cards). (4) Tips (though rounding up on a card is fine). (5) Vending machines. (6) Public toilets (€0.50-1). TIPS: (1) Always choose to pay in EUR (not your home currency) when given the choice — 'dynamic currency conversion' is a scam with 3-5% markup. (2) Spanish PINs are 4 digits — if yours is 6, contact your bank. (3) Some restaurants bring a portable card terminal to your table — don't let your card out of sight. (4) Spanish banks don't charge you for using their ATMs, but YOUR bank might — check foreign transaction fees. (5) The best travel cards: Wise (0% foreign transaction fee), Revolut (0% on weekdays), Chase Sapphire (no foreign transaction fee).",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "money",
       "credit-card"
@@ -925,7 +940,8 @@
       "tipping-spain"
     ],
     "official_url": "https://www.bankinter.com/banca/en/home",
-    "subsubcategory": "Cards & Payment"
+    "subsubcategory": "Cards & Payment",
+    "english_level": "english-available"
   },
   {
     "id": "daily-budgets",
@@ -936,7 +952,7 @@
     "content": "Daily budgets for Madrid. BACKPACKER (€40-60/day): Hostel dorm €15-25, supermarket food €10, Metro €3, free attractions (Retiro, temples, plazas), 1 paid attraction €10. Total: ~€40-50/day. BUDGET TRAVELER (€60-100/day): Hostel private or budget hotel €35-50, menú del día €10-12, dinner tapas €10-15, Metro €5, attractions €15-20, drinks €5-10. Total: ~€80-100/day. MID-RANGE (€100-180/day): 3-star hotel €70-100, lunch menú €12, dinner restaurant €25-40, Metro/buses €5, attractions €20-30, drinks/coffee €10. Total: ~€140-180/day. COMFORTABLE (€180-300/day): 4-star hotel €100-180, lunch restaurant €20, dinner good restaurant €40-60, taxi €15, attractions €30, drinks €20. Total: ~€230-300/day. LUXURY (€300+/day): 5-star hotel €200-500, fine dining €80-150, private transfers €30, VIP attractions €50, cocktails €30. Total: €400+/day. SAVE MONEY: (1) Menú del día (3-course lunch €10-12, weekdays). (2) Free museum entry times (Prado Mon-Sat 6-8pm, etc.). (3) Metro 10-trip card (€12.20 = €1.22/trip vs €1.50-2.00 single). (4) Picnic in Retiro Park with supermarket food. (5) Free walking tours (tip €5-10). (6) Vermouth + tapas (€5-8) instead of restaurant lunch. SPEND MORE ON: (1) One great dinner (€40-80). (2) A flamenco show (€30-50). (3) A Bernabéu or Metropolitano stadium tour (€25-35). (4) A day trip to Toledo or Segovia (€15-25 train + €10-15 sights).",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "money",
       "budget"
@@ -944,10 +960,12 @@
     "related_records": [
       "credit-card-acceptance",
       "euros-and-atms",
-      "tipping-spain"
+      "tipping-spain",
+      "cost-of-living-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
-    "subsubcategory": "Budgeting"
+    "subsubcategory": "Budgeting",
+    "english_level": "english-available"
   },
   {
     "id": "survival-spanish",
@@ -957,8 +975,8 @@
     "summary": "20 phrases that will get you through any situation in Madrid. Print this and carry it. Free.",
     "content": "20 essential Spanish phrases for Madrid. GREETINGS: (1) 'Hola, buenas' — Hello (casual, any time of day). (2) 'Buenos días' — Good morning. (3) 'Buenas tardes' — Good afternoon. (4) 'Buenas noches' — Good evening/night. (5) 'Adiós' / 'Hasta luego' — Goodbye / See you later. POLITE: (6) 'Por favor' — Please. (7) 'Gracias' — Thank you. (8) 'De nada' — You're welcome. (9) 'Perdone' — Excuse me / Sorry. (10) '¿Habla inglés?' — Do you speak English? RESTAURANT: (11) 'La carta, por favor' — The menu, please. (12) 'La cuenta, por favor' — The bill, please. (13) 'Para mí...' — For me... (ordering). (14) 'Sin gluten' — Gluten-free. DIRECTIONS: (15) '¿Dónde está...?' — Where is...? (16) '¿Dónde está el baño?' — Where is the bathroom? (17) '¿Cuánto cuesta?' — How much? NUMBERS: (18) 'Uno, dos, tres' — One, two, three. (19) 'Una cerveza, por favor' — One beer, please. EMERGENCY: (20) '¡Ayuda! Necesito un médico' — Help! I need a doctor. TIP: Download Google Translate, set Spanish offline, and use camera mode to translate menus and signs. Most Spaniards in tourist areas speak some English — but trying Spanish first goes a long way.",
     "status": "evergreen",
-    "english_friendly": false,
-    "last_updated": "2026-07-22",
+    "english_friendly": true,
+    "last_updated": "2026-07-30",
     "tags": [
       "language",
       "spanish"
@@ -1046,7 +1064,8 @@
           "Don't assume everyone speaks English — many older Madrileños don't"
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "emergency-numbers",
@@ -1131,7 +1150,8 @@
         "body": "For theft without violence, file online at denuncias.policia.es (English available). Faster than going to a police station. Print the report — you'll need it for insurance and embassy.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-primary"
   },
   {
     "id": "hospitals",
@@ -1180,7 +1200,8 @@
       "student-visa-spain",
       "work-visa-spain",
       "local-police-stations-madrid",
-      "usa-citizens-spain-guide"
+      "usa-citizens-spain-guide",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Official Help",
     "sections": [
@@ -1260,7 +1281,8 @@
         "body": "No, you're not crazy — the old Madrid Insider listed embassy addresses that may have changed. The American Embassy was listed at Serrano 75 (Metro Rubén Darío) — the US Embassy moved to a new compound at Calle Diego de León 16 in 2022. The British Embassy was at Torre Espacio (Paseo de la Castellana 259D) — verify current location. Always check the embassy's official website before visiting.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-primary"
   },
   {
     "id": "lost-passport",
@@ -1308,7 +1330,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "pharmacies",
@@ -1428,7 +1451,8 @@
         "body": "No, you're not crazy — these 24-hour pharmacy locations from the old Madrid Insider DID exist: Mayor 13, Bailén 16, Mayor 59, Atocha 46, Velázquez 30, Velázquez 70, Goya 12, Goya 89. Some may have changed hours or closed. Always verify current 24-hour pharmacies (farmacia de guardia) at canaldefarmacia.com or by searching 'farmacia de guardia Madrid' online.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "nie-tie",
@@ -1439,8 +1463,8 @@
     "content": "NIE (Número de Identidad de Extranjero): apply at any Oficina de Extranjería with passport, EX-15 form, reason for needing it (job, studies, property), €10.80 fee. TIE (Tarjeta de Identidad de Extranjero): physical card for non-EU residents with a permit of 6+ months. Apply at the police station (Comisaría) on Calle Silva or Montera after your residence permit is approved. Both require appointments — book weeks ahead.",
     "official_url": "https://extranjeros.inclusion.gob.es/",
     "status": "evergreen",
-    "english_friendly": false,
-    "last_updated": "2026-07-22",
+    "english_friendly": true,
+    "last_updated": "2026-07-30",
     "tags": [
       "paperwork",
       "nie",
@@ -1456,7 +1480,8 @@
       "public-healthcare",
       "rental-contracts",
       "teach-english-spain",
-      "english-speaking-lawyers-madrid"
+      "english-speaking-lawyers-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Foreigner ID",
     "sections": [
@@ -1537,7 +1562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "empadronamiento",
@@ -1548,7 +1574,7 @@
     "content": "The Empadronamiento (also called Padrón Municipal) is Madrid's local resident register. It's MANDATORY for ALL Madrid residents — Spanish, EU, non-EU, everyone. It's FREE and easy. WHAT IT'S NEEDED FOR: (1) Public healthcare access. (2) School enrollment for children. (3) Voting in municipal elections (EU citizens). (4) Social services (subsidized housing, school meals). (5) Some bureaucratic procedures (NIE, TIE). HOW TO REGISTER: (1) Book an appointment at cita-previa.madrid.es (or walk in, but waits are long). (2) Go to any Oficina de Atención al Ciudadano (Citizen Service Office) — there are 25+ across Madrid. (3) Bring: passport (and NIE if you have one), proof of address (rental contract, utility bill in your name, or a signed letter from the person you live with + their ID + their empadronamiento). (4) Fill out the form (Spanish — bring a friend or use Google Translate). (5) Receive your volante de empadronamiento (certificate) immediately. TIPS: (1) It's free. (2) Takes 10-15 minutes if you have an appointment. (3) The certificate (volante) is valid for 3 months — request a new one when needed. (4) Update your empadronamiento when you move. (5) If you live in a shared flat and aren't on the lease, the leaseholder must sign a letter authorizing your registration at that address. (6) Some offices have English-speaking staff — call ahead to check. (7) You can also do it online if you have a digital certificate (certificado digital).",
     "status": "archived",
     "english_friendly": false,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "paperwork",
       "padron",
@@ -1561,7 +1587,8 @@
       "housing",
       "nie-tie",
       "padron-empadronamiento",
-      "public-healthcare"
+      "public-healthcare",
+      "moving-to-madrid-guide"
     ],
     "official_url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-y-urbanismo/Empadronamiento",
     "subsubcategory": "Local Registration",
@@ -1624,7 +1651,7 @@
     "official_url": "https://www.idealista.com/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "rentals",
@@ -1666,7 +1693,8 @@
         "body": "Good apartments get 10+ inquiries in the first hour. Set up email alerts, have your documents ready (passport, NIE, proof of income), and prepare a brief intro message in Spanish. Visit apartments within 24-48 hours of seeing the listing.",
         "tone": "warning"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "fotocasa",
@@ -1678,7 +1706,7 @@
     "official_url": "https://www.fotocasa.es/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "rentals",
@@ -1689,7 +1717,8 @@
       "neighborhoods-guide",
       "rental-contracts"
     ],
-    "subsubcategory": "Finding a Place"
+    "subsubcategory": "Finding a Place",
+    "english_level": "english-available"
   },
   {
     "id": "neighborhoods-guide",
@@ -1700,7 +1729,7 @@
     "content": "Madrid Neighborhoods Guide — overview of the 10 main areas for visitors and expats. CENTRAL: (1) Sol & Gran Vía — tourist center, shopping, theaters. Best for first-time visitors. Noisy, busy, overpriced restaurants. (2) Malasaña — hipster, vintage, craft beer, alternative nightlife. Best for 20s-30s travelers. (3) Chueca — LGBTQ+, chic boutiques, cocktail bars. Best for shopping and nightlife. HISTORIC: (4) La Latina — tapas, El Rastro flea market, traditional vermouth. Best for food lovers. (5) Lavapiés — multicultural, Indian curry, flamenco, alternative arts. Best for adventurous eaters. RESIDENTIAL: (6) Chamberí — authentic, local, calm. Best for a quieter base. (7) Retiro — parks, museums, upscale. Best for museum-goers. UPSCALE: (8) Salamanca — luxury shopping, embassies, fine dining. Best for luxury travelers. STUDENT & WEST: (9) Argüelles & Moncloa — students, parks, Temple of Debod sunset. Best for budget travelers. NORTH: (10) Tetuán & Cuatro Caminos — diverse, working-class, cheap eats. Best for budget long-term stays. HOW TO CHOOSE WHERE TO STAY: (1) First visit: Sol/Gran Vía or Chamberí. (2) Nightlife: Malasaña or Chueca. (3) Food: La Latina. (4) Museums: Retiro. (5) Budget: Argüelles or Tetuán. (6) Luxury: Salamanca. (7) Authentic/local: Chamberí or La Latina. EXPLORING: Each neighborhood takes 2-4 hours to walk. Best approach: Sol → Plaza Mayor → La Latina (morning tapas), then Malasaña → Chueca (afternoon vintage), then Gran Vía (evening). See our individual neighborhood records for detailed guides.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "neighborhoods",
@@ -1713,7 +1742,8 @@
       "gran-via"
     ],
     "official_url": "https://www.esmadrid.com/en/areas",
-    "subsubcategory": "Finding a Place"
+    "subsubcategory": "Finding a Place",
+    "english_level": "english-available"
   },
   {
     "id": "rental-contracts",
@@ -1724,7 +1754,7 @@
     "content": "Rental contracts in Madrid (Ley de Arrendamientos Urbanos, LAU). STANDARD LEASE TERMS: (1) Duration: minimum 5 years for individual landlords, 7 years for companies. (2) After the initial term, it auto-renews in 1-year increments up to 3 more years (unless landlord needs to move in). (3) Deposit (fianza): 2 months' rent for long-term rentals, 1 month for rooms. Held by the Comunidad de Madrid. (4) Rent: paid monthly, usually by direct debit (domiciliación bancaria). (5) Utilities (luz, agua, gas, internet): paid by tenant, €50-150/month. (6) IBI (property tax): paid by landlord. (7) Community fees (gastos de comunidad): usually paid by landlord, but sometimes by tenant — check the contract. YOUR RIGHTS: (1) The landlord can't evict you during the lease term (unless you don't pay rent or damage the property). (2) The landlord can't raise the rent during the lease term (except by CPI inflation, capped at 2% for 2024). (3) You can leave with 30 days' notice after 6 months. (4) The landlord must give 4 months' notice if they want the apartment back at the end of the lease (for personal use). YOUR OBLIGATIONS: (1) Pay rent on time. (2) Keep the apartment in good condition. (3) Pay for minor repairs (major structural repairs are the landlord's responsibility). (4) Give 30 days' notice before leaving. TIPS: (1) Get EVERYTHING in writing — verbal agreements are worthless. (2) Never pay cash — use bank transfer (proves payment). (3) Take photos of the apartment's condition when you move in and out. (4) The deposit return can take 1-3 months after you leave — follow up with the Comunidad de Madrid. (5) If the landlord withholds the deposit unfairly, you can sue (small claims, 6-12 months). (6) For room rentals (not full apartments), the LAU may not apply — the contract is more flexible but less protected.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "contracts",
@@ -1768,7 +1798,8 @@
         "body": "Verbal agreements are worthless in Spain. Never pay cash — use bank transfers (they prove payment). Take photos of the apartment's condition when you move in and out. The deposit return can take 1-3 months — follow up with the Comunidad de Madrid.",
         "tone": "warning"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "spanish-bank-accounts",
@@ -1852,8 +1883,8 @@
     "summary": "Free for residents with Social Security. EU citizens use EHIC. Non-EU need private insurance (€40-80/month). Quality is good.",
     "content": "Spain's public healthcare system (Seguridad Social) is one of the best in the world — ranked #7 globally by WHO. WHO GETS IT FREE: (1) Spanish citizens. (2) Legal residents registered with Social Security (employed or self-employed). (3) EU citizens with an EHIC card (covers temporary stays). (4) Pensioners from EU countries with an S1 form. (5) Pregnant women and children under 18 (regardless of status). HOW TO ACCESS: (1) Get your NIE (foreigner ID). (2) Register with Social Security (get a número de Seguridad Social). (3) Get your empadronamiento (local registration). (4) Apply for a health card (tarjeta sanitaria) at your local health center (centro de salud). (5) Choose a primary care doctor (médico de cabecera) at the health center. WHAT'S COVERED: GP visits, specialist visits, hospital treatment, emergency care, surgeries, maternity care, vaccinations, prescription medications (40% copay for working adults, free for pensioners). WHAT'S NOT COVERED: Dental (except emergencies), vision (except medical conditions), cosmetic procedures. QUALITY: Spanish public hospitals are modern and well-equipped. Wait times: 1-7 days for GP appointment, 1-4 weeks for specialist, 2-6 months for non-urgent surgery. Emergency: walk-in, 2-6 hour wait. NON-EU VISITORS: Not covered by public healthcare. Buy travel insurance (€5-15/day) or annual expat insurance (€40-80/month). See our English-Speaking Doctors record for private options. TIPS: (1) EHIC covers emergency and necessary care only — not routine. (2) Bring your EHIC card AND a copy. (3) Public health centers (centros de salud) are the first point of contact — don't go directly to a hospital unless it's an emergency. (4) Emergency treatment cannot be refused regardless of insurance status.",
     "status": "evergreen",
-    "english_friendly": false,
-    "last_updated": "2026-07-22",
+    "english_friendly": true,
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "public",
@@ -1898,7 +1929,8 @@
         "body": "Spanish hospitals cannot refuse emergency treatment regardless of insurance, residency, or nationality. If it's a genuine emergency, go to any hospital ER — they will treat you first and ask questions later.",
         "tone": "success"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "english-speaking-doctors",
@@ -1909,7 +1941,7 @@
     "content": "English-speaking doctors in Madrid. PRIVATE CLINICS (best for non-Spanish speakers): (1) Clinica Britannia (Calle Velázquez 28, Salamanca) — English-speaking GPs and specialists, popular with expats. €80-120/visit. Metro Velázquez L4. (2) Sanitas (multiple locations) — Bupa-owned, English-speaking, insurance plans from €50/month. (3) Hospital Ruber Internacional (Calle La Masó 38, Mirasierra) — top private hospital, English-speaking, 24/7 ER. (4) Clinica Universidad de Navarra (Calle Marquesado de Sta. Marta 1) — top research hospital, English-speaking. (5) IMC Hospitales (multiple) — English-speaking, international insurance accepted. (6) Doctor Madrid (doctormadrid.es) — English-speaking house call service, €120-180/visit. WHAT TO BRING: Passport/ID, insurance card (if you have one), list of medications, medical history. If self-paying, expect €80-150 for a GP visit, €100-200 for a specialist. INSURANCE: International plans (Cigna, Bupa, Allianz, AXA) are widely accepted. Spanish insurance (Sanitas, Adeslas, Asisa) from €40-80/month. EMERGENCY: 112 (free, multilingual, 24/7). For minor issues, try a pharmacy first (free advice) — see our Pharmacies record. TIPS: (1) Clinica Britannia is the most popular for English speakers — book ahead. (2) Most private clinics offer same-day appointments. (3) For prescriptions, the doctor will give you a paper prescription (receta) — take it to any pharmacy. (4) Spanish pharmacies can also recommend doctors. (5) EU citizens: use your EHIC for free public healthcare — see our Public Healthcare record.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "english",
@@ -1960,7 +1992,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "teach-english-spain",
@@ -2024,7 +2057,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "museo-del-prado",
@@ -2165,7 +2199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "museo-reina-sofia",
@@ -2217,7 +2252,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "royal-palace",
@@ -2337,7 +2373,8 @@
         "body": "First Wednesday of each month at 11am (free). The Solemn Changing (cambio solemne) is the full ceremony with guards on horseback — worth planning your visit around.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "almudena-cathedral",
@@ -2349,7 +2386,7 @@
     "official_url": "https://www.catedraldelaalmudena.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "royal",
       "cathedral",
@@ -2360,7 +2397,8 @@
       "plaza-mayor",
       "english-speaking-wedding-planners-madrid"
     ],
-    "subsubcategory": "Cathedral"
+    "subsubcategory": "Cathedral",
+    "english_level": "english-available"
   },
   {
     "id": "retiro-park",
@@ -2459,7 +2497,8 @@
         "body": "Early morning (7–9am) for peace and joggers, or late afternoon (5–7pm) for golden light and families. Avoid Sunday afternoons (packed). Free Sunday concerts at the bandstand April–October.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "casa-de-campo",
@@ -2485,7 +2524,8 @@
       "hidden-parks-gardens-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
-    "subsubcategory": "Large Parks"
+    "subsubcategory": "Large Parks",
+    "english_level": "english-available"
   },
   {
     "id": "madrid-rio",
@@ -2496,7 +2536,7 @@
     "content": "Madrid Río is a 10km linear park along the Manzanares River, created in 2011 when the M-30 highway was put underground. Runs from Príncipe Pío (north) to Getafe (south). HIGHLIGHTS: (1) 17 play areas for kids — the most famous is the 'Hammock' swings and the giant slide. The playgrounds are among the best in Europe. (2) The Fountain Walk (Salón de Pinos) — 30 fountains, great for cooling off in summer. Free. (3) Arganzuela Beach (Playa de Arganzuela) — urban beach with 3 pools, open June-August, FREE. (4) Puente de Toledo — 18th-century baroque bridge, Instagram-worthy. (5) BiciMAD stations throughout — rent a bike and ride the full 10km. (6) Jardines de Puerta de Toledo and Jardines del Puente de Segovia — formal gardens. (7) Matadero Madrid (contemporary arts center) at the south end. GETTING THERE: Metro Príncipe Pío (L6, L10), Puerta de Toledo (L5), Marqués de Vadillo (L5). COST: Free, open 24/7. TIPS: (1) Best for families with kids — the playgrounds are amazing. (2) Best for runners and cyclists — flat, paved, 10km. (3) Best for summer cooling — the fountains and urban beach. (4) Combine with Matadero Madrid (contemporary art) for a full day. (5) The park connects to Casa de Campo (west) and Retiro (east, via Paseo de la Rey). (6) At night, the park is well-lit and safe.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "parks",
       "madrid-rio",
@@ -2511,7 +2551,8 @@
       "cycling-training-camps-spain"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio",
-    "subsubcategory": "Central Parks"
+    "subsubcategory": "Central Parks",
+    "english_level": "english-available"
   },
   {
     "id": "teleferico",
@@ -2523,7 +2564,7 @@
     "official_url": "https://www.teleferico.emtmadrid.es/",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "parks",
       "cable-car",
@@ -2534,7 +2575,8 @@
       "casa-de-campo",
       "madrid-rio"
     ],
-    "subsubcategory": "Attractions"
+    "subsubcategory": "Attractions",
+    "english_level": "english-available"
   },
   {
     "id": "plaza-mayor",
@@ -2545,7 +2587,7 @@
     "content": "Plaza Mayor is Madrid's most iconic square — a grand arcaded plaza built 1617-1619 (during the reign of Philip III, whose statue stands in the center). Designed by architect Juan Gómez de Mora. 129m × 94m, enclosed by 3-story residential buildings with 237 balconies. HISTORY: Once the heart of Madrid's civic life — markets, bullfights, executions, coronations, and Inquisition trials all happened here. The Inquisition's 'autos de fe' (public trials) drew crowds of 30,000+. WHAT TO DO: (1) Walk the arcades — 9 entrance archways, each different. (2) Eat a bocata de calamares (fried squid sandwich, €3.50) at Bar La Campana (Calle de la Botoneras 6, southwest corner) — a Madrid tradition. (3) Visit the Tourist Office (ground floor, Plaza Mayor 3) — free maps, English advice. (4) Shop for souvenirs — stamp shops, coin dealers, and the traditional 'mesón' restaurants (touristy but atmospheric). (5) Watch street performers and listen to buskers. (6) Photography — the square is stunning at golden hour. EVENTS: Christmas market (December), San Isidro festival (May), concerts and cultural events year-round. COST: Free to enter and walk around. TIPS: (1) Restaurants ON the Plaza Mayor are overpriced and mediocre — eat your bocata de calamares standing at the bar (€3.50) but don't sit down for a full meal. (2) The best views are from the arcades on the upper floors. (3) Watch for pickpockets — this is Madrid's #1 pickpocket spot. (4) The Plaza Mayor is 2 min walk from Puerta del Sol. (5) At night, the square is beautifully lit and much quieter.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "architecture",
       "plaza-mayor",
@@ -2612,7 +2654,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "gran-via",
@@ -2623,7 +2666,7 @@
     "content": "Gran Vía ('Great Road') is Madrid's main commercial and entertainment boulevard — 1.3km from Calle de Alcalá (east) to Plaza de España (west). Often called the 'Spanish Broadway' for its concentration of theaters and cinemas. ARCHITECTURE: Built 1910-1929, Gran Vía showcases 3 architectural phases: (1) Edificio Metrópolis (1911, French Haussmann style) at the east end — iconic winged statue. (2) Mid-section: Chicago School skyscrapers (Telefónica Building, 1929 — Europe's first skyscraper). (3) West end: Art Deco and rationalist buildings (Capitol building, 1933). WHAT TO DO: (1) Shopping — Zara flagship, Primark, H&M, Mango, Apple Store. Open Mon-Sat 10am-10pm. (2) Theaters — musicals, plays, concerts (Lope de Vega, Coliseum, Compac Gran Vía). (3) Rooftops — Riu Plaza España (€10, highest in Madrid), Hotel Urban. (4) Architecture walking tour — free, self-guided. (5) Cinema — Cinesa Gran Vía (mainstream), Cine Doré (art house, €3). METRO: Gran Vía (Lines 1, 5), Plaza de España (Lines 3, 10), Banco de España (Line 2). TIPS: (1) Walk it east to west (downhill) — start at Metrópolis, end at Plaza de España. (2) Best time: evening when the buildings are lit up. (3) Avoid eating ON Gran Vía (tourist traps) — walk 2 blocks north to Malasaña or south to Huertas for better food. (4) The Gran Vía is constantly under renovation — check for scaffolding. (5) The Apple Store (Gran Vía 54) is worth visiting for the architecture alone. (6) For the best photo: from the rooftop of the Círculo de Bellas Artes (€5) looking down Gran Vía.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "architecture",
       "gran-via",
@@ -2691,7 +2734,8 @@
         "body": "Avoid eating ON Gran Vía — tourist traps. Walk 2 blocks north to Malasaña (indie cafés, craft beer) or south to Huertas (traditional tapas) for better food at half the price.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "puerta-del-sol",
@@ -2702,7 +2746,7 @@
     "content": "Puerta del Sol ('Gate of the Sun') is Madrid's central square and the symbolic heart of Spain. WHAT TO SEE: (1) Kilometer Zero plaque (on the ground near the Casa de Correos) — the official center of Spain's radial road network. All distances are measured from here. (2) Casa de Correos (1768) — the old post office, now the seat of the Madrid regional government. The clock tower on top is where Spaniards gather on New Year's Eve to eat 12 grapes at midnight (broadcast on national TV). (3) El Oso y el Madroño (The Bear and the Strawberry Tree) — a 20-tonne statue of a bear eating from a madroño tree, the symbol of Madrid. Everyone takes a photo here. (4) Carlos III statue — the king who modernized Madrid in the 18th century. (5) Mariblanca statue — a small female statue, replica of a 16th-century original. WHAT TO DO: (1) Take a photo with the bear statue. (2) Stand on the Kilometer Zero plaque. (3) People-watch — Sol is always packed with tourists, street performers, and promoters. (4) Shop on Calle Preciados (pedestrian, connects Sol to Callao). (5) Eat a bocata de calamares at nearby Plaza Mayor (3 min walk). METRO: Sol (Lines 1, 2, 3 + Renfe Cercanías) — Madrid's busiest station. COST: Free. TIPS: (1) Watch for pickpockets — Sol is Madrid's #1 pickpocket hotspot. Use a cross-body bag and keep your phone in a front pocket. (2) The square is especially crowded on weekends and during festivals. (3) New Year's Eve: 30,000+ people gather here for the grape-eating tradition — arrive by 10pm if you want a spot. (4) The square was the epicenter of the 2011 Spanish protests (Indignados movement) that spawned the global Occupy movement. (5) Sol connects to Gran Vía (5 min north), Plaza Mayor (3 min south), and the Royal Palace (10 min west).",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "architecture",
       "puerta-del-sol"
@@ -2750,7 +2794,8 @@
         "body": "Sol is Madrid's #1 pickpocket hotspot. Use a cross-body bag, keep your phone in a front pocket, and be extra alert. Common scams: fake petitions, flower pushers, 'found' ring. See our Tourist Scams record for details.",
         "tone": "danger"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "toledo",
@@ -2762,7 +2807,7 @@
     "official_url": "https://www.toledo.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "day-trips",
       "toledo",
@@ -2861,7 +2906,8 @@
         "body": "The €12 bracelet gives entry to 7 sights (cathedral, Santo Tomé, Santa María la Blanca, and 4 more). Good value if you plan to visit 3+ sights. Buy at any participating site.",
         "tone": "success"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "avila",
@@ -2873,7 +2919,7 @@
     "official_url": "https://www.avila.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "day-trips",
       "avila",
@@ -2909,7 +2955,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "mercado-san-miguel",
@@ -2999,7 +3046,8 @@
         "body": "San Miguel is more expensive than a regular tapas bar (2-3x markup) — you're paying for the atmosphere and the beautiful 1916 iron structure. For cheaper, more authentic tapas, walk 5 min to Calle Cava Baja in La Latina.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "sangines",
@@ -3054,7 +3102,8 @@
         "body": "Going to San Ginés at 4am after a night out is a Madrid rite of passage. The line looks long but moves fast (5-10 min). Inside, find a table or stand at the counter (faster). The chocolate is thick and bittersweet — dip the churros, eat, repeat.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "vermouth-madrid",
@@ -3079,7 +3128,8 @@
       "outdoor-dining-terraces-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/gastronomy",
-    "subsubcategory": "Food Culture & Basics"
+    "subsubcategory": "Food Culture & Basics",
+    "english_level": "english-available"
   },
   {
     "id": "cafe-central-jazz",
@@ -3091,7 +3141,7 @@
     "official_url": "https://www.cafecentralmadrid.com",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "jazz",
@@ -3101,7 +3151,8 @@
       "flamenco-madrid",
       "malasana-bars-nightlife",
       "teatro-real-madrid"
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "real-madrid-bernabeu",
@@ -3113,7 +3164,7 @@
     "official_url": "https://www.realmadrid.com/en",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "football",
@@ -3191,7 +3242,8 @@
         "body": "The Bernabéu Tour increased to €35 after the 2024 renovation (was €25). Some online guides still show the old price. Book at realmadrid.com for the official price.",
         "tone": "warning"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "rayo-vallecas",
@@ -3203,7 +3255,7 @@
     "official_url": "https://www.rayovallecano.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "football",
@@ -3212,7 +3264,8 @@
     ],
     "related_records": [
       "real-madrid-bernabeu"
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "traditions-summary",
@@ -3223,7 +3276,7 @@
     "content": "Still real: verbenas (street parties, August especially), Sunday family lunch, late dinners (21:00+), tapas culture, religious processions during Semana Santa. Tourist-fied but still worth seeing: bullfighting at Las Ventas (Mar–Oct), flamenco tablaos (the small peñas are more authentic). Mostly myth now: daily siesta (urban Madrileños don't do this; small shops in some barrios might close 14:00–17:00).",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-30",
     "tags": [
       "traditions",
       "culture"
@@ -3235,7 +3288,8 @@
       "veranos-de-la-villa"
     ],
     "official_url": "https://www.esmadrid.com/en/culture",
-    "subsubcategory": "Overview"
+    "subsubcategory": "Overview",
+    "english_level": "english-available"
   },
   {
     "id": "veranos-de-la-villa",
@@ -3247,7 +3301,7 @@
     "official_url": "https://www.veranosdelavilla.com",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "summer",
@@ -3296,7 +3350,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "august-verbenas",
@@ -3307,7 +3362,7 @@
     "content": "The August Verbenas are Madrid's summer street festivals — 3 consecutive festivals in La Latina neighborhood, each lasting 4 days. SAN CAYETANO (August 2-5): In the Cascorro/El Rastro area. Streets decorated with paper lanterns, free concerts, traditional food. The first of the three. SAN LORENZO (August 8-11): In Lavapiés. Smaller and more intimate than San Cayetano. SAN LORENZO STREET: Calle de San Lorenzo and surrounding streets. LA PALOMA (August 12-15): The biggest and most popular. In La Latina. Up to 1 million visitors over 4 days. Streets decorated with lights, live music stages, traditional chotis dancing, and bars serving horchata, lemonade, and tapas. THE EXPERIENCE: Streets are closed to traffic and decorated with colored paper lanterns (farolillos). Each street has a stage with live music (from traditional Spanish to pop). Bars set up outdoor counters selling drinks (€2-4) and tapas (€3-6). People dress in traditional chulapo/chulapa costume (checkered cap, fitted dress, Manila shawl). Dancing in the streets until 2-3am. ALL VERBENAS ARE FREE. TIPS: (1) Go after 9pm — the party doesn't start before then. (2) Wear comfortable shoes — you'll be standing and walking. (3) Watch your belongings — verbenas are crowded and pickpockets love them. (4) Take Metro La Latina (L5) — but it gets packed after midnight, consider walking. (5) La Paloma on August 15 (public holiday) is the busiest day — arrive early. (6) Try the traditional 'limonada' (wine lemonade) and 'barquillos' (wafer rolls).",
     "status": "annual review",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "verbenas",
@@ -3319,7 +3374,8 @@
       "veranos-de-la-villa"
     ],
     "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid",
-    "subsubcategory": "Summer Festivals"
+    "subsubcategory": "Summer Festivals",
+    "english_level": "english-available"
   },
   {
     "id": "madrid-pride",
@@ -3331,7 +3387,7 @@
     "official_url": "https://www.madridorgullo.com",
     "status": "annual review",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "pride",
@@ -3373,7 +3429,8 @@
         "body": "Hotels in Chueca and center fill up and prices double for Pride weekend. Book by January for late June Pride. Chueca is the epicenter — Plaza de Chueca has the main stage.",
         "tone": "warning"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "madrid-time",
@@ -3384,7 +3441,7 @@
     "content": "Madrid time zone information. TIME ZONE: Central European Time (CET) = UTC+1 in winter. Central European Summer Time (CEST) = UTC+2 in summer. Same as Paris, Berlin, Rome, Amsterdam, Brussels. DAYLIGHT SAVING: Spring forward on the last Sunday in March (clocks go forward 1 hour at 2am). Fall back on the last Sunday in October (clocks go back 1 hour at 3am). COMPARISON: (1) London: 1 hour behind Madrid. (2) New York (EST): 6 hours behind Madrid in winter, 6 hours in summer (both observe DST). (3) Los Angeles (PST): 9 hours behind in winter, 9 hours in summer. (4) Sydney: 9-10 hours ahead (varies with DST differences). (5) Buenos Aires: 4-5 hours behind (varies). SPANISH TIME QUIRKS: (1) Spain is geographically in the wrong time zone — it should be on GMT (like London/UK) based on its longitude, but Franco moved Spain to CET in 1940 to align with Nazi Germany. (2) As a result, Spanish life runs about 1 hour later than the rest of Europe: lunch at 2pm (not 1pm), dinner at 9-10pm (not 7-8pm), nightlife until 6am. (3) There's an ongoing debate about moving Spain back to GMT — but for now, CET/CEST applies. TIPS: (1) Your phone will update automatically — just make sure 'set time automatically' is on. (2) The Madrid Right Now sidebar on our homepage shows live Madrid time (updates every second). (3) Sunrise in summer: ~6:50am. Sunset in summer: ~9:50pm. Winter: sunrise 8:30am, sunset 5:50pm.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "live",
       "time",
@@ -3395,7 +3452,8 @@
       "madrid-aqi"
     ],
     "official_url": "https://www.time.is/Madrid",
-    "subsubcategory": "Time"
+    "subsubcategory": "Time",
+    "english_level": "english-available"
   },
   {
     "id": "madrid-weather",
@@ -3407,7 +3465,7 @@
     "official_url": "https://www.aemet.es/en/portada",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "live",
       "weather",
@@ -3465,7 +3523,8 @@
         "body": "July-August regularly hits 35-40°C. Avoid outdoor activity 2-5pm. Spanish siesta culture exists for a reason — follow it. Drink water constantly — the heat is dry, you may not notice how much you're sweating.",
         "tone": "danger"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "madrid-aqi",
@@ -3477,7 +3536,7 @@
     "official_url": "https://consultaq.opendata.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "live",
       "aqi",
@@ -3511,7 +3570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "metro-closures",
@@ -3633,7 +3693,8 @@
           "Don't miss the exhibition catalog gift shop — high quality, unique"
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "reina-sofia-current",
@@ -3733,7 +3794,8 @@
           "Don't expect chronological layout — Reina Sofía is thematic, can be confusing"
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "thyssen-current",
@@ -3745,7 +3807,7 @@
     "official_url": "https://www.museothyssen.org/en/exhibitions",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "exhibitions",
       "thyssen"
@@ -3755,7 +3817,8 @@
       "prado-current",
       "reina-sofia-current"
     ],
-    "subsubcategory": "Museum Exhibitions"
+    "subsubcategory": "Museum Exhibitions",
+    "english_level": "english-available"
   },
   {
     "id": "el-pais-english",
@@ -3767,7 +3830,7 @@
     "official_url": "https://english.elpais.es",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "english",
@@ -3801,7 +3864,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "housing",
@@ -3826,7 +3890,9 @@
       "rental-contracts",
       "nie-tie",
       "empadronamiento",
-      "moving2madrid-relocation"
+      "moving2madrid-relocation",
+      "cost-of-living-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Renting",
     "sections": [
@@ -3946,7 +4012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "healthcare",
@@ -3974,7 +4041,8 @@
       "english-speaking-therapists-madrid",
       "ivf-fertility-clinics-madrid",
       "retirement-spain-english",
-      "immunizations-travel-health-madrid"
+      "immunizations-travel-health-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Overview",
     "sections": [
@@ -4044,7 +4112,8 @@
         "body": "If you're not yet in the social security system (recently arrived, freelancer with no contributions, retiree), get private insurance. Sanitas, Adeslas, and Asisa all have English-speaking customer service. Cigna Global and Bupa are expat-friendly international options. See english-speaking-doctors-madrid for clinic recommendations.",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "banking",
@@ -4056,7 +4125,7 @@
     "official_url": "https://www.bankinter.com/banca/en/home",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "banking",
       "accounts",
@@ -4071,7 +4140,8 @@
       "transfers-spain",
       "fintech-banking-spain",
       "banking-spain",
-      "english-speaking-financial-advisors-madrid"
+      "english-speaking-financial-advisors-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Bank Accounts",
     "sections": [
@@ -4130,7 +4200,8 @@
         "body": "fintech-banking-spain (N26, Revolut, Bunq), spanish-iban-explained (IBAN format + SEPA transfers), transfers-spain (Wise, Remitly, Western Union).",
         "tone": "info"
       }
-    ]
+    ],
+    "english_level": "english-available"
   },
   {
     "id": "ride-sharing-madrid",
@@ -4596,7 +4667,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "connectivity",
       "sim",
@@ -4606,7 +4677,8 @@
     "related_records": [
       "esim-madrid",
       "public-wifi-madrid",
-      "coworking-madrid"
+      "coworking-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Mobile",
     "sections": [
@@ -6850,7 +6922,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "bureaucracy",
       "social-security",
@@ -6862,7 +6934,8 @@
       "freelancing-spain",
       "nie-tie",
       "public-healthcare",
-      "teach-english-spain"
+      "teach-english-spain",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Work Permits",
     "sections": [
@@ -7021,7 +7094,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "bureaucracy",
       "padron",
@@ -7036,7 +7109,8 @@
       "banking",
       "bilingual-schools-madrid",
       "healthcare",
-      "housing"
+      "housing",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Local Registration",
     "sections": [
@@ -7365,7 +7439,8 @@
       "digital-nomad-visa-spain-services",
       "digital-nomads-madrid",
       "coding-bootcamps-madrid",
-      "startup-accelerators-madrid"
+      "startup-accelerators-madrid",
+      "cost-of-living-madrid"
     ],
     "subsubcategory": "Freelance & Self-Employment",
     "sections": [
@@ -8408,7 +8483,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "visas",
       "student",
@@ -8427,7 +8502,8 @@
       "international-school-jobs-madrid",
       "internship-services-madrid",
       "gap-year-programs-madrid",
-      "madrid-law-summer-programs"
+      "madrid-law-summer-programs",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Long-Stay Visas",
     "sections": [
@@ -8572,7 +8648,8 @@
       "schengen-visa-us",
       "teach-english-spain",
       "digital-nomad-visa-spain-services",
-      "international-school-jobs-madrid"
+      "international-school-jobs-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Work Visas & Permits",
     "sections": [
@@ -9143,7 +9220,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "education",
       "school",
@@ -9159,7 +9236,8 @@
       "awc-madrid",
       "english-summer-camps-madrid",
       "international-school-jobs-madrid",
-      "nanny-agencies-madrid"
+      "nanny-agencies-madrid",
+      "moving-to-madrid-guide"
     ],
     "subsubcategory": "Universities & Schools"
   },
@@ -11936,7 +12014,8 @@
       "mercado-san-miguel",
       "tipping-spain",
       "vermouth-madrid",
-      "japanese-restaurants-madrid"
+      "japanese-restaurants-madrid",
+      "cost-of-living-madrid"
     ],
     "subsubcategory": "Food Culture & Basics",
     "sections": [
@@ -14378,7 +14457,8 @@
     "related_records": [
       "cheap-eats-madrid",
       "cocido-madrileno",
-      "vermouth-madrid"
+      "vermouth-madrid",
+      "cost-of-living-madrid"
     ]
   },
   {
@@ -16062,7 +16142,7 @@
       "nie",
       "housing"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "housing",
@@ -16074,7 +16154,8 @@
       "neighborhoods-guide",
       "english-speaking-lawyers-madrid",
       "english-speaking-vets-madrid",
-      "nanny-agencies-madrid"
+      "nanny-agencies-madrid",
+      "moving-to-madrid-guide"
     ],
     "sections": [
       {
@@ -17095,7 +17176,9 @@
       "coworking-madrid",
       "nie-tie",
       "coding-bootcamps-madrid",
-      "startup-accelerators-madrid"
+      "startup-accelerators-madrid",
+      "cost-of-living-madrid",
+      "moving-to-madrid-guide"
     ],
     "sections": [
       {
@@ -29601,6 +29684,358 @@
           {
             "label": "Medication info",
             "value": "Ministry of Health: msc.es, Tel 915-964-332"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cost-of-living-madrid",
+    "category": "essentials",
+    "subcategory": "money",
+    "title": "Cost of Living in Madrid (2026 Guide)",
+    "summary": "How much does it cost to live in Madrid? Single person: €1,200-1,800/month. Couple: €1,800-2,800. Family of 4: €2,800-4,200. Rent is the biggest expense. Madrid is cheaper than London/Paris but more expensive than rest of Spain.",
+    "content": "Madrid's cost of living is one of the most common questions from prospective expats and visitors. Madrid is Spain's most expensive city after Barcelona, but significantly cheaper than London, Paris, Amsterdam, or Dublin. The biggest expense by far is rent — housing consumes 40-50% of most expats' monthly budget. Here's a comprehensive breakdown for 2026, based on current Madrid prices. RENT (1-bedroom): City center €1,000-1,500/month. Outside center €700-1,100. Shared flat (room) €350-600. RENT (3-bedroom): City center €1,800-2,800. Outside center €1,200-1,800. UTILITIES (electricity, water, gas): €80-150/month for a 1-bedroom. Internet €35-50/month. Mobile €10-25/month. FOOD: Groceries €200-350/month per person. Mercadona is cheapest, El Corte Inglés is premium. Eating out: menú del día €10-14, mid-range dinner €25-40/person, tapas €15-25/person. TRANSPORT: Metro/bus €1.50-2.00 single, €21.50 for 10-trip Metrobús, €54.60/month unlimited. Taxi from airport €30 flat. HEALTHCARE: Public (free with social security). Private insurance €40-120/month. Doctor visit €50-80. Gym €25-50/month. ENTERTAINMENT: Cinema €6-9. Museum entry €8-15 (many free hours). Flamenco show €30-50. Coffee €1.50-2.50. Beer €2-4. Vermouth €2.50-4. CHILDREN: Public school free. Private/bilingual €8,000-15,000/year. Childcare €400-700/month. Nanny €1,200-1,800/month. SALARY CONTEXT: Madrid average salary €25,000-35,000/year. English teacher €12-18/hour. Tech €35,000-70,000. Minimum wage (2026) ~€1,184/month. TAX: Spanish income tax 19-47%. Digital Nomad Visa: 24% flat for 6 years. Autónomo (freelancer): €290-450/month social security + income tax. BOTTOM LINE: A single person can live comfortably in Madrid on €1,500-1,800/month (shared flat, cooking at home, occasional eating out). A couple needs €2,200-2,800. A family of 4 needs €3,000-4,200+. Madrid rewards people who cook at home, use public transport, and take advantage of free cultural offerings (museum free hours, parks, street festivals).",
+    "official_url": "https://www.numbeo.com/cost-of-living/in/Madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "cost-of-living",
+      "budget",
+      "expenses",
+      "rent",
+      "living-costs",
+      "money",
+      "expat-guide",
+      "prices"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "daily-budgets",
+      "housing",
+      "banking",
+      "freelancing-spain",
+      "digital-nomad-visa-spain-services",
+      "menu-del-dia-guide",
+      "cheap-eats-madrid",
+      "metro-de-madrid",
+      "healthcare",
+      "bilingual-schools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is affordable by European capital standards",
+        "body": "Single person: €1,200-1,800/month. Couple: €1,800-2,800. Family of 4: €2,800-4,200. Rent is 40-50% of budget. Cheaper than London/Paris, more expensive than rest of Spain.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Monthly Cost Breakdown (Single Person)",
+        "items": [
+          {
+            "label": "Rent (room in shared flat)",
+            "value": "€350-600"
+          },
+          {
+            "label": "Rent (1BR city center)",
+            "value": "€1,000-1,500"
+          },
+          {
+            "label": "Utilities + internet",
+            "value": "€100-180"
+          },
+          {
+            "label": "Groceries",
+            "value": "€200-350"
+          },
+          {
+            "label": "Transport (monthly pass)",
+            "value": "€54.60"
+          },
+          {
+            "label": "Private health insurance",
+            "value": "€40-80"
+          },
+          {
+            "label": "Gym",
+            "value": "€25-50"
+          },
+          {
+            "label": "Entertainment + social",
+            "value": "€150-400"
+          },
+          {
+            "label": "TOTAL (shared flat lifestyle)",
+            "value": "€1,000-1,700/month"
+          },
+          {
+            "label": "TOTAL (own apartment)",
+            "value": "€1,700-2,500/month"
+          }
+        ]
+      },
+      {
+        "type": "stats",
+        "heading": "Key Prices (2026)",
+        "items": [
+          {
+            "label": "Coffee (café con leche)",
+            "value": "€1.50-2.50"
+          },
+          {
+            "label": "Beer (caña)",
+            "value": "€2-4"
+          },
+          {
+            "label": "Menú del día (3-course lunch)",
+            "value": "€10-14"
+          },
+          {
+            "label": "Mid-range dinner",
+            "value": "€25-40/person"
+          },
+          {
+            "label": "Cinema ticket",
+            "value": "€6-9 (€5 Mon-Wed)"
+          },
+          {
+            "label": "Museum entry",
+            "value": "€8-15 (many free hours)"
+          },
+          {
+            "label": "Metro single",
+            "value": "€1.50-2.00"
+          },
+          {
+            "label": "Taxi airport to center",
+            "value": "€30 flat rate"
+          },
+          {
+            "label": "Gym monthly",
+            "value": "€25-50"
+          },
+          {
+            "label": "Mobile plan",
+            "value": "€10-25/month"
+          }
+        ]
+      },
+      {
+        "type": "stats",
+        "heading": "Salary Context",
+        "items": [
+          {
+            "label": "Madrid average salary",
+            "value": "€25,000-35,000/year"
+          },
+          {
+            "label": "English teacher",
+            "value": "€12-18/hour"
+          },
+          {
+            "label": "Tech/IT",
+            "value": "€35,000-70,000/year"
+          },
+          {
+            "label": "Spanish minimum wage (2026)",
+            "value": "~€1,184/month"
+          },
+          {
+            "label": "Income tax range",
+            "value": "19-47% (Digital Nomad: 24% flat)"
+          },
+          {
+            "label": "Autónomo social security",
+            "value": "€290-450/month"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Living affordably in Madrid",
+        "do": [
+          "Cook at home — Spanish groceries are excellent and cheap at Mercadona",
+          "Use the menú del día for lunch (€10-14 for 3 courses + drink)",
+          "Get a Metrobús 10-trip card (€21.50) instead of single tickets",
+          "Take advantage of free museum hours (Prado Mon-Sat 6-8pm, etc.)",
+          "Shop at El Rastro flea market for cheap secondhand goods",
+          "Use the Digital Nomad Visa (24% flat tax) if you're a remote worker"
+        ],
+        "dont": [
+          "Don't eat at Plaza Mayor restaurants (3x normal prices, mediocre food)",
+          "Don't rent a car — parking is €100-200/month + impossible in center",
+          "Don't use taxis daily — Metro is faster and 20x cheaper",
+          "Don't underestimate Spanish income tax (up to 47% for high earners)",
+          "Don't forget Modelo 720 (foreign asset declaration) — €10,000+ penalties"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moving-to-madrid-guide",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "title": "Moving to Madrid — Step-by-Step Relocation Guide",
+    "summary": "Complete guide for moving to Madrid: visas, NIE, empadronamiento, bank account, healthcare, housing, phone, school enrollment, and settling-in checklist. Timeline: start 2-3 months before arrival.",
+    "content": "Moving to Madrid requires navigating Spanish bureaucracy, but the process is well-defined if you follow the right order. This step-by-step guide covers everything from visa to settling in, based on the experiences of thousands of expats. The old Madrid Insider (2013, node/11) provided practical flat-hunting advice that we've updated for 2026. TIMELINE: Start 2-3 months before your planned arrival. Spanish bureaucracy moves slowly — appointments can have 2-4 week wait times. The most common mistake is arriving without the right visa or paperwork, which makes everything else impossible. STEP 1: VISA (before arrival). Determine your visa type: Tourist (90 days, no visa for EU/US/UK), Student (for enrolled students), Work (employer-sponsored), Digital Nomad (remote workers, 24% flat tax), Non-Lucrative (retirees/passive income), or Golden Visa (ENDED April 2025). Apply at Spanish consulate in your home country. See schengen-visa-us, student-visa-spain, work-visa-spain, digital-nomad-visa-spain-services records. STEP 2: NIE (Foreigner ID Number). The NIE (Número de Identidad de Extranjero) is required for everything: opening a bank account, signing a rental contract, getting paid, registering for healthcare. Apply at the Oficina de Extranjería in Madrid within 30 days of arrival. See nie-tie record. STEP 3: EMAPDRONAMIENTO (Local Registration). Register at your local Ayuntamiento (City Hall) office. Required for healthcare access, school enrollment, and voting. Free. Bring passport + NIE + proof of address. See padron-empadronamiento record. STEP 4: BANK ACCOUNT. Open a Spanish bank account. Non-residents can open a 'cuenta no residente' with just a passport. Once you have your NIE, switch to a resident account (lower fees). BBVA, Santander, CaixaBank, Bankinter. Or use N26/Revolut (digital, English apps). See banking record. STEP 5: HEALTHCARE. EU citizens: use EHIC for temporary, register for Spanish public healthcare for permanent. Non-EU: get private insurance (Sanitas, Adeslas, Asisa — €40-80/month). Register at your local Centro de Salud with empadronamiento + social security number. See healthcare record. STEP 6: HOUSING. Search Idealista/Fotocasa for rentals. Bring: NIE, passport, proof of income (3x rent), bank account. Deposit: 2 months. Agency fee: 1 month. Best timing: November-December or July-August (avoid September — peak demand). See housing record. STEP 7: PHONE/INTERNET. Get a Spanish SIM (Vodafone, Orange, Movistar — €10-25/month) or eSIM (Airalo before arrival). Home internet: Movistar, Vodafone, Orange (€35-50/month). See sim-cards-madrid and phone-tv-internet-providers-madrid records. STEP 8: SCHOOLS (if applicable). Public schools: free, instruction in Spanish (some bilingual programs). International schools: €8,000-15,000/year. Register with empadronamiento at local school. See bilingual-schools-madrid record. STEP 9: SOCIAL SECURITY NUMBER (if working). Required before starting any job. Apply at TGSS office. Free. See social-security-number-spain record. STEP 10: SETTLING IN. Join expat Facebook groups (Madrid Expats Group, Americans in Spain). Attend AWC Madrid or American Club events. Get a Tarjeta Transporte (transport card). Download Metro de Madrid + EMT apps. Register with your embassy (STEP for US citizens). Explore your neighborhood — Madrid rewards curiosity.",
+    "official_url": "https://www.esmadrid.com/en/living-in-madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "moving-to-madrid",
+      "relocation",
+      "settling-in",
+      "expat-guide",
+      "step-by-step",
+      "checklist",
+      "new-arrival",
+      "bureaucracy"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "nie-tie",
+      "padron-empadronamiento",
+      "banking",
+      "healthcare",
+      "housing",
+      "sim-cards-madrid",
+      "bilingual-schools-madrid",
+      "social-security-number-spain",
+      "student-visa-spain",
+      "work-visa-spain",
+      "digital-nomad-visa-spain-services",
+      "schengen-visa-us",
+      "embassies",
+      "cost-of-living-madrid",
+      "empadronamiento",
+      "moving2madrid-relocation"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Start 2-3 months before arrival",
+        "body": "Spanish bureaucracy moves slowly. Appointments can have 2-4 week wait times. The #1 mistake is arriving without the right visa or paperwork — everything else becomes impossible.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Timeline",
+            "value": "2-3 months before arrival to start"
+          },
+          {
+            "label": "First priority",
+            "value": "Visa (before arrival), then NIE (within 30 days of arrival)"
+          },
+          {
+            "label": "Essential documents",
+            "value": "Passport, NIE, empadronamiento, bank account"
+          },
+          {
+            "label": "Biggest expense",
+            "value": "Housing deposit (2 months) + agency fee (1 month)"
+          },
+          {
+            "label": "Best arrival timing",
+            "value": "October-November (avoid September demand spike)"
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "10-Step Relocation Process",
+        "items": [
+          {
+            "title": "1. Visa (before arrival)",
+            "body": "Determine visa type. Apply at Spanish consulate in home country. See schengen-visa-us / student-visa-spain / work-visa-spain / digital-nomad-visa-spain-services.",
+            "tip": "Book consulate appointment early — some have 2-3 month wait times."
+          },
+          {
+            "title": "2. NIE (within 30 days of arrival)",
+            "body": "Foreigner ID number. Required for everything: bank, rent, healthcare, work. Apply at Oficina de Extranjería. See nie-tie record.",
+            "tip": "Book appointment BEFORE arriving — wait times 2-4 weeks."
+          },
+          {
+            "title": "3. Empadronamiento",
+            "body": "Local registration. Free. Required for healthcare + schools. Bring passport + NIE + proof of address. See padron-empadronamiento.",
+            "tip": "Plaza Mayor office accepts walk-ins for empadronamiento only."
+          },
+          {
+            "title": "4. Bank account",
+            "body": "Open 'cuenta no residente' with passport. Switch to resident account once you have NIE. BBVA, Santander, CaixaBank, or N26/Revolut.",
+            "tip": "N26 and Revolut have English apps and no fees — great for first months."
+          },
+          {
+            "title": "5. Healthcare",
+            "body": "EU: EHIC + register for public healthcare. Non-EU: private insurance (€40-80/month). Register at local Centro de Salud.",
+            "tip": "Get private insurance BEFORE arriving — required for visa application."
+          },
+          {
+            "title": "6. Housing",
+            "body": "Search Idealista/Fotocasa. Bring NIE + passport + proof of income. Deposit: 2 months. Agency fee: 1 month. Avoid September.",
+            "tip": "Best timing: November-December or July-August. Worst: September."
+          },
+          {
+            "title": "7. Phone + internet",
+            "body": "Spanish SIM (€10-25/month) or eSIM before arrival. Home internet €35-50/month.",
+            "tip": "Get eSIM (Airalo) before landing — no store visit needed."
+          },
+          {
+            "title": "8. Schools (if applicable)",
+            "body": "Public: free, Spanish instruction. International: €8,000-15,000/year. Register with empadronamiento.",
+            "tip": "Apply to international schools 6+ months ahead — waitlists common."
+          },
+          {
+            "title": "9. Social security (if working)",
+            "body": "Required before starting any job. Apply at TGSS office. Free. See social-security-number-spain.",
+            "tip": "Your employer or gestor usually handles this — ask them."
+          },
+          {
+            "title": "10. Settle in",
+            "body": "Join Facebook groups, attend AWC/American Club events, get transport card, download Metro+EMT apps, register with embassy, explore your neighborhood."
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "heading": "Pre-arrival checklist",
+        "items": [
+          {
+            "title": "Visa approved and in passport",
+            "body": "Check entry date — some visas require entry within 90 days of issuance."
+          },
+          {
+            "title": "Private health insurance arranged",
+            "body": "Required for visa + practical for first months before public healthcare access."
+          },
+          {
+            "title": "Accommodation booked (temporary)",
+            "body": "Book Airbnb or hotel for first 2-4 weeks while flat-hunting."
+          },
+          {
+            "title": "eSIM purchased",
+            "body": "Airalo or similar — activates on landing, no store visit."
+          },
+          {
+            "title": "Savings available",
+            "value": "€3,000-5,000 minimum for first 2 months (deposit + agency fee + living costs)."
+          },
+          {
+            "title": "Documents apostilled",
+            "body": "Birth certificate, marriage certificate, degree, criminal record check — apostilled in home country."
+          },
+          {
+            "title": "Sworn translations",
+            "body": "Spanish sworn translations of key documents (if required by visa type)."
+          },
+          {
+            "title": "Booked NIE appointment",
+            "body": "Book online BEFORE arriving — wait times 2-4 weeks."
           }
         ]
       }
