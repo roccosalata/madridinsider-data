@@ -23,12 +23,19 @@
         "tips": "Spain uses the Euro (€). ATMs are everywhere — use bank ATMs (Santander, BBVA) for best rates, avoid Euronet. Credit cards widely accepted (Visa/Mastercard). Tipping is optional — round up or 5-10%. Non-EU residents can claim 15-21% VAT back on purchases over €90."
       },
       {
-        "id": "transportation",
+        "id": "transport",
         "slug": "transport",
-        "title": "Transport & Getting Around",
+        "title": "Getting Around Madrid",
         "icon": "🚇",
-        "summary": "All transit in and around Madrid: metro, Cercanías commuter rail, city buses, night buses, taxis, ride-sharing, e-bikes, scooters, walking, driving, parking, intercity buses & coaches, intercity trains (Renfe, AVE, Eurail), major stations (Atocha, Chamartín), and transit maps. Service alerts merged into their mode groups.",
-        "tips": "Metro is the fastest way around (€1.50–2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30 min) are great for short hops. Cercanías commuter rail connects suburbs to city center (€1.70–4.50). For intercity: AVE high-speed trains to Toledo/Sevilla (30 min – 2.5 hr), intercity buses from Estación Sur. Avoid driving in central Madrid (LEZ restrictions, expensive parking)."
+        "summary": "Urban transit within Madrid: metro, Cercanías commuter rail, city buses, night buses, taxis, ride-sharing (Uber/Cabify), BiciMAD e-bikes, e-scooters, walking, driving, parking, and transit maps. For intercity travel (AVE, Renfe, buses to other cities, Atocha/Chamartín stations), see Intercity Travel from Madrid.",
+        "tips": "Metro is the fastest way around (€1.50–2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30 min) are great for short hops. Cercanías commuter rail connects suburbs to city center (€1.70–4.50). Avoid driving in central Madrid (LEZ restrictions, expensive parking). For trains and buses to OTHER cities (Toledo, Sevilla, etc.), see Intercity Travel from Madrid."
+      },
+      {
+        "id": "intercity-travel",
+        "title": "Intercity Travel from Madrid",
+        "icon": "🚆",
+        "summary": "Leaving Madrid: AVE high-speed trains, Renfe national trains, Eurail/Interrail passes, intercity buses & coaches, coach stations, and Madrid's major transit hubs (Atocha, Chamartín). For getting around WITHIN Madrid (metro, buses, taxis, bikes), see Getting Around Madrid.",
+        "tips": "AVE high-speed trains are the fastest way to other cities: Madrid→Toledo 30 min, Madrid→Sevilla 2.5 hr, Madrid→Barcelona 2.5 hr. Book early at renfe.com for the best fares (€20–80). Intercity buses are cheaper but slower — Estación Sur (Méndez Álvaro) is the main hub. Atocha Station serves south/east (Toledo, Sevilla, Málaga); Chamartín serves north (Segovia, Valladolid). Eurail/Interrail passes cover Renfe but require seat reservations (€10–35 per AVE trip)."
       },
       {
         "id": "airport",
