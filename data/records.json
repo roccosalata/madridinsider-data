@@ -128,7 +128,7 @@
       }
     ],
     "english_level": "english-available",
-    "subsubcategory": "Metro & Urban Rail"
+    "subsubcategory": "Metro & Cercanías"
   },
   {
     "id": "madrid-barajas-airport",
@@ -243,7 +243,7 @@
     "id": "atocha-station",
     "title": "Atocha Station (Madrid's Main Train Station)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Madrid's main station. AVE high-speed to Barcelona, Seville, Valencia. Tropical garden in the old hall. Metro: Atocha Renfe L1.",
     "content": "Atocha Station (officially Madrid Puerta de Atocha) is Madrid's main train station, serving high-speed AVE trains and most long-distance routes. Two parts: (1) Atocha Cercanías — commuter trains (Cercanías C1-C10), in the modern part. (2) Madrid Puerta de Atocha — long-distance and AVE high-speed trains, in the restored 19th-century hall with the famous tropical garden (4,000 plants, turtles). AVE DESTINATIONS: Barcelona (2h30, from €25), Seville (2h30, from €20), Valencia (1h40, from €18), Málaga (2h30, from €25), Zaragoza (1h15, from €15), Córdoba (1h45, from €18). Metro: Atocha Renfe (Line 1), Atocha (Line 1, walk 5 min). Cercanías: connects to Chamartín (8 min, faster than Metro), Airport T4 (25 min, C1), El Escorial (1h, C8). FACILITIES: Left luggage (€3.90-5.50/day, ground floor near tropical garden), VIPS café, Starbucks, McDonald's, pharmacy, car rental, taxi rank, hotel booking desk, tropical garden (free to visit, even without a ticket). TIPS: (1) The tropical garden in the old hall is worth seeing even if you're not catching a train — 4,000 plants, turtles, free. (2) Arrive 30 min before AVE departure — security check is like an airport. (3) AVE tickets are cheapest 60+ days ahead — book at renfe.com. (4) Left luggage at Atocha is the cheapest in central Madrid (€3.90/day) — great for sightseeing. (5) The station is 10 min walk from the Prado, Reina Sofía, and Thyssen museums.",
     "official_url": "https://www.adif.es/en/station/atocha",
@@ -337,13 +337,14 @@
         "tone": "info"
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Major Stations & Hubs"
   },
   {
     "id": "chamartin-station",
     "title": "Chamartín Station (Madrid's North Station)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Madrid's second major station, north of center. AVE to Galicia, Asturias, Basque Country. Cercanías hub. Metro: Lines 1, 10.",
     "content": "Chamartín Station (officially Madrid-Chamartín-Clara Campoamor) is Madrid's second major train station, located in the north of the city. Renovated in 2022 with a modern glass facade and expanded concourse. AVE high-speed trains depart here for: Galicia (A Coruña, Vigo — 6h), Asturias (Gijón, Oviedo — 4h30), Cantabria (Santander — 4h15), Basque Country (Bilbao — 4h, San Sebastián — 5h30). Also serves Cercanías lines C1, C2, C3, C4, C7, C8, C10 — connecting to Atocha (8 min), Barajas Airport T4 (25 min), El Escorial (1h), and Segovia (via C8 + C9). Metro: Chamartín (Lines 1, 10), plus direct connection to Metro surロン (Line 10). Facilities: VIPS café, Starbucks, McDonald's, pharmacy, car rental (Avis, Hertz), left luggage (€3.90/day), taxi rank, parking. The station is less crowded than Atocha and easier to navigate. For tourists staying in northern Madrid (Chamartín, Tetuán, financial district), this is more convenient than Atocha.",
     "official_url": "https://www.adif.es/en/station/chamartin",
@@ -429,7 +430,8 @@
         "tone": "info"
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Major Stations & Hubs"
   },
   {
     "id": "emt-buses",
@@ -624,7 +626,7 @@
     "id": "renfe-trains",
     "title": "Renfe — National Trains",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Spain's national rail operator. AVE high-speed, Alvia, Cercanías commuter. renfe.com for tickets. Book 60+ days ahead for cheapest fares.",
     "content": "Renfe Operadora is Spain's national railway company. SERVICES: (1) AVE — high-speed (up to 310 km/h). Madrid to Barcelona 2h30, Seville 2h30, Valencia 1h40. From €15 if booked 60+ days ahead. (2) Alvia — medium-distance high-speed. Madrid to Galicia, Basque Country, Cantabria. (3) Cercanías — commuter rail in Madrid (9 lines, C1-C10). See our Cercanías record. (4) Larga Distancia — conventional long-distance (slower, cheaper). COMPETITORS: Ouigo (ouigo.com) and Iryo (iryo.eu) now compete with Renfe on the Madrid-Barcelona and Madrid-Valencia routes — often cheaper. BOOKING: renfe.com (English site available). Book 60+ days ahead for cheapest 'Promo' fares (€15-25). Last-minute tickets can be €150+. Tickets are e-tickets — show on your phone at the station. STATIONS: AVE trains depart from Atocha (most destinations) or Chamartín (Galicia, Asturias, Basque Country). Arrive 30 min before departure — security check like an airport. TIPS: (1) The 'Promo' fare is non-refundable but 50-70% cheaper. (2) Prenda-e (bike) service: €10 to bring a bike, book ahead. (3) Renfe+ loyalty program: free to join, accumulate points for discounts. (4) Cercanías is separate from AVE — different tickets, different platforms. (5) For Cercanías, use the Tarjeta Transporte Público (€2.50 deposit) — cheaper than single tickets.",
     "official_url": "https://www.renfe.com/es/en",
@@ -695,7 +697,8 @@
         "tone": "success"
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Intercity Trains"
   },
   {
     "id": "schengen-visa-us",
@@ -5075,14 +5078,14 @@
     "id": "ave-high-speed-trains",
     "title": "AVE High-Speed Trains",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Europe's largest high-speed rail network. Madrid to Barcelona 2h30, Seville 2h30, Valencia 1h40. From €20 one-way.",
     "content": "Spain has the largest high-speed rail network in Europe and the second-largest in the world (after China). The AVE (Alta Velocidad Española) connects Madrid to major Spanish cities at up to 310 km/h. Trains depart from Atocha station (Puerta de Atocha) for most destinations, and from Chamartín for Galicia and Asturias. Fares start at €20 one-way if booked in advance (up to 60 days ahead) but rise to €150+ for last-minute bookings. The cheapest fares are non-refundable 'Promo' tickets. Renfe's competing low-cost brand 'Ouigo' (French operator) and 'Iryo' (private Spanish operator) offer even cheaper fares on the Madrid-Barcelona and Madrid-Valencia routes. Trains are comfortable, with power outlets, WiFi (spotty), and a café car.",
     "official_url": "https://www.renfe.com/es/en/ave",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "train",
@@ -5142,7 +5145,8 @@
         "body": "Ouigo (ouigo.com) and Iryo (iryo.eu) compete with Renfe on the Madrid-Barcelona and Madrid-Valencia routes. Fares start at €9 one-way. Slightly less legroom and luggage allowance than AVE, but the same travel time.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Intercity Trains"
   },
   {
     "id": "intercity-buses",
@@ -5205,7 +5209,7 @@
     "id": "eurail-interrail-passes",
     "title": "Eurail / Interrail Passes",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Multi-country train passes for non-European (Eurail) and European (Interrail) residents. Spain is one pass country.",
     "content": "Eurail (for non-European residents) and Interrail (for European residents) passes offer flexible train travel across multiple European countries. A 'Global Pass' covers 33 countries including Spain. A 'One Country Pass' for Spain is also available. Passes give you a set number of travel days within a period (e.g., 3 days within 1 month, 7 days within 1 month, or continuous travel for up to 3 months). High-speed AVE trains in Spain require a seat reservation (€10-20 additional per trip) even with a pass — book these in advance at renfe.com or at Atocha station. The pass is best for travelers visiting 3+ countries or 4+ Spanish cities. For just Madrid + 1-2 other cities, point-to-point tickets booked in advance are usually cheaper.",
     "official_url": "https://www.eurail.com/en",
@@ -5231,7 +5235,8 @@
         "body": "Eurail (non-EU residents) and Interrail (EU residents) passes offer unlimited train travel across Europe. Spain pass: 3-8 days within 1 month. Renfe AVE requires seat reservation (€10-20 extra). Book reservations at renfe.com or stations. Lost/stolen passes cannot be replaced.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Intercity Trains"
   },
   {
     "id": "driving-madrid",
@@ -9218,7 +9223,7 @@
       "madrid-barajas-airport",
       "metro-closures"
     ],
-    "subsubcategory": "Metro & Urban Rail",
+    "subsubcategory": "Metro & Cercanías",
     "sections": [
       {
         "type": "callout",
@@ -9399,7 +9404,7 @@
     "id": "cercanias-delays",
     "title": "Cercanías (Commuter Rail) Delays",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Renfe Cercanías occasional delays due to signal issues and infrastructure work. Check @CercaniasMadrid for real-time updates.",
     "content": "Renfe Cercanías Madrid is the commuter rail network (10 lines, C1-C10) serving Madrid and its suburbs. Generally reliable, but delays do occur — especially during morning rush (7:30-9:30am) and evening rush (5-7pm). Common causes: signal failures (especially on C1, C2, C7, C10), infrastructure work (weekend and nighttime), train breakdowns, and strikes (rare but possible — French-style labor actions). For real-time updates: @CercaniasMadrid on Twitter, the Renfe Cercanías app (Spanish only), or the screens at each station. Major delays (>15 min) are announced on station PA systems (Spanish only — learn 'retraso' = delay, 'cancelado' = cancelled, 'sin servicio' = no service). The Cercanías network is critical for: airport to Atocha/Chamartín (C1), Atocha to Chamartín (C1, C2, C7, C8, C10 — 8 min), day trips to El Escorial (C8), Alcalá de Henares (C2, C7), and Segovia connection (C8 to Cercedilla, then C9 to Segovia). If you commute daily, sign up for Renfe alerts (free, Spanish).",
     "official_url": "https://www.renfe.com/es/en/suburban/suburban-madrid",
@@ -9428,7 +9433,8 @@
         "body": "Cercanías delays are common, especially during rush hour (7:30-9:30am, 5:30-7:30pm). Check @CercaniasMadrid on Twitter or the Renfe app before traveling. Delays of 5-15 minutes are normal; 30+ minutes during incidents.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Metro & Cercanías"
   },
   {
     "id": "taxi-strikes-madrid",
@@ -15037,14 +15043,14 @@
     "id": "cercanias-madrid",
     "title": "Cercanías Madrid (Commuter Rail)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Madrid's commuter rail network. 9 lines (C1-C10). Connects city center to suburbs, airport, El Escorial, Alcalá. €1.70-5.60.",
     "content": "Cercanías Madrid is the commuter rail network operated by Renfe, serving Madrid and its metropolitan area. 9 lines (C1-C10) with 90+ stations. KEY LINES: (1) C1 — Atocha to Chamartín (8 min, faster than Metro), continues to Aeropuerto T4 (25 min) and Príncipe Pío. (2) C3 — Atocha to El Escorial (1 hour, €5.60). (3) C7 — Atocha to Alcalá de Henares (35 min, €2.60). (4) C8 — Atocha to Cercedilla (1h 15min, gateway to Sierra de Guadarrama). (5) C10 — Atocha to Chamartín to Madrid-Barajas T4. FARES: zone A (city center) €1.70-2.60; zone B1 (airport, closer suburbs) €2.60-3.40; zone B2 (El Escorial, Alcalá) €4.10-5.60. Tickets: buy at station machines (English option) or use a Tarjeta Transporte Público (10-trip card, 30% discount). Cercanías is FREE for holders of the Madrid City Card. FREQUENCY: every 5-15 min during peak, every 15-30 min off-peak. First train ~5am, last ~midnight. Less frequent on weekends. ADVANTAGES over Metro: (1) Faster for cross-city trips (Atocha to Chamartín in 8 min vs 15+ on Metro). (2) Goes to suburbs Metro doesn't reach (El Escorial, Alcalá). (3) Connects both major train stations to the airport. DISADVANTAGES: (1) Less frequent than Metro. (2) Delays during rush hour and signal failures. (3) Some older trains without AC. TIPS: Download the Renfe Cercanías app for real-time info. Follow @CercaniasMadrid on Twitter for delays. The C1 airport line is often faster than Metro L8.",
     "official_url": "https://www.renfe.com/es/en/suburban/suburban-madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "cercanias",
@@ -15108,7 +15114,8 @@
         "body": "Cercanías is faster than Metro for cross-city trips (Atocha to Chamartín: 8 min vs 15+ on Metro). It's also the only public transport to El Escorial, Alcalá, and the Sierra. Fares: €1.70-5.60 depending on zone. Use your Tarjeta Transporte Público.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Metro & Cercanías"
   },
   {
     "id": "night-buses-buhos-madrid",
@@ -15172,14 +15179,14 @@
     "id": "coach-stations-madrid",
     "title": "Coach Stations (Estaciones de Autobús)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Madrid's 3 main coach stations: Estación Sur (long-distance), Moncloa (Castilla y León), Méndez Álvaro (south). Metro connected.",
     "content": "Madrid has 3 main coach (long-distance bus) stations, each serving different regions. ESTACIÓN SUR (also called Méndez Álvaro): Madrid's largest bus station. All ALSA long-distance routes depart here — Barcelona, Valencia, Andalusia, Portugal, France. 50+ platforms. Metro: Méndez Álvaro (L6). Open 24/7. Facilities: cafés, shops, ATMs, left luggage, taxi rank. Allow 20 min to find your platform. MONLOCA INTERCAMBIADOR: Serves Castilla y León (Segovia, Ávila, Salamanca, Zamora) and Galicia. Also serves some Sierra de Guadarrama routes. Metro: Moncloa (L3, L6). Modern interchange (2012), bright and clean. Open 6am-midnight. PLAZA ELÍPTICA: Smaller station serving southern routes — Toledo, Cuenca, Aranjuez, some Andalusia routes. Metro: Plaza Elíptica (L6, L11). Open 6am-11pm. AVANZA is the main operator from Moncloa and Plaza Elíptica; ALSA from Estación Sur. TIPS: (1) Arrive 20-30 min before departure to find your platform (large stations like Estación Sur are confusing). (2) Buy tickets online at alsa.es or avanzabus.es for the best fares. (3) Print or screenshot your ticket — some operators require printed tickets. (4) Luggage goes under the bus (free, 1 bag up to 30kg + 1 carry-on). (5) Coach stations are NOT the same as intercity bus stops — the stations have platforms, ticket windows, and facilities. (6) The Metro connection to all 3 stations is excellent — you can get from any Madrid neighborhood to any coach station in under 30 min.",
     "official_url": "https://www.alsa.com/en/bus-stations/madrid-sur-station",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "coach",
@@ -15268,7 +15275,8 @@
           "Don't store valuables in checked luggage — keep passport/meds with you"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "padel-madrid",
@@ -15584,7 +15592,7 @@
     "id": "cercanias-map",
     "title": "Cercanías Madrid Map (Commuter Rail)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Official Cercanías Madrid map. 9 lines (C1-C10) covering Madrid + suburbs. PDF + app.",
     "content": "The Cercanías Madrid map shows the commuter rail network. Formats: (1) PDF download at renfe.com/en (English) — search 'Cercanías Madrid plano'. (2) Free printed map at Atocha and Chamartín stations (ticket office). (3) Interactive map in the Renfe Cercanías app (Spanish only). (4) Wall maps at every Cercanías station. The map shows all 9 lines (C1-C10) and 90+ stations, covering Madrid and its metropolitan area. Key features: (1) Lines are color-coded (C1 blue, C2 green, C3 purple, C4 red, C5 orange, C7 grey, C8 dark green, C9 brown, C10 light blue). (2) Major interchanges with Metro are marked. (3) Zone boundaries (A, B1, B2, C1, C2) are shown — important for fares. (4) Airport connection (C1 to Barajas T4) is highlighted. (5) Connections to other Cercanías networks (Guadalajara, Segovia) are shown. TIPS: (1) Cercanías is faster than Metro for cross-city trips (Atocha to Chamartín in 8 min). (2) The C1 line is the most useful for tourists (Atocha, Chamartín, Airport T4, Príncipe Pío). (3) Download the PDF and save offline. (4) The Renfe Cercanías app has a route planner (Spanish only — use Google Translate). (5) Real-time train info at @CercaniasMadrid on Twitter.",
     "official_url": "https://www.renfe.com/es/en/suburban/suburban-madrid",
@@ -15612,7 +15620,8 @@
         "body": "The Cercanías Madrid network has 9 lines (C1-C10) connecting Madrid to suburbs + nearby cities (El Escorial, Toledo direction, Guadalajara). Download the map from renfe.com. Key stations: Atocha, Chamartín, Nuevos Ministerios, Príncipe Pío.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Transit Maps"
   },
   {
     "id": "emt-bus-map",

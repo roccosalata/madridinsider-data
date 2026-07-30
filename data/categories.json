@@ -25,10 +25,10 @@
       {
         "id": "transportation",
         "slug": "transport",
-        "title": "Getting Around Madrid",
+        "title": "Transport & Getting Around",
         "icon": "🚇",
-        "summary": "Metro, city buses, bikes, scooters, taxis, ride-sharing, walking, driving, and parking within Madrid.",
-        "tips": "Metro is the fastest way around (€1.50-2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30min) are great for short hops. Taxis are white with a red diagonal stripe — use the Radio Taxi app or hail on street."
+        "summary": "All transit in and around Madrid: metro, Cercanías commuter rail, city buses, night buses, taxis, ride-sharing, e-bikes, scooters, walking, driving, parking, intercity buses & coaches, intercity trains (Renfe, AVE, Eurail), major stations (Atocha, Chamartín), and transit maps. Service alerts merged into their mode groups.",
+        "tips": "Metro is the fastest way around (€1.50–2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30 min) are great for short hops. Cercanías commuter rail connects suburbs to city center (€1.70–4.50). For intercity: AVE high-speed trains to Toledo/Sevilla (30 min – 2.5 hr), intercity buses from Estación Sur. Avoid driving in central Madrid (LEZ restrictions, expensive parking)."
       },
       {
         "id": "airport",
@@ -37,14 +37,6 @@
         "icon": "✈️",
         "summary": "Airport terminals, airlines, express bus, private transfers, shuttles, information desks, delays, and left luggage at Barajas.",
         "tips": "Madrid-Barajas (MAD) has 4 terminals (T1-T4). Metro L8 (€4.50+€3 airport supplement) connects all terminals to city center in 15 min. Express Bus 203 (€5, 24h) goes to Atocha/Cibeles. Taxi flat rate: €30 to city center. Allow 2 hours before European flights, 3 for intercontinental. T4 is the main Iberia/Oneworld hub."
-      },
-      {
-        "id": "trains",
-        "slug": "trains",
-        "title": "Trains & Intercity Travel",
-        "icon": "🚄",
-        "summary": "Atocha and Chamartín stations, AVE high-speed, Renfe, Cercanías commuter rail, Eurail passes, intercity buses, and coach stations.",
-        "tips": "AVE high-speed trains connect Madrid to Seville (2.5h), Barcelona (2.5h), Valencia (1.5h). Book 7+ days ahead at renfe.com for best prices. Cercanías commuter rail (€1.55-2.60) connects suburbs and is included in some tourist passes. Atocha = south/east destinations. Chamartín = north/west. Intercity buses (ALSA) are cheaper but slower than AVE."
       },
       {
         "id": "communication",
