@@ -2921,7 +2921,7 @@
     "official_url": "https://www.mercadodesanmiguel.es/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "mercado",
@@ -3011,7 +3011,7 @@
     "official_url": "https://chocolateriasangines.com",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "churros",
@@ -3065,7 +3065,7 @@
     "content": "Vermouth (vermut) is having a renaissance in Madrid. The 'hora del vermut' (vermouth hour) is the sacred pre-lunch tradition — around 12:30pm-2pm on weekends, madrileños gather at vermuterías for a glass of vermouth on tap (vermut de grifo) with olives, gildas (olive+anchovy+pepper on a skewer), and conservas (tinned seafood). It's an aperitif, not a drink to get drunk on. BEST VERMUTERÍAS: (1) Casa Alberto (Calle de las Huertas 18) — oldest taberna in Madrid (1827), Cervantes once lived here. (2) Bodegas Ricla (Calle Cava Baja 7) — tiny, no-frills, locals' favorite in La Latina. (3) La Concha (Calle de la Cava Baja 12) — modern vermutería with great conservas. (4) Bodegas La Ardosa (Calle Colón 13, Malasaña) — historic taberna, great tortilla. (5) Casa Macareno (Calle de la Cava Baja 32) — trendy, modern vermouth. HOW TO ORDER: 'un vermut de grifo, por favor' (a draft vermouth please). €2-4 for the vermouth, €3-6 for olives or a gilda. Served over ice with an orange slice and an olive. Sweet (rojo), dry (seco), or reserve (reserva, aged). Vermouth hour is a Madrid must-do — arrive at noon on Saturday to experience it at its best.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "vermouth",
@@ -3813,7 +3813,7 @@
     "official_url": "https://www.idealista.com/en/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "rental",
@@ -3916,6 +3916,34 @@
           "Don't wire money to 'hold' a property you haven't seen",
           "Don't sign a Spanish contract you don't fully understand",
           "Don't assume utilities are included — they almost never are"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "DIY flat-hunting advice (from old Madrid Insider)",
+        "body": "Timing is everything: the best time to find accommodation is November-December (once everyone is settled for the year) or July-August (many rooms free up as people leave for summer). The worst time is September (massive demand, prices spike). Most people in Madrid live in shared flats (pisos compartidos) — renting a room is easier than renting a whole apartment. For your own apartment, you typically need: NIE, proof of income (3x rent), Spanish bank account, and sometimes a guarantor (avalista). Spanish rents are high relative to local salaries — most Madrileños live at home until their 30s. If you want a bigger place, consider renting a 3-bedroom flat and subletting rooms to keep your rent down.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Best timing for flat-hunting in Madrid",
+        "items": [
+          {
+            "title": "Best: November-December",
+            "body": "Everyone is settled for the year. Less competition. Prices may be negotiable."
+          },
+          {
+            "title": "Best: July-August",
+            "body": "Many rooms free up as people leave for summer or move out. Landlords eager to fill vacancies before September."
+          },
+          {
+            "title": "Worst: September",
+            "body": "Massive demand as students and workers return. Prices spike. You'll compete with hundreds of applicants."
+          },
+          {
+            "title": "Acceptable: January-March",
+            "body": "Some rooms open up as people leave after Christmas. Moderate competition."
+          }
         ]
       }
     ]
@@ -4884,7 +4912,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "post-office",
@@ -4895,7 +4923,37 @@
       "moving-shipping-madrid",
       "translating-services-madrid"
     ],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Lista de Correos (General Delivery / Poste Restante)",
+        "body": "You can receive mail at the main Cibeles post office (Palacio de Cibeles, Plaza de Cibeles, Metro Banco de España) using Lista de Correos. Have mail sent to: YOUR NAME, Lista de Correos, 28014 Madrid (Spain). Bring your passport to pick up mail. General deliveries: Mon-Fri 9am-8pm, Sat 9am-2pm. Stamps and general services: Mon-Sat 8am-midnight, Sun 8am-10pm. Tel 902-197-197.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Mailbox info (from old Madrid Insider)",
+        "items": [
+          {
+            "title": "Street mailboxes",
+            "body": "Yellow mailboxes on many corners. Two slots: 'Ciudad' for Madrid addresses, 'Provincia/Extranjero' for outside Madrid/international."
+          },
+          {
+            "title": "Stamps",
+            "body": "Available at post offices, tobacco shops (estancos), and some newsstands. Standard domestic letter: ~€0.60. International: ~€1.30."
+          },
+          {
+            "title": "Lista de Correos",
+            "body": "General delivery / poste restante. Main branch: Palacio de Cibeles (Plaza de Cibeles). Bring passport to collect. Address: YOUR NAME, Lista de Correos, 28014 Madrid."
+          },
+          {
+            "title": "Tel 902-197-197",
+            "body": "Correos customer service. For package tracking and general inquiries."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "launderettes-madrid",
@@ -7181,7 +7239,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "internship",
@@ -7195,7 +7253,7 @@
       "international-school-jobs-madrid",
       "work-visa-spain"
     ],
-    "subsubcategory": "Internships",
+    "subsubcategory": "Internships & Entry-Level",
     "sections": [
       {
         "type": "callout",
@@ -7290,7 +7348,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "freelance",
@@ -7309,7 +7367,7 @@
       "coding-bootcamps-madrid",
       "startup-accelerators-madrid"
     ],
-    "subsubcategory": "Freelancing",
+    "subsubcategory": "Freelance & Self-Employment",
     "sections": [
       {
         "type": "callout",
@@ -7552,7 +7610,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "market",
@@ -8499,7 +8557,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "visas",
       "work",
@@ -8516,7 +8574,7 @@
       "digital-nomad-visa-spain-services",
       "international-school-jobs-madrid"
     ],
-    "subsubcategory": "Long-Stay Visas",
+    "subsubcategory": "Work Visas & Permits",
     "sections": [
       {
         "type": "callout",
@@ -9450,7 +9508,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "cocido",
@@ -10014,7 +10072,7 @@
       "coding-bootcamps-madrid",
       "english-teacher-agencies-madrid"
     ],
-    "subsubcategory": "Job Search",
+    "subsubcategory": "Job Search & Career",
     "sections": [
       {
         "type": "callout",
@@ -10114,7 +10172,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "cv",
@@ -10127,7 +10185,7 @@
       "job-search-spain",
       "teach-english-spain"
     ],
-    "subsubcategory": "Job Search"
+    "subsubcategory": "Job Search & Career"
   },
   {
     "id": "plaza-de-la-villa",
@@ -10222,7 +10280,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "wine",
@@ -12240,7 +12298,7 @@
       "english-taught-masters-madrid",
       "english-teacher-agencies-madrid"
     ],
-    "subsubcategory": "Summer & Pre-University Programs",
+    "subsubcategory": "Teach English",
     "sections": [
       {
         "type": "table",
@@ -12291,7 +12349,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "hostess",
@@ -12304,7 +12362,7 @@
       "job-search-spain",
       "internships-spain"
     ],
-    "subsubcategory": "Other Work",
+    "subsubcategory": "Work Visas & Permits",
     "sections": [
       {
         "type": "stats",
@@ -12341,7 +12399,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "journalism",
@@ -12354,7 +12412,7 @@
       "the-local-spain",
       "job-search-spain"
     ],
-    "subsubcategory": "Other Work",
+    "subsubcategory": "Job Search & Career",
     "sections": [
       {
         "type": "list",
@@ -14309,7 +14367,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "budget",
@@ -14362,7 +14420,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "churros",
@@ -14804,7 +14862,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "coffee",
@@ -14880,14 +14938,14 @@
     "title": "Madrid for Digital Nomads",
     "category": "living",
     "subcategory": "work",
-    "subsubcategory": "Freelancing",
+    "subsubcategory": "Freelance & Self-Employment",
     "summary": "Madrid is a top digital nomad destination. Coworking, fast WiFi, Ley de Startups (24% flat tax), great lifestyle. €1,500-2,500/month.",
     "content": "Madrid for digital nomads. WHY MADRID: (1) Fast WiFi everywhere (fiber 600Mbps+ standard). (2) Ley de Startups (2023) — special 24% flat tax rate for 5 years for remote workers moving to Spain. (3) Lower cost of living than London, Paris, Amsterdam. (4) Excellent public transport. (5) 300+ sunny days. (6) Thriving expat community. (7) Great food and nightlife. COSTS: Accommodation €600-1,200/month (room in shared flat to 1-bedroom). Coworking €120-250/month. Food €300-500/month. Transport €54.60/month (Metro pass). Total: €1,500-2,500/month. VISAS: (1) Non-lucrative visa — for retirees and remote workers with foreign income. No Spanish work allowed. Renewable. (2) Ley de Startups visa — for digital nomads and startup founders. 24% flat tax. Must work remotely for non-Spanish clients. (3) Student visa — if enrolled in a Spanish course. Allows 20 hours/week work. COWORKING: See our Coworking Spaces record for the full list. Top: WeWork (3 locations), Impact Hub, TNT Coworking. Day passes €20-30. WIFI: (1) Coworking spaces — fastest (600Mbps+). (2) Cafés — variable (ask for the WiFi password with your coffee). (3) Public WiFi — 'Madrid_Free_WiFi' (600+ hotspots, 2-hour sessions). (4) Mobile data — €20-30/month for 50GB+ (Vodafone, Orange, Lowi). NEIGHBORHOODS FOR NOMADS: (1) Malasaña — hipster, coworking, cafés, nightlife. Best for social nomads. (2) Chamberí — quiet, residential, good coworking. Best for focus. (3) Lavapiés — cheap, multicultural, artistic. Best for budget. (4) Salamanca — upscale, clean, business-oriented. Best for professionals. COMMUNITY: (1) Nomad List Madrid — active Slack group. (2) Madrid Digital Nomads (Meetup) — weekly meetups. (3) Impact Hub events — networking. (4) Intercambios (language exchanges) — great for meeting locals. TIPS: (1) The Ley de Startups visa is the best option — 24% flat tax for 5 years. Apply at a Spanish consulate. (2) Get a Spanish bank account (N26 or Revolut for quick setup). (3) Get a NIE (foreigner ID) — needed for everything. (4) Join 'Digital Nomads Madrid' on Facebook — 5,000+ members. (5) Summer (July-August) is too hot to work outdoors — coworking with AC is essential.",
     "official_url": "https://www.esmadrid.com/en/digital-nomads",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "digital-nomad",
@@ -16385,7 +16443,7 @@
       "international",
       "advocacy"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "job-search-spain",
@@ -16479,7 +16537,8 @@
           "Don't confuse chambers with consulates — chambers are private non-profits, not government bodies"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Job Search & Career"
   },
   {
     "id": "st-georges-anglican-madrid",
@@ -16898,7 +16957,7 @@
       "student-visa",
       "families"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "student-visa-spain",
@@ -17002,7 +17061,8 @@
         "body": "Madrid families typically want au pairs who can drive (for school runs) and have lifeguard certification (for summer pool season). If you have these, you'll get premium placements.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Internships & Entry-Level"
   },
   {
     "id": "digital-nomad-visa-spain-services",
@@ -17025,7 +17085,7 @@
       "consultants",
       "non-eu"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "digital-nomads-madrid",
@@ -17170,7 +17230,8 @@
           "Don't skip the TIE application — visa alone is insufficient for residency"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Freelance & Self-Employment"
   },
   {
     "id": "work-exchange-spain",
@@ -17193,7 +17254,7 @@
       "organic-farming",
       "cultural-exchange"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "aupair-spain-madrid",
@@ -17298,7 +17359,8 @@
         "body": "Work exchange exists in a legal gray area in Spain. Strictly speaking, you need a working visa, not a tourist visa. In practice, most short stays (1-4 weeks) go unchallenged. For stays 90+ days, get a proper visa (student, working holiday, or non-lucrative).",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Internships & Entry-Level"
   },
   {
     "id": "soccer-camps-madrid",
@@ -17694,7 +17756,7 @@
       "english-taught",
       "international-students"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "mercados-madrid",
@@ -18376,7 +18438,7 @@
       "isg",
       "spanish-wine-scholar"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "spanish-wines-madrid",
@@ -18987,7 +19049,7 @@
       "ciee",
       "adelante"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "internships-spain",
@@ -19092,7 +19154,8 @@
           "Don't skip the on-ground orientation — critical for navigating Madrid bureaucracy"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Internships & Entry-Level"
   },
   {
     "id": "english-speaking-financial-advisors-madrid",
@@ -21078,7 +21141,7 @@
       "market-visit",
       "culinary-experience"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "devour-madrid-food-tours",
@@ -22921,7 +22984,7 @@
       "career-change",
       "english-taught"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "job-search-spain",
@@ -23039,7 +23102,8 @@
           "Don't skip the application interview prep — competitive bootcamps"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Freelance & Self-Employment"
   },
   {
     "id": "architecture-summer-programs-madrid",
@@ -23556,7 +23620,7 @@
       "gourmet-madrid",
       "culinary-education"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "culinary-schools-madrid",
@@ -24069,7 +24133,7 @@
       "english-speaking",
       "international-founders"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "coding-bootcamps-madrid",
@@ -24198,7 +24262,8 @@
         "body": "Spain's Ley de Startups (Startup Law) offers: 24% flat tax for first 6 years (vs up to 47% standard), stock option tax deferral, easier visa process for international founders, and reduced bureaucracy for new companies. See digital-nomad-visa-spain-services record for visa details.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Freelance & Self-Employment"
   },
   {
     "id": "spanish-film-festivals",
@@ -24471,7 +24536,7 @@
       "international-foodies",
       "residential"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "culinary-schools-madrid",
@@ -28181,7 +28246,7 @@
       "summer-dining",
       "al-fresco"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "la-latina-neighborhood",
@@ -28278,7 +28343,8 @@
         "body": "The wide pedestrian medians on Paseo de Recoletos, Paseo de la Castellana, and Calle de Alcalá are where Madrid restaurants put out tables during terraza season. These are the most distinctively Madrid outdoor dining experience — dining in the middle of a grand boulevard, under trees, with city life flowing on both sides. The Recoletos medians (between Cibeles and the National Library) are the most iconic and photogenic.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Outdoor Dining"
   },
   {
     "id": "museo-thyssen-bornemisza",
@@ -28699,7 +28765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Food Culture & Basics"
   },
   {
     "id": "cricket-madrid",
@@ -29234,7 +29301,8 @@
         "body": "The old Madrid Insider (2013, node/123) listed these English teacher agencies: Actitudine (Tel 914-423-621), Advanced Institute/AISpain (Fernández de los Ríos 75, jobs@aispain.com), Alancity (Tel 914-263-287), ALBA Language Consulting (Av Pío XII 3, albalanguage.com). Some may have closed or merged — verify current status before contacting. The academy landscape changes frequently.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Teach English"
   },
   {
     "id": "film-industry-resources-madrid",
