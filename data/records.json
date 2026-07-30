@@ -127,7 +127,8 @@
         ]
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Metro & Urban Rail"
   },
   {
     "id": "madrid-barajas-airport",
@@ -491,7 +492,8 @@
         ]
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "City Buses"
   },
   {
     "id": "taxis-madrid",
@@ -547,7 +549,8 @@
         "tone": "info"
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Taxis & Ride-Share"
   },
   {
     "id": "left-luggage",
@@ -4735,7 +4738,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "rideshare",
@@ -4794,7 +4797,8 @@
         "body": "At Barajas, follow signs to 'Ride App' or 'VCN' (VTC) pick-up zones. Each terminal has a designated pick-up point — check your app for the exact zone letter. Taxis have a fixed €30 fare to central Madrid (inside the M-30), which is often cheaper than ride-sharing for airport runs.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Taxis & Ride-Share"
   },
   {
     "id": "bicimad",
@@ -4807,7 +4811,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "bike",
@@ -4870,7 +4874,8 @@
         "body": "BiciMAD is ideal for trips under 3 km in the center — Retiro Park, Madrid Río, the historic core, and between museums. Avoid the Gran Vía during rush hour (heavy traffic and tram tracks). The Madrid Río park has dedicated bike lanes and is a lovely ride.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Active Transit (Bike/Scooter/Walk)"
   },
   {
     "id": "electric-scooters-madrid",
@@ -4902,7 +4907,8 @@
         "body": "Lime, Dott, and Tier operate e-scooter sharing in Madrid. Download the app, scan QR code, ride. Park in designated zones only. €1 unlock + €0.15/min. Helmets recommended. Not allowed on sidewalks — use bike lanes.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Active Transit (Bike/Scooter/Walk)"
   },
   {
     "id": "walking-madrid",
@@ -4932,7 +4938,8 @@
         "body": "Central Madrid (Sol, Gran Vía, Plaza Mayor, Huertas, La Latina, Malasaña, Chueca) is all within a 20-30 minute walk. Wear comfortable shoes — lots of cobblestones. Avoid walking 2-5pm in July/August (40°C+). Best walking months: April-June, September-November.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Active Transit (Bike/Scooter/Walk)"
   },
   {
     "id": "airport-express-bus-203",
@@ -5255,7 +5262,8 @@
         "body": "Madrid has a Low Emission Zone (ZBE) in the center — older cars are banned. Parking is expensive (€2-4/hour) and nearly impossible in the center. Public transport is faster, cheaper, and less stressful. Only rent a car for day trips outside Madrid.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Driving & Parking"
   },
   {
     "id": "parking-madrid",
@@ -5284,7 +5292,8 @@
         "body": "Street parking: €2-4/hour (SER zone, pay at meter). Underground garages: €3-5/hour, €20-35/day. Many central streets are pedestrianized or Low Emission Zone (ZBE). Best advice: don't drive in central Madrid. Use public transport.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Driving & Parking"
   },
   {
     "id": "sim-cards-madrid",
@@ -9209,7 +9218,7 @@
       "madrid-barajas-airport",
       "metro-closures"
     ],
-    "subsubcategory": "Metro Alerts",
+    "subsubcategory": "Metro & Urban Rail",
     "sections": [
       {
         "type": "callout",
@@ -9308,7 +9317,7 @@
       "metro-closures-summer-2026",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Bus Alerts",
+    "subsubcategory": "City Buses",
     "sections": [
       {
         "type": "callout",
@@ -9446,7 +9455,7 @@
       "metro-de-madrid",
       "emt-buses"
     ],
-    "subsubcategory": "Taxi & Ride-Share",
+    "subsubcategory": "Taxis & Ride-Share",
     "sections": [
       {
         "type": "callout",
@@ -15112,7 +15121,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "night-bus",
@@ -15156,7 +15165,8 @@
         "body": "The N4 is the ONLY public transport to Barajas Airport between 1:30am and 6am. Runs every 35 min from Cibeles. €1.50 — much cheaper than a €30 taxi or surge-priced Uber.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "City Buses"
   },
   {
     "id": "coach-stations-madrid",
@@ -15645,7 +15655,7 @@
     "title": "Madrid Cycling Maps (BiciMAD + Bike Lanes)",
     "category": "essentials",
     "subcategory": "transportation",
-    "subsubcategory": "Transit Maps",
+    "subsubcategory": "Active Transit (Bike/Scooter/Walk)",
     "summary": "Madrid bike lane maps + BiciMAD station map. 130km of bike lanes. Anillo Verde Ciclista 65km loop.",
     "content": "Madrid cycling maps. BIKE LANE MAP: Madrid has 130km of dedicated bike lanes, with more being added yearly. The official map (madrid.es, Spanish only) shows all bike lanes, cycle paths, and bike-friendly streets. Print version free at bicycle shops and tourist offices. BICIMAD STATION MAP: 250+ electric bike stations across Madrid. Live availability shown in the BiciMAD app (English) and at bicimad.com. Search by address or use the map. ANILLO VERDE CICLISTA: The 65km 'Green Cycling Ring' is Madrid's longest continuous bike path, circling the city through parks and green corridors. The official map shows the full route with access points. PDF at madrid.es. MADRID RÍO BIKE PATH: 10km linear park along the Manzanares River, dedicated bike path, connects to Casa de Campo. CASA DE CAMPO TRAILS: 1,535 hectares of trails, mostly unpaved, popular with mountain bikers. No official map — use Trailforks or MTB project apps. RETIRO PARK: 4.5km perimeter loop, flat, bike-friendly (but crowded on weekends). BEST APPS: (1) BiciMAD (English) — for the electric bike-share. (2) Komoot (English, paid) — route planning. (3) Strava (English, free) — heatmaps show popular routes. (4) Google Maps — bike mode shows bike lanes (but not always accurate). TIPS: (1) Cycling in central Madrid is possible but tricky — narrow streets, aggressive drivers. (2) Best cycling is in parks (Retiro, Casa de Campo, Madrid Río) and on the Anillo Verde. (3) Helmets mandatory on intercity roads, recommended in city. (4) Bikes on Metro: allowed outside rush hours (no e-bikes on Metro).",
     "official_url": "https://www.bicimad.com/en",
@@ -16307,7 +16317,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "taxi",
@@ -16352,7 +16362,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Taxis & Ride-Share"
   },
   {
     "id": "airport-shuttle-services-madrid",
