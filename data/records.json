@@ -10632,6 +10632,30 @@
       "scuba-diving-certification-madrid",
       "surf-camps-spain-english",
       "boating-madrid"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Pools listed in old Madrid Insider (2013) — verify current status",
+        "items": [
+          {
+            "title": "Aluche",
+            "body": "Avda General Fanjul 14 (Metro Aluche). Olympic pool + shallower pool. Tel 917-062-868."
+          },
+          {
+            "title": "Barrio del Pilar",
+            "body": "Monforte de Lemos (Metro Barrio del Pilar). Large pool, grassy surroundings, family-friendly."
+          },
+          {
+            "title": "Canal de Isabel II",
+            "body": "Avda de las Islas Filipinas 54 (Metro Ríos Rosas). 25m pool. €2.55 adult Mon-Fri."
+          },
+          {
+            "title": "Casa de Campo",
+            "body": "Avda del Ángel (Metro Lago). Olympic + 25m pool + indoor pool. Wooded grounds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10746,7 +10770,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "golf",
@@ -10757,6 +10781,34 @@
       "running-madrid",
       "swimming-pools-madrid",
       "golf-academies-spain"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Golf courses listed in old Madrid Insider (2013)",
+        "items": [
+          {
+            "title": "Campo de Golf Base Aérea de Torrejón",
+            "body": "Carretera N-II s/n, Torrejón de Ardoz. Tel 916-603-739."
+          },
+          {
+            "title": "Campo de Golf de Somosaguas",
+            "body": "Calle Retama 6, Pozuelo de Alarcón. Tel 913-521-647."
+          },
+          {
+            "title": "Campo de Golf Los Pinos",
+            "body": "Calle Maragato s/n, Aranjuez. Tel 918-910-781."
+          },
+          {
+            "title": "Casino Club de Golf Los Retamares",
+            "body": "Carretera Algete-Alalpardo km 2.3. Tel 916-202-540."
+          },
+          {
+            "title": "Club de Campo Villa de Madrid",
+            "body": "Carretera de Castilla km 2. Still operates — Madrid's premier golf club."
+          }
+        ]
+      }
     ]
   },
   {
