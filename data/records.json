@@ -9019,7 +9019,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "apps",
@@ -9032,7 +9032,39 @@
       "emt-buses",
       "ride-sharing-madrid"
     ],
-    "subsubcategory": "Apps"
+    "subsubcategory": "Apps",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Essential Madrid apps to download",
+        "items": [
+          {
+            "title": "Metro de Madrid",
+            "body": "Official metro app. Route planner, real-time alerts, station map. Free."
+          },
+          {
+            "title": "EMT Madrid (buses)",
+            "body": "Bus routes, real-time arrivals, stop locator. Free."
+          },
+          {
+            "title": "Citymapper",
+            "body": "Best all-in-one transit app. Metro + bus + walking + cycling. Free."
+          },
+          {
+            "title": "Cabify",
+            "body": "Spanish ride-hailing app (like Uber). English interface. Better than taxis for tourists."
+          },
+          {
+            "title": "Google Translate",
+            "body": "Camera mode translates menus and signs instantly. Download Spanish offline."
+          },
+          {
+            "title": "BiciMAD",
+            "body": "Electric bike sharing. Find stations, unlock bikes. €0.50/30min."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-airport-information-desks",
@@ -9070,7 +9102,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "visitor-center",
@@ -9083,7 +9115,23 @@
       "malasana-neighborhood",
       "lavapies-neighborhood"
     ],
-    "subsubcategory": "Tourist Offices"
+    "subsubcategory": "Tourist Offices",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Neighborhood visitor centers in Madrid",
+        "items": [
+          {
+            "title": "Centro Centro (Cibeles)",
+            "body": "Palacio de Cibeles. Cultural center + tourist info. Plaza de Cibeles. Free exhibitions."
+          },
+          {
+            "title": "Matadero Madrid",
+            "body": "Legazpi. Contemporary arts center. Free exhibitions, design market."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-visitors-app",
@@ -10272,7 +10320,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "museums",
       "thyssen",
@@ -10286,7 +10334,15 @@
       "museo-reina-sofia",
       "retiro-neighborhood"
     ],
-    "subsubcategory": "Golden Triangle"
+    "subsubcategory": "Golden Triangle",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "See main Thyssen record",
+        "body": "For the full Thyssen-Bornemisza Museum guide (8 centuries of European painting), see museo-thyssen-bornemisza record in see/museums. This is a supplementary detail record.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "puerta-de-alcala",
@@ -10363,7 +10419,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "landmarks",
       "temple",
@@ -10378,7 +10434,45 @@
       "casa-de-campo",
       "plaza-de-espana-madrid"
     ],
-    "subsubcategory": "Monuments"
+    "subsubcategory": "Monuments",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "What",
+            "value": "Ancient Egyptian temple (2nd century BC)"
+          },
+          {
+            "label": "How it got here",
+            "value": "Gifted to Spain by Egypt in 1968 (saved from Aswan Dam flooding)"
+          },
+          {
+            "label": "Location",
+            "value": "Parque de la Montaña, near Plaza de España"
+          },
+          {
+            "label": "Metro",
+            "value": "Plaza de España (L3, L10), Ventura Rodríguez (L3)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (temple interior). Park always free."
+          },
+          {
+            "label": "Best time",
+            "value": "Sunset (Madrid's most photographed spot)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Best sunset in Madrid",
+        "body": "Templo de Debod at sunset is Madrid's most iconic photo spot. The ancient Egyptian temple glows golden against the sky, with the Casa de Campo and Guadarrama mountains in the background. Arrive 45-60 minutes before sunset to get a good spot — it gets crowded.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "segovia-day-trip",
@@ -10673,7 +10767,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "malasana",
@@ -10687,7 +10781,35 @@
       "la-latina-tapas-nightlife",
       "madrid-music-festivals"
     ],
-    "subsubcategory": "Bars & Pubs"
+    "subsubcategory": "Bars & Pubs",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best Malasaña bars for craft beer + cocktails",
+        "items": [
+          {
+            "title": "Fábrica Maravillas",
+            "body": "Calle Estudios. Madrid craft beer pioneer. Local brews on tap."
+          },
+          {
+            "title": "Bodegas Ricla",
+            "body": "Calle San Andrés. Old-school vermuteria unchanged since 1920s. Order vermut + olives."
+          },
+          {
+            "title": "1862 Dry Bar",
+            "body": "Calle Pez. Expert cocktails. Speakeasy vibe."
+          },
+          {
+            "title": "Ojalá",
+            "body": "Calle San Andrés. Basement has a 'beach' (sand on floor). Trendy cocktails."
+          },
+          {
+            "title": "Tupperware",
+            "body": "Calle Corredera Alta de San Pablo. Dive bar. Rock/punk. Cheap drinks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chueca-bars-nightlife",
@@ -10700,7 +10822,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "chueca",
@@ -10714,7 +10836,31 @@
       "madrid-pride",
       "madrid-music-festivals"
     ],
-    "subsubcategory": "Bars & Pubs"
+    "subsubcategory": "Bars & Pubs",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best Chueca cocktail bars + LGBTQ+ nightlife",
+        "items": [
+          {
+            "title": "Delic",
+            "body": "Costanilla de San Andrés. Classic cocktail bar. Always packed. Great vermut."
+          },
+          {
+            "title": "Azúcar",
+            "body": "Calle San Bartolomé. Salsa bar. Latin music + dancing. Late night."
+          },
+          {
+            "title": "Kike Chueca",
+            "body": "Plaza de Chueca. Outdoor terrace. People-watching central."
+          },
+          {
+            "title": "Black & White",
+            "body": "Calle de la Libertad. LGBTQ+ club. Drag shows. Open until 6am."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "la-latina-tapas-nightlife",
@@ -11114,7 +11260,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "flatshare",
@@ -11128,7 +11274,50 @@
       "rental-contracts",
       "neighborhoods-guide"
     ],
-    "subsubcategory": "Shared Housing"
+    "subsubcategory": "Shared Housing",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Room in shared flat",
+            "value": "€350-600/month (central Madrid)"
+          },
+          {
+            "label": "Room outside center",
+            "value": "€250-400/month"
+          },
+          {
+            "label": "Deposit",
+            "value": "1 month (typically)"
+          },
+          {
+            "label": "Best platforms",
+            "value": "Idealista, Spotahome, Pisos.com, Facebook groups"
+          },
+          {
+            "label": "Best timing",
+            "value": "November-December or July-August (avoid September)"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Finding a room in a shared flat",
+        "do": [
+          "Use Idealista's 'habitaciones' (rooms) filter",
+          "Join 'Pisos en Madrid' Facebook groups",
+          "Visit the flat + meet flatmates before paying anything",
+          "Get a written contract — verbal agreements are risky"
+        ],
+        "dont": [
+          "Don't pay deposit before seeing the flat in person",
+          "Don't wire money to 'hold' a room — common scam",
+          "Don't skip checking if bills (water, electricity, internet) are included"
+        ]
+      }
+    ]
   },
   {
     "id": "job-search-spain",
@@ -11287,7 +11476,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "royal",
       "historic",
@@ -11302,7 +11491,35 @@
       "almudena-cathedral",
       "sol-gran-via-neighborhood"
     ],
-    "subsubcategory": "Historic Plazas"
+    "subsubcategory": "Historic Plazas",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "What",
+            "value": "Madrid's medieval civic center (15th century)"
+          },
+          {
+            "label": "Metro",
+            "value": "Ópera (L2, L5), Santo Domingo (L2)"
+          },
+          {
+            "label": "Key buildings",
+            "value": "Casa de la Villa (old City Hall), Torre de los Lujanes, Casa Cisneros"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (outdoor square)"
+          },
+          {
+            "label": "Best for",
+            "value": "Medieval Madrid history, quiet escape from Sol crowds"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "quinta-de-los-molinos",
@@ -11622,7 +11839,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "food",
@@ -11637,7 +11854,15 @@
       "mercado-san-miguel",
       "food-tours-madrid"
     ],
-    "subsubcategory": "Cultural Festivals"
+    "subsubcategory": "Cultural Festivals",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's food festival",
+        "body": "Gastrofestival Madrid is an annual food festival (typically January/February) where participating restaurants offer special menus at fixed prices. Combines with Madrid Fashion Week. Check esmadrid.com for current year dates.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "matadero-current-exhibitions",
@@ -11650,7 +11875,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "exhibitions",
       "contemporary",
@@ -11664,7 +11889,15 @@
       "thyssen-current",
       "madrid-rio"
     ],
-    "subsubcategory": "Contemporary Art"
+    "subsubcategory": "Contemporary Art",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's contemporary art center",
+        "body": "Matadero Madrid (Legazpi) is the city's premier contemporary arts center — free exhibitions, design market, cinema, theater. Housed in a former slaughterhouse. Always something new. Check mataderomadrid.org for current programming.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "mapfre-current-exhibitions",
@@ -11677,7 +11910,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "exhibitions",
       "photography",
@@ -11691,7 +11924,15 @@
       "thyssen-current",
       "photoespana-festival"
     ],
-    "subsubcategory": "Photography & Art"
+    "subsubcategory": "Photography & Art",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Mapfre Foundation exhibitions",
+        "body": "Mapfre Foundation (Paseo de Recoletos 23) hosts excellent photography and art exhibitions. €3-6. Free on Mondays. Check fundacionmapfre.org for current shows.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "caixaforum-current-exhibitions",
@@ -11704,7 +11945,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "exhibitions",
       "caixaforum",
@@ -11718,7 +11959,15 @@
       "thyssen-current",
       "matadero-current-exhibitions"
     ],
-    "subsubcategory": "Photography & Art"
+    "subsubcategory": "Photography & Art",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "CaixaForum Madrid exhibitions",
+        "body": "CaixaForum (Paseo del Prado 36) is known for high-quality temporary exhibitions — art, photography, science. €6. The building itself (Herzog & de Meuron, converted power station) is worth seeing. Vertical garden on facade. Check caixaforum.org for current shows.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "spanish-politics-explained",
@@ -11780,7 +12029,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "live",
       "sunrise",
@@ -11794,7 +12043,35 @@
       "temple-debod",
       "retiro-park"
     ],
-    "subsubcategory": "Time"
+    "subsubcategory": "Time",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Sunrise/Sunset Times in Madrid",
+        "items": [
+          {
+            "label": "Summer solstice (Jun 21)",
+            "value": "Sunrise ~6:45am, Sunset ~9:45pm"
+          },
+          {
+            "label": "Winter solstice (Dec 21)",
+            "value": "Sunrise ~8:35am, Sunset ~5:50pm"
+          },
+          {
+            "label": "Spring equinox (Mar 20)",
+            "value": "Sunrise ~7:15am, Sunset ~7:25pm"
+          },
+          {
+            "label": "Fall equinox (Sep 22)",
+            "value": "Sunrise ~8:00am, Sunset ~8:10pm"
+          },
+          {
+            "label": "Best sunset spot",
+            "value": "Templo de Debod (arrive 45 min early)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-uv-index",
@@ -11867,7 +12144,7 @@
     "status": "dynamic",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "live",
       "pollen",
@@ -11881,7 +12158,15 @@
       "madrid-uv-index",
       "pharmacies"
     ],
-    "subsubcategory": "Weather"
+    "subsubcategory": "Weather",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Pollen season in Madrid",
+        "body": "Madrid's main pollen problem is olive tree pollen (May-June). Plane trees (March-April) and grasses (April-June) also cause issues. Check daily pollen count at seaic.es (Spanish Society of Allergology). Pharmacies sell antihistamines without prescription.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "swimming-pools-madrid",
@@ -12211,7 +12496,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "tennis",
@@ -12224,6 +12509,34 @@
       "running-madrid",
       "tennis-academies-spain",
       "paddle-tennis-camps-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Padel (more popular)",
+            "value": "See padel-madrid record. Spain's #2 sport."
+          },
+          {
+            "label": "Public courts",
+            "value": "Casa de Campo, Club de Campo, various municipal courts"
+          },
+          {
+            "label": "Court rental",
+            "value": "€10-25/hour (varies by club)"
+          },
+          {
+            "label": "Madrid Open",
+            "value": "April-May. See madrid-open-tennis record."
+          },
+          {
+            "label": "Booking app",
+            "value": "Most clubs use phone booking. Padel uses Playtomic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12760,6 +13073,14 @@
       "veranos-de-la-villa",
       "retiro-park",
       "version-original-cinemas-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Summer cinema in Madrid parks",
+        "body": "Every summer (July-August), Madrid hosts outdoor cinema screenings in parks and cultural centers. The main venue is the Cine de Verano in various parks. Films often in V.O. (original version). Check esmadrid.com for current summer schedule. Bring a blanket + picnic.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -14259,7 +14580,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "metro",
@@ -14273,6 +14594,14 @@
       "cercanias-map",
       "emt-bus-map",
       "metro-de-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Download the Metro map before you arrive",
+        "body": "Download the official Metro de Madrid map PDF from metromadrid.es. It works offline on your phone. The Metro app also has a built-in map. The map is color-coded by line (12 lines + Ramal). Free WiFi at all Metro stations.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -14313,7 +14642,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "emt",
@@ -14327,6 +14656,14 @@
       "cercanias-map",
       "emt-buses",
       "night-buses-buhos-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "EMT bus route planner",
+        "body": "Use the EMT Madrid app (free) for real-time bus arrivals and route planning. Or use Citymapper which integrates Metro + bus + walking + cycling. Bus stops have digital displays showing next arrivals at major stops.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -14341,7 +14678,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "bike",
@@ -14355,6 +14692,14 @@
       "cycling-mtb-madrid",
       "walking-maps-madrid",
       "metro-map-pdf"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid cycling infrastructure",
+        "body": "Madrid has 300+ km of bike lanes. BiciMAD (electric bike share) has 4,000+ bikes at 600 stations. Best cycling areas: Madrid Río (10km flat), Retiro Park (4km loop), Casa de Campo (trails). Download the BiciMAD app for station locations.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -14369,7 +14714,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "walking",
@@ -14383,6 +14728,14 @@
       "walking-tours-madrid",
       "walking-madrid",
       "madrid-visitors-app"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Self-guided walking routes",
+        "body": "esMadrid offers 7 free audio-guided walking routes (1-3 hours each). Download from esmadrid.com/en/audio-guides. Google Maps offline download covers all of Madrid in ~200MB. Best first walk: Sol → Plaza Mayor → La Latina (tapas).",
+        "tone": "info"
+      }
     ]
   },
   {
