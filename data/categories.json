@@ -310,7 +310,7 @@
   {
     "id": "now",
     "title": "Madrid Now",
-    "description": "What is happening in Madrid right now — this week's events, open exhibitions, English-language news, live info (time, weather, UV, pollen), and transit alerts. Updated regularly. Featured on the homepage.",
+    "description": "What is happening in Madrid right now — this week's events, open exhibitions, English-language news, and live info (time, weather, UV, pollen). Updated regularly. Featured on the homepage.",
     "emoji": "📡",
     "color": "orange",
     "subcategories": [
@@ -345,14 +345,6 @@
         "icon": "🕒",
         "summary": "Live info — current Madrid time, weather, UV index, air quality, pollen count, sunrise/sunset.",
         "tips": "Madrid time: CET (UTC+1) winter, CEST (UTC+2) summer. Summer UV reaches 10+ — wear sunscreen May-September. Summer heat: 35-40°C July-August, avoid outdoor activity 2-5pm. Pollen: olive (May-June) is worst — check SEAIC daily count. Best sunset spot: Temple of Debod (arrive 30-45 min before). Air quality: generally good, NO2 can spike in winter."
-      },
-      {
-        "id": "transit",
-        "slug": "transit",
-        "title": "Transit",
-        "icon": "🚧",
-        "summary": "Metro closures, bus detours, Cercanías delays, taxi strikes, airport disruptions.",
-        "tips": "Metro de Madrid app (English) has real-time service alerts. @metromadrid and @EMTMadrid on Twitter for updates. Summer 2026: planned closures on Lines 6, 7, 9B, 10 — free shuttle buses. Cercanías: @CercaniasMadrid for delays. Airport: AENA app for flight status. During taxi strikes: use Metro (unaffected). Download the EMT and Metro apps before you need them."
       }
     ]
   }

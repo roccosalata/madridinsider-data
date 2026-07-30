@@ -2495,7 +2495,8 @@
       "madrid-book-fair-literary-events",
       "paseo-del-prado-fountains",
       "hidden-parks-gardens-madrid",
-      "boating-madrid"
+      "boating-madrid",
+      "madrid-for-families-guide"
     ],
     "subsubcategory": "Central Parks",
     "sections": [
@@ -2589,7 +2590,8 @@
       "retiro-park",
       "teleferico",
       "rock-climbing-courses-madrid",
-      "hidden-parks-gardens-madrid"
+      "hidden-parks-gardens-madrid",
+      "madrid-for-families-guide"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
     "subsubcategory": "Large Parks",
@@ -2670,7 +2672,8 @@
       "madrid-weather",
       "retiro-park",
       "teleferico",
-      "cycling-training-camps-spain"
+      "cycling-training-camps-spain",
+      "madrid-for-families-guide"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio",
     "subsubcategory": "Central Parks",
@@ -3782,8 +3785,8 @@
   {
     "id": "metro-closures",
     "title": "Metro Closures",
-    "category": "now",
-    "subcategory": "transit",
+    "category": "essentials",
+    "subcategory": "transportation",
     "summary": "[Archived: merged into another record. Same Summer 2026 closure info as metro-closures-summer-2026. Use that record.] Summer 2026: planned closures on Lines 6, 7, 9B, 10. Free shuttle buses cover affected sections.",
     "content": "The Comunidad de Madrid does major track and station work in August when ridership drops. Summer 2026 affected: Line 9B (TFM) Arganda-Rivas closed 25 Jul – 13 Aug. Line 6 Argüelles-Ciudad Universitaria closed 1 Aug – 2 Sep (Moncloa station work). Line 7 Gregorio Marañón-Pitis closed 2–28 Aug. Line 10 Plaza Castilla-Nuevos Ministerios extended to 21 Aug (Bernabéu renovation). All affected sections have free EMT shuttle buses.",
     "official_url": "https://www.crtm.es/comunicacion/actualidad-del-servicio/avisos/avisos-metro/",
@@ -6926,7 +6929,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "zoo",
@@ -6936,7 +6939,8 @@
     "related_records": [
       "parque-de-atracciones-madrid",
       "aquopolis-water-park",
-      "retiro-park"
+      "retiro-park",
+      "madrid-for-families-guide"
     ],
     "sections": [
       {
@@ -8243,15 +8247,15 @@
   {
     "id": "metro-closures-summer-2026",
     "title": "Metro Closures — Summer 2026",
-    "category": "now",
-    "subcategory": "transit",
+    "category": "essentials",
+    "subcategory": "transportation",
     "summary": "Planned closures on Lines 6, 7, 9B, and 10 for renovations. Free shuttle buses cover affected sections.",
     "content": "Metro de Madrid has scheduled track and signal renovations during summer 2026 (June 15 - September 15) on multiple lines. Affected: Line 6 (circular) — closed between Méndez Álvaro and Argüelles on weekends, shuttles every 5 min. Line 7 — closed between Pitis and Arroyofresno (no shuttle — take bus 89). Line 9B — closed between Puerta de Arganda and Arganda del Rey (shuttle bus available). Line 10 — closed between Tres Olivos and Hospital Infanta Sofía on weekday nights 11pm-6am. Free shuttle buses replace metro service on closed sections — follow signs to 'Autobús Sustitutivo'. Plan extra 15-30 minutes for affected routes. Check the official Metro de Madrid app (English) or @metromadrid on Twitter for real-time updates. Stations close to home/work? Identify alternative lines and bus routes in advance. The Cercanías commuter rail (Lines C1-C10) is unaffected and is often faster than Metro for cross-city trips during closures.",
     "official_url": "https://www.metromadrid.es/en/avisos",
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "now",
       "transit",
@@ -8343,15 +8347,15 @@
   {
     "id": "emt-bus-detours",
     "title": "EMT Bus Detours — Current",
-    "category": "now",
-    "subcategory": "transit",
+    "category": "essentials",
+    "subcategory": "transportation",
     "summary": "Bus routes altered for construction and events. Check EMT app or Twitter for current detours.",
     "content": "EMT Madrid buses frequently have temporary detours due to construction, demonstrations, sports events, and street markets. Current major detours (always verify with the EMT app or @EMTMadrid on Twitter for the latest): (1) Lines 1, 2, 46 — detoured during demonstrations at Puerta del Sol (typically Saturday evenings). (2) Lines 27, 34, 45 — detoured during football matches at the Bernabéu (Real Madrid home games, mainly Sun evenings). (3) Lines 23, 35, 116 — detoured for El Rastro flea market (every Sunday 9am-3pm, expect delays in La Latina). (4) Various lines detoured during the San Isidro festival (May 11-15) and Madrid Pride (June 28-July 7). The EMT Madrid app (English available) shows real-time bus locations and current detours. Twitter @EMTMadrid posts major detours 24-48 hours in advance. For demonstrations and large events, expect delays of 15-45 minutes and consider Metro alternatives. For the most accurate predictions, use Google Maps or Citymapper with real-time data.",
     "official_url": "https://www.emtmadrid.es/Index.aspx?lang=en-GB",
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "now",
       "transit",
@@ -8472,15 +8476,15 @@
   {
     "id": "taxi-strikes-madrid",
     "title": "Taxi & Ride-Share Disruptions",
-    "category": "now",
-    "subcategory": "transit",
+    "category": "essentials",
+    "subcategory": "transportation",
     "summary": "Taxi strikes occasionally affect Madrid (last major strike 2018 vs ride-sharing). Watch for strike dates — use Metro during strikes.",
     "content": "Madrid's taxi drivers have occasionally gone on strike — most notably the January 2018 strike against ride-sharing (Uber, Cabify) that lasted 8 days. Smaller protests and 24-hour strikes happen every few years. When strikes occur: (1) Licensed taxis become scarce — expect 1-2 hour wait times for street hails, longer for dispatch. (2) Ride-sharing apps (Uber, Cabify) see surge pricing — sometimes 3-4x normal rates. (3) Metro and EMT buses are unaffected and are the best alternatives. (4) Airport to city: use Metro L8 (Pink) — €4.50 + €1.50 metro fare, takes 30 min. (5) Long-distance: Renfe trains are unaffected. Strike announcements: taxi strikes are typically announced 7-10 days in advance via the major taxi associations (Federación Profesional del Taxi de Madrid, @TaxiMad on Twitter). For specific strike dates and affected services, follow local English news: El País English edition (elpais.com/english), The Local Spain (thelocal.es). Plan ahead — last-minute transit during strikes is a nightmare.",
     "official_url": "https://www.taximadrid.org/english",
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "now",
       "transit",
@@ -9706,7 +9710,8 @@
       "english-summer-camps-madrid",
       "international-school-jobs-madrid",
       "nanny-agencies-madrid",
-      "moving-to-madrid-guide"
+      "moving-to-madrid-guide",
+      "madrid-for-families-guide"
     ],
     "subsubcategory": "Universities & Schools",
     "sections": [
@@ -14938,7 +14943,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "animals",
@@ -14948,7 +14953,8 @@
     ],
     "related_records": [
       "zoo-aquarium-madrid",
-      "parque-de-atracciones-madrid"
+      "parque-de-atracciones-madrid",
+      "madrid-for-families-guide"
     ],
     "sections": [
       {
@@ -30844,6 +30850,123 @@
             "title": "Booked NIE appointment",
             "body": "Book online BEFORE arriving — wait times 2-4 weeks."
           }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madrid-for-families-guide",
+    "category": "do",
+    "subcategory": "family",
+    "title": "Madrid for Families — Complete Guide with Kids",
+    "summary": "Is Madrid good for families? Yes! Safe city, excellent parks, kid-friendly museums, outdoor pools, theme parks, zoo, aquarium. Practical guide: strollers, pediatricians, schools, family-friendly restaurants, rainy day activities.",
+    "content": "Madrid is an excellent city for families. It's one of Europe's safest capitals, has world-class parks (Retiro, Madrid Río, Casa de Campo), excellent healthcare, and a culture that genuinely loves children. Spanish restaurants welcome kids at any hour, museums have family programs, and the public transport system is stroller-friendly (all Metro stations have elevators). This guide covers everything families need to know. SAFETY: Madrid is very safe for families. Violent crime is rare. Main risk is pickpockets in tourist areas. Children can play in parks freely. Madrid's crime rate is lower than London, Paris, or New York. PARKS: Retiro Park (playgrounds, rowing lake, puppet shows), Madrid Río (adventure playgrounds, urban beach in summer), Casa de Campo (zoo, amusement park), Parque Juan Carlos I (modern, wide paths). HEALTHCARE: Spanish public healthcare covers children free with social security. English-speaking pediatricians available (see english-speaking-doctors-madrid). Pharmacies can advise on minor issues. Emergency: 112. SCHOOLS: Public schools free (instruction in Spanish, some bilingual programs). International schools €8,000-15,000/year (see bilingual-schools-madrid). School year September-June. CHILDCARE: Nanny agencies (see nanny-agencies-madrid). Au pairs (see aupair-spain-madrid). Daycare (guardería) €400-700/month. RESTAURANTS: Spanish restaurants welcome children. Many have high chairs (trona). Kids' menus common. Dinner at 9pm is normal for Spanish children. Kid-friendly chains: 100 Montaditos, VIPS. FAMILY-FRIENDLY ACTIVITIES: Zoo Aquarium (see zoo-aquarium-madrid), Faunia (see faunia-madrid), Parque de Atracciones (see parque-de-atracciones-madrid), Warner Park (see warner-park-madrid), IMAX/Planetarium (see imax-planetarium-madrid), Natural Sciences Museum (dinosaurs!), puppet shows (El Retiro), Madrid Cable Car (teleférico). RAINY DAYS: CosmoCaixa science museum, Natural Sciences Museum, Wax Museum, Kid museums (see madrid-kids-museums), cinema (V.O.), indoor playgrounds. TRANSPORT: Metro is stroller-friendly (elevators at all stations). Children under 4 ride free. Buses have low floors. Taxis have no child seat requirement (but bring your own for safety). PRACTICAL TIPS: Bring sunscreen (Madrid UV is extreme in summer). Spanish school holidays affect crowds — August is emptiest. Children's discounts common at museums/attractions. Bring a stroller with big wheels for cobblestones. Many attractions have family tickets (4+ people discount).",
+    "official_url": "https://www.esmadrid.com/en/madrid-with-kids",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "family",
+      "kids",
+      "children",
+      "parents",
+      "family-guide",
+      "stroller",
+      "pediatrician",
+      "playground",
+      "family-friendly"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "zoo-aquarium-madrid",
+      "faunia-madrid",
+      "parque-de-atracciones-madrid",
+      "warner-park-madrid",
+      "imax-planetarium-madrid",
+      "natural-sciences-museum-madrid",
+      "marionetas-titere-madrid",
+      "retiro-park",
+      "madrid-rio",
+      "casa-de-campo",
+      "bilingual-schools-madrid",
+      "nanny-agencies-madrid",
+      "english-speaking-doctors-madrid",
+      "teleferico",
+      "aquopolis-water-park"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is great for families",
+        "body": "Safe city, excellent parks, kid-friendly culture, free healthcare for residents, and Spanish restaurants welcome children at any hour. One of Europe's most family-friendly capitals.",
+        "tone": "success"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts for Families",
+        "items": [
+          {
+            "label": "Safety",
+            "value": "Very safe — lower crime than London/Paris/NYC"
+          },
+          {
+            "label": "Metro for kids",
+            "value": "Under 4 free. All stations have elevators."
+          },
+          {
+            "label": "Best parks",
+            "value": "Retiro, Madrid Río, Casa de Campo"
+          },
+          {
+            "label": "Healthcare",
+            "value": "Free public healthcare for resident children"
+          },
+          {
+            "label": "Daycare (guardería)",
+            "value": "€400-700/month"
+          },
+          {
+            "label": "School year",
+            "value": "September-June"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top family activities by age",
+        "items": [
+          {
+            "title": "Ages 0-3",
+            "body": "Retiro Park playgrounds, Madrid Río urban beach, puppet shows (El Retiro weekends), zoo aquarium."
+          },
+          {
+            "title": "Ages 4-8",
+            "body": "Parque de Atracciones (kiddie rides), Faunia (animals + indoor), Natural Sciences Museum (dinosaurs), cable car, IMAX."
+          },
+          {
+            "title": "Ages 9-12",
+            "body": "Warner Park (roller coasters), Aquópolis (water park), CosmoCaixa (science museum), bike rental in Retiro."
+          },
+          {
+            "title": "Ages 13+",
+            "body": "Bernabéu stadium tour, Prado Museum (teens interested in art), Madrid Río cycling, escape rooms."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Family tips for Madrid",
+        "do": [
+          "Bring sunscreen — Madrid UV reaches 10+ in summer",
+          "Use a stroller with big wheels for cobblestones",
+          "Eat dinner late (9pm) — Spanish kids do too",
+          "Look for family tickets (4+ people discount) at attractions",
+          "Visit parks early morning in summer (before 11am heat)"
+        ],
+        "dont": [
+          "Don't expect child seats in taxis — bring your own",
+          "Don't visit outdoor attractions 2-5pm in July/August (40°C)",
+          "Don't forget — August is emptiest (locals on holiday) = fewer crowds"
         ]
       }
     ]
