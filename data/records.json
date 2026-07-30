@@ -695,7 +695,7 @@
     "official_url": "https://www.exteriores.gob.es/Consulados/losangeles/en/ServiciosConsulares/Paginas/Consular/Visado-Schengen.aspx",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "visa",
       "schengen",
@@ -707,7 +707,8 @@
       "passport-requirements",
       "embassies",
       "spain-golden-visa-ended",
-      "aupair-spain-madrid"
+      "aupair-spain-madrid",
+      "usa-citizens-spain-guide"
     ],
     "subsubcategory": "Schengen Visa",
     "sections": [
@@ -1178,7 +1179,8 @@
       "schengen-visa-us",
       "student-visa-spain",
       "work-visa-spain",
-      "local-police-stations-madrid"
+      "local-police-stations-madrid",
+      "usa-citizens-spain-guide"
     ],
     "subsubcategory": "Official Help",
     "sections": [
@@ -1970,7 +1972,7 @@
     "official_url": "https://aee.educacionfpydeportes.gob.es/en/actualidad/centros-programas/2026/auxiliares-extranjeros.html",
     "status": "annual review",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "teaching",
@@ -1981,7 +1983,8 @@
       "language-schools-madrid-education",
       "nie-tie",
       "international-school-jobs-madrid",
-      "gap-year-programs-madrid"
+      "gap-year-programs-madrid",
+      "english-teacher-agencies-madrid"
     ],
     "subsubcategory": "Teach English",
     "sections": [
@@ -2385,7 +2388,8 @@
       "teleferico",
       "madrid-book-fair-literary-events",
       "paseo-del-prado-fountains",
-      "hidden-parks-gardens-madrid"
+      "hidden-parks-gardens-madrid",
+      "boating-madrid"
     ],
     "subsubcategory": "Central Parks",
     "sections": [
@@ -3926,7 +3930,7 @@
     "official_url": "https://www.comunidad.madrid/servicios/salud",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "overview",
@@ -3941,7 +3945,8 @@
       "nie-tie",
       "english-speaking-therapists-madrid",
       "ivf-fertility-clinics-madrid",
-      "retirement-spain-english"
+      "retirement-spain-english",
+      "immunizations-travel-health-madrid"
     ],
     "subsubcategory": "Overview",
     "sections": [
@@ -8859,7 +8864,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "doctor",
@@ -8876,7 +8881,8 @@
       "english-speaking-vets-madrid",
       "medical-tourism-madrid",
       "ivf-fertility-clinics-madrid",
-      "retirement-spain-english"
+      "retirement-spain-english",
+      "immunizations-travel-health-madrid"
     ],
     "subsubcategory": "Private Healthcare"
   },
@@ -9988,7 +9994,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "jobs",
@@ -10005,7 +10011,8 @@
       "international-school-jobs-madrid",
       "internship-services-madrid",
       "english-mba-programs-madrid",
-      "coding-bootcamps-madrid"
+      "coding-bootcamps-madrid",
+      "english-teacher-agencies-madrid"
     ],
     "subsubcategory": "Job Search",
     "sections": [
@@ -11101,7 +11108,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "casino",
@@ -11114,7 +11121,15 @@
       "malasana-bars-nightlife",
       "chueca-bars-nightlife"
     ],
-    "subsubcategory": "Casinos & Gaming"
+    "subsubcategory": "Casinos & Gaming",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013, node/134) listed: Casino de Juego Gran Madrid (Autovía A-6, KM 29) — with free buses from Plaza de España 6 and Plaza de Colón. Offered poker (Texas Hold'em, Omaha), French/American roulette, blackjack, baccarat, 170 slot machines. Hours 4pm-5am (until 6am Fri/Sat). Tel 900-900-810 / 918-561-100. casinogranmadrid.es. Verify current status — the casino may have relocated or rebranded.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "salsa-dancing-madrid",
@@ -11999,7 +12014,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "ice-cream",
@@ -12012,7 +12027,15 @@
       "cheap-eats-madrid",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Food Culture & Basics"
+    "subsubcategory": "Food Culture & Basics",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013, node/137) listed: Bajo Cero (Glorieta de Quevedo 6, Tel 902-113-377) — revolutionary ice cream concept with 250+ varieties, all natural and low fat. Giangrossi (9 locations: Alberto Aguilera 1, Velázquez 44, Cava Baja 40, Sevilla 4, Arturo Soria 200, CC La Esquina del Bernabéu, CC Plenilunio, Hipódromo de la Zarzuela) — Argentinean chef Martiniano Molina, free WiFi. Verify current status of both.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "churches-religion-madrid",
@@ -12199,7 +12222,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "education",
       "tefl",
@@ -12214,7 +12237,8 @@
       "forocio-study-abroad",
       "accent-global-madrid",
       "international-school-jobs-madrid",
-      "english-taught-masters-madrid"
+      "english-taught-masters-madrid",
+      "english-teacher-agencies-madrid"
     ],
     "subsubcategory": "Summer & Pre-University Programs",
     "sections": [
@@ -15489,7 +15513,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "work",
       "esl",
@@ -15503,7 +15527,8 @@
     "related_records": [
       "job-search-spain",
       "teach-english-spain",
-      "teacher-training-madrid"
+      "teacher-training-madrid",
+      "english-teacher-agencies-madrid"
     ]
   },
   {
@@ -15755,7 +15780,7 @@
       "nonprofit",
       "newcomers"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "churches-religion-madrid",
@@ -15763,7 +15788,8 @@
       "language-exchanges-madrid",
       "expat-publications-madrid",
       "english-publications-history-madrid",
-      "retirement-spain-english"
+      "retirement-spain-english",
+      "usa-citizens-spain-guide"
     ],
     "sections": [
       {
@@ -19541,7 +19567,7 @@
       "tai",
       "directing"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "music-summer-programs-madrid",
@@ -19549,7 +19575,8 @@
       "museo-del-prado",
       "art-design-schools-madrid",
       "photography-workshops-madrid",
-      "spanish-film-festivals"
+      "spanish-film-festivals",
+      "film-industry-resources-madrid"
     ],
     "sections": [
       {
@@ -20074,7 +20101,7 @@
       "expat-community",
       "international-castings"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "film-schools-madrid",
@@ -20084,7 +20111,8 @@
       "art-design-schools-madrid",
       "spanish-film-festivals",
       "theater-festivals-madrid",
-      "contemporary-dance-intensives-madrid"
+      "contemporary-dance-intensives-madrid",
+      "talent-modeling-agencies-madrid"
     ],
     "sections": [
       {
@@ -24198,7 +24226,8 @@
       "film-schools-madrid",
       "acting-schools-madrid",
       "music-summer-programs-madrid",
-      "version-original-cinemas-madrid"
+      "version-original-cinemas-madrid",
+      "film-industry-resources-madrid"
     ],
     "sections": [
       {
@@ -28809,6 +28838,12 @@
             "body": "Cisneros College club. Historic. University-linked. Lower divisions."
           }
         ]
+      },
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013, node/141) listed: Madrid Lions Rugby Club — seeking players of all levels and nationalities, pub nights Thursdays 20:30 at Finnegan's (Plaza de las Salesas), contact Charlie 636-067-716, madridlionsrfc.com. Also: Madrid Barbarians Rugby Club — welcomes players from all over the world, both expat and Spanish, contact madridbarbarians@ymail.com. Verify current status of both clubs before contacting.",
+        "tone": "info"
       }
     ]
   },
@@ -28894,6 +28929,12 @@
             "body": "Northwest (near El Escorial). Sailing school + kayaking. Combine with El Escorial day trip."
           }
         ]
+      },
+      {
+        "type": "callout",
+        "heading": "Rowing in Retiro Park",
+        "body": "The old Madrid Insider (2013, node/90) noted that you can rent rowing and pedal boats by the hour at the Retiro Park lake (Metro Retiro). This is the closest boating to central Madrid — no need to travel to reservoirs. Also: Casa de Campo lake (Metro Lago) had boat rentals. These are casual recreational boating, not sailing.",
+        "tone": "info"
       }
     ]
   },
@@ -29096,6 +29137,404 @@
         "heading": "No, you're not crazy — that DID exist",
         "body": "The old Madrid Insider (2013) listed these V.O. cinemas: Alphaville (Martín de los Héros 14) — classic art-house cinema, verify status; Pequeño Cine Estudio (Magallanes 1) — small art-house; Cine Bellas Artes (Marqués de Casa Riera 2) — closed; Cine Princesa (Princesa 3) — closed; Cine California (Andrés Mellado 53) — closed. The V.O. cinema scene has consolidated into chains (Cinesa, Yelmo) with the Cine Doré remaining as the independent/art-house option.",
         "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "english-teacher-agencies-madrid",
+    "category": "living",
+    "subcategory": "work",
+    "title": "English Teacher Agencies in Madrid (Language Academies That Hire)",
+    "summary": "Madrid language academies that hire English teachers: Actitudine, Advanced Institute, Alancity, ALBA Language Consulting, and more. Different from government Auxiliares program — these are private academies. Bring CV + photo, meet in person.",
+    "content": "The old Madrid Insider (2013, node/123) maintained a comprehensive list of English teacher agencies in Madrid — private language academies that hire English teachers for in-company classes, private tutoring, and academy-based teaching. This is different from the government's Auxiliares de Conversación program (see teach-english-spain record), which places native speakers in public schools. The private agency route is how most English teachers actually find work in Madrid: you register with multiple agencies, they call you as classes come in, and you build a schedule across several academies. The old site listed 10+ agencies with phone numbers and contact names. Key advice from the old site: (1) Call to set up a face-to-face meeting, (2) Email your CV with a scanned ID photo in the upper right corner, (3) Meet in person to review experience and availability, (4) Keep them updated on your availability as it changes, (5) The more agencies you register with, the more work you get. Agencies from the old site that may still operate: Actitudine (Tel 914-423-621), Advanced Institute / AISpain (Fernández de los Ríos 75, jobs@aispain.com, Tel 915-431-992), Alancity (Tel 914-263-287), ALBA Language Consulting (Av Pío XII 3, Tel 913-596-016). Always verify current status — the academy landscape changes frequently. Also check LinkedIn, InfoJobs, and Dave's ESL Cafe for current openings.",
+    "official_url": "https://www.infojobs.net/ofertas-trabajo/profesor-ingles/madrid",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "english-teacher",
+      "language-academy",
+      "tefl-jobs",
+      "esl-jobs",
+      "teaching-agencies",
+      "work",
+      "expat-jobs",
+      "private-classes"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "teach-english-spain",
+      "teacher-training-madrid",
+      "daves-esl-cafe-spain",
+      "job-search-spain",
+      "internships-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Private academies vs government program",
+        "body": "The Auxiliares program (teach-english-spain) places you in public schools. Private agencies (this record) give you in-company and private classes. Most English teachers in Madrid do BOTH — Auxiliares for stability + agencies for extra income.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Pay rate",
+            "value": "€12-18/hour (private academies)"
+          },
+          {
+            "label": "Class types",
+            "value": "In-company, academy, private tutoring"
+          },
+          {
+            "label": "Registration",
+            "value": "Free — register with multiple agencies"
+          },
+          {
+            "label": "Required",
+            "value": "CV with photo, TEFL/CELTA preferred, NIE"
+          },
+          {
+            "label": "Peak hiring",
+            "value": "September-October (school year start)"
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "How to find English teaching work via agencies",
+        "items": [
+          {
+            "title": "Prepare your CV",
+            "body": "Spanish format: include ID photo, personal details, availability, areas of Madrid you can work in.",
+            "tip": "Email CV before calling — they like to have it handy."
+          },
+          {
+            "title": "Call to set up a meeting",
+            "body": "Call each agency, ask for a face-to-face meeting with their HR/coordinator.",
+            "tip": "September-October is peak hiring. Call early morning (9-10am)."
+          },
+          {
+            "title": "Meet in person",
+            "body": "Review your experience, availability, and preferred areas. They'll call you as classes come in.",
+            "tip": "Be flexible — accept first classes to build trust."
+          },
+          {
+            "title": "Keep them updated",
+            "body": "Tell them when your schedule changes. If you have classes near a new opening, they'll offer it to you first.",
+            "tip": "More agencies = more work. Register with 5+."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013, node/123) listed these English teacher agencies: Actitudine (Tel 914-423-621), Advanced Institute/AISpain (Fernández de los Ríos 75, jobs@aispain.com), Alancity (Tel 914-263-287), ALBA Language Consulting (Av Pío XII 3, albalanguage.com). Some may have closed or merged — verify current status before contacting. The academy landscape changes frequently.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "film-industry-resources-madrid",
+    "category": "do",
+    "subcategory": "arts-education",
+    "title": "Film Industry Resources in Madrid",
+    "summary": "Madrid film industry resources: FAPAE (producers association), ECAM (film school), TAI (arts university), Séptima Ars (film school), Conde Duque (cultural center), Madrid Film Office. For filmmakers, producers, and industry professionals.",
+    "content": "Madrid has a growing film industry ecosystem beyond the film schools (see film-schools-madrid record). The old Madrid Insider (2013, node/124) listed key film industry resources: FAPAE (Federación de Asociaciones de Productores Audiovisuales Españoles, fapae.es) — the national audiovisual producers association; ECAM (Escuela de Cinematografía y del Audiovisual de la Comunidad de Madrid, Juan de Orduña 3, Ciudad de la Imagen, Pozuelo de Alarcón) — Madrid's premier film school, also a production hub; TAI (Escuela Universitaria de Artes y Espectáculos, Serrano Anguita 10, Metro Alonso Martínez, escuelatai.com) — arts university including cinema; Séptima Ars (Fuente del Saz 5, Metro Concha Espina, septima-ars.com) — film school; Centro Cultural Conde Duque (Conde Duque 9-11, Metro Argüelles/San Bernardo) — cultural center with film programming. The Madrid Film Office (part of Madrid City Council) supports international productions shooting in Madrid — permits, location scouting, crew. Spain's film industry has grown significantly with Netflix Spain establishing Madrid production hubs, and Spanish films/series gaining international recognition (Money Heist, Elite, The Platform). For English-speaking film professionals, Madrid offers lower production costs than London or LA, growing studio infrastructure, and access to Spanish-speaking talent for Latin American co-productions.",
+    "official_url": "https://www.fapae.es",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "film-industry",
+      "fapae",
+      "ecam",
+      "tai",
+      "septima-ars",
+      "conde-duque",
+      "madrid-film-office",
+      "production",
+      "filmmaking",
+      "netflix-spain"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "film-schools-madrid",
+      "spanish-film-festivals",
+      "version-original-cinemas-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's film industry is growing",
+        "body": "Netflix Spain, Movistar+ and other streaming platforms have established Madrid production hubs. Spanish series (Money Heist, Elite) have global reach. Lower costs than London/LA. Growing studio infrastructure.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Key film industry resources",
+        "items": [
+          {
+            "title": "FAPAE",
+            "body": "Federación de Asociaciones de Productores Audiovisuales Españoles. National producers association. Industry advocacy + networking.",
+            "meta": [
+              "fapae.es"
+            ]
+          },
+          {
+            "title": "ECAM",
+            "body": "Juan de Orduña 3, Ciudad de la Imagen, Pozuelo de Alarcón. Madrid's premier film school + production hub. Listed in old Madrid Insider (2013)."
+          },
+          {
+            "title": "TAI (Escuela Universitaria de Artes)",
+            "body": "Serrano Anguita 10, Metro Alonso Martínez. Arts university including cinema programs. Listed in old Madrid Insider."
+          },
+          {
+            "title": "Séptima Ars",
+            "body": "Fuente del Saz 5, Metro Concha Espina. Film school. Listed in old Madrid Insider."
+          },
+          {
+            "title": "Madrid Film Office",
+            "body": "City council film commission. Permits, location scouting, crew for international productions shooting in Madrid."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "talent-modeling-agencies-madrid",
+    "category": "do",
+    "subcategory": "arts-education",
+    "title": "Talent & Modeling Agencies in Madrid",
+    "summary": "Madrid talent and modeling agencies for actors, models, and performers: Kailash, Exclusive Management, Isasi Management, 2001 Cine. For English-speaking performers seeking representation in Spanish market.",
+    "content": "The old Madrid Insider (2013, node/128) listed talent and modeling agencies in Madrid for actors, models, and performers seeking representation. The Madrid talent agency landscape: Kailash (Plaza Callao 4, 5-D, Metro Callao, Tel 917-010-046, kailash@ctv.es) — talent agency, contact Juani Labrador; Exclusive Management (General Oraa 70, 2-Dcha, Metro Gregorio Marañón, Tel 915-647-496, casting@exclusivemanagement.com) — contact Enrique Ramos; Isasi Management (Encarnación 10, Metro Ópera, Tel 915-416-007) — actors Tel 630-099-709, models Tel 609-046-983, info@isasimanagement.es; 2001 Cine (Doctor Castelo 31, Bajo D, Tel 915-040-445, 2001cine@jazzartistas.com). For English-speaking performers, the Madrid market is small but growing — particularly for English-language productions filming in Spain (Netflix, Amazon, HBO Europe). Spanish-language ability is a significant advantage. The talent agency model in Spain differs from the US/UK: agencies typically charge commission (15-20%) rather than upfront fees. Always verify agency legitimacy — check registration with AISGE (Artistas, Intérpretes, Sociedad de Gestión) for actors. For modeling, verify with ASIME (Asociación de Modelos y Imagen de España). Never pay upfront fees to agencies — legitimate agencies earn from commissions on booked work.",
+    "official_url": "https://www.aisge.es",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "talent-agency",
+      "modeling-agency",
+      "actors",
+      "models",
+      "performers",
+      "casting",
+      "representation",
+      "kailash",
+      "isasi",
+      "entertainment-industry"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "acting-schools-madrid",
+      "film-industry-resources-madrid",
+      "film-schools-madrid",
+      "spanish-film-festivals"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's talent agency scene",
+        "body": "Small but growing — streaming platforms filming in Spain have increased demand for English-speaking performers. Spanish language ability is a major advantage. Never pay upfront fees — legitimate agencies earn from commissions.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Agencies from old Madrid Insider (verify current status)",
+        "items": [
+          {
+            "title": "Kailash",
+            "body": "Plaza Callao 4, 5-D (Metro Callao). Contact: Juani Labrador. Tel 917-010-046. kailash@ctv.es"
+          },
+          {
+            "title": "Exclusive Management",
+            "body": "General Oraa 70, 2-Dcha (Metro Gregorio Marañón). Contact: Enrique Ramos. Tel 915-647-496. casting@exclusivemanagement.com"
+          },
+          {
+            "title": "Isasi Management",
+            "body": "Encarnación 10 (Metro Ópera). Actors: 630-099-709. Models: 609-046-983. info@isasimanagement.es"
+          },
+          {
+            "title": "2001 Cine",
+            "body": "Doctor Castelo 31, Bajo D. Tel 915-040-445. 2001cine@jazzartistas.com"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Working with talent agencies in Madrid",
+        "do": [
+          "Verify agency registration with AISGE (actors) or ASIME (models)",
+          "Prepare a portfolio/comp card and showreel",
+          "Be clear about your language abilities (English + Spanish is a major advantage)",
+          "Understand commission rates (typically 15-20% of booked work)"
+        ],
+        "dont": [
+          "Never pay upfront fees — legitimate agencies earn from commissions",
+          "Don't sign exclusive contracts without reading carefully",
+          "Don't expect US/UK-style agency sizes — Madrid market is smaller"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "usa-citizens-spain-guide",
+    "category": "essentials",
+    "subcategory": "visas",
+    "title": "USA Citizens in Spain — American Expat Guide",
+    "summary": "Specific guide for US citizens in Spain: Schengen 90-day rule, student visas, work visas, Digital Nomad Visa, FATCA/tax obligations, US Embassy Madrid, passport requirements, driver's license, and American-specific considerations.",
+    "content": "US citizens have specific considerations when visiting or living in Spain. The old Madrid Insider (2013, node/130) provided a detailed guide for Americans. Key points: TOURIST ENTRY: US citizens can stay in Spain (and the Schengen area) for up to 90 days visa-free. The 90 days are cumulative within any 180-day period — you cannot do a 'visa run' to reset the clock. STUDENT VISAS: US students must apply for a student visa at the Spanish consulate in the US before traveling. The old site noted: 'Students planning to study in Spain should be aware of a recent change in Spanish immigration laws, which require applications for student visas to be submitted to the Consulate with jurisdiction over the applicant's residence.' WORK VISAS: US citizens need a work visa sponsored by a Spanish employer. The Highly Qualified Professional (HQP) visa is the fastest route (20-day processing). DIGITAL NOMAD VISA: Spain's Digital Nomad Visa (2023) is available to US citizens working remotely for non-Spanish companies — 24% flat tax rate. FATCA: US citizens must file US taxes regardless of where they live. Spain and the US have a tax treaty preventing double taxation, but FBAR (foreign bank account reporting) and FATCA (foreign asset reporting — Modelo 720 in Spain) apply. DRIVER'S LICENSE: US citizens can drive in Spain on their US license for the first 90 days (tourist). For residents, Spain requires a Spanish driver's license — there's no automatic exchange for US licenses (you must take the Spanish driving test). US EMBASSY: The US Embassy moved from Serrano 75 to a new compound at Calle Diego de León 16 in 2022. Register with the Smart Traveler Enrollment Program (STEP) at step.state.gov for emergency notifications. AMERICAN COMMUNITY: The American Women's Club of Madrid (AWC) and American Club of Madrid (ACM) are the main social organizations. See awc-madrid record.",
+    "official_url": "https://es.usembassy.gov",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "usa-citizens",
+      "american-expats",
+      "schengen",
+      "fatca",
+      "fbar",
+      "us-embassy",
+      "driver-license",
+      "tax-treaty",
+      "step-registration"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "schengen-visa-us",
+      "student-visa-spain",
+      "work-visa-spain",
+      "digital-nomad-visa-spain-services",
+      "modelo-720",
+      "embassies",
+      "awc-madrid",
+      "driving-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "US-specific considerations for Spain",
+        "body": "US citizens face unique challenges: FATCA tax filing, no driver's license exchange, 90-day Schengen limit without visa. The Digital Nomad Visa (24% flat tax) is the best recent option for Americans wanting to live in Spain.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts for US Citizens",
+        "items": [
+          {
+            "label": "Tourist stay",
+            "value": "90 days visa-free (Schengen)"
+          },
+          {
+            "label": "Digital Nomad Visa",
+            "value": "24% flat tax, €2,829/mo minimum income"
+          },
+          {
+            "label": "US Embassy",
+            "value": "Calle Diego de León 16 (moved 2022)"
+          },
+          {
+            "label": "Tax filing",
+            "value": "US taxes required worldwide + Modelo 720 in Spain"
+          },
+          {
+            "label": "Driver's license",
+            "value": "No exchange with US — must take Spanish test"
+          },
+          {
+            "label": "STEP registration",
+            "value": "step.state.gov — embassy emergency notifications"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "US citizens in Spain",
+        "do": [
+          "Register with STEP (step.state.gov) for embassy emergency notifications",
+          "File US taxes every year (worldwide income) — even when living in Spain",
+          "File FBAR if you have €10,000+ in foreign bank accounts",
+          "File Modelo 720 if you have €50,000+ in foreign assets",
+          "Get the Digital Nomad Visa if you work remotely — 24% flat tax vs up to 47%"
+        ],
+        "dont": [
+          "Don't overstay 90 days — Schengen tracks cumulative days, no visa runs",
+          "Don't assume your US driver's license works after 90 days of residency",
+          "Don't skip US tax filing — IRS has FATCA data from Spanish banks",
+          "Don't use the old embassy address (Serrano 75) — moved to Diego de León 16"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013, node/130) listed the US Embassy at Serrano 75 (Metro Rubén Darío). The US Embassy moved to a new compound at Calle Diego de León 16 in 2022. The old site also referenced ETA terrorism concerns — ETA declared a permanent ceasefire in 2011 and dissolved in 2018, so this is no longer a concern.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "immunizations-travel-health-madrid",
+    "category": "living",
+    "subcategory": "healthcare",
+    "title": "Immunizations & Travel Health in Madrid",
+    "summary": "Vaccination centers in Madrid: Centro de Vacunación (Nuñez de Balboa 111), Sanidad Internacional (Francisco Silvela 57). For routine vaccinations, travel vaccinations, and immunization records. EU residents covered by EHIC.",
+    "content": "The old Madrid Insider (2013, node/43) listed vaccination centers in Madrid. Centro de Vacunación (Nuñez de Balboa 111, corner of General Oraa, Metro Nuñez de Balboa) — serves ages birth to 14, hours 9am-2pm and 4pm-8pm, Tel 915-616-195. Sanidad Internacional (Francisco Silvela 57, Metro Diego de León) — for adolescents and adults needing booster vaccinations, and for travel vaccinations. Hours Mon-Fri 9am-2pm, Tel 913-095-603. For routine childhood vaccinations, the Spanish public health system provides them free at local health centers (centros de salud) — see healthcare record. EU residents use their EHIC card. Non-EU residents need private health insurance that covers vaccinations. For travel vaccinations (yellow fever, typhoid, etc. for trips to Africa/Asia/South America), Sanidad Internacional is the primary center. The Spanish Ministry of Health (msc.es) provides information on hard-to-find medications and their Spanish equivalents. For COVID-19 vaccinations, Spain's public health system manages distribution through health centers and mass vaccination sites — check your local centro de salud.",
+    "official_url": "https://www.msc.es",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "immunizations",
+      "vaccinations",
+      "travel-health",
+      "centro-de-vacunacion",
+      "sanidad-internacional",
+      "ehic",
+      "health-center",
+      "covid-vaccine"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "healthcare",
+      "english-speaking-doctors-madrid",
+      "hospitals-madrid",
+      "pharmacies",
+      "public-healthcare"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Where to get vaccinated in Madrid",
+        "body": "Routine: local health center (centro de salud, free with EHIC/Spanish social security). Children: Centro de Vacunación (Nuñez de Balboa 111). Travel vaccines: Sanidad Internacional (Francisco Silvela 57). COVID: check local centro de salud.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Centro de Vacunación",
+            "value": "Nuñez de Balboa 111 (Metro Nuñez de Balboa). Ages 0-14. Tel 915-616-195"
+          },
+          {
+            "label": "Sanidad Internacional",
+            "value": "Francisco Silvela 57 (Metro Diego de León). Adults + travel. Tel 913-095-603"
+          },
+          {
+            "label": "Routine vaccines",
+            "value": "Free at centros de salud (with EHIC/social security)"
+          },
+          {
+            "label": "Travel vaccines",
+            "value": "Sanidad Internacional (yellow fever, typhoid, etc.)"
+          },
+          {
+            "label": "Medication info",
+            "value": "Ministry of Health: msc.es, Tel 915-964-332"
+          }
+        ]
       }
     ]
   }
