@@ -802,7 +802,41 @@
       "aupair-spain-madrid"
     ],
     "subsubcategory": "Schengen Visa",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Post-Brexit changes for UK citizens",
+        "body": "Since Brexit (2021), UK citizens are treated as non-EU for Schengen purposes. 90 days visa-free in any 180-day period. No more freedom of movement. ETIAS coming Q4 2026 (€7, 3-year authorization).",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts for UK Citizens",
+        "items": [
+          {
+            "label": "Visa-free stay",
+            "value": "90 days in any 180-day period"
+          },
+          {
+            "label": "ETIAS (coming Q4 2026)",
+            "value": "€7, 3-year authorization"
+          },
+          {
+            "label": "Passport validity",
+            "value": "3+ months beyond stay"
+          },
+          {
+            "label": "Work visa required",
+            "value": "Yes — no more automatic right to work"
+          },
+          {
+            "label": "EHIC still valid",
+            "value": "Yes (for now) — but GHIC recommended"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "passport-requirements",
@@ -827,7 +861,41 @@
       "embassies"
     ],
     "subsubcategory": "Documents",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Check your passport before booking flights",
+        "body": "Your passport must be valid for 3+ months beyond your planned stay in Spain. Some airlines will deny boarding if your passport doesn't meet this requirement, even if Spain would let you in.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Validity required",
+            "value": "3+ months beyond planned stay"
+          },
+          {
+            "label": "Issued within last 10 years",
+            "value": "Required for non-EU visitors"
+          },
+          {
+            "label": "Blank pages",
+            "value": "At least 2 recommended"
+          },
+          {
+            "label": "EU citizens",
+            "value": "National ID card also accepted"
+          },
+          {
+            "label": "ETIAS (coming Q4 2026)",
+            "value": "€7, 3-year authorization for non-EU"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "euros-and-atms",
@@ -2525,7 +2593,61 @@
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
     "subsubcategory": "Large Parks",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Size",
+            "value": "1,535 hectares (5x Central Park)"
+          },
+          {
+            "label": "Metro",
+            "value": "Lago (L10), Batán (L10)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (park). Zoo/Aquarium/Amusement Park extra"
+          },
+          {
+            "label": "Highlights",
+            "value": "Zoo, amusement park, cable car, lake, swimming pools"
+          },
+          {
+            "label": "Best for",
+            "value": "Families, outdoor activities, day trips"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What's in Casa de Campo",
+        "items": [
+          {
+            "title": "Zoo Aquarium de Madrid",
+            "body": "20 hectares. 6,000+ animals. Giant pandas. See zoo-aquarium-madrid record."
+          },
+          {
+            "title": "Parque de Atracciones",
+            "body": "Madrid's main amusement park. 40+ rides. See parque-de-atracciones-madrid record."
+          },
+          {
+            "title": "Teleférico (Cable Car)",
+            "body": "Connects to Rosales/Madrid Río. Panoramic views. See teleferico record."
+          },
+          {
+            "title": "Lago (Lake)",
+            "body": "Boat rentals, restaurants, swimming pools. Metro Lago."
+          },
+          {
+            "title": "Trails + nature",
+            "body": "Pine forests, hiking/biking trails. Surprisingly wild for a city park."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-rio",
@@ -2552,7 +2674,57 @@
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/madrid-rio",
     "subsubcategory": "Central Parks",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Length",
+            "value": "10 km linear park along Manzanares River"
+          },
+          {
+            "label": "Metro",
+            "value": "Príncipe Pío, Pirámides, Legazpi"
+          },
+          {
+            "label": "Cost",
+            "value": "Free"
+          },
+          {
+            "label": "Highlights",
+            "value": "Playa de Arganzuela (urban beach), bridges, playgrounds"
+          },
+          {
+            "label": "Best for",
+            "value": "Running, cycling, families, sunset walks"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to do at Madrid Río",
+        "items": [
+          {
+            "title": "Playa de Arganzuela",
+            "body": "Urban beach with water features (summer only). Free. Kids love it."
+          },
+          {
+            "title": "Puente de Arganzuela",
+            "body": "Spiral pedestrian bridge by Dominique Perrault. Iconic modern architecture."
+          },
+          {
+            "title": "Running + cycling",
+            "body": "10km flat path. Connects to Casa de Campo. Best long run in Madrid."
+          },
+          {
+            "title": "Playgrounds",
+            "body": "Multiple adventure playgrounds along the route. Best in Madrid for kids."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "teleferico",
@@ -3129,7 +3301,41 @@
     ],
     "official_url": "https://www.esmadrid.com/en/gastronomy",
     "subsubcategory": "Food Culture & Basics",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Hora del Vermut — Madrid's aperitif tradition",
+        "body": "Vermouth (vermut) is Madrid's pre-lunch aperitif. Order a glass (€2.50-€4) with olives around 1pm, before your main meal. It's a social ritual, not just a drink. 'Ir de vermut' (going for vermouth) is a Madrid institution.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Price per glass",
+            "value": "€2.50-€4"
+          },
+          {
+            "label": "Best time",
+            "value": "1pm-2pm (pre-lunch aperitif)"
+          },
+          {
+            "label": "Served with",
+            "value": "Olives, gilda (anchovy-olive-pepper skewer)"
+          },
+          {
+            "label": "Types",
+            "value": "Rojo (red, sweet), blanco (white, dry)"
+          },
+          {
+            "label": "Best area",
+            "value": "La Latina, Chamberí"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "cafe-central-jazz",
@@ -4897,7 +5103,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "connectivity",
       "coworking",
@@ -4914,7 +5120,56 @@
       "coding-bootcamps-madrid",
       "startup-accelerators-madrid"
     ],
-    "subsubcategory": "Internet"
+    "subsubcategory": "Internet",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Day pass",
+            "value": "€15-€25"
+          },
+          {
+            "label": "Monthly (dedicated desk)",
+            "value": "€150-€350"
+          },
+          {
+            "label": "Top chains",
+            "value": "WeWork, Impact Hub, Tinder Space"
+          },
+          {
+            "label": "Best for nomads",
+            "value": "WeWork (multiple locations, English-speaking)"
+          },
+          {
+            "label": "Best for social enterprise",
+            "value": "Impact Hub Madrid"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top coworking spaces",
+        "items": [
+          {
+            "title": "WeWork",
+            "body": "Multiple Madrid locations. Most international. Day passes available. English-speaking community managers.",
+            "meta": [
+              "Best for nomads"
+            ]
+          },
+          {
+            "title": "Tinder Space",
+            "body": "Malasaña. Boutique. Day passes. Strong startup community."
+          },
+          {
+            "title": "Impact Hub Madrid",
+            "body": "Social enterprise focus. Multiple locations. International crowd."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "internet-cafes-madrid",
@@ -7066,7 +7321,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "bureaucracy",
       "taxes",
@@ -7081,7 +7336,45 @@
       "english-speaking-financial-advisors-madrid",
       "retirement-spain-english"
     ],
-    "subsubcategory": "Taxes"
+    "subsubcategory": "Taxes",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Severe penalties for non-compliance",
+        "body": "Modelo 720 penalties: €10,000 minimum per undeclared asset. Even if you file late, the minimum penalty is €1,500 per asset. This is one of Spain's strictest tax requirements — do NOT skip it.",
+        "tone": "danger"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Who must file",
+            "value": "Spanish tax residents with €50,000+ in foreign assets"
+          },
+          {
+            "label": "Deadline",
+            "value": "March 31 (following tax year)"
+          },
+          {
+            "label": "Threshold per category",
+            "value": "€50,000 (bank accounts, stocks, real estate separately)"
+          },
+          {
+            "label": "Penalty (non-filing)",
+            "value": "€10,000+ per undeclared asset"
+          },
+          {
+            "label": "Penalty (late filing)",
+            "value": "€1,500 per asset"
+          },
+          {
+            "label": "Use a gestor",
+            "value": "Strongly recommended — €100-€300 fee"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "padron-empadronamiento",
@@ -8351,7 +8644,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "card",
@@ -8367,7 +8660,37 @@
       "museo-reina-sofia",
       "museo-thyssen-bornemisza-detail"
     ],
-    "subsubcategory": "Tourist Passes"
+    "subsubcategory": "Tourist Passes",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Current Tourist Passes (2026)",
+        "items": [
+          {
+            "label": "Paseo del Arte card",
+            "value": "€28.80 — 3 Golden Triangle museums"
+          },
+          {
+            "label": "Madrid City Tour bus",
+            "value": "€22/24h — hop-on hop-off"
+          },
+          {
+            "label": "Metro 10-trip (Metrobús)",
+            "value": "€21.50 — metro + buses"
+          },
+          {
+            "label": "Monthly transport pass",
+            "value": "€54.60 (Zone A) — unlimited"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "No more Madrid Card",
+        "body": "The original Madrid Card (all-inclusive museums + zoo + bus + cable car) has been discontinued. Now buy individual passes: Paseo del Arte for museums, Madrid City Tour for bus, Metrobús for transport. See madrid-card-guidebook record for history.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "madrid-apps",
@@ -8937,7 +9260,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "language",
       "school",
@@ -8958,7 +9281,50 @@
       "business-spanish-executives-madrid",
       "spanish-family-immersion-madrid"
     ],
-    "subsubcategory": "Learning"
+    "subsubcategory": "Learning",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Intensive course (20 hrs/wk)",
+            "value": "€150-€300/week"
+          },
+          {
+            "label": "Top schools",
+            "value": "Enforex, don Quijote, IH Madrid, LAE Madrid, Inhispania"
+          },
+          {
+            "label": "DELE exam",
+            "value": "Official Spanish proficiency (A1-C2)"
+          },
+          {
+            "label": "Best for beginners",
+            "value": "Enforex (large, international mix)"
+          },
+          {
+            "label": "Best for DELE prep",
+            "value": "LAE Madrid (Cervantes accredited)"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Choosing a Spanish school",
+        "do": [
+          "Verify Instituto Cervantes accreditation",
+          "Choose homestay for maximum Spanish practice",
+          "Take placement test seriously — wrong level wastes your time",
+          "Allow 2+ weeks for meaningful improvement"
+        ],
+        "dont": [
+          "Don't choose unaccredited schools to save money",
+          "Don't expect fluency in 1 week — minimum 2-4 weeks",
+          "Don't book more than 4 weeks without trying 1 week first"
+        ]
+      }
+    ]
   },
   {
     "id": "tourist-scams-madrid",
@@ -9019,7 +9385,57 @@
       "retirement-spain-english",
       "immunizations-travel-health-madrid"
     ],
-    "subsubcategory": "Private Healthcare"
+    "subsubcategory": "Private Healthcare",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Consultation cost",
+            "value": "€50-€120 (private)"
+          },
+          {
+            "label": "Insurance-covered",
+            "value": "Sanitas, Adeslas, Asisa often cover"
+          },
+          {
+            "label": "Best clinic",
+            "value": "Clinica Britannia (English-speaking)"
+          },
+          {
+            "label": "Emergency",
+            "value": "112 (free, multilingual, 24/7)"
+          },
+          {
+            "label": "Pharmacy advice",
+            "value": "Free — green cross sign"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "When to use each option",
+        "items": [
+          {
+            "title": "Emergency → 112",
+            "body": "Free, 24/7, English-speaking operators. For life-threatening situations."
+          },
+          {
+            "title": "Minor ailment → Pharmacy",
+            "body": "Spanish pharmacists can advise on many issues without prescription. Free."
+          },
+          {
+            "title": "Non-urgent → English-speaking doctor",
+            "body": "Clinica Britannia, Sanitas clinics. €50-€120 or insurance-covered. Book ahead."
+          },
+          {
+            "title": "Specialist → Private hospital",
+            "body": "Ruber Internacional, HM Montepríncipe, Quirón. Referral usually needed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "dentists-madrid",
@@ -9057,7 +9473,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "hospital",
@@ -9075,7 +9491,60 @@
       "medical-tourism-madrid",
       "ivf-fertility-clinics-madrid"
     ],
-    "subsubcategory": "Hospitals"
+    "subsubcategory": "Hospitals",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Public (free)",
+            "value": "Gregorio Marañón, La Paz, 12 de Octubre"
+          },
+          {
+            "label": "Private",
+            "value": "Ruber Internacional, HM Montepríncipe, Quirón"
+          },
+          {
+            "label": "ER",
+            "value": "Free for everyone — cannot refuse anyone"
+          },
+          {
+            "label": "Public access",
+            "value": "EHIC (EU) or social security number"
+          },
+          {
+            "label": "Emergency number",
+            "value": "112 (free, 24/7, multilingual)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Key Madrid hospitals",
+        "items": [
+          {
+            "title": "Hospital Gregorio Marañón",
+            "body": "Calle Doctor Esquerdo 46 (Metro O'Donnell L2). Largest public hospital. Level 1 trauma.",
+            "meta": [
+              "Public"
+            ]
+          },
+          {
+            "title": "Hospital Universitario La Paz",
+            "body": "Paseo de la Castellana 261. Major public hospital. North Madrid."
+          },
+          {
+            "title": "Ruber Internacional",
+            "body": "Calle La Masó 38. Premium private. English-speaking staff. International patients."
+          },
+          {
+            "title": "HM Montepríncipe",
+            "body": "Private. West Madrid. Modern facilities."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "universities-madrid",
@@ -9239,7 +9708,50 @@
       "nanny-agencies-madrid",
       "moving-to-madrid-guide"
     ],
-    "subsubcategory": "Universities & Schools"
+    "subsubcategory": "Universities & Schools",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Annual tuition",
+            "value": "€6,000-€15,000/year"
+          },
+          {
+            "label": "Top schools",
+            "value": "King's College, Runnymede, Hastings, ASM, Brewster"
+          },
+          {
+            "label": "Curricula",
+            "value": "British, American, IB, bilingual Spanish"
+          },
+          {
+            "label": "Application lead time",
+            "value": "6+ months (waitlists common)"
+          },
+          {
+            "label": "School year",
+            "value": "September-June"
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "School enrollment",
+        "do": [
+          "Apply 6+ months ahead — international schools have waitlists",
+          "Visit schools before enrolling — each has different culture",
+          "Ask about sibling discounts and corporate rates",
+          "Verify accreditation (CIS, COBIS, NEASC, or Spanish Ministry)"
+        ],
+        "dont": [
+          "Don't expect public school in English — most are Spanish-only",
+          "Don't skip the enrollment paperwork — empadronamiento required",
+          "Don't forget school uniform costs (€200-€500/year extra)"
+        ]
+      }
+    ]
   },
   {
     "id": "language-schools-madrid-education",
@@ -9356,7 +9868,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "landmarks",
       "arch",
@@ -9373,7 +9885,41 @@
       "cibeles-fountain-city-hall",
       "paseo-del-prado-fountains"
     ],
-    "subsubcategory": "Monuments"
+    "subsubcategory": "Monuments",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Built",
+            "value": "1778 (Sabatini, for Charles III)"
+          },
+          {
+            "label": "Location",
+            "value": "Plaza de la Independencia"
+          },
+          {
+            "label": "Metro",
+            "value": "Retiro (L2), Príncipe de Vergara (L2, L9)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (outdoor monument)"
+          },
+          {
+            "label": "Best photo time",
+            "value": "Sunset (Retiro Park behind it)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "One of Madrid's 3 iconic monuments",
+        "body": "Along with Cibeles Fountain and the Royal Palace, Puerta de Alcalá is Madrid's most recognizable landmark. It appears on the old 5-peseta coin and modern Spanish lottery tickets. The gate has 5 arches — 3 central (for carriages) and 2 side (for pedestrians).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "temple-debod",
@@ -10436,7 +10982,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "running",
@@ -10452,6 +10998,56 @@
       "retiro-park",
       "gyms-fitness-madrid",
       "altitude-running-camps-spain"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Best park",
+            "value": "Retiro (4km perimeter loop, flat, scenic)"
+          },
+          {
+            "label": "Best long route",
+            "value": "Madrid Río (10km linear park along river)"
+          },
+          {
+            "label": "Major event",
+            "value": "San Silvestre Vallecana (Dec 31, 40K runners)"
+          },
+          {
+            "label": "Free group runs",
+            "value": "Parkrun (Sat 9am, Retiro)"
+          },
+          {
+            "label": "Altitude",
+            "value": "Madrid is at 667m — affects pace for sea-level runners"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Best running routes in Madrid",
+        "items": [
+          {
+            "title": "Retiro Park loop",
+            "body": "4km perimeter. Flat, shaded, scenic. Most popular running spot. Water fountains available."
+          },
+          {
+            "title": "Madrid Río",
+            "body": "10km linear park along Manzanares River. Flat. Connects to Casa de Campo."
+          },
+          {
+            "title": "Casa de Campo trails",
+            "body": "Dirt trails through pine forest. Hilly. 1,535 hectares of trails."
+          },
+          {
+            "title": "Parque Juan Carlos I",
+            "body": "Modern park, wide paths. Less crowded than Retiro. East Madrid."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10702,7 +11298,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "live",
       "uv",
@@ -10719,7 +11315,37 @@
       "retiro-park",
       "running-madrid"
     ],
-    "subsubcategory": "Weather"
+    "subsubcategory": "Weather",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid sun is strong — protect yourself",
+        "body": "Madrid is at 667m altitude with 300+ sunny days/year. Summer UV reaches 10+ (extreme). Sunscreen is essential May-September. The old Madrid Insider didn't warn about this — many visitors get burned.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "UV Index by Season",
+        "items": [
+          {
+            "label": "Summer (Jun-Aug)",
+            "value": "9-11 (Extreme) — sunscreen essential"
+          },
+          {
+            "label": "Spring/Fall (Mar-May, Sep-Nov)",
+            "value": "5-8 (Moderate-High)"
+          },
+          {
+            "label": "Winter (Dec-Feb)",
+            "value": "2-4 (Low-Moderate)"
+          },
+          {
+            "label": "Altitude factor",
+            "value": "Madrid 667m — UV increases ~10% per 1000m"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-pollen-allergies",
@@ -11334,7 +11960,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "yoga",
@@ -11350,6 +11976,52 @@
       "yoga-teacher-training-spain",
       "pilates-teacher-training-madrid",
       "yoga-wellness-retreats-spain"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Drop-in class",
+            "value": "€10-€15"
+          },
+          {
+            "label": "Monthly unlimited",
+            "value": "€50-€80"
+          },
+          {
+            "label": "Styles available",
+            "value": "Hatha, Vinyasa, Ashtanga, Bikram, Yin, Kundalini"
+          },
+          {
+            "label": "English-speaking",
+            "value": "Some studios (verify before booking)"
+          },
+          {
+            "label": "YTT certification",
+            "value": "See yoga-teacher-training-spain record"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Yoga studios in Madrid",
+        "items": [
+          {
+            "title": "City Yoga",
+            "body": "Artistas 43 (Metro Cuatro Caminos). Multiple styles. city-yoga.com"
+          },
+          {
+            "title": "Bikram Yoga Madrid",
+            "body": "Divino Pastor 25 (Metro Bilbao). Hot yoga. bikramyoga.es"
+          },
+          {
+            "title": "Ashtanga Yoga Madrid",
+            "body": "Juanelo 12 (Metro Tirso de Molina). Traditional Ashtanga. ashtangayogamadrid.com"
+          }
+        ]
+      }
     ]
   },
   {
@@ -14909,7 +15581,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "neighborhood",
       "literary",
@@ -14928,6 +15600,56 @@
       "madrid-book-fair-literary-events",
       "madrid-poetry-literary-festivals",
       "outdoor-dining-terraces-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Also known as",
+            "value": "Barrio de las Letras"
+          },
+          {
+            "label": "Main street",
+            "value": "Calle de las Huertas"
+          },
+          {
+            "label": "Metro",
+            "value": "Antón Martín (L1), Tirso de Molina (L1)"
+          },
+          {
+            "label": "Famous residents",
+            "value": "Cervantes, Lope de Vega, Góngora"
+          },
+          {
+            "label": "Best for",
+            "value": "Literary history, tapas, theater district"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Literary landmarks",
+        "items": [
+          {
+            "title": "Casa Museo Lope de Vega",
+            "body": "Calle de Cervantes 11. Lope de Vega's house (1610-1635). Restored. Small museum."
+          },
+          {
+            "title": "Cervantes' last home",
+            "body": "Calle del León (now marked). Cervantes lived his final years here. Convento de las Trinitarias nearby (his burial site)."
+          },
+          {
+            "title": "Sidewalk quotes",
+            "body": "Golden quotes from Spanish Golden Age writers embedded in the sidewalks of Calle de las Huertas."
+          },
+          {
+            "title": "Plaza de Santa Ana",
+            "body": "The neighborhood's main square. Monument to Lope de Vega. Café Español, Cervecería Alemana (Hemingway's bar)."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14995,7 +15717,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "neighborhood",
       "photography",
@@ -15011,6 +15733,34 @@
       "plaza-mayor",
       "puerta-de-alcala",
       "el-rastro-flea-market"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best photography spots in Madrid",
+        "items": [
+          {
+            "title": "Templo de Debod at sunset",
+            "body": "Egyptian temple + golden hour. Madrid's most photographed spot. Arrive 1 hour early."
+          },
+          {
+            "title": "Gran Vía at night",
+            "body": "Illuminated theater signs. Madrid's 'Broadway.' Long exposures work well."
+          },
+          {
+            "title": "Plaza Mayor early morning",
+            "body": "Empty arcaded square. Best before 9am to avoid crowds."
+          },
+          {
+            "title": "Retiro Park Crystal Palace",
+            "body": "Glass palace reflecting in the pond. Best mid-morning for light."
+          },
+          {
+            "title": "Cibeles Fountain at night",
+            "body": "Fountain + City Hall + Bank of Spain illuminated. Iconic Madrid shot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15155,6 +15905,55 @@
       "spanish-culture-madrid",
       "outdoor-dining-terraces-madrid",
       "japanese-restaurants-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish eating schedule (different from US/UK)",
+        "body": "Breakfast 8-9am (coffee + pastry). Lunch 2-3:30pm (main meal). Dinner 9-11pm (lighter). Restaurants don't serve lunch before 1pm or dinner before 8:30pm. The menú del día (€10-14) is the best lunch deal.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Must-try Madrid foods",
+        "items": [
+          {
+            "title": "Bocata de calamares",
+            "body": "Fried squid sandwich. Plaza Mayor area. €3.50. Madrid's most iconic street food."
+          },
+          {
+            "title": "Cocido madrileño",
+            "body": "3-course chickpea stew with pork, chorizo, vegetables. Madrid's signature dish."
+          },
+          {
+            "title": "Tortilla de patatas",
+            "body": "Spanish omelette. Eggs, potatoes, (maybe) onions. Every bar has their version."
+          },
+          {
+            "title": "Patatas bravas",
+            "body": "Fried potato cubes with spicy brava sauce + aioli. The tapas classic."
+          },
+          {
+            "title": "Huevos rotos",
+            "body": "Fried eggs over fried potatoes with jamón. 'Broken eggs.' Delicious."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Eating in Madrid",
+        "do": [
+          "Eat on Spanish schedule — lunch 2pm, dinner 10pm",
+          "Order the menú del día for lunch (€10-14, 3 courses + drink)",
+          "Try vermouth (vermut) as an aperitif before lunch",
+          "Eat tapas standing at the bar — it's cheaper and more social"
+        ],
+        "dont": [
+          "Don't eat at restaurants with picture menus on Plaza Mayor",
+          "Don't expect dinner before 8:30pm — kitchens are closed",
+          "Don't ask for tapas 'like in Granada' — Madrid tapas are NOT free"
+        ]
+      }
     ]
   },
   {
@@ -15385,7 +16184,7 @@
     "status": "legacy",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "history",
@@ -15402,6 +16201,14 @@
       "madrid-metropolitan",
       "the-broadsheet-madrid",
       "the-local-spain"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's English-language publishing history",
+        "body": "This record documents the complete history of English-language Madrid publications — both active and defunct. Madrid Insider itself is part of this history (first built 2002-2014, rebuilt 2026).",
+        "tone": "info"
+      }
     ]
   },
   {
