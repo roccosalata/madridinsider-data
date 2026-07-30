@@ -1251,6 +1251,12 @@
             "body": "Most travel insurance covers passport replacement. Keep all receipts and the police report."
           }
         ]
+      },
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — the old Madrid Insider listed embassy addresses that may have changed. The American Embassy was listed at Serrano 75 (Metro Rubén Darío) — the US Embassy moved to a new compound at Calle Diego de León 16 in 2022. The British Embassy was at Torre Espacio (Paseo de la Castellana 259D) — verify current location. Always check the embassy's official website before visiting.",
+        "tone": "info"
       }
     ]
   },
@@ -1312,7 +1318,7 @@
     "official_url": "https://www.comunidad.madrid/salud/farmacias-farmaceuticos",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "safety",
       "health",
@@ -1413,6 +1419,12 @@
             "body": "Closed pharmacies post the nearest 24h pharmacy address on their door."
           }
         ]
+      },
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these 24-hour pharmacy locations from the old Madrid Insider DID exist: Mayor 13, Bailén 16, Mayor 59, Atocha 46, Velázquez 30, Velázquez 70, Goya 12, Goya 89. Some may have changed hours or closed. Always verify current 24-hour pharmacies (farmacia de guardia) at canaldefarmacia.com or by searching 'farmacia de guardia Madrid' online.",
+        "tone": "info"
       }
     ]
   },
@@ -2214,7 +2226,7 @@
     "official_url": "https://www.patrimonionacional.es/en/visita/royal-palace-madrid",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "royal",
       "palace",
@@ -2227,7 +2239,8 @@
       "puerta-del-sol",
       "zarzuela-madrid",
       "madrid-historic-gates",
-      "cibeles-fountain-city-hall"
+      "cibeles-fountain-city-hall",
+      "hidden-parks-gardens-madrid"
     ],
     "subsubcategory": "Royal Palace",
     "sections": [
@@ -2356,7 +2369,7 @@
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-del-retiro",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "parks",
       "retiro",
@@ -2371,7 +2384,8 @@
       "madrid-weather",
       "teleferico",
       "madrid-book-fair-literary-events",
-      "paseo-del-prado-fountains"
+      "paseo-del-prado-fountains",
+      "hidden-parks-gardens-madrid"
     ],
     "subsubcategory": "Central Parks",
     "sections": [
@@ -2452,7 +2466,7 @@
     "content": "Casa de Campo is Madrid's largest green space — 1,535 hectares (5x Central Park), west of the Royal Palace across the Manzanares River. Once a royal hunting ground, now a public park. WHAT'S INSIDE: (1) Lake (Lago de la Casa de Campo) — rowboats €6/hour, restaurants around the lake (Mi Suegra, El Lago). (2) Zoo Aquarium de Madrid — see our separate record. (3) Parque de Atracciones — Madrid's main amusement park. See our separate record. (4) Teleférico (cable car) — currently CLOSED for renovation until Q1 2027. (5) MTB and trail running — 30+ km of trails, hilly, wooded. (6) Picnic areas (free, bring your own food). (7) Madrid Amusement Park. GETTING THERE: Metro Lago (L10), Batán (L10), Casa de Campo (L5). TIPS: (1) The park is huge — plan which area you want to visit. (2) Best for: families, runners, cyclists, half-day escapes. (3) Avoid alone at night — the park is known for nighttime sex work along the main road. Daytime is safe and family-friendly. (4) Bring water — few fountains. (5) The lake area has the best facilities (restaurants, boat rental). (6) You can walk from the Royal Palace (15 min) via the Sabatini Gardens and down through Parque del Oeste.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "parks",
       "casa-de-campo"
@@ -2463,7 +2477,8 @@
       "metro-de-madrid",
       "retiro-park",
       "teleferico",
-      "rock-climbing-courses-madrid"
+      "rock-climbing-courses-madrid",
+      "hidden-parks-gardens-madrid"
     ],
     "official_url": "https://www.esmadrid.com/en/tourist-information/parque-atracciones",
     "subsubcategory": "Large Parks"
@@ -4807,7 +4822,7 @@
     "status": "legacy",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "connectivity",
       "internet",
@@ -4818,7 +4833,15 @@
       "coworking-madrid",
       "public-wifi-madrid"
     ],
-    "subsubcategory": "Internet"
+    "subsubcategory": "Internet",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these internet cafés from the old Madrid Insider DID exist: La Casa de Internet (Luchana 20, Metro Bilbao) — had 60+ computers, closed; Easy Internet Cafe (Montera 10, Metro Sol) — closed; BBigg (Mayor 1, Metro Sol) — closed; Work Center (Plaza Canalejas, Metro Sevilla) — closed. Internet cafés have largely disappeared from Madrid as smartphones and free WiFi became universal. The concept is now obsolete — if you need internet, find a café with WiFi or use Madrid's municipal WiFi network.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "phone-calling-cards",
@@ -4900,7 +4923,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "locksmith",
@@ -4910,7 +4933,15 @@
     "related_records": [
       "emergency-numbers"
     ],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these locksmiths from the old Madrid Insider DID exist: Madrid Locksmiths / Cerrajeros Madrid (91 534 28 32 / 902 73 73 73, urgemadrid.com) — verify current status. The old site noted: 'If you call during regular working hours, they won't charge you for the visit, just the fees for changing the locks.' Always get a written quote BEFORE work starts — locksmith scams are common in Madrid.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "moving-shipping-madrid",
@@ -7628,7 +7659,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "books",
@@ -7640,7 +7671,15 @@
       "sol-gran-via-neighborhood",
       "el-rastro-flea-market"
     ],
-    "subsubcategory": "Specialty Shops"
+    "subsubcategory": "Specialty Shops",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these English bookstores from the old Madrid Insider DID exist: Book World (Goya 56, Metro Goya) — closed; Hartley's Good Bookshop (Padilla 74, Metro Diego de León) — closed. J&J Books and Coffee (Espíritu Santo 47, Metro Noviciado) is still open and remains Madrid's best English-language bookstore. The English bookstore scene has contracted significantly — J&J is now the main survivor.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "bullfights-madrid",
@@ -8721,7 +8760,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "language",
       "intercambio",
@@ -8737,7 +8776,15 @@
       "acting-schools-madrid",
       "spanish-immersion-adults-spain"
     ],
-    "subsubcategory": "Learning"
+    "subsubcategory": "Learning",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these intercambio venues from the old Madrid Insider DID exist: Café Madrid (Escalinata s/n, Metro Opera) — Wednesday 9:30pm intercambio — verify current status; Molly Malone's (Manuela Malasaña 11, Metro Bilbao) — Saturday 9:30pm intercambio — still operates as an Irish pub but verify intercambio schedule. J&J Books and Coffee (Espíritu Santo 47) hosted Wednesday-Thursday 8pm intercambios — verify current schedule. Madrid Babel and Mundo Lingo are now the main organized intercambio events.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "language-schools-madrid",
@@ -9473,7 +9520,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "football",
@@ -9486,6 +9533,14 @@
       "metro-de-madrid",
       "soccer-camps-madrid",
       "paseo-del-prado-fountains"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — Atlético Madrid DID play at the Vicente Calderón Stadium (Paseo Virgen del Puerto 67, Metro Pirámides) until 2017. The Calderón was demolished and the site is being redeveloped as a residential/commercial complex. Atlético moved to the Metropolitano (Wanda/Estadio Cívitas Metropolitano) in the northeast of Madrid in 2017. The old Madrid Insider listed the Calderón as Atlético's home.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -9581,7 +9636,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "opera",
@@ -9632,6 +9687,12 @@
         "heading": "Free live broadcast",
         "body": "Major operas are broadcast free on screens in Plaza de Oriente and on Spanish TV (RTVE). If you can't get tickets, watching from the plaza with wine and snacks is a Madrid experience in itself.",
         "tone": "success"
+      },
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — the old Madrid Insider listed these theaters that may have changed: Teatro Albéniz (Paz 11, Metro Sol) — closed for years, planned renovation; Teatro de la Comedia (Príncipe 14, Metro Sevilla) — still active (Spain's national theater company); Teatro Español (Príncipe 25, Metro Sevilla) — still active (on site of Corral del Príncipe, 1583). The Teatro de Madrid (Av. de la Ilustración, Metro Barrio del Pilar) was listed but has been renamed/reorganized.",
+        "tone": "info"
       }
     ]
   },
@@ -10954,7 +11015,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "cinema",
@@ -10965,7 +11026,16 @@
     ],
     "related_records": [
       "imax-planetarium-madrid",
-      "teatro-real-madrid"
+      "teatro-real-madrid",
+      "version-original-cinemas-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these V.O. (original version) cinemas from the old Madrid Insider DID exist: Alphaville (Martín de los Héros 14, Metro Plaza España) — classic art-house cinema, verify current status; Pequeño Cine Estudio (Magallanes 1) — small art-house; Cine Bellas Artes (Marqués de Casa Riera 2) — closed; Cine Princesa (Princesa 3, Metro Plaza España) — closed; California (Andrés Mellado 53, Metro Moncloa) — closed. The V.O. cinema scene has consolidated: Cinesa Manoteras and Yelmo Cines Ideal are now the main V.O. venues. The Cine Doré (Filmoteca Española) remains for classic films.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -11116,7 +11186,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "traditions",
       "flamenco",
@@ -11203,6 +11273,12 @@
             "body": "Some tablaos have a bar after the show where performers and audience mingle — the best flamenco moments often happen here, spontaneously."
           }
         ]
+      },
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these flamenco venues from the old Madrid Insider DID exist: Casa Patas (Cañizares 10, Metro Antón Martín) — closed ca. 2020; Café de Chinitas (Torija 7, Metro Santo Domingo) — relocated/rebranded; Sala Axarquía (Calavatra 32, Metro La Latina) — closed; Torres Bermejas (Mesonero Romanos 11, Metro Gran Vía) — verify current status; El Juglar (Lavapiés 37) — now primarily a bar, flamenco reduced. Madrid's flamenco scene changes constantly — tablaos open and close. The venues that survive (Cardamomo, Corral de la Morería, Las Carboneras) are the strongest.",
+        "tone": "info"
       }
     ]
   },
@@ -11243,7 +11319,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "cinema",
@@ -11255,7 +11331,8 @@
     "related_records": [
       "movie-theaters-madrid",
       "veranos-de-la-villa",
-      "retiro-park"
+      "retiro-park",
+      "version-original-cinemas-madrid"
     ]
   },
   {
@@ -13779,7 +13856,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "magazine",
@@ -13793,6 +13870,14 @@
       "the-local-spain",
       "madrid-today-events",
       "awc-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "🏛️ No, you're not crazy — that DID exist",
+        "body": "No, you're not crazy — these publications from the old Madrid Insider DID exist: In Madrid (free English monthly, in-madrid.com) — ceased print publication; Broadsheet (pay English monthly, tbs.com.es) — merged with Madrid Metropolitan; MAP Magazine (bilingual digital, mapmadrid.com) — closed; Vive Madrid (free bilingual tourist guide) — closed; Hot English Magazine (hotenglishmagazine.com) — still active as learnhotenglish.com. Segundamano (classifieds) — moved online to vibbo.com then merged with Wallapop. The English-language publication landscape has changed dramatically — see english-publications-history-madrid record for the full history.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -24055,12 +24140,13 @@
       "spanish-cinema",
       "industry-accreditation"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "film-schools-madrid",
       "acting-schools-madrid",
-      "music-summer-programs-madrid"
+      "music-summer-programs-madrid",
+      "version-original-cinemas-madrid"
     ],
     "sections": [
       {
@@ -28756,6 +28842,208 @@
             "body": "Northwest (near El Escorial). Sailing school + kayaking. Combine with El Escorial day trip."
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "hidden-parks-gardens-madrid",
+    "category": "see",
+    "subcategory": "parks",
+    "title": "Hidden Parks & Gardens of Madrid (Secret Green Spaces)",
+    "summary": "Madrid's secret green spaces: El Capricho (18th-century romantic garden, Alameda de Osuna), Crystal Palace of Arganzuela (greenhouse), Estufa Fría (cold greenhouse), Campo del Moro (palace gardens). Most free, limited hours.",
+    "content": "Beyond Retiro Park and Casa de Campo, Madrid has several hidden parks and gardens that most tourists never discover. These were documented in the old Madrid Insider (2013) and remain some of the city's best-kept secrets. El Capricho (Alameda de Osuna, Metro Canillejas) is an 18th-century romantic garden with French flavor — Baroque layout, squares, fountains, and a hermitage. Created by the Duchess of Osuna in 1784, it's one of Madrid's hidden treasures, open only weekends. The Crystal Palace of Arganzuela (Paseo de la Chopera 10, Metro Legazpi) is an 8,400m² greenhouse giving visitors the feeling of being in a huge tropical greenhouse — exotic plants from around the world. Open Sat-Sun 11am-9pm, closed Mondays. The Estufa Fría / Invernadero (cold greenhouse) features plants from the Madrid area in a beautiful habitat — umbraculum, medicinal and ornamental plants with rotating exhibitions. Open Tue-Sun 10am-2pm and 5pm-9pm. Campo del Moro (the gardens below the Royal Palace on the western slope) is a romantic English-style garden rarely visited by tourists — entrance from Paseo de la Virgen del Puerto. The Atocha Station Tropical Garden (inside Atocha train station) is a 4,000m² tropical garden with turtles and over 7,000 plants — free to visit while waiting for trains. The Quinta de los Molinos (known for almond blossoms in February-March) and Quinta de la Fuente del Berro (romantic garden with peacocks) round out Madrid's secret garden collection.",
+    "official_url": "https://www.esmadrid.com/en/parks-and-gardens-madrid",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "parks",
+      "gardens",
+      "el-capricho",
+      "crystal-palace",
+      "arganzuela",
+      "estufa-fria",
+      "campo-del-moro",
+      "hidden",
+      "secret",
+      "greenhouse",
+      "romantic-garden"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "evergreen",
+    "related_records": [
+      "retiro-park",
+      "casa-de-campo",
+      "madrid-rio",
+      "royal-palace",
+      "quinta-de-los-molinos",
+      "parque-juan-carlos-i"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's best-kept green secrets",
+        "body": "Beyond Retiro and Casa de Campo, Madrid has hidden gardens most tourists never find: El Capricho (18th-century romantic garden), Crystal Palace of Arganzuela (tropical greenhouse), Campo del Moro (palace gardens), and the Atocha Station tropical garden.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "El Capricho",
+            "value": "Alameda de Osuna (Metro Canillejas). Weekends only. Free"
+          },
+          {
+            "label": "Crystal Palace Arganzuela",
+            "value": "Paseo de la Chopera 10 (Metro Legazpi). Sat-Sun 11am-9pm. Free"
+          },
+          {
+            "label": "Estufa Fría",
+            "value": "Tue-Sun 10am-2pm, 5pm-9pm. Free"
+          },
+          {
+            "label": "Campo del Moro",
+            "value": "Below Royal Palace. Apr-Sept: 10am-8pm. Oct-Mar: 10am-6pm. Free"
+          },
+          {
+            "label": "Atocha Tropical Garden",
+            "value": "Inside Atocha station. Daily. Free"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Hidden parks & gardens",
+        "items": [
+          {
+            "title": "El Capricho",
+            "body": "Alameda de Osuna (Metro Canillejas). 18th-century romantic garden by Duchess of Osuna (1784). French Baroque layout. Weekends only. Free. One of Madrid's true hidden treasures."
+          },
+          {
+            "title": "Crystal Palace of Arganzuela (Palacio de Cristal)",
+            "body": "Paseo de la Chopera 10 (Metro Legazpi). 8,400m² greenhouse. Exotic tropical plants. Sat-Sun 11am-9pm, closed Mon. Free."
+          },
+          {
+            "title": "Estufa Fría (Invernadero)",
+            "body": "Cold greenhouse with Madrid-area plants, medicinal and ornamental. Rotating exhibitions. Tue-Sun 10am-2pm, 5pm-9pm."
+          },
+          {
+            "title": "Campo del Moro",
+            "body": "Romantic English-style garden below Royal Palace's western slope. Entrance: Paseo de la Virgen del Puerto. Apr-Sept 10am-8pm, Oct-Mar 10am-6pm. Free. Rarely touristy."
+          },
+          {
+            "title": "Atocha Station Tropical Garden",
+            "body": "Inside Atocha train station. 4,000m² tropical garden with turtles, 7,000+ plants. Free. Visit while waiting for trains."
+          },
+          {
+            "title": "Quinta de la Fuente del Berro",
+            "body": "Romantic garden with peacocks, streams, and waterfall. Calle Alcalde Sáinz de Baranda. Free. Quiet, local."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013) listed these hidden parks. They all still exist but hours may have changed. The Crystal Palace of Arganzuela (not to be confused with the Crystal Palace in Retiro Park) is particularly magical — a massive tropical greenhouse few tourists know about. El Capricho is worth the trip to the suburbs for its 18th-century romantic atmosphere.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "version-original-cinemas-madrid",
+    "category": "see",
+    "subcategory": "performing-arts",
+    "title": "Version Original (V.O.) Cinemas in Madrid",
+    "summary": "Madrid's V.O. cinemas for English-language films in original version (no dubbing). Cinesa Manoteras, Yelmo Cines Ideal, Cine Doré (Filmoteca). €5-8. Monday is cheapest day. Look for 'V.O.' or 'V.O.S.E.' (with Spanish subtitles).",
+    "content": "Madrid has a dedicated V.O. (Versión Original) cinema culture for filmgoers who want to watch movies in their original language — primarily English-language films without Spanish dubbing. Look for 'V.O.' (versión original) or 'V.O.S.E.' (versión original con subtítulos en español) in cinema listings. The old Madrid Insider (2013, node/35) listed several V.O. cinemas: Alphaville (Martín de los Héros 14, Metro Plaza España), Pequeño Cine Estudio (Magallanes 1), Cine Bellas Artes (Marqués de Casa Riera 2), Cine Princesa (Princesa 3), and Cine California (Andrés Mellado 53). Most of these have closed or been absorbed by chains. The current V.O. cinema landscape: Cinesa Manoteras (Calle Manoteras 20, Metro Manoteras) and Yelmo Cines Ideal (Doctor Cortezo 6, Metro Tirso de Molina) are the main V.O. multiplexes. The Renoir chain (multiple locations including Cuatro Caminos and Plaza de España) also programs V.O. screenings. The Cine Doré (Filmoteca Española, Santa Isabel 3, Metro Antón Martín) is Spain's national film archive — €2.50 tickets for classic films in original version, beautiful art-nouveau building. Monday-Wednesday is typically the cheapest day at commercial cinemas (€5-6 vs €8-9 on weekends). For V.O. listings, check ecartelera.com or the individual cinema websites.",
+    "official_url": "https://www.ecartelera.com/cines/madrid/",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "cinema",
+      "version-original",
+      "v-o",
+      "vose",
+      "movies",
+      "english-language",
+      "film",
+      "cinesa",
+      "yelmo",
+      "renoir",
+      "cine-dore",
+      "filmoteca"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "movie-theaters-madrid",
+      "summer-outdoor-cinema-madrid",
+      "spanish-film-festivals",
+      "film-schools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "How to watch English-language films in Madrid",
+        "body": "Look for 'V.O.' (versión original) or 'V.O.S.E.' (original version with Spanish subtitles). Cinesa Manoteras and Yelmo Cines Ideal are the main V.O. multiplexes. Cine Doré (Filmoteca) for classic films at €2.50.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Ticket price",
+            "value": "€5-6 (Mon-Wed) to €8-9 (weekends)"
+          },
+          {
+            "label": "Cine Doré (Filmoteca)",
+            "value": "€2.50 per film"
+          },
+          {
+            "label": "Main V.O. multiplexes",
+            "value": "Cinesa Manoteras, Yelmo Cines Ideal"
+          },
+          {
+            "label": "Cheapest day",
+            "value": "Monday-Wednesday"
+          },
+          {
+            "label": "Look for",
+            "value": "'V.O.' or 'V.O.S.E.' in listings"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Current V.O. cinemas in Madrid",
+        "items": [
+          {
+            "title": "Cinesa Manoteras",
+            "body": "Calle Manoteras 20 (Metro Manoteras). V.O. multiplex. Most English-language films in original version."
+          },
+          {
+            "title": "Yelmo Cines Ideal",
+            "body": "Doctor Cortezo 6 (Metro Tirso de Molina). V.O. multiplex in city center. Popular with expats."
+          },
+          {
+            "title": "Cine Doré (Filmoteca Española)",
+            "body": "Santa Isabel 3 (Metro Antón Martín). Spain's national film archive. €2.50 tickets. Classic films in original version. Beautiful art-nouveau building.",
+            "meta": [
+              "Best value"
+            ]
+          },
+          {
+            "title": "Renoir Cinemas",
+            "body": "Multiple locations (Cuatro Caminos, Plaza de España). V.O. screenings alongside dubbed versions."
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "No, you're not crazy — that DID exist",
+        "body": "The old Madrid Insider (2013) listed these V.O. cinemas: Alphaville (Martín de los Héros 14) — classic art-house cinema, verify status; Pequeño Cine Estudio (Magallanes 1) — small art-house; Cine Bellas Artes (Marqués de Casa Riera 2) — closed; Cine Princesa (Princesa 3) — closed; Cine California (Andrés Mellado 53) — closed. The V.O. cinema scene has consolidated into chains (Cinesa, Yelmo) with the Cine Doré remaining as the independent/art-house option.",
+        "tone": "info"
       }
     ]
   }
