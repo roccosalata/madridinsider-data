@@ -1474,8 +1474,8 @@
   {
     "id": "pharmacies",
     "title": "Pharmacies (Farmacias) in Madrid",
-    "category": "essentials",
-    "subcategory": "safety",
+    "category": "living",
+    "subcategory": "healthcare",
     "summary": "Green cross sign. 24-hour 'farmacia de guardia' rotates daily. Free health advice for minor issues. Cheaper than doctors.",
     "content": "Pharmacies (farmacias) in Madrid. IDENTIFY: Look for a green cross sign (sometimes flashing) — that's a pharmacy. There are 800+ pharmacies in Madrid, one every few blocks. HOURS: Most pharmacies open Mon-Fri 9:30am-2pm and 5-9:30pm, Sat 10am-2pm. Closed Sundays. 24-HOUR PHARMACIES (Farmacia de Guardia): Every night and Sunday, one pharmacy in each district stays open 24/7 on a rotating schedule. Find the nearest at colegiofarmaceuticosmadrid.es (Spanish only) or ask any pharmacy '¿Dónde está la farmacia de guardia?' WHAT THEY SELL: (1) Over-the-counter medicine: paracetamol (€2), ibuprofen (€3), antihistamines (€5), antacids (€4), cough syrup (€5), antibiotic cream (€5). (2) Prescription medicine (bring your prescription or have a doctor call one in). (3) First aid: bandages, antiseptic, thermometer. (4) Personal care: sunscreen, contact lens solution, feminine hygiene, baby formula. (5) Medical devices: blood pressure monitors, glucose meters. SPANISH PHARMACY TIPS: (1) Spanish pharmacists are highly trained (5-year university degree) and can advise on minor health issues — colds, allergies, rashes, insect bites. This is FREE and often faster than seeing a doctor. (2) Many medicines that require a prescription in the US/UK are available OTC in Spain (e.g., some antibiotics, codeine). Ask the pharmacist. (3) Spanish pharmacies are cheaper than US/UK for most medicines. (4) Say 'para el dolor de...' (for pain of...) + cabeza (head), estómago (stomach), garganta (throat). (5) The pharmacist can tell you if you need to see a doctor. (6) Emergency contraception is available OTC (€20-30, no prescription, no age restriction).",
     "official_url": "https://www.comunidad.madrid/salud/farmacias-farmaceuticos",
@@ -1494,7 +1494,7 @@
       "hospitals-madrid",
       "tourist-scams-madrid"
     ],
-    "subsubcategory": "Pharmacies",
+    "subsubcategory": "Overview",
     "sections": [
       {
         "type": "stats",
@@ -5141,7 +5141,7 @@
     "id": "intercity-buses",
     "title": "Intercity Buses (Madrid to other cities)",
     "category": "essentials",
-    "subcategory": "trains",
+    "subcategory": "transportation",
     "summary": "Cheaper than trains for intercity travel. Madrid to Granada 5h (€25), Lisbon 8h (€45), Bilbao 4h30 (€22).",
     "content": "Intercity buses are the budget alternative to trains for travel within Spain and to neighboring countries. They're slower but often half the price of the AVE. The main operator is ALSA (owned by National Express), with routes to every major Spanish city and international destinations including Portugal, France, and Morocco (via ferry). Other operators include Avanza (Castilla y León, Extremadura routes) and Daibus (Andalusia). Buses depart from Estación Sur (Méndez Álvaro) for most ALSA routes, and from Moncloa for Avanza routes. Book at alsa.es for the best fares — English site available. Buses are modern, air-conditioned, with WiFi (when it works) and onboard toilets.",
     "official_url": "https://www.alsa.com/en",
@@ -5166,7 +5166,8 @@
         "body": "ALSA is Spain's main intercity bus operator (alsa.com). Madrid to Granada 5h (€25), Lisbon 8h (€45), Bilbao 4h30 (€22). Buses depart from Estación Sur (Méndez Álvaro). Book online for best prices.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "bus-stations-madrid",
@@ -7100,13 +7101,13 @@
     "title": "Food & Tapas Tours",
     "category": "do",
     "subcategory": "tours",
-    "summary": "Guided tapas crawls in La Latina, Malasaña, and San Miguel. €35-65, includes 4-5 stops with food and drinks.",
+    "summary": "[Archived: merged into devour-madrid-food-tours.] Guided tapas crawls in La Latina, Malasaña, and San Miguel. €35-65, includes 4-5 stops with food and drinks.",
     "content": "Food tours are one of the best ways to experience Madrid's tapas culture, especially if you don't speak Spanish (the guide translates and helps you order). Tours run €35-65 per person for 3-4 hours, visiting 4-5 bars with 10+ tastings and 3-4 drinks (beer, wine, vermouth). Main operators: Madrid Food Tour (high-end, €65, 4 stops), Devour Madrid (mid-range, €55, 5 stops), and Tapas Taverns Tour (budget, €35, 4 stops). Most popular tours are in La Latina (traditional tapas), Malasaña (modern and creative), and around San Miguel market (tourist-friendly). Vegetarian options available on most tours — book ahead. For wine lovers, specialized sherry and Rioja tours are available (€50-70). Tip: don't eat lunch before a tapas tour — you'll be full by the end.",
     "official_url": "https://devourtours.com/destinations/spain/madrid",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tour",
       "food",
@@ -7792,7 +7793,7 @@
     "id": "madrid-kids-museums",
     "title": "Museums for Kids (Ciencia, Wax, Tren)",
     "category": "see",
-    "subcategory": "family-attractions",
+    "subcategory": "museums",
     "summary": "Three kid-friendly museums: Science Museum (CosmoCaixa), Wax Museum, Railway Museum. €3-6 each, good rainy-day options.",
     "content": "Madrid has several museums geared toward children, perfect for rainy days. The CosmoCaixa Science Museum (Alcobendas, north Madrid) has interactive exhibits on physics, biology, and technology — kids can touch everything, do experiments, see a planetarium show. €6 adult, €4 child. Closed Mondays. The Wax Museum (Museo de Cera) on Paseo de Recoletos has 450+ wax figures (Spanish royalty, celebrities, sports stars, historical figures). €18 adult, €13 child. Slightly overpriced but kids love it. The Railway Museum (Museo del Ferrocarril) in Delicias has steam locomotives, vintage train cars, and a model railway. €6 adult, free for kids under 7. Sunday morning has a kids' train ride. Other options: the Museo Nacional de Ciencias Naturales (dinosaurs, animals) and the Andén 0 (old Metro station museum, free). All have Spanish signage — CosmoCaixa has some English, the others have English audio guides available.",
     "official_url": "https://www.cosmocaixa.org/es/madrid",
@@ -7835,7 +7836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Other Museums"
   },
   {
     "id": "social-security-number-spain",
@@ -8676,7 +8678,7 @@
     "id": "plaza-de-oriente",
     "title": "Plaza de Oriente",
     "category": "see",
-    "subcategory": "royal",
+    "subcategory": "architecture",
     "summary": "Formal square between Royal Palace and Royal Theater. Statues of Spanish kings, central garden, cafés. Free.",
     "content": "Plaza de Oriente is the formal square between the Royal Palace (east side) and the Royal Theater (Teatro Real, west side). Designed in the 1840s during the reign of Isabella II. The square has three sections: the Central Gardens (formal landscaping with statues of 20 medieval Spanish kings, originally carved for the palace roof but removed due to weight concerns), the Cabo Noval Gardens (north, more informal), and the Lepanto Gardens (south). At the center is an equestrian statue of Philip IV (1640, by Pietro Tacca — based on a Velázquez portrait and verified by Galileo Galilei for the horse's center of gravity). The square is surrounded by historic cafés (Café de Oriente is the most famous, perfect for a coffee with palace views). Free to walk through, open 24/7. Best views: at sunset from the café terraces, or at night when the palace is illuminated. The plaza connects the Royal Palace, Almudena Cathedral, Sabatini Gardens, and Teatro Real — making it the heart of 'Royal Madrid'.",
     "official_url": "https://www.patrimonionacional.es/en/visita/royal-palace-madrid",
@@ -10362,8 +10364,8 @@
   {
     "id": "language-schools-madrid",
     "title": "Spanish Language Schools in Madrid",
-    "category": "essentials",
-    "subcategory": "communication",
+    "category": "living",
+    "subcategory": "education",
     "summary": "Intensive Spanish courses from €150/week. Top schools: Don Quijote, Enforex, Eureka, AIL Madrid.",
     "content": "Madrid is one of the best places to learn Spanish — the accent is clear (castellano), the city is welcoming, and there are dozens of language schools. Top schools: (1) Don Quijote Madrid (Calle Duque de Liria 6, near Plaza de España) — large international chain, intensive courses 20-30 hours/week from €150-300/week, accommodations arranged. (2) Enforex (Calle de Baltasar Gracián 4, Salamanca) — similar to Don Quijote, large school, good facilities. (3) Eureka Spanish School (Calle Amaniel 14, Conde Duque) — smaller, more personal, €180/week intensive. (4) AIL Madrid (Calle Diego de León 3, Salamanca) — highly rated, fun activities included. (5) Tía Tula (Salamanca city — but worth considering if you want a smaller city). Course types: (a) Intensive (20 hours/week, €150-250). (b) Super-intensive (30 hours/week, €220-350). (c) DELE preparation (exam prep, €300+/week). (d) Private classes (€30-50/hour). (e) Summer camps for teens. Most schools offer housing with host families (€200-300/week including meals), shared apartments (€150-250/week), or student residences. Book 4+ weeks ahead for summer.",
     "official_url": "https://www.donquijote.org/learn-spanish-spain/madrid",
@@ -10391,7 +10393,7 @@
       "business-spanish-executives-madrid",
       "spanish-family-immersion-madrid"
     ],
-    "subsubcategory": "Learning",
+    "subsubcategory": "Language Learning",
     "sections": [
       {
         "type": "stats",
@@ -11070,10 +11072,10 @@
     "title": "Thyssen-Bornemisza Museum (Detail Guide)",
     "category": "see",
     "subcategory": "museums",
-    "summary": "8 centuries of European art in chronological order. Duccio, Van Eyck, Caravaggio, Hopper. €13. Free Mon noon-4pm.",
+    "summary": "[Archived: merged into canonical record.] 8 centuries of European art in chronological order. Duccio, Van Eyck, Caravaggio, Hopper. €13. Free Mon noon-4pm.",
     "content": "The Museo Nacional Thyssen-Bornemisza is the third museum in Madrid's 'Golden Triangle of Art' (with Prado and Reina Sofía). Located at Paseo del Prado 8 (Metro Banco de España L2). The collection was assembled by the Thyssen-Bornemisza family over 2 generations and bought by Spain in 1993. It fills the gap between the Prado (pre-19th century) and Reina Sofía (20th century): the Thyssen covers the 13th to 20th centuries chronologically, with works by Duccio, Van Eyck, Caravaggio, Rembrandt, Monet, Degas, Van Gogh, Picasso, Matisse, Hopper, Bacon, and more. Don't miss: (1) Van Eyck's 'Diptych of the Annunciation' (1433). (2) Caravaggio's 'Saint Catherine of Alexandria' (1598). (3) Hopper's 'Hotel Room' (1931) — rare Hopper in Europe. (4) The Impressionist rooms (rooms 41-44). (5) The Pop Art collection (room 50). Admission: €13 general, €11 reduced. Free on Monday 12pm-4pm (queue early). Open Tue-Sun 10am-7pm (until 9pm in summer). Closed Jan 1, May 1, Dec 25. Audio guide €5 (or use Smartify app free). Plan 2-3 hours. The café on the ground floor is excellent. Tip: combine with Prado (5 min walk) and Reina Sofía (10 min walk) for the 'Golden Triangle' in one day.",
     "official_url": "https://www.museothyssen.org/en",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": true,
     "english_level": "english-primary",
     "last_updated": "2026-07-30",
@@ -12257,7 +12259,7 @@
     "id": "plaza-de-la-villa",
     "title": "Plaza de la Villa (Medieval Square)",
     "category": "see",
-    "subcategory": "royal",
+    "subcategory": "architecture",
     "summary": "Madrid's medieval civic center. 15th-century Casa de la Villa (old City Hall), Lujanes Tower, Cisneros House. Free.",
     "content": "Plaza de la Villa is a small medieval square in the heart of Madrid's old town, 3 minutes' walk west of Puerta del Sol. It was Madrid's civic center from the 15th to 19th centuries. Three historic buildings surround the square: (1) Casa de la Villa (1640-1696) — Madrid's City Hall from 1693 to 2007 (when the city government moved to Cibeles Palace). Beautiful baroque facade. Free guided tours on Mondays at 11am and 1pm (Spanish only). (2) Torre de los Lujanes (15th century) — the oldest building in Madrid, a brick Gothic tower. Emperor Charles V stayed here in 1525. Look for the bust of Don Álvaro de Luján above the door. (3) Casa de Cisneros (1537) — Plateresque palace built by the nephew of Cardinal Cisneros. Now connects to Casa de la Villa. (4) Casa de los Sevenuelas (16th century) — now a small library. The statue in the center is of Álvaro de Bazán, the 16th-century Spanish naval hero who planned the Spanish Armada. The square is small and easy to miss — enter from Calle Mayor or Calle de Sacramento. Free to walk through, open 24/7. Combine with the Almudena Cathedral and Royal Palace (5 min walk west).",
     "official_url": "https://www.esmadrid.com/en",
@@ -12279,7 +12281,7 @@
       "almudena-cathedral",
       "sol-gran-via-neighborhood"
     ],
-    "subsubcategory": "Historic Plazas",
+    "subsubcategory": "Plazas",
     "sections": [
       {
         "type": "stats",
@@ -14748,13 +14750,13 @@
     "title": "Immunizations & Vaccines in Madrid",
     "category": "living",
     "subcategory": "healthcare",
-    "summary": "Routine vaccines free via public health. Travel vaccines (yellow fever, etc.) at Centro de Vacunación Internacional. €30-80.",
+    "summary": "[Archived: merged into canonical record.] Routine vaccines free via public health. Travel vaccines (yellow fever, etc.) at Centro de Vacunación Internacional. €30-80.",
     "content": "Vaccines in Madrid. ROUTINE VACCINES (free with Spanish Social Security): Children receive all routine childhood vaccines (MMR, DTaP, polio, Hib, hepatitis B, meningococcal C, pneumococcal, varicella, HPV) free at pediatric centers. Adults: tetanus booster (free), flu shot (free for over-65 and risk groups), COVID-19 boosters (free). TRAVEL VACCINES: Centro de Vacunación Internacional (Calle de la Cármen 26, Metro San Bernardo) — Madrid's main travel clinic. Yellow fever (€40), typhoid (€35), hepatitis A (€40), rabies (€80), Japanese encephalitis (€120). Book ahead at mscbs.gob.es. Walk-in for some, appointment for others. Open Mon-Fri 9am-2pm. PRIVATE TRAVEL CLINICS: (1) Hospital Ruber Internacional travel clinic. (2) Centro Médico Madrid Salud. (3) International SOS Madrid. €50-100 consultation + vaccine cost. COVID-19: Spain accepts all WHO-approved vaccines. Vaccination is no longer required for entry, but recommended. Free boosters available at public health centers for residents. WHAT YOU NEED FOR SPAIN: No special vaccines required for Spain from most countries. Routine vaccines (MMR, DTaP, polio) recommended. For longer stays: hepatitis A (food-borne, low risk but recommended), hepatitis B (for healthcare workers or long stays). TICK-BORNE ENCEPHALITIS: Not present in Spain. MALARIA: Not present in Spain. YELLOW FEVER: Not in Spain, but if you're traveling from a yellow-fever-endemic country, you may need proof of vaccination to enter Spain. TIPS: (1) Bring your vaccine records (yellow card) to Spain. (2) Spanish public health centers can translate vaccine records if needed for school enrollment. (3) Pharmacies sell vaccines for travel (with prescription) but administration is at clinics. (4) Travel clinic appointments book up in summer — book 4-6 weeks ahead.",
     "official_url": "https://www.sanidad.gob.es/",
-    "status": "annual review",
+    "status": "archived",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "vaccine",
@@ -15389,13 +15391,13 @@
     "title": "Flamenco Tablaos (Live Flamenco Shows)",
     "category": "see",
     "subcategory": "performing-arts",
-    "summary": "Late-night flamenco shows at tablaos. Cardamomo, Corral de la Morería, Casa Patas. €30-50 with drink, €60-90 with dinner.",
+    "summary": "[Archived: merged into flamenco-madrid.] Late-night flamenco shows at tablaos. Cardamomo, Corral de la Morería, Casa Patas. €30-50 with drink, €60-90 with dinner.",
     "content": "See our Flamenco Shows record (in Madrid Culture) for the full guide to flamenco tablaos in Madrid. This record focuses on the late-night (10pm+) shows that are part of Madrid's nightlife scene. LATE-NIGHT SHOWS: (1) Cardamomo (Calle de Echegaray 15) — 10pm and midnight shows, intimate, €30-35 with drink. The latest show (midnight) is the most authentic and rowdy. (2) Corral de la Morería (Calle de la Morería 17) — 10:30pm late show, €50-90 with dinner. The Michelin-starred restaurant makes this a dinner-and-show destination. (3) Casa Patas (Calle de Cañizares 10) — 10:30pm show, €35 with drink. After the show, the bar stays open with impromptu flamenco — sometimes better than the show itself. (4) Las Tablas (Plaza de España 9) — 10pm and midnight shows, €35. Modern tablaos with younger performers. (5) Torres Bermejas (Calle de la Flor Baja 9) — 10pm late show, €40-70. Larger venue. WHAT TO EXPECT AT LATE SHOWS: The midnight shows are where flamenco comes alive. Performers are loosened up, the audience is more engaged, and there's more improvisation. The atmosphere is smoky (despite smoking bans, some tablaos bend rules), intimate, and electric. TIPS: (1) Book the late show (midnight) for the most authentic experience. (2) Don't talk during the performances — Spaniards take flamenco seriously. (3) The 'with dinner' option is good but the food is secondary to the show. (4) Late shows end around 1:30-2am — perfect for continuing the night at a nearby bar. (5) Some tablaos have a bar after the show where performers and audience mingle — the best flamenco moments often happen here, spontaneously.",
     "official_url": "https://cardamomo.com/en",
-    "status": "evergreen",
+    "status": "archived",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "flamenco",
@@ -16003,9 +16005,8 @@
   {
     "id": "left-luggage-bus-station",
     "title": "Left Luggage at Bus Stations (Estación Sur)",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "essentials",
+    "subcategory": "trains",
     "summary": "Left luggage at Estación Sur (Méndez Álvaro) bus station. €3/bag/day. Open 6am-midnight.",
     "content": "Estación Sur (also called Méndez Álvaro) — Madrid's main long-distance bus station — has left luggage. LOCATION: inside the station, ground floor, near platform 1. Follow signs for 'Consignas'. PRICES: €3/bag/day (any size). Cheapest left luggage in Madrid. HOURS: 6am-midnight daily (last drop-off 11:30pm). SECURITY: bags are X-rayed. ID required. Staffed with CCTV. TIPS: (1) Estación Sur is the cheapest option (€3 vs €3.90-5.50 at train stations). (2) Located south of center — take Metro L6 to Méndez Álvaro (15 min from Sol). (3) Less crowded than Atocha. (4) The bus station has food courts and shops while you wait. (5) Other bus stations (Moncloa, Plaza Elíptica) do NOT have left luggage — only Estación Sur. (6) Don't leave valuables. (7) Keep your claim ticket. ALTERNATIVE: If you're near Moncloa or Plaza Elíptica, consider taking the Metro to Estación Sur specifically for the cheaper luggage storage.",
     "official_url": "https://www.alsa.com/en/bus-stations/madrid-sur-station",
@@ -17221,7 +17222,7 @@
     "id": "natural-sciences-museum-madrid",
     "title": "Natural Sciences Museum (Dinosaurs!)",
     "category": "see",
-    "subcategory": "family-attractions",
+    "subcategory": "museums",
     "summary": "Museo de Ciencias Naturales — dinosaurs, minerals, taxidermy, planetarium. €7 adult, €3 child. Near Nuevos Ministerios.",
     "content": "Museo Nacional de Ciencias Naturales (Calle de José Gutiérrez Abascal 2, Metro Gregorio Marañón L7) is Madrid's natural history museum. Founded 1771. HIGHLIGHTS FOR KIDS: (1) Dinosaur hall — full-size T. rex skeleton, Megatherium, Triceratops. The star attraction. (2) Mineral gallery — 15,000+ specimens, fluorescent minerals, giant crystals. (3) Biodiversity wing — taxidermy animals from around the world, interactive displays. (4) Mediterranean ecosystem — local fauna and flora. (5) Temporary exhibitions — rotating science and nature shows. ADMISSION: €7 adult, €3 child (6-18), under 6 free. Free on Sunday mornings (9:30am-2pm). HOURS: Tue-Fri 10am-5pm, Sat-Sun 10am-8pm. Closed Mondays, Jan 1, May 1, Dec 25. Allow 2-3 hours. TIPS: (1) The dinosaur hall is the highlight — go there first. (2) The museum is smaller than London's or NYC's natural history museums — don't expect a full day. (3) Free Sunday mornings get crowded — arrive at 9:30am. (4) Most signage is in Spanish — but dinosaurs speak for themselves. (5) Combine with the Sorolla Museum (15 min walk) or Nuevos Ministerios shopping.",
     "official_url": "https://www.mcn.csic.es/en",
@@ -17248,7 +17249,8 @@
         "body": "The Natural Sciences Museum (Calle José Gutiérrez Abascal 2, Metro Gregorio Marañón) has an excellent dinosaur collection including a Megatherium skeleton and T-Rex replica. Kids love it. €6. Free on Sunday mornings. See family-attractions record.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Other Museums"
   },
   {
     "id": "mercado-san-anton",
@@ -21533,7 +21535,7 @@
   {
     "id": "international-school-jobs-madrid",
     "category": "living",
-    "subcategory": "work",
+    "subcategory": "education",
     "title": "International School Teaching Jobs in Madrid",
     "summary": "Madrid's 30+ international schools actively recruit English-speaking teachers from the US, UK, Canada. Average salary €2,000-3,500/mo. AS Madrid, Brewster Madrid, King's College, Runnymede all hiring year-round.",
     "content": "Madrid's international schools are one of the most reliable English-language recruitment channels for qualified teachers seeking to relocate to Spain. The city has 30+ international schools — British (King's College, Runnymede, Hastings), American (American School of Madrid, Brewster Madrid, International College Spain), IB (Agora, SEK), and bilingual Spanish schools. These schools actively recruit teachers from English-speaking countries year-round, with peak hiring season February-May for the following academic year (September start). Most teaching positions require a teaching credential from your home country (QTS for British schools, state license for American schools), 2+ years experience, and often a Master's degree. Salaries range from €2,000/month (entry-level classroom teacher) to €3,500/month (department head) — significantly lower than US/UK private school salaries, but the lifestyle trade-off attracts many applicants. Major recruiting channels: TES (Times Educational Supplement — 66+ Spain jobs), Teach Away, LinkedIn, school websites' Employment pages, and Schrole. American School of Madrid and Brewster Madrid post directly on their About/Employment pages. The schools offer Spanish work visa sponsorship, health insurance, and pension contributions. Many also offer free or discounted tuition for teachers' children.",
@@ -21551,7 +21553,7 @@
       "american-school",
       "british-school"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "bilingual-schools-madrid",
@@ -21691,7 +21693,8 @@
         "body": "bilingual-schools-madrid (the schools themselves), teach-english-spain (English teaching as a job), teacher-training-madrid (TEFL/CELTA), work-visa-spain, universities-madrid (higher ed).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Universities & Schools"
   },
   {
     "id": "english-taught-masters-madrid",
