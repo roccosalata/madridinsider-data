@@ -11,63 +11,63 @@
         "slug": "visas",
         "title": "Visas & Entry",
         "icon": "📋",
-        "summary": "Schengen rules, ETIAS, student and work visas, passport requirements.",
-        "tips": "EU citizens don't need a visa — just a passport or national ID. Non-EU visitors can stay 90 days visa-free. For longer stays (study, work, residency), apply at a Spanish consulate in your home country before traveling."
+        "summary": "Visa requirements and entry rules: Schengen visas, UK & USA citizen guides, long-stay visas, residency permits, and USA-specific provisions (FATCA, driver's license, Digital Nomad Visa). Original 2014 site: Work & Residency → Visa: UK, Visa: USA, USA Citizens in Spain.",
+        "tips": "EU/EEA citizens: no visa required, but register for residency if staying >90 days. Non-EU tourists: Schengen 90/180 rule applies. Long-stay (study, work, family reunification): apply at the Spanish consulate in your home country BEFORE arriving. USA citizens: see the USA Citizens guide for FATCA, driver's license, and Digital Nomad Visa specifics."
       },
       {
         "id": "money",
         "slug": "money",
         "title": "Money & Budgets",
         "icon": "💶",
-        "summary": "Euros, ATMs, credit cards, tipping, daily budgets, VAT tax-free shopping.",
-        "tips": "Spain uses the Euro (€). ATMs are everywhere — use bank ATMs (Santander, BBVA) for best rates, avoid Euronet. Credit cards widely accepted (Visa/Mastercard). Tipping is optional — round up or 5-10%. Non-EU residents can claim 15-21% VAT back on purchases over €90."
+        "summary": "Money and budgets: cost of living, ATMs, currency exchange, cards, tipping, and tax refunds. Original 2014 site: Gen Info → Banks (banking moved to Living → Banking).",
+        "tips": "ATMs (cajeros automáticos) are everywhere — use bank ATMs (not Euronet) to avoid fees. Credit cards widely accepted except at small bars. Tip 5–10% at restaurants if service was good. Non-EU tourists can claim VAT (IVA) refund on purchases over €90.16 — ask for the tax-free form."
       },
       {
         "id": "transport",
         "slug": "transport",
         "title": "Getting Around Madrid",
         "icon": "🚇",
-        "summary": "Urban transit within Madrid: metro, Cercanías commuter rail, city buses, night buses, taxis, ride-sharing (Uber/Cabify), BiciMAD e-bikes, e-scooters, walking, driving, parking, and transit maps. For intercity travel (AVE, Renfe, buses to other cities, Atocha/Chamartín stations), see Intercity Travel from Madrid.",
-        "tips": "Metro is the fastest way around (€1.50–2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30 min) are great for short hops. Cercanías commuter rail connects suburbs to city center (€1.70–4.50). Avoid driving in central Madrid (LEZ restrictions, expensive parking). For trains and buses to OTHER cities (Toledo, Sevilla, etc.), see Intercity Travel from Madrid."
+        "summary": "Getting around WITHIN Madrid: metro, Cercanías commuter rail, city buses, night buses, taxis, ride-sharing (Uber/Cabify), BiciMAD e-bikes, e-scooters, walking, driving, parking, and transit maps. Original 2014 site: Travel → Metro Madrid, Buses (Local), Taxis, Driving.",
+        "tips": "Metro is the fastest way around (€1.50–2.00 single, €12.20 for 10 trips). A 10-trip Metrobús card works on metro AND buses. Night buses (Búhos) run from Cibeles after Metro closes. BiciMAD e-bikes (€0.50/30 min) are great for short hops. Cercanías commuter rail connects suburbs to city center (€1.70–4.50). For intercity travel (AVE, Renfe, buses to other cities), see Intercity Travel from Madrid."
       },
       {
         "id": "intercity-travel",
         "title": "Intercity Travel from Madrid",
         "icon": "🚆",
-        "summary": "Leaving Madrid: AVE high-speed trains, Renfe national trains, Eurail/Interrail passes, intercity buses & coaches, coach stations, and Madrid's major transit hubs (Atocha, Chamartín). For getting around WITHIN Madrid (metro, buses, taxis, bikes), see Getting Around Madrid.",
-        "tips": "AVE high-speed trains are the fastest way to other cities: Madrid→Toledo 30 min, Madrid→Sevilla 2.5 hr, Madrid→Barcelona 2.5 hr. Book early at renfe.com for the best fares (€20–80). Intercity buses are cheaper but slower — Estación Sur (Méndez Álvaro) is the main hub. Atocha Station serves south/east (Toledo, Sevilla, Málaga); Chamartín serves north (Segovia, Valladolid). Eurail/Interrail passes cover Renfe but require seat reservations (€10–35 per AVE trip)."
+        "summary": "Leaving Madrid: AVE high-speed trains, Renfe national trains, Eurail/Interrail passes, intercity buses & coaches, coach stations, and Madrid's major transit hubs (Atocha, Chamartín). Original 2014 site: Travel → Airport, Buses: Madrid to..., Trains, Eurail Passes.",
+        "tips": "AVE high-speed trains: Madrid→Toledo 30 min, Madrid→Sevilla 2.5 hr, Madrid→Barcelona 2.5 hr. Book early at renfe.com (€20–80). Intercity buses from Estación Sur (Méndez Álvaro) are cheaper but slower. Atocha serves south/east; Chamartín serves north. Eurail/Interrail passes require seat reservations (€10–35 per AVE trip)."
       },
       {
         "id": "airport",
         "slug": "airport",
         "title": "Madrid-Barajas Airport",
         "icon": "✈️",
-        "summary": "Airport terminals, airlines, express bus, private transfers, shuttles, information desks, delays, and left luggage at Barajas.",
-        "tips": "Madrid-Barajas (MAD) has 4 terminals (T1-T4). Metro L8 (€4.50+€3 airport supplement) connects all terminals to city center in 15 min. Express Bus 203 (€5, 24h) goes to Atocha/Cibeles. Taxi flat rate: €30 to city center. Allow 2 hours before European flights, 3 for intercontinental. T4 is the main Iberia/Oneworld hub."
+        "summary": "Madrid-Barajas Airport (MAD): terminals, airlines, shuttle services, information desks, left luggage, delays, and strikes. Original 2014 site: Travel → Airport, Airport Shuttle Service, Major Airlines.",
+        "tips": "Metro Line 8 (€5) connects all terminals to city center in 15 min. Airport Express Bus (€5, 24h) runs to Atocha. Taxi flat rate €30 to city center (Zone A). For door-to-door shuttles, book in advance (€25–40). Check Barajas Delays for current disruptions."
       },
       {
         "id": "communication",
         "slug": "language",
         "title": "Spanish Language",
         "icon": "💬",
-        "summary": "Survival Spanish for visitors: essential phrases for restaurants, emergencies, and getting around. For full language courses and schools, see Living → Education.",
-        "tips": "Learn these 20 phrases before you arrive — they cover 80% of tourist interactions. For restaurant-specific vocabulary, see Restaurant Spanish. For full language programs (immersion, business Spanish, Cervantes-accredited schools), see Living → Education → Language Learning."
+        "summary": "Survival Spanish for visitors: essential phrases for restaurants, emergencies, and getting around. Original 2014 site: not a separate section (phrases were scattered across pages). For full language courses and schools, see Living → Education.",
+        "tips": "Learn these 20 phrases before you arrive — they cover 80% of tourist interactions. For restaurant-specific vocabulary, see Restaurant Spanish. For emergencies, see Emergency Spanish. For full language programs, see Living → Education → Language Learning."
       },
       {
         "id": "safety",
         "slug": "safety",
         "title": "Safety & Emergencies",
         "icon": "🛟",
-        "summary": "Emergency numbers, hospitals, embassies, pharmacies, lost passport, and tourist scams.",
-        "tips": "Emergency number: 112 (free, multilingual, 24/7). Madrid is generally safe — violent crime is rare. Main risk: pickpockets in Sol, Plaza Mayor, El Rastro, and on Metro Line 1. Watch for fake petitions, flower pushers, and ATM 'helpers'. Pharmacies (green cross) can advise on minor health issues."
+        "summary": "Safety and emergencies: emergency numbers, local police stations, embassies, tourist help, and crime/scam warnings. Original 2014 site: Gen Info → Embassies, Emergencies, Local Police Stations.",
+        "tips": "Emergency number: 112 (works for all services, English available). For non-emergencies: Policía Municipal 092, Guardia Civil 062. US Embassy: Calle Diego de León 16 (Metro Diego de León). Watch for pickpockets on Metro Line 1, Plaza Mayor, and El Rastro flea market."
       },
       {
         "id": "tourist-info",
         "slug": "tourist-info",
         "title": "Tourist Information",
         "icon": "ℹ️",
-        "summary": "Tourist offices, Madrid City Card, essential apps, airport info desks, audio guides, city maps, walking routes, SIM cards, eSIMs, WiFi, and connectivity.",
-        "tips": "Start at the Plaza Mayor Tourist Office (free maps, English advice, 9:30am-8:30pm daily). The Madrid City Card (€48-108) bundles transport + museums + bus tour — worth it if you plan 4+ museums. Download the Metro de Madrid and EMT apps before you arrive. For connectivity: get an eSIM (Airalo, $5 for 1GB) before you land — no store visit needed. For longer stays, a prepaid SIM from Vodafone/Orange/Movistar costs €10-20. Free public Wi-Fi: 'Madrid_Free_WiFi' network (600+ hotspots), cafés, and Metro stations."
+        "summary": "Tourist offices, Madrid Card, official apps, internet cafés, satellite TV, left luggage, connectivity (SIM/eSIM/WiFi), and city maps. Original 2014 site: Sightseeing → Tourist Offices, Madrid Card; Shops → Internet Centers, Satellite TV, Baggage Storage.",
+        "tips": "Start at the Plaza Mayor Tourist Office (free maps, English advice, 9:30am–8:30pm daily). The Madrid Card bundles transport + museums + bus tour. For connectivity: get an eSIM (Airalo, $5 for 1GB) before landing. Free public WiFi: \"Madrid_Free_WiFi\" network (600+ hotspots)."
       }
     ]
   },
@@ -83,56 +83,56 @@
         "slug": "housing",
         "title": "Housing",
         "icon": "🏠",
-        "summary": "Hotels, hostels, apart-hotels, apartment search, rental contracts, shared housing.",
-        "tips": "Short stay: use Booking.com for hotels, Spotahome for apartments. Long-term: Idealista and Fotocasa are the main portals. Budget: shared flats (€350-600/month for a room). Bring: passport, NIE (if you have one), proof of income, and a Spanish bank account for rent payments."
+        "summary": "Accommodation: hostels, hotels, apart-hotels, furnished rooms, landlords, DIY flat-hunting guide, booking services, and relocation help. Original 2014 site: Accommodation section.",
+        "tips": "November–December is the best time to flat-hunt (lowest prices, most availability); September is the worst (students return, prices spike). For short stays (<1 week), hostels and apart-hotels are cheapest. For 1+ weeks, furnished room booking services beat hotel rates. For long-term, use Idealista/Fotocasa — but expect to pay 2 months deposit + 1 month agency fee."
       },
       {
         "id": "bureaucracy",
         "slug": "bureaucracy",
         "title": "Bureaucracy",
         "icon": "📑",
-        "summary": "NIE/TIE, empadronamiento, social security, residencia, Modelo 720, padrón, and English-speaking lawyers for legal paperwork.",
-        "tips": "First priority: get your NIE (foreigner ID number). Then empadronamiento (local registration — free, needed for healthcare and schools). Book appointments online — walk-ins are rarely accepted. Bring a Spanish-speaking friend or use a gestoría (administrative agent, €30-60) for complex paperwork."
+        "summary": "Bureaucracy: NIE/TIE (foreigner ID), empadronamiento (local registration), social security number, taxes (Modelo 720 for foreign assets), and residency permits. Original 2014 site: not a separate section (scattered across Work & Residency).",
+        "tips": "Get your NIE first — you need it for everything (bank, phone, job, rent). Apply at the Extranjería office; book an appointment online (citas.sre.gob.es). Empadronamiento at your district town hall (free, required for healthcare and schools). Modelo 720: if you have >€50k in foreign assets, you MUST declare it annually (penalty up to €1,500 for missing the deadline)."
       },
       {
         "id": "banking",
         "slug": "banking",
         "title": "Banking",
         "icon": "🏦",
-        "summary": "Bank accounts, digital banks (N26, Revolut), money transfers, IBAN/SEPA, and English-speaking financial advisors and tax consultants.",
-        "tips": "Non-residents can open a 'cuenta no residente' with just a passport. Major banks: BBVA, Santander, CaixaBank. Digital banks (N26, Revolut) are popular with expats — no fees, English apps. For international transfers, Wise (formerly TransferWise) offers the best rates. Spanish IBANs start with ES + 22 digits."
+        "summary": "Banking in Madrid: opening accounts, Spanish vs digital banks (N26, Revolut), transfers, and cards. Original 2014 site: Gen Info → Banks.",
+        "tips": "Bankinter offers an online account you can open with just a passport (no residency card needed). For everyday use, N26 and Revolut have better apps and English support. For rent and bills, you'll need a Spanish account. SEPA transfers within EU are free; international transfers cost €15–40."
       },
       {
         "id": "healthcare",
         "slug": "healthcare",
         "title": "Healthcare",
         "icon": "🩺",
-        "summary": "Public vs private healthcare, English-speaking doctors, hospitals, dentists, pharmacies, immunizations.",
-        "tips": "EU citizens: bring your EHIC card for free public healthcare. Non-EU: private insurance recommended (Sanitas, Adeslas — €50-80/month). For English-speaking doctors: Clinica Britannia (€80-120/visit) or Sanitas. Pharmacies (green cross) can advise on minor issues — no appointment needed. Emergency: 112."
+        "summary": "Healthcare: English-speaking doctors, hospitals, dentists, pharmacies, immunizations, public vs private system, and travel health. Original 2014 site: Health & Medical section.",
+        "tips": "EU citizens: bring your EHIC card for free public healthcare. Non-EU: travel insurance is essential (public healthcare is not free without it). For English-speaking doctors, see the Doctors group. 24-hour pharmacies: look for the rotating \"farmacia de guardia\" — canaldefarmacia.com shows which one is open near you."
       },
       {
         "id": "work",
         "slug": "work",
         "title": "Work",
         "icon": "💼",
-        "summary": "Teach English, au pair, internships, freelancing, job search, CV/interview tips, other work.",
-        "tips": "Teaching English is the most common expat job — get a TEFL/CELTA (€1,200-1,800, 4 weeks). The government's Auxiliares de Conversación program places 1,500+ native speakers in Spanish schools (€1,000/month, 16 hrs/week). For freelancing (autónomo), budget €290-450/month in social security + a gestoría for paperwork."
+        "summary": "Work in Madrid: English teaching, aupair, internships, journalism, hostess/promo work, freelancing, and job search. Original 2014 site: Work & Residency section.",
+        "tips": "English teaching is the easiest entry point — see English Teacher Agencies. For internships, Eurointerns and Hot English Magazine place English speakers. Aupair positions are advertised on aupairworld.com. For freelancing (autónomo), budget €280/month in social security plus accountant fees."
       },
       {
         "id": "education",
         "slug": "education",
         "title": "Education",
         "icon": "🎓",
-        "summary": "Schools, universities, language learning, libraries, teacher training, and study-abroad programs. Spanish language schools, EOI, bilingual schools, language exchanges, immersion programs, and summer programs for all ages.",
-        "tips": "For Spanish language schools, look for Cervantes Institute accreditation. The EOI (Escuela Oficial de Idiomas) is the cheapest option (€200/year) but requires registration in September. For language exchanges (free practice with locals), see Language Exchanges. For children, bilingual schools start at age 3. For summer study-abroad programs, see Summer & Pre-University Programs."
+        "summary": "Schools, universities, language learning, libraries, teacher training, and study-abroad programs. Original 2014 site: Study & Student Life section.",
+        "tips": "For Spanish language schools, look for Cervantes Institute accreditation. The EOI (Escuela Oficial de Idiomas) is the cheapest option (€200/year) but registration is in September. For children, bilingual schools start at age 3. For language exchanges (free practice with locals), see Language Learning → Language Exchanges."
       },
       {
         "id": "services",
         "slug": "services",
         "title": "Practical Services",
         "icon": "🛠️",
-        "summary": "Practical everyday services for residents: post office, launderettes, locksmiths, moving, barbers, left luggage, meeting rooms, architects, and phone/TV/internet providers. For retail shopping, see Do → Shopping. For food stores, see Do → Food.",
-        "tips": "Post office (Correos) branches are everywhere — the largest is at Plaza de Cibeles. For left luggage, the main stations (Atocha, Chamartín) and Estación Sur bus station all have consignas. For retail stores (electronics, music, optical, books), see Do → Shopping. For food stores (supermarkets, international grocery, health food), see Do → Food."
+        "summary": "Practical everyday services for residents: post office (Correos), launderettes, locksmiths, moving, barbers, meeting rooms, architects, translators, and religion/faith communities. Original 2014 site: Gen Info → Post Office, Religions; Shops → Launderettes, Locksmiths, Moving, Barbers, Meeting Rooms, Translating, Architect.",
+        "tips": "Post office (Correos) branches are everywhere — the largest is at Plaza de Cibeles. For left luggage, see Essentials → Tourist Info. For retail stores (electronics, music, optical, books), see Do → Shopping. For food stores (supermarkets, international grocery, health food), see Do → Food."
       }
     ]
   },
@@ -148,64 +148,64 @@
         "slug": "museums",
         "title": "Museums",
         "icon": "🖼️",
-        "summary": "The Golden Triangle (Prado, Reina Sofía, Thyssen) plus archaeological, Sorolla, and other museums.",
-        "tips": "The 'Golden Triangle of Art' is within 10 min walk: Prado (Velázquez, Goya), Reina Sofía (Picasso's Guernica), Thyssen (8 centuries of European art). Free entry times: Prado Mon-Sat 6-8pm, Reina Sofía Mon/Wed-Sat 7-9pm, Thyssen Mon 12-4pm. The Madrid City Card (€48+) includes all three plus transport."
+        "summary": "Museums: the Golden Triangle (Prado, Reina Sofía, Thyssen) plus kid museums, specialty museums, and current exhibitions. Original 2014 site: Arts & Entertainment → Museums → El Prado, Reina Sofia, Thyssen.",
+        "tips": "Buy the Paseo del Arte ticket (€30.40) for all three Golden Triangle museums — saves money and skips queues. Prado: free entry Mon–Sat 6–8pm, Sun 5–7pm. Reina Sofía: free Mon–Wed and Fri–Sat 7–9pm, Sun 1:30–7pm. Thyssen: free Monday 12–4pm. All three are walkable from Atocha."
       },
       {
         "id": "royal",
         "slug": "royal",
         "title": "Royal & Historic",
         "icon": "👑",
-        "summary": "Royal Palace, Almudena Cathedral, El Escorial, Sabatini Gardens, Plaza de Oriente, historic plazas.",
-        "tips": "The Royal Palace (€12) is Europe's largest by floor area — allow 2 hours. El Escorial (45 min by Cercanías C8) is Philip II's monumental monastery — UNESCO World Heritage. Free: Sabatini Gardens, Plaza de Oriente, and the Almudena Cathedral crypt. The 'Royal Mile' walking route connects them all."
+        "summary": "Royal Madrid: Royal Palace, Almudena Cathedral, Plaza de Oriente, Sabatini Gardens, Campo del Moro, and Royal Theater (Teatro Real). Original 2014 site: Sightseeing → Places of Interest (royal buildings).",
+        "tips": "Royal Palace: €12, free last 2 hours Wed. Changing of the guard: Wed 11am (small), first Wed of month 12pm (solemn). Almudena Cathedral: free entry. Sabatini Gardens: best palace photo spot at sunset. Teatro Real: opera tickets €20–200."
       },
       {
         "id": "parks",
         "slug": "parks",
         "title": "Parks & Outdoors",
         "icon": "🌳",
-        "summary": "Retiro Park, Casa de Campo, Madrid Río, Parque Juan Carlos I, Quinta de los Molinos, cable car.",
-        "tips": "Retiro Park (118 hectares) is the must-visit — rowing lake, Crystal Palace, Rose Garden, free. Casa de Campo (1,535 hectares, 5x Central Park) has the zoo, amusement park, and cable car. Madrid Río (10km linear park along the river) has the best playgrounds and a free urban beach in summer. Best sunset: Temple of Debod (an ancient Egyptian temple)."
+        "summary": "Parks, gardens, and outdoor spaces: Retiro, Casa de Campo, Madrid Río, Parque del Oeste, El Capricho, Crystal Palace Arganzuela, Estufa Fría, and the Teleférico cable car. Original 2014 site: Sightseeing → Parks, Gardens, etc.; Teleferico (Sky Lift).",
+        "tips": "Retiro is the centerpiece — rowing lake, Crystal Palace, Rose Garden. Casa de Campo is huge (take the Teleférico from Argüelles to get there). El Capricho is a hidden gem (only open weekends). Madrid Río is the renovated riverfront — great for running and cycling."
       },
       {
         "id": "architecture",
         "slug": "landmarks",
         "title": "Plazas & Landmarks",
         "icon": "🏛️",
-        "summary": "Puerta del Sol, Plaza Mayor, Gran Vía, Puerta de Alcalá, Temple of Debod.",
-        "tips": "Puerta del Sol is Madrid's kilometer zero — the center of Spain. Plaza Mayor (17th century) is the iconic arcaded square. Gran Vía is Madrid's Broadway — theaters, cinemas, shopping. Puerta de Alcalá (1778) is the city's most famous monument. All are within 15 min walk of each other. Free to visit — walk the 'Habsburg Madrid' route."
+        "summary": "Plazas, landmarks, and monuments: Plaza Mayor, Puerta del Sol, Plaza de Cibeles, Plaza de Colón, Puerta de Alcalá, Royal Palace, Almudena Cathedral, and Gran Vía. Original 2014 site: Sightseeing → Places of Interest.",
+        "tips": "Walk the Art Walk (Paseo del Prado) from Plaza de Cibeles to Atocha — passes the fountains, Plaza de Neptuno, and all three Golden Triangle museums. Plaza Mayor at night is magical. Royal Palace: €12 entry, free last 2 hours of Wednesday. Puerta de Alcalá is best photographed at sunset from Calle Alcalá."
       },
       {
         "id": "neighborhoods",
         "slug": "neighborhoods",
         "title": "Neighborhoods",
         "icon": "🗺️",
-        "summary": "Sol, Malasaña, Chueca, La Latina, Lavapiés, Chamberí, Salamanca, Retiro, Argüelles, Tetuán.",
-        "tips": "Each neighborhood has its own character: Sol (tourist center), Malasaña (hipster), Chueca (LGBTQ+), La Latina (tapas), Lavapiés (multicultural), Chamberí (local), Salamanca (luxury), Retiro (museums/parks). Pick 2-3 to explore per day — they're all walkable. Best first walk: Sol → Plaza Mayor → La Latina (tapas)."
+        "summary": "Madrid's barrios: Sol & Gran Vía (city center), Malasaña (hipster), Chueca (LGBTQ+), La Latina (tapas), Salamanca (luxury), Lavapiés (multicultural), Chamberí (residential), Retiro (parks & museums), and more. Original 2014 site: Sightseeing → Cool Neighborhoods; Gen Info → Areas / Barrios.",
+        "tips": "Start at Sol & Gran Vía for the classic tourist center. Malasaña for vintage shops and indie bars. Chueca for nightlife and shopping. La Latina for Sunday tapas at Cava Baja. Salamanca for luxury shopping on Calle Serrano. Lavapiés for Indian food and street art."
       },
       {
         "id": "spectator-sports",
         "slug": "spectator-sports",
         "title": "Live Sports & Spectator Events",
         "icon": "🏟️",
-        "summary": "Real Madrid, Atlético Madrid, Rayo Vallecano, ACB basketball, Madrid Open tennis, and bullfighting at Las Ventas.",
-        "tips": "Real Madrid: Bernabéu tour €25, match tickets €30-300 (book 2+ weeks ahead at realmadrid.com). Atlético: cheaper tickets (€20-150). Madrid Open tennis: late April-early May, €20-200. Bullfighting at Las Ventas: March-October Sundays 7pm, €25-150 — controversial but culturally significant. Basketball (ACB): €15-40, Estudiantes and Real Madrid both play in Madrid."
+        "summary": "Live sports events: Real Madrid & Santiago Bernabéu, Atlético Madrid & Metropolitano, Rayo Vallecano, ACB basketball (Estudiantes, Real Madrid), and Madrid Open tennis. Original 2014 site: Sports & Recreation (some spectator events noted).",
+        "tips": "Real Madrid tickets: from €30 at realmadrid.com. Atlético: from €25 at clubatleticodemadrid.com. Bernabéu tour: €25 (includes stadium, trophies, tunnel). Madrid Open tennis (May): €30–200. ACB basketball: €15–40 at the Palacio de Deportes."
       },
       {
         "id": "performing-arts",
         "slug": "performing-arts",
         "title": "Live Performances",
         "icon": "🎭",
-        "summary": "Theater, opera, zarzuela, musicals, jazz clubs, comedy, cinema, flamenco shows, music festivals, and film festivals — where you SIT and WATCH.",
-        "tips": "Teatro Real (opera): €8-€120, standing room €8-15. Gran Vía = Madrid's Broadway (musicals, theaters). Café Central + Clamores = best jazz clubs (€15-25 cover). Flamenco: Cardamomo (€30, intimate) or Corral de la Morería (€50-90 with dinner). For English films look for 'V.O.' (versión original). Mad Cool Festival (July): €230-€320 4-day pass."
+        "summary": "Live performances: flamenco, theater (live + alternative), magic & comedy, version original cinemas, outdoor summer movies, and IMAX. Original 2014 site: Arts & Entertainment → Flamenco Shows, Live Theater, Alternative Theater, Magic & Comedy, Movies (VO + Outdoor), IMAX.",
+        "tips": "For authentic flamenco, Casa Patas and Cardamomo are the standards. For English-language theater, check the Madrid Players. Version Original (V.O.) cinemas show films in original English with Spanish subtitles — Cinesa Manoteras, Yelmo Cines Ideal, Cine Doré (€2.50)."
       },
       {
         "id": "family-attractions",
         "slug": "family-attractions",
         "title": "Zoos, Aquariums & Kid Museums",
         "icon": "🦒",
-        "summary": "Zoo Aquarium, Faunia nature park, IMAX, planetarium, natural sciences museum, puppet shows, and kid-friendly museums — where families observe and watch.",
-        "tips": "Zoo Aquarium (Casa de Campo): €22-26, has giant pandas. Faunia (east Madrid): €20-26, indoor + outdoor nature park. IMAX + Planetarium: Pablo VI Cultural Center. Natural Sciences Museum: dinosaurs, €6. Puppet shows: El Retiro puppet theater (weekends). For theme parks and water parks (where kids RIDE and PLAY), see Do → Family & Kids."
+        "summary": "Zoos, aquariums, and kid museums: Zoo Aquarium de Madrid, IMAX & Planetarium, Wax Museum, Train Museum, and Science Museum. Original 2014 site: Socializing → Zoo / Aquarium; Arts → IMAX.",
+        "tips": "Zoo Aquarium: €28 adult, €21 child (combined ticket with Parque de Atracciones saves €10). IMAX/Planetarium: €8 adult, €6 child (Spanish narration mostly). Wax Museum (Museo de Cera): €12, fun for kids. Train Museum (Museo del Ferrocarril): free, weekends have mini-train rides."
       }
     ]
   },
@@ -221,72 +221,72 @@
         "slug": "food",
         "title": "Food & Tapas",
         "icon": "🍷",
-        "summary": "Food & tapas culture, restaurants by cuisine, food markets, grocery stores, culinary education, and outdoor dining. From cheap eats to fine dining, Spanish food basics, international grocery, health food stores, and cooking classes.",
-        "tips": "Start at Mercado de San Miguel for tapas culture (touristy but iconic). For cheap eats, see Cheap Eats (under €12). For grocery shopping, Mercadona is best value; El Corte Inglés is premium. For international/health food, see Grocery & Food Stores group. For cooking classes in English, see Culinary Education."
+        "summary": "Food & tapas: restaurants by cuisine (Japanese, vegetarian, cheap eats, ice cream), food markets, grocery stores (supermarkets, international, health food), culinary education, and outdoor dining. Original 2014 site: Socializing → Food → Cheap Eats, Japanese, Tapas, Ice Cream; Health → Vegetarian, Health Food Stores.",
+        "tips": "Start at Mercado de San Miguel for tapas culture (touristy but iconic). For cheap eats, see Cheap Eats (under €12) — El Tigre, 100 Montaditos, Maoz. For grocery: Mercadona (best value), El Corte Inglés (premium). For international/health food, see Grocery & Food Stores group."
       },
       {
         "id": "arts-education",
         "slug": "arts-education",
         "title": "Arts Education",
         "icon": "🎨",
-        "summary": "Arts education in Madrid: film schools, music programs, flamenco dance intensives, acting, art/design schools, architecture programs, art history courses, and Spanish culture/history summer courses. Talent agencies and film industry resources.",
-        "tips": "For flamenco dance intensives, see Flamenco Dance Intensives. For film schools, see Film Schools. For Spanish culture and art history courses (English-taught), see Arts Education group. For talent/modeling agencies, see Talent & Modeling Agencies."
+        "summary": "Arts education: film schools, music programs, flamenco dance intensives, acting, art/design schools, architecture programs, art history courses, film industry resources, and talent agencies. Original 2014 site: Study → Film & Theater; Work → Film Resources, Talent Agencies.",
+        "tips": "For flamenco dance intensives, see Flamenco Dance Intensives. For film schools, see Film Resources (ECAM, TAI, Séptima Ars). For Spanish culture and art history courses (English-taught), see Arts Education group. For talent/modeling agencies, see Talent Agencies (Kailash, Exclusive Management)."
       },
       {
         "id": "nightlife",
         "slug": "nightlife",
         "title": "Nightlife",
         "icon": "🌙",
-        "summary": "Bars, rooftop terraces, nightclubs, casinos, salsa dancing, hammams, spas, and bingo — where you GO OUT and PARTICIPATE.",
-        "tips": "Madrid nightlife starts late: bars fill at 11pm, clubs at 1:30am, peak 3-4am. Best rooftops: Riu Plaza España (€10, highest), Círculo de Bellas Artes (€5). Pre-game (botellón) in parks to save money — club drinks are €10-15. For watching live music, jazz, or flamenco shows, see Live Performances. For dancing classes (salsa, etc.), see Active Sports."
+        "summary": "Nightlife: bars & cafés, nightclubs & dancing, salsa, terraces & rooftop bars, casinos, and live music venues. Original 2014 site: Socializing → Drinks → Bars/Cafés/Cocktails, Terraces; Dancing → Night Clubs, Salsa; Casinos & Gambling.",
+        "tips": "Madrid nightlife starts LATE — dinner at 10pm, bars at midnight, clubs at 2am. For tapas + drinks, La Latina (Cava Baja). For clubs, Malasaña (indie) or Chueca (electronic). For rooftops, Azotea del Círculo de Bellas Artes (€5 entry, best sunset view)."
       },
       {
         "id": "sports",
         "slug": "sports",
         "title": "Active Sports",
         "icon": "⚽",
-        "summary": "Tennis, padel, golf, swimming, cycling, running, skiing, yoga, gyms, ice skating, bowling, go-karts, and active wellness retreats — where YOU play.",
-        "tips": "Padel is Spain's #2 sport — book via Playtomic app. Golf: Club de Campo and Centro Nacional are most accessible. Running: Retiro Park (4km loop) and Madrid Río (10km) are best. Skiing: Valdesquí is 1 hour north (€39-45/day, December-March). San Silvestre Vallecana: 40,000-runner New Year's Eve 10K — register in October. For spectating (Real Madrid, Atlético, Madrid Open tennis), see Live Sports & Spectator Events."
+        "summary": "Active sports you can DO in Madrid: gyms, yoga, cycling, boating, bowling, golf, pool, ice skating, skiing, swimming, tennis, race karts, running, cricket, rugby, and hammams/baths. Original 2014 site: Sports & Recreation (16 sports); Health → Health Clubs, Yoga; Socializing → Baths.",
+        "tips": "For drop-in sports, Madrid Río has free outdoor gyms and courts. Retiro park: free tennis courts (book at delegaciondeportes.madrid.es). BiciMAD for cycling. For hammams, Hammam Al Ándalus (€40–80, 5 min from Plaza Mayor). Skiing: Navacerrada and Valdesquí are 1 hr by bus."
       },
       {
         "id": "sports-camps",
         "slug": "sports-camps",
         "title": "Training Camps & Certification",
         "icon": "🏅",
-        "summary": "International sports camps recruiting English-speaking juniors: soccer, tennis, golf, basketball, volleyball, paddle, cycling, altitude, surf, climbing, ski, scuba, plus YTT and Pilates certification.",
-        "tips": "Spain's sports academies actively recruit international students through English-language marketing. Soccer camps (Real Madrid Foundation, Atlético): €600-€1,500/week. Tennis academies (Sánchez-Casal, Rafa Nadal): €1,500-€3,000/week. Book by March for summer — popular weeks sell out. Certification programs (YTT, Pilates): €2,000-€5,000 for multi-week intensives."
+        "summary": "Training camps & certification programs: soccer, tennis, golf, basketball, volleyball, cycling, running (altitude), skiing, yoga (YTT), pilates, and fitness instructor courses. Original 2014 site: not a separate section (training programs scattered across Sports).",
+        "tips": "Real Madrid & Atlético run summer soccer camps (€300–600/week, ages 6–17). Tennis academies: Equelite (Sánchez-Casal), €800/week residential. YTT (Yoga Teacher Training): Sivananda €2,000–4,000 for 200-hour certification. Most camps are English-friendly for international students."
       },
       {
         "id": "tours",
         "slug": "tours",
         "title": "Tours & Day Trips",
         "icon": "🚶",
-        "summary": "Walking tours, food tours, bike tours, Segway tours, bus tours, wine tours, and day trips to Toledo, Segovia, El Escorial, Ávila, and Camino de Santiago — where you GO and EXPLORE.",
-        "tips": "Free (tip-based) walking tours depart Puerta del Sol daily at 11am and 4pm — tip €5-10. Food tours (€60-120) from Devour Madrid. Day trips: Toledo (30 min AVE), Segovia (30 min AVE), El Escorial (1hr Cercanías). Wine tours to Ribera del Duero (€150-€300/day). Camino de Santiago: luggage transfer services for pilgrims. For self-guided exploration of Madrid's museums and landmarks, see See in Madrid."
+        "summary": "Tours & day trips: walking tours, bus tours, bike tours, food tours, SEG tours, day trips to Toledo/Segovia/Ávila/El Escorial, and the Camino de Santiago. Original 2014 site: Sightseeing → Tours → Bus Tours, Walking/SEG Tours, Other Tours.",
+        "tips": "Free walking tours (tip-based) start at Plaza Mayor daily at 11am and 2pm. For day trips: Toledo (30 min by AVE), Segovia (30 min by AVE), El Escorial (1 hr by bus). Book AVE early at renfe.com for €20 fares. Devour Madrid food tours are the best English-language option."
       },
       {
         "id": "shopping",
         "slug": "shopping",
         "title": "Shopping",
         "icon": "🛍️",
-        "summary": "Shopping in Madrid: luxury boutiques (Calle Serrano), flea markets (El Rastro), specialty shops (bookstores, electronics, music, optical), and shopping areas. Fashion, antiques, food markets, and more.",
-        "tips": "For luxury shopping, head to Calle Serrano (Salamanca district). For unique finds, El Rastro flea market is Sunday mornings only. For English-language books, see Specialty Shops. For food markets, see Do → Food → Markets & Food Halls."
+        "summary": "Shopping: luxury (Calle Serrano), flea markets (El Rastro), specialty shops (bookstores, computer/electronics, music, optical), and shopping areas. Original 2014 site: Shops & Services → Shops/Stores → Book Stores, Computer Stores, Music Stores, Optical Shops.",
+        "tips": "For luxury shopping, head to Calle Serrano (Salamanca district). For unique finds, El Rastro flea market is Sunday mornings only. For English-language books, see Bookstores group. For food markets, see Do → Food → Markets & Food Halls."
       },
       {
         "id": "traditions",
         "slug": "traditions",
         "title": "Madrid Culture",
         "icon": "🎊",
-        "summary": "Flamenco culture, verbenas (street festivals), chotis dance, San Isidro festival, monastery stays, and meditation retreats — Madrid's living traditions.",
-        "tips": "Verbenas (street festivals): San Isidro (May), San Cayetano, San Lorenzo, La Paloma (August) — free, crowded, fun. San Isidro (May 11-15) is Madrid's biggest festival. Chotis: Madrid's traditional dance, slow and graceful. For watching flamenco shows, see Live Performances. For learning flamenco dance, see Arts Education."
+        "summary": "Madrid traditions & culture: bullfighting (Las Ventas), flamenco shows, Spanish customs, festivals (San Isidro, Verbenas), folk dance (Chotis), and monastery/meditation retreats. Original 2014 site: Arts & Entertainment → Bullfights; Gen Info → Spanish Culture.",
+        "tips": "Bullfighting season: May–October at Las Ventas (Sundays). San Isidro festival (May) is the biggest bullfighting event. For flamenco as performance (watching), see See → Live Performances. For flamenco dance intensives (learning), see Do → Arts Education."
       },
       {
         "id": "family",
         "slug": "family",
         "title": "Theme Parks & Active Family Fun",
         "icon": "🎡",
-        "summary": "Theme parks, water parks, summer camps, horse riding camps, and STEM camps — where kids RIDE, PLAY, and PARTICIPATE.",
-        "tips": "Parque de Atracciones (Casa de Campo): €25-35. Warner Park: 30km south, €32-45, shuttle from Méndez Álvaro. Aquópolis: water parks, summer only, €19-28. For zoos, aquariums, planetarium, and kid museums (where kids observe), see Zoos & Kid Museums. Buy theme park tickets online 7+ days ahead for discounts."
+        "summary": "Family fun: theme parks (Parque de Atracciones, Warner Park), water parks (Aquópolis, Warner Beach), family shows, and English-language summer camps. Original 2014 site: Socializing → Theme Parks, Water Parks.",
+        "tips": "Parque de Atracciones: €35 adult, €28 child (Metro Casa de Campo). Warner Park: €45 (50 km south, shuttle from Méndez Álvaro). Aquópolis: €28 (San Fernando de Henares). For zoos/kid museums, see See → Zoos & Kid Museums."
       }
     ]
   },
@@ -318,8 +318,8 @@
         "slug": "news",
         "title": "News",
         "icon": "📰",
-        "summary": "English-language news sources — El País English, The Local Spain, radio, what's on guides.",
-        "tips": "El País English (elpais.com/english) — Spain's largest paper, 5-10 stories daily. The Local Spain (thelocal.es) — expat-focused, practical. For 'what's on today': esMadrid.com (official, English). For politics background: our Spanish Politics Explained record. BBC World Service overnight on RNE 5 (106.5 FM, 1am-6am)."
+        "summary": "English-language news, radio, publications, magazines, and expat message boards for Madrid. Original 2014 site: Arts & Entertainment → Radio (English); Gen Info → Publications, Message Boards.",
+        "tips": "For daily news: The Local (thelocal.es), Madrid Metropolitan (monthly magazine). For radio: Madrid Live (100.4 FM, Tuesdays 6:30pm). For expat message boards: Madrid Man, Multimadrid (older but active forums). For job classifieds: Loquo, Lingobongo."
       },
       {
         "id": "live",

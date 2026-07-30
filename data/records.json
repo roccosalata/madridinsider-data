@@ -237,7 +237,8 @@
         "tone": "info"
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Overview"
   },
   {
     "id": "atocha-station",
@@ -557,8 +558,8 @@
   {
     "id": "left-luggage",
     "title": "Left Luggage (Consignas) — All Stations",
-    "category": "living",
-    "subcategory": "services",
+    "category": "essentials",
+    "subcategory": "tourist-info",
     "summary": "Left luggage facilities at Madrid's main transit hubs: Atocha, Chamartín, Barajas Airport, Méndez Álvaro bus station. €3-6/day.",
     "content": "Left luggage (consignas) facilities in Madrid are located at the main transit hubs. This is the master record — see related records for location-specific details. LOCATIONS: (1) Atocha Station — consignas on the ground floor near the tropical garden, €3.90/day per bag (size S/M), €5.50/day (size L). Open 5:30am-10:30pm daily. (2) Chamartín Station — consignas near the VIPS café, same pricing. Open 6am-11pm. (3) Barajas Airport — left luggage at T1 (4€/bag/day) and T4 (5.50€/bag/day), open 24/7. (4) Méndez Álvaro Bus Station (Estación Sur) — left luggage, €3/day. Open 6am-midnight. PRICES: €3-6 per bag per day depending on size and location. Pay by cash or card. SECURITY: all facilities are staffed and CCTV-monitored. Bags are X-rayed. ID required (passport). Tips: (1) Don't leave valuables, electronics, or important documents in left luggage. (2) Take a photo of your bag before leaving it. (3) Keep your claim ticket safe — losing it means a long ID verification process. (4) Some facilities have size limits (max 80cm). (5) For longer-term storage (weeks/months), see our Public Storage (Trasteros) record.",
     "official_url": "https://www.adif.es/en/services/consignas",
@@ -575,7 +576,7 @@
       "madrid-barajas-airport",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Left Luggage",
     "sections": [
       {
         "type": "table",
@@ -815,7 +816,7 @@
       "spain-golden-visa-ended",
       "aupair-spain-madrid"
     ],
-    "subsubcategory": "Schengen Visa",
+    "subsubcategory": "UK Visa",
     "english_level": "english-available",
     "sections": [
       {
@@ -1236,7 +1237,7 @@
       "tourist-scams-madrid",
       "local-police-stations-madrid"
     ],
-    "subsubcategory": "Emergency Services",
+    "subsubcategory": "Emergencies",
     "sections": [
       {
         "type": "stats",
@@ -1895,8 +1896,8 @@
   {
     "id": "neighborhoods-guide",
     "title": "Madrid Neighborhoods Guide",
-    "category": "living",
-    "subcategory": "housing",
+    "category": "see",
+    "subcategory": "neighborhoods",
     "summary": "Overview of Madrid's 10 main neighborhoods for visitors and expats. Each has its own character — pick 2-3 to explore per day.",
     "content": "Madrid Neighborhoods Guide — overview of the 10 main areas for visitors and expats. CENTRAL: (1) Sol & Gran Vía — tourist center, shopping, theaters. Best for first-time visitors. Noisy, busy, overpriced restaurants. (2) Malasaña — hipster, vintage, craft beer, alternative nightlife. Best for 20s-30s travelers. (3) Chueca — LGBTQ+, chic boutiques, cocktail bars. Best for shopping and nightlife. HISTORIC: (4) La Latina — tapas, El Rastro flea market, traditional vermouth. Best for food lovers. (5) Lavapiés — multicultural, Indian curry, flamenco, alternative arts. Best for adventurous eaters. RESIDENTIAL: (6) Chamberí — authentic, local, calm. Best for a quieter base. (7) Retiro — parks, museums, upscale. Best for museum-goers. UPSCALE: (8) Salamanca — luxury shopping, embassies, fine dining. Best for luxury travelers. STUDENT & WEST: (9) Argüelles & Moncloa — students, parks, Temple of Debod sunset. Best for budget travelers. NORTH: (10) Tetuán & Cuatro Caminos — diverse, working-class, cheap eats. Best for budget long-term stays. HOW TO CHOOSE WHERE TO STAY: (1) First visit: Sol/Gran Vía or Chamberí. (2) Nightlife: Malasaña or Chueca. (3) Food: La Latina. (4) Museums: Retiro. (5) Budget: Argüelles or Tetuán. (6) Luxury: Salamanca. (7) Authentic/local: Chamberí or La Latina. EXPLORING: Each neighborhood takes 2-4 hours to walk. Best approach: Sol → Plaza Mayor → La Latina (morning tapas), then Malasaña → Chueca (afternoon vintage), then Gran Vía (evening). See our individual neighborhood records for detailed guides.",
     "status": "evergreen",
@@ -1914,7 +1915,7 @@
       "gran-via"
     ],
     "official_url": "https://www.esmadrid.com/en/areas",
-    "subsubcategory": "Finding a Place",
+    "subsubcategory": "Overview",
     "english_level": "english-available",
     "sections": [
       {
@@ -2168,7 +2169,7 @@
       "empadronamiento"
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
-    "subsubcategory": "Private Healthcare",
+    "subsubcategory": "Doctors",
     "sections": [
       {
         "type": "table",
@@ -2672,7 +2673,7 @@
       "boating-madrid",
       "madrid-for-families-guide"
     ],
-    "subsubcategory": "Central Parks",
+    "subsubcategory": "Overview",
     "sections": [
       {
         "type": "stats",
@@ -2924,7 +2925,7 @@
       "casa-de-campo",
       "madrid-rio"
     ],
-    "subsubcategory": "Attractions",
+    "subsubcategory": "Cable Car",
     "english_level": "english-available",
     "sections": [
       {
@@ -4421,7 +4422,7 @@
       "cost-of-living-madrid",
       "moving-to-madrid-guide"
     ],
-    "subsubcategory": "Renting",
+    "subsubcategory": "DIY Guide",
     "sections": [
       {
         "type": "callout",
@@ -4670,7 +4671,7 @@
       "english-speaking-financial-advisors-madrid",
       "moving-to-madrid-guide"
     ],
-    "subsubcategory": "Bank Accounts",
+    "subsubcategory": "Overview",
     "sections": [
       {
         "type": "callout",
@@ -5072,7 +5073,8 @@
         "body": "Iberia (hub at T4), Air Europa (Spanish carrier), Vueling (low-cost), Ryanair (low-cost, T1), EasyJet (low-cost). US carriers: American Airlines, Delta (seasonal). Most airline offices cluster around Plaza de España.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Airlines"
   },
   {
     "id": "ave-high-speed-trains",
@@ -5178,7 +5180,7 @@
         "tone": "info"
       }
     ],
-    "subsubcategory": "Intercity Buses & Coaches"
+    "subsubcategory": "Intercity Buses"
   },
   {
     "id": "bus-stations-madrid",
@@ -5268,7 +5270,7 @@
         "tone": "warning"
       }
     ],
-    "subsubcategory": "Driving & Parking"
+    "subsubcategory": "Driving"
   },
   {
     "id": "parking-madrid",
@@ -5654,7 +5656,7 @@
       "coworking-madrid",
       "public-wifi-madrid"
     ],
-    "subsubcategory": "Connectivity",
+    "subsubcategory": "Internet Cafés",
     "sections": [
       {
         "type": "callout",
@@ -5719,7 +5721,7 @@
       "moving-shipping-madrid",
       "translating-services-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Post Office",
     "sections": [
       {
         "type": "callout",
@@ -5769,7 +5771,7 @@
       "dry-cleaning"
     ],
     "related_records": [],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Launderettes",
     "sections": [
       {
         "type": "callout",
@@ -5800,7 +5802,7 @@
     "related_records": [
       "emergency-numbers"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Locksmiths",
     "sections": [
       {
         "type": "callout",
@@ -5831,7 +5833,7 @@
     "related_records": [
       "post-office-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Moving & Shipping",
     "sections": [
       {
         "type": "callout",
@@ -5864,7 +5866,7 @@
       "empadronamiento",
       "post-office-madrid"
     ],
-    "subsubcategory": "Translating & Interpreting",
+    "subsubcategory": "Translating",
     "sections": [
       {
         "type": "list",
@@ -5909,7 +5911,7 @@
       "salon"
     ],
     "related_records": [],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Barbers & Hair",
     "sections": [
       {
         "type": "callout",
@@ -6955,7 +6957,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tour",
       "walking",
@@ -6969,7 +6971,7 @@
       "lavapies-neighborhood",
       "sol-gran-via-neighborhood"
     ],
-    "subsubcategory": "Walking Tours",
+    "subsubcategory": "Walking & SEG Tours",
     "sections": [
       {
         "type": "callout",
@@ -7648,7 +7650,8 @@
           "Don't expect modern enclosures everywhere — some are dated"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Zoo & Aquarium"
   },
   {
     "id": "imax-planetarium-madrid",
@@ -7700,7 +7703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "IMAX & Planetarium"
   },
   {
     "id": "warner-park-madrid",
@@ -8370,7 +8374,7 @@
       "international-school-jobs-madrid",
       "work-visa-spain"
     ],
-    "subsubcategory": "Internships & Entry-Level",
+    "subsubcategory": "Internships",
     "sections": [
       {
         "type": "callout",
@@ -8988,7 +8992,7 @@
       "sol-gran-via-neighborhood",
       "el-rastro-flea-market"
     ],
-    "subsubcategory": "Specialty Shops",
+    "subsubcategory": "Bookstores",
     "sections": [
       {
         "type": "callout",
@@ -9001,15 +9005,15 @@
   {
     "id": "bullfights-madrid",
     "title": "Bullfighting (Las Ventas)",
-    "category": "see",
-    "subcategory": "spectator-sports",
+    "category": "do",
+    "subcategory": "traditions",
     "summary": "Madrid's Las Ventas bullring — the 'cathedral of bullfighting'. Season March-October, Sundays at 7pm. €25-150.",
     "content": "Las Ventas is Madrid's main bullring and the most important venue in Spain for bullfighting (corrida de toros). Built in 1931 in Neo-Mudéjar style, it seats 23,798 spectators and is considered the 'cathedral of bullfighting'. The bullfighting season runs March-October, with the main events on Sundays at 7pm (earlier in autumn). Special fairs: San Isidro (May-June, daily events), Feria de Otoño (October). Tickets €25-150 depending on seat location — sombra (shade) is more expensive than sol (sun). Buy at the Las Ventas box office (Calle Alcalá 237, Metro Las Ventas L2/L5) or at taurotop.com. Each corrida has 3 matadors who each fight 2 bulls, lasting 2-3 hours total. Bullfighting is controversial — animal rights activists have succeeded in banning it in Catalonia and the Canary Islands, but it remains legal and culturally important in Madrid and Andalusia. If you do attend, you'll see a spectacle that has inspired Spanish artists from Goya to Picasso to Hemingway.",
     "official_url": "https://www.las-ventas.com/",
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "traditions",
       "bullfight",
@@ -9048,7 +9052,8 @@
         "body": "Bullfighting is controversial — Catalonia and Canary Islands have banned it. But in Madrid it remains legal and culturally significant. If you attend, you'll see a spectacle that has inspired Spanish artists from Goya to Picasso to Hemingway. Make your own judgment.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Bullfighting"
   },
   {
     "id": "verbenas-festivals",
@@ -10898,7 +10903,7 @@
       "moving-to-madrid-guide",
       "madrid-for-families-guide"
     ],
-    "subsubcategory": "Universities & Schools",
+    "subsubcategory": "Schools",
     "sections": [
       {
         "type": "stats",
@@ -11824,7 +11829,7 @@
       "el-pais-english",
       "the-local-spain"
     ],
-    "subsubcategory": "Radio",
+    "subsubcategory": "English Radio",
     "sections": [
       {
         "type": "callout",
@@ -12651,7 +12656,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Running"
   },
   {
     "id": "photoespana-festival",
@@ -13112,7 +13118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Swimming"
   },
   {
     "id": "gyms-fitness-madrid",
@@ -13125,7 +13132,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "gym",
@@ -13213,7 +13220,8 @@
         "body": "Madrid's parks (Retiro, Casa de Campo, Parque Juan Carlos I) have free calisthenics parks and are popular with running groups. Free yoga sessions happen in Retiro on summer weekends. See running-madrid and yoga-madrid records for details.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Gyms & Fitness"
   },
   {
     "id": "golf-madrid",
@@ -13265,7 +13273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Golf"
   },
   {
     "id": "cycling-mtb-madrid",
@@ -13278,7 +13287,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "cycling",
@@ -13376,7 +13385,8 @@
           "Don't attempt Sierra de Guadarrama trails without checking weather — snow through May"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Cycling"
   },
   {
     "id": "tennis-madrid",
@@ -13430,7 +13440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Tennis"
   },
   {
     "id": "skiing-snowboarding-madrid",
@@ -13480,7 +13491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Skiing"
   },
   {
     "id": "supermarkets-grocery-madrid",
@@ -13622,7 +13634,7 @@
       "malasana-bars-nightlife",
       "chueca-bars-nightlife"
     ],
-    "subsubcategory": "Casinos & Gaming",
+    "subsubcategory": "Casinos",
     "sections": [
       {
         "type": "callout",
@@ -13657,7 +13669,7 @@
       "la-latina-neighborhood",
       "chueca-bars-nightlife"
     ],
-    "subsubcategory": "Dancing & Clubs",
+    "subsubcategory": "Salsa",
     "sections": [
       {
         "type": "callout",
@@ -13694,7 +13706,7 @@
       "madrid-music-festivals",
       "outdoor-dining-terraces-madrid"
     ],
-    "subsubcategory": "Rooftops & Terraces",
+    "subsubcategory": "Terraces",
     "sections": [
       {
         "type": "stats",
@@ -13812,13 +13824,14 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Yoga"
   },
   {
     "id": "hammams-arab-baths-madrid",
     "title": "Hammams & Arab Baths (Baños Árabes)",
     "category": "do",
-    "subcategory": "nightlife",
+    "subcategory": "sports",
     "summary": "Hammam Al Ándalus (Calle de Atocha 14) — authentic Arab baths, massage, tea. €40-80. 5 min from Plaza Mayor.",
     "content": "Hammam Al Ándalus is Madrid's authentic Arab bathhouse, located at Calle de Atocha 14 (5 min walk from Plaza Mayor). Built on the site of an original 16th-century hammam, the modern hammam opened in 2009. What's included: (1) Thermal water circuit — cold pool (16°C), warm pool (36°C), hot pool (40°C), plus steam room (45°C) and salt bath. (2) Massage (50 minutes) — adds €30-50 to the basic entry. (3) Mint tea and water included. (4) Relaxation room with cushions and Arabic music. Sessions: 90 minutes basic (€40 weekday, €50 weekend), 90 minutes + 30-min massage (€70-80), 2-hour + 50-min massage + body scrub (€110). Sessions start every 2 hours (10am, 12pm, 2pm, 4pm, 6pm, 8pm). Book online ahead — popular times sell out. TIPS: (1) Bring a swimsuit (or rent €3). (2) Towels, slippers, and robes provided. (3) Silence is required — it's a relaxation space. (4) No phones in the bath area. (5) Best for jet lag recovery, couples, or rainy days. (6) The hammam is underground — beautiful Arabic architecture, mosaic tiles, marble pools. OTHER WELLNESS: (1) Hotel Riu Plaza España spa (€50 day pass). (2) Four Seasons Madrid spa (€120 treatments). (3) Public: Piscinas de Vicálvaro (cheap spa day €15).",
     "official_url": "https://madrid.hammamalandalus.com/en",
@@ -13838,7 +13851,7 @@
       "terrazas-rooftop-bars-madrid",
       "yoga-madrid"
     ],
-    "subsubcategory": "Wellness & Relaxation",
+    "subsubcategory": "Hammams & Baths",
     "sections": [
       {
         "type": "stats",
@@ -13969,7 +13982,8 @@
         "body": "No, you're not crazy — these flamenco venues from the old Madrid Insider DID exist: Casa Patas (Cañizares 10, Metro Antón Martín) — closed ca. 2020; Café de Chinitas (Torija 7, Metro Santo Domingo) — relocated/rebranded; Sala Axarquía (Calavatra 32, Metro La Latina) — closed; Torres Bermejas (Mesonero Romanos 11, Metro Gran Vía) — verify current status; El Juglar (Lavapiés 37) — now primarily a bar, flamenco reduced. Madrid's flamenco scene changes constantly — tablaos open and close. The venues that survive (Cardamomo, Corral de la Morería, Las Carboneras) are the strongest.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Flamenco"
   },
   {
     "id": "magic-comedy-madrid",
@@ -14003,7 +14017,8 @@
         "body": "The Giggling Guiri Comedy Club pioneered English-language stand-up in Madrid. For magic, Houdini Sala de Magia (García Luna 13) offers intimate magic shows. Check current schedules — comedy nights are typically weekly.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Magic & Comedy"
   },
   {
     "id": "summer-outdoor-cinema-madrid",
@@ -14076,8 +14091,8 @@
   {
     "id": "satellite-tv-madrid",
     "title": "Satellite TV (UK TV in Spain)",
-    "category": "living",
-    "subcategory": "services",
+    "category": "essentials",
+    "subcategory": "tourist-info",
     "summary": "Watch UK TV in Spain: Sky, Freesat via satellite; or VPN for streaming. Movistar+ has English Premier League.",
     "content": "For UK expats in Madrid who want British TV. SATELLITE: (1) Sky UK — requires UK satellite dish (60-80cm in Madrid) and Sky box. UK subscription required (use UK address). All Sky channels: Sky Sports, Sky Cinema, Sky One, etc. €40-80/month. (2) Freesat — free UK satellite TV (BBC, ITV, Channel 4, Channel 5). One-time equipment cost €200-300 (dish + box), no subscription. BBC iPlayer and ITV Hub not geo-blocked when viewed via Freesat. INSTALLATION: Several Madrid companies install UK satellite dishes — search 'Sky TV Madrid' or 'UK satellite Madrid'. Cost €250-400 (dish + box + installation). STREAMING (with VPN): (1) Use a UK VPN (ExpressVPN, NordVPN, Surfshark) to access BBC iPlayer, ITV Hub, Channel 4, My5, UK Netflix. €6-12/month for VPN. (2) Sky Stream — Sky's streaming box, works with UK IP (VPN). €25/month + VPN. (3) NOW TV — streaming-only Sky, UK IP needed. €10-30/month. SPANISH TV WITH ENGLISH: (1) Movistar+ — shows some series and films in V.O. (original version) with Spanish subtitles. Check the 'Versión Original' section. €10/month extra. (2) DAZN — Premier League with English commentary. €15/month. (3) Netflix, Prime Video, HBO Max — switch audio to English in settings. TIPS: (1) BBC iPlayer is getting better at blocking VPNs — use a dedicated IP. (2) Movistar+ is excellent for La Liga, Champions League (English commentary on some matches via Movistar+ Dispositivo).",
     "official_url": "https://www.sky.com/",
@@ -14098,7 +14113,7 @@
       "phone-tv-internet-providers-madrid",
       "movie-theaters-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Satellite TV",
     "sections": [
       {
         "type": "callout",
@@ -14131,7 +14146,7 @@
       "sim-cards-madrid",
       "supermarkets-grocery-madrid"
     ],
-    "subsubcategory": "Specialty Shops",
+    "subsubcategory": "Computer & Electronics",
     "sections": [
       {
         "type": "table",
@@ -14387,7 +14402,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "housing",
       "aparthotel",
@@ -14399,7 +14414,7 @@
       "hostels-madrid",
       "shared-housing-flatmates-madrid"
     ],
-    "subsubcategory": "Serviced Apartments",
+    "subsubcategory": "Apart-Hotels",
     "sections": [
       {
         "type": "table",
@@ -14535,7 +14550,7 @@
       "japanese-restaurants-madrid",
       "cost-of-living-madrid"
     ],
-    "subsubcategory": "Food Culture & Basics",
+    "subsubcategory": "Cheap Eats",
     "sections": [
       {
         "type": "table",
@@ -14606,7 +14621,7 @@
       "lavapies-neighborhood",
       "health-food-stores-madrid"
     ],
-    "subsubcategory": "Food Culture & Basics",
+    "subsubcategory": "Vegetarian & Vegan",
     "sections": [
       {
         "type": "table",
@@ -14682,7 +14697,7 @@
       "cheap-eats-madrid",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Food Culture & Basics",
+    "subsubcategory": "Ice Cream",
     "sections": [
       {
         "type": "callout",
@@ -14703,7 +14718,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "religion",
@@ -14720,7 +14735,7 @@
       "english-speaking-wedding-planners-madrid",
       "meditation-retreats-spain"
     ],
-    "subsubcategory": "Community & Faith",
+    "subsubcategory": "Religion & Faith",
     "sections": [
       {
         "type": "table",
@@ -14959,7 +14974,7 @@
       "job-search-spain",
       "internships-spain"
     ],
-    "subsubcategory": "Work Visas & Permits",
+    "subsubcategory": "Hostess & Promo",
     "sections": [
       {
         "type": "stats",
@@ -15009,7 +15024,7 @@
       "the-local-spain",
       "job-search-spain"
     ],
-    "subsubcategory": "Job Search & Career",
+    "subsubcategory": "Journalism",
     "sections": [
       {
         "type": "list",
@@ -15276,7 +15291,7 @@
         ]
       }
     ],
-    "subsubcategory": "Intercity Buses & Coaches"
+    "subsubcategory": "Bus Stations"
   },
   {
     "id": "padel-madrid",
@@ -15338,14 +15353,14 @@
     "title": "Nightclubs & Electronic Music in Madrid",
     "category": "do",
     "subcategory": "nightlife",
-    "subsubcategory": "Dancing & Clubs",
+    "subsubcategory": "Night Clubs",
     "summary": "Top clubs: Mondo, Fabrik, Capital, Goya Social Club. Tech house, techno, reggaeton. €15-30 entry. Open 1am-6am.",
     "content": "Madrid's club scene. TOP CLUBS: (1) Mondo Disko (Calle de la Alameda 28) — iconic, 30+ years, tech house and techno. €20-25 entry. Open Fri-Sat 1am-6am. (2) Fabrik (Calle de la Ctra. Fuenlabrada a Moraleja, Móstoles, 30 min south) — massive 5,000-capacity warehouse, EDM, techno. €25-30. Saturdays only. Free shuttle from Méndez Álvaro Metro. (3) Capital (Calle de la Gran Vía 8) — central, 2 rooms (house/techno + reggaeton/pop). €15-20. Open Thu-Sat midnight-6am. Popular with younger crowd. (4) Goya Social Club (Calle de Goya 43) — boutique, deep house, intimate (300 capacity). €15-20. (5) Spekummat (Calle de la Ballesta 14, Sol) — small, techno, underground. €10-15. (6) Room 18 (Hotel Ganivet, Plaza de España) — gay-friendly, mixed music. €15-20. (7) Pacha Madrid (Calle de la Castellana 27) — Ibiza brand, mixed crowd, EDM. €20-25. FESTIVALS: (1) Sonar Madrid (May) — electronic and avant-garde. (2) Mad Cool (July) — major music festival (indie, electronic, pop). €120-200 day ticket. (3) DCODE (September) — university-focused music festival. €40. (4) A Summer Story (June) — electronic. €60-80. TIPS: (1) Madrid clubs start late — don't arrive before 1:30am, peak is 3-4am. (2) Dress code: smart casual at most; no sportswear, no flip-flops. (3) Pre-game (botellón) in a park or apartment before going — drinks at clubs are €10-15. (4) Line up early for popular DJs (1am). (5) Use the app Discotech or wantickets.com to buy tickets in advance. (6) The Metro starts at 6am — perfect timing for the journey home. (7) Taxi/Uber after 3am can have 3x surge pricing.",
     "official_url": "https://www.wantickets.com/madrid",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "club",
@@ -16211,16 +16226,16 @@
   {
     "id": "spanish-culture-madrid",
     "title": "Spanish Culture — A Quick Guide",
-    "category": "essentials",
-    "subcategory": "tourist-info",
-    "subsubcategory": "Cultural Guides",
+    "category": "do",
+    "subcategory": "traditions",
+    "subsubcategory": "Overview",
     "summary": "Spanish customs: mealtimes, siesta (mostly gone), personal space, greetings, holidays, family life.",
     "content": "Spanish culture for visitors. MEALTIMES (later than northern Europe): Breakfast (desayuno) 7-9am (coffee + toast/pastry). Mid-morning snack (almuerzo) 11am-noon (bocadillo). Lunch (comida) 2-3:30pm (main meal, often 3 courses). Afternoon snack (merienda) 6-7pm (small). Dinner (cena) 9-11pm (lighter than lunch). Restaurants don't serve lunch before 1pm or dinner before 8:30pm. SIESTA: The traditional afternoon nap is mostly gone in Madrid (especially for office workers). Some shops still close 2-5pm in smaller towns, but in Madrid most shops stay open. Spanish people do stay up later than northern Europeans — dinner at 10pm is normal. GREETINGS: (1) Handshake for business/first meetings. (2) Two kisses (one on each cheek, starting with the right) for friends and social situations. (3) 'Hola, buenas' is a casual greeting usable anytime. (4) 'Buenos días' (morning), 'Buenas tardes' (afternoon), 'Buenas noches' (evening/night). PERSONAL SPACE: Spaniards stand closer when talking and touch more (arm on shoulder, etc.) than northern Europeans. This is normal, not flirtatious. FAMILY: Family is central to Spanish life. Many young adults live with parents until 30+. Sunday family lunch is sacred. Multigenerational households are common. TIME: Spaniards have a relaxed attitude toward time. Being 10-15 min late to a social meeting is normal. Business meetings start on time. QUEUING: Spaniards don't queue as formally as the British — it's more of a crowd. Don't be too polite about waiting your turn — you'll never get served. FOOTBALL: Real Madrid vs Atlético is a serious divide. Don't wear a Real Madrid shirt in Atlético areas and vice versa. BULLFIGHTING: Controversial. Some Spaniards love it, others consider it animal cruelty. Catalonia and Canary Islands have banned it. RELIGION: Spain is officially Catholic, but most Spaniards are non-practicing. Easter (Semana Santa) processions are cultural events even for atheists. TIPPING: Optional, 5-10% in restaurants. FLAMENCO: From Andalusia, not Madrid — but Madrid has the best flamenco tablaos. SPANISH HUMOR: Direct, loud, physical, often political. Different from British irony or American sarcasm.",
     "official_url": "https://www.esmadrid.com/en/culture",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "culture",
@@ -16425,14 +16440,15 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Shuttle Service"
   },
   {
     "id": "optical-shops-madrid",
     "title": "Optical Shops (Ópticas) in Madrid",
     "category": "do",
     "subcategory": "shopping",
-    "subsubcategory": "Specialty Shops",
+    "subsubcategory": "Optical Shops",
     "summary": "Optical shops: Óptica Universitaria, Alain Afflelou, Multiópticas. Eye exams €40-80, glasses €80-300.",
     "content": "Optical shops (ópticas) in Madrid. MAIN CHAINS: (1) Alain Afflelou — French chain, 50+ Madrid locations, eye exams €40-60, glasses from €80. (2) Multiópticas — Spanish chain, similar pricing. (3) Óptica Universitaria (Calle Gran Vía 28) — central, popular with students. (4) Cottet — Catalan chain, premium. (5) Óptica Suiza — high-end. INDEPENDENT: (1) Óptica Besada (Calle de la Velázquez 21) — English-speaking, premium. (2) Óptica Val (Calle de la Alcalá 55) — mid-range. SERVICES: Eye exams (examen de la vista) €40-80, sometimes free with glasses purchase. Contact lens fitting €50-80. Glasses (gafas) from €80 (basic) to €300+ (designer). Contact lenses (lentillas) €30-60/month. Sunglasses (gafas de sol) from €50. INSURANCE: Spanish public health covers eye exams for under-18s and over-65s. Private insurance (Sanitas, Adeslas) often includes optical coverage €100-200/year. TIPS: (1) Bring your prescription — Spanish opticians accept international prescriptions. (2) Glasses are ready in 1-2 hours for standard lenses, 1-2 weeks for special prescriptions. (3) Tax-free shopping available for non-EU residents on purchases over €90. (4) Bargaining is not common but chains sometimes offer promotions (2-for-1, free eye exam with purchase).",
     "official_url": "https://www.afflelou.com/",
@@ -16464,7 +16480,7 @@
     "title": "Music Stores in Madrid",
     "category": "do",
     "subcategory": "shopping",
-    "subsubcategory": "Specialty Shops",
+    "subsubcategory": "Music Stores",
     "summary": "Music stores: El Corte Inglés music, Discos Melopelo (vinyl), Mariscal (instruments). CDs €10-20, vinyl €15-30.",
     "content": "Music stores in Madrid. CD/DVD: (1) El Corte Inglés (multiple) — Spain's largest CD/DVD selection, 7th floor of Castellana store. Mainstream and Spanish artists. CDs €10-18, DVDs €10-20. (2) FNAC (Calle Marqués de Casa Riera 4) — good selection, similar pricing. VINYL: (1) Discos Melopelo (Calle de la Colegiata 12, La Latina) — Madrid's best vinyl shop, new and used, €15-30 per LP. Jazz, rock, flamenco, electronic. (2) Flash Records (Calle de la Escorial 6, Malasaña) — used vinyl, €10-25. (3) Bicolor Music (Calle de la Pez 8) — new vinyl, focus on indie. (4) Disco 100 (Calle de la Montera 30) — dance/electronic vinyl. INSTRUMENTS: (1) Mariscal (Calle de la Marqués de Cubas 4) — Madrid's oldest music shop (1921), guitars, violins, brass. (2) Casa Luthier (Calle de la Balmes 22) — classical guitars, high-end. (3) Yamaha Music Madrid (Calle de la Alcalá 119) — pianos, keyboards, all instruments. (4) Guitar Center Madrid (Calle de la Atocha 28) — guitars, amps. CONCERT TICKETS: (1) El Corte Inglés ticket counters — large events. (2) Tick Tack Ticket (online) — most concerts. (3) Wegow (online) — indie concerts. TIPS: (1) Vinyl is having a renaissance in Madrid — Melopelo is the must-visit. (2) Spanish music to look for: flamenco (Paco de Lucía, Camarón), pop (Alaska, Rosalía), rock (Héroes del Silencio, Jarabe de Palo). (3) El Corte Inglés has the best selection of Spanish classical and flamenco CDs.",
     "official_url": "https://www.elcorteingles.es/",
@@ -16581,14 +16597,14 @@
     "title": "Architects & General Contractors (Refurbishment)",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Architects",
     "summary": "Architects and contractors for apartment renovation. Permits required from City Hall. Budget €800-1,500/m² for full renovation.",
     "content": "Architects and contractors for apartment renovation in Madrid. WHEN YOU NEED AN ARCHITECT: (1) Structural changes (removing walls, changing layout). (2) Changing facade or windows. (3) Adding bathrooms or kitchens. (4) Any work requiring a city permit (licencia de obra). WHEN YOU NEED A CONTRACTOR (without architect): (1) Painting, flooring. (2) Kitchen/bathroom replacement (no layout change). (3) Electrical and plumbing upgrades. (4) Minor repairs. ARCHITECTS: (1) COAM (Colegio Oficial de Arquitectos de Madrid) — the official architects' association. Search their directory at coam.org. Rates: €80-150/hour or 8-12% of project cost. (2) Recommended English-speaking architects: BmasC Arquitectos, Studio Marco Vermeulen, OOAA Arquitectura. CONTRACTORS (Empresas de Reformas): (1) Reformas Madrid (multiple) — chains, €800-1,200/m² for full renovation. (2) Pepe's Reformas — local, mid-range. (3) Habitissimo (habitissimo.es) — online platform to get quotes from multiple contractors. PERMITS: (1) Licencia de obra mayor — major renovation (structural changes). Apply at Madrid City Hall (Portal de Urbanismo). Takes 1-3 months. Fee €300-800. (2) Licencia de obra menor — minor work (painting, flooring). Takes 2-4 weeks. Fee €50-200. (3) Comunidad de Propietarios — you MUST notify your building's community before starting work. They can't refuse but may set conditions (hours, elevator use). COSTS: Full apartment renovation (80m²): €60,000-120,000. Kitchen: €8,000-20,000. Bathroom: €4,000-10,000. Flooring: €30-80/m². Painting: €10-20/m². TIMELINE: 2-4 months for full renovation (including permits). TIPS: (1) Get 3+ quotes. (2) Check the contractor's license ( Registro de Empresas Calificadas). (3) Never pay more than 30% upfront. (4) Get everything in writing. (5) For building permits, use a 'gestor' (administrative agent) — €200-400 to handle paperwork.",
     "official_url": "https://www.coam.org/",
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "architect",
@@ -16638,14 +16654,14 @@
     "title": "Meeting Rooms & Rehearsal Spaces",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Meeting Rooms",
     "summary": "Rent meeting rooms and rehearsal spaces by the hour. Spaces: WeWork, Atenasia, Espacio Ronda. €15-50/hour.",
     "content": "Meeting rooms and rehearsal spaces for rent in Madrid. MEETING ROOMS: (1) WeWork (3 locations: Velázquez, Caleido, Castellana) — meeting rooms for members and non-members. €15-30/hour. English. (2) Atenasia (Calle de la Zorrilla 7) — meeting rooms, videoconferencing. €20-40/hour. (3) Spaces (Calle de la Miguel Ángel 22) — Regus brand, meeting rooms €20-50/hour. (4) Regus (multiple) — business centers, meeting rooms €15-50/hour. (5) Impact Hub Madrid (Calle de la Goya 43) — coworking + meeting rooms, social enterprise focus. REHEARSAL SPACES (music/theater): (1) Espacio Ronda (Calle de la Ronda de Segovia 39) — rehearsal rooms for music, theater, dance. €10-15/hour. (2) La Nave (Calle de la Creta 12) — music rehearsal rooms. €8-12/hour. (3) Music Gallery (Calle de la Almirante 18) — band rehearsal, equipment included. €12-18/hour. (4) Estudio Río (Calle del Río Tajo 14) — recording + rehearsal. €15-25/hour. CONFERENCE ROOMS (larger events): (1) Hotel meeting rooms — most hotels rent meeting rooms. €200-800/day. (2) Círculo de Bellas Artes (Calle de Alcalá 42) — event spaces, €500-2,000/day. (3) Matadero Madrid (Plaza de Legazpi) — cultural event spaces. (4) IFEMA (Campo de las Naciones) — large conference venue, 10,000+ capacity. FREE OPTIONS: (1) Madrid public libraries have free meeting rooms (book ahead, 1 week). (2) Some cafés (Starbucks, Café de Oriente) allow small meetings with purchase. TIPS: (1) Book 1-2 weeks ahead for meeting rooms. (2) Bring your own laptop/HDMI adapter. (3) Most spaces have wifi and whiteboards. (4) For rehearsal spaces, bring your own instruments (some have drum kits/PAs). (5) Coworking spaces often offer 1 free meeting room hour per day for members.\n\nIMPORTANT ADDITION: EL HORNO (Calle de la Esgrima 11, Metro Tribunal L1/L10, phone 91 527 57 01, centroelhorno.com) — Madrid's longest-running rehearsal space (since the 1980s). 13 rooms for music, dance, and theater rehearsal. €49/month for unlimited off-peak access. Also offers dance classes, fitness, yoga, pilates, and pole dance. Active Facebook page (4.6 stars, 125 reviews). English spoken. Open Mon-Fri 10am-11pm, Sat 10am-8pm.",
     "official_url": "https://www.wework.com/buildings/madrid-spain",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "meeting-room",
@@ -16731,7 +16747,8 @@
         "body": "Palacio de Hielo (Silvano 77, Metro Canillas) is Madrid's main ice rink — open year-round. Part of a larger entertainment complex with bowling, shopping, and cinema. €8-12 for skating session + skate rental.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Ice Skating"
   },
   {
     "id": "pool-billiards-madrid",
@@ -16762,7 +16779,8 @@
         "body": "Pool halls in Madrid: No Se Lo Digas a Nadie (Ventura de la Vega 7, Metro Sevilla) — 6 pool tables, 2 floors, bar atmosphere, open until 6am. Search 'billar Madrid' for more halls. €6-10/hour per table.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Pool & Billiards"
   },
   {
     "id": "bowling-madrid",
@@ -16794,7 +16812,8 @@
         "body": "Bowling alleys in Madrid: Palacio de Hielo (Canillas, 24 lanes), Diversia (Alcobendas). Part of entertainment complexes. €6-10/game + shoe rental. Good rainy day family activity.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Bowling"
   },
   {
     "id": "race-karts-madrid",
@@ -16825,14 +16844,15 @@
         "body": "Karting Feliz Vía (Ctra El Pardo km 3.4, Somontes Sports Complex) — electric karts for kids 4+ and adults. 10 min from Madrid. Outdoor track. Book ahead on weekends.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Race Karts"
   },
   {
     "id": "expat-publications-madrid",
     "title": "English-Language Publications & Magazines",
     "category": "now",
     "subcategory": "news",
-    "subsubcategory": "Magazines & Blogs",
+    "subsubcategory": "Publications",
     "summary": "English magazines and blogs: Madrid No Frills, Spain Reporter, Essential Magazine, InMadrid. Free and paid.",
     "content": "English-language publications about Madrid and Spain. MAGAZINES (print + online): (1) Essential Magazine (essentialmagazine.com) — free monthly lifestyle magazine for expats in Madrid and Barcelona. Pick up at hotels, restaurants, British Council. (2) InMadrid (in-madrid.com) — free bilingual magazine, distributed at tourist spots. Focus on culture and events. BLOGS: (1) Madrid No Frills (madridnofrills.com) — independent, authentic, cheap eats and hidden gems. Excellent. (2) Madrid Foodie (madridfoodie.com) — restaurant reviews, food events. Spanish/English. (3) Madrid Secreto (madridsecreto.co) — Spanish-language city blog, hidden events. Use Google Translate. (4) Devour Madrid (devour-tours.com/blog/madrid) — food and culture blog by Devour Tours. (5) Spain Reporter (spainreporter.com) — English news and features about Spain. PRINT: (1) Broadsheet-style listings in El País English edition (Thursdays — 'Madrid' section). (2) Time Out Madrid (timeout.com/madrid) — online + annual print guide. (3) Metrópoli (weekend supplement of El Economista newspaper) — culture and lifestyle, Spanish. TIPS: (1) For events, esMadrid.com (official) is most reliable. (2) For authentic, off-the-beaten-path recommendations, Madrid No Frills is the best. (3) Essential Magazine is free and widely available — good for newcomers. (4) Most blogs have email newsletters — subscribe for weekly updates.",
     "official_url": "https://madridnofrills.com/",
@@ -18542,7 +18562,7 @@
     "title": "The Official Madrid Guide Booklet (with Madrid Card)",
     "category": "essentials",
     "subcategory": "tourist-info",
-    "subsubcategory": "Tourist Passes",
+    "subsubcategory": "Madrid Card",
     "summary": "The booklet that comes with the Madrid Card. 150+ pages: itineraries, museums, restaurants, maps, discounts. Available as free PDF.",
     "content": "The Official Madrid Guide is the booklet that accompanies the Madrid City Card (and is also available as a free PDF download). CONTENTS (150+ pages): (1) Madrid itineraries — 1-day, 2-day, 3-day, and family itineraries with maps. (2) Museums and monuments — descriptions, hours, admission prices, and how to get there for 50+ attractions. (3) Restaurants and gastronomy — curated restaurant recommendations by neighborhood and budget. (4) Shopping guide — by neighborhood (Gran Vía, Salamanca, Malasaña). (5) Nightlife — bars, clubs, flamenco, theaters. (6) Parks and gardens — Retiro, Casa de Campo, Madrid Río, Quinta de los Molinos. (7) Day trips — Toledo, Segovia, El Escorial, Aranjuez, Alcalá de Henares. (8) Practical info — transport, emergency numbers, embassies, hospitals, pharmacies. (9) Maps — city center, Metro, bus, neighborhoods. (10) Discount coupons — 20-50% off at selected restaurants, shops, and attractions. HOW TO GET IT: (1) Free PDF download at esmadrid.com/en/madrid-guide (27MB, 150+ pages). (2) Paper copy at any Tourist Office (Plaza Mayor, airport, Atocha) — free. (3) Included with the Madrid City Card purchase (€48-108). (4) At hotels — most hotel receptions have copies. HOW WE COMPARE: Our Madrid Insider website covers ALL the same topics as the guidebook, but: (1) We're updated continuously (the PDF is annual). (2) We have 286 records vs the guidebook's ~150 listings. (3) We have live weather, real-time transit alerts, and search. (4) We link directly to official websites. (5) We have English availability badges (EN★, EN, 🗝️ MI). (6) We have tips on every subcategory page. WHAT THE GUIDEBOOK HAS THAT WE DON'T: (1) Beautiful photos (we're text-focused). (2) Discount coupons. (3) Offline access (a PDF works without internet). WHAT WE HAVE THAT THE GUIDEBOOK DOESN'T: (1) 4-tier English availability system. (2) Sub-subcategory grouping (160 groups). (3) Bidirectional related-records linking. (4) Live weather API. (5) Dynamic per-page SEO. (6) Search across all 286 records. (7) Updated daily (not annually). (8) Spanish-only resource coverage (🗝️ MI badge). TIPS: (1) Download the PDF guidebook AND bookmark Madrid Insider — use both. (2) The guidebook is great for planning before your trip (print it). (3) Madrid Insider is better during your trip (search, live data, always current). (4) The guidebook has discount coupons worth €20-50 if you visit multiple attractions. (5) If you buy the Madrid City Card (€48+), the guidebook comes free.",
     "official_url": "https://www.esmadrid.com/en/madrid-guide",
@@ -19625,7 +19645,8 @@
         "body": "Other English-speaking relocation services in Madrid include MADRIDEM (madridem.com), PropXper (propxper.com), and Help in Spain (spain-help.com). Compare quotes from 2-3 before committing — pricing models vary significantly.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Booking Services"
   },
   {
     "id": "english-speaking-lawyers-madrid",
@@ -20533,7 +20554,7 @@
         "tone": "info"
       }
     ],
-    "subsubcategory": "Internships & Entry-Level"
+    "subsubcategory": "Aupair"
   },
   {
     "id": "digital-nomad-visa-spain-services",
@@ -31952,7 +31973,8 @@
         "body": "The Thyssen is within 10 minutes' walk of both the Prado (next door) and the Reina Sofía (5 min south). All three can be visited in one day with the Paseo del Arte card, but it's exhausting — better to do one per day. See museo-del-prado and museo-reina-sofia records for the other two.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Golden Triangle"
   },
   {
     "id": "local-police-stations-madrid",
@@ -32065,7 +32087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Police Stations"
   },
   {
     "id": "health-food-stores-madrid",
@@ -32248,7 +32271,7 @@
         ]
       }
     ],
-    "subsubcategory": "Food Culture & Basics"
+    "subsubcategory": "Japanese"
   },
   {
     "id": "cricket-madrid",
@@ -32309,7 +32332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Cricket"
   },
   {
     "id": "rugby-madrid",
@@ -32394,7 +32418,8 @@
         "body": "The old Madrid Insider (2013, node/141) listed: Madrid Lions Rugby Club — seeking players of all levels and nationalities, pub nights Thursdays 20:30 at Finnegan's (Plaza de las Salesas), contact Charlie 636-067-716, madridlionsrfc.com. Also: Madrid Barbarians Rugby Club — welcomes players from all over the world, both expat and Spanish, contact madridbarbarians@ymail.com. Verify current status of both clubs before contacting.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Rugby"
   },
   {
     "id": "boating-madrid",
@@ -32485,7 +32510,8 @@
         "body": "The old Madrid Insider (2013, node/90) noted that you can rent rowing and pedal boats by the hour at the Retiro Park lake (Metro Retiro). This is the closest boating to central Madrid — no need to travel to reservoirs. Also: Casa de Campo lake (Metro Lago) had boat rentals. These are casual recreational boating, not sailing.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Boating"
   },
   {
     "id": "hidden-parks-gardens-madrid",
@@ -32687,7 +32713,8 @@
         "body": "The old Madrid Insider (2013) listed these V.O. cinemas: Alphaville (Martín de los Héros 14) — classic art-house cinema, verify status; Pequeño Cine Estudio (Magallanes 1) — small art-house; Cine Bellas Artes (Marqués de Casa Riera 2) — closed; Cine Princesa (Princesa 3) — closed; Cine California (Andrés Mellado 53) — closed. The V.O. cinema scene has consolidated into chains (Cinesa, Yelmo) with the Cine Doré remaining as the independent/art-house option.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Version Original Cinema"
   },
   {
     "id": "english-teacher-agencies-madrid",
@@ -32851,7 +32878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Film Resources"
   },
   {
     "id": "talent-modeling-agencies-madrid",
@@ -32927,7 +32955,8 @@
           "Don't expect US/UK-style agency sizes — Madrid market is smaller"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Talent Agencies"
   },
   {
     "id": "usa-citizens-spain-guide",
@@ -33022,7 +33051,8 @@
         "body": "The old Madrid Insider (2013, node/130) listed the US Embassy at Serrano 75 (Metro Rubén Darío). The US Embassy moved to a new compound at Calle Diego de León 16 in 2022. The old site also referenced ETA terrorism concerns — ETA declared a permanent ceasefire in 2011 and dissolved in 2018, so this is no longer a concern.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "USA Citizens"
   },
   {
     "id": "immunizations-travel-health-madrid",
@@ -33086,7 +33116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Immunizations"
   },
   {
     "id": "cost-of-living-madrid",
