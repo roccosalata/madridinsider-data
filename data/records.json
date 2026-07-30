@@ -3698,7 +3698,15 @@
     "related_records": [
       "real-madrid-bernabeu"
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's third football club",
+        "body": "Rayo Vallecano plays in Vallecas (southeast Madrid, Metro Portazgo). Smaller stadium (Campo de Fútbol de Vallecas, 14,000 seats) but passionate fanbase. Cheapest tickets of the three Madrid clubs (€15-40). Working-class club with cult following.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "traditions-summary",
@@ -3930,7 +3938,35 @@
     ],
     "official_url": "https://www.time.is/Madrid",
     "subsubcategory": "Time",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Madrid Time Zone",
+        "items": [
+          {
+            "label": "Standard",
+            "value": "CET (UTC+1) — winter"
+          },
+          {
+            "label": "Daylight saving",
+            "value": "CEST (UTC+2) — summer (last Sun March to last Sun October)"
+          },
+          {
+            "label": "Same as",
+            "value": "Paris, Berlin, Rome, Amsterdam"
+          },
+          {
+            "label": "vs US Eastern",
+            "value": "+6 hours (winter), +6 hours (summer)"
+          },
+          {
+            "label": "vs UK",
+            "value": "+1 hour always"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-weather",
@@ -4847,7 +4883,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "scooter",
@@ -4858,6 +4894,14 @@
     "related_records": [
       "bicimad",
       "metro-de-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "E-scooter sharing in Madrid",
+        "body": "Lime, Dott, and Tier operate e-scooter sharing in Madrid. Download the app, scan QR code, ride. Park in designated zones only. €1 unlock + €0.15/min. Helmets recommended. Not allowed on sidewalks — use bike lanes.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -4871,7 +4915,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "walking",
@@ -4880,6 +4924,14 @@
     "related_records": [
       "metro-de-madrid",
       "bicimad"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is very walkable",
+        "body": "Central Madrid (Sol, Gran Vía, Plaza Mayor, Huertas, La Latina, Malasaña, Chueca) is all within a 20-30 minute walk. Wear comfortable shoes — lots of cobblestones. Avoid walking 2-5pm in July/August (40°C+). Best walking months: April-June, September-November.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -4993,7 +5045,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "airlines",
@@ -5002,6 +5054,14 @@
     ],
     "related_records": [
       "madrid-barajas-airport"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Airlines at Madrid-Barajas",
+        "body": "Iberia (hub at T4), Air Europa (Spanish carrier), Vueling (low-cost), Ryanair (low-cost, T1), EasyJet (low-cost). US carriers: American Airlines, Delta (seasonal). Most airline offices cluster around Plaza de España.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -5088,7 +5148,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "bus",
@@ -5098,6 +5158,14 @@
     "related_records": [
       "bus-stations-madrid",
       "ave-high-speed-trains"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Cheaper than trains for intercity travel",
+        "body": "ALSA is Spain's main intercity bus operator (alsa.com). Madrid to Granada 5h (€25), Lisbon 8h (€45), Bilbao 4h30 (€22). Buses depart from Estación Sur (Méndez Álvaro). Book online for best prices.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -5136,7 +5204,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "train",
@@ -5147,6 +5215,14 @@
     "related_records": [
       "ave-high-speed-trains",
       "renfe-trains"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Eurail/Interrail for multi-country train travel",
+        "body": "Eurail (non-EU residents) and Interrail (EU residents) passes offer unlimited train travel across Europe. Spain pass: 3-8 days within 1 month. Renfe AVE requires seat reservation (€10-20 extra). Book reservations at renfe.com or stations. Lost/stolen passes cannot be replaced.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -5191,7 +5267,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "parking",
@@ -5199,6 +5275,14 @@
     ],
     "related_records": [
       "driving-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Parking in central Madrid is expensive + difficult",
+        "body": "Street parking: €2-4/hour (SER zone, pay at meter). Underground garages: €3-5/hour, €20-35/day. Many central streets are pedestrianized or Low Emission Zone (ZBE). Best advice: don't drive in central Madrid. Use public transport.",
+        "tone": "warning"
+      }
     ]
   },
   {
@@ -5315,7 +5399,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "connectivity",
       "esim",
@@ -5326,7 +5410,30 @@
       "sim-cards-madrid",
       "public-wifi-madrid"
     ],
-    "subsubcategory": "Mobile"
+    "subsubcategory": "Mobile",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best eSIMs for Spain travel",
+        "items": [
+          {
+            "title": "Airalo",
+            "body": "Most popular. Spain eSIM from $5 (1GB/7 days). No store visit. Activates on landing.",
+            "meta": [
+              "Best for short trips"
+            ]
+          },
+          {
+            "title": "Holafly",
+            "body": "Unlimited data Spain eSIM. €19-€47 (5-20 days). Good for heavy users."
+          },
+          {
+            "title": "Vodafone Spain",
+            "body": "Physical SIM or eSIM from Vodafone store. €10-20. Better for longer stays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "public-wifi-madrid",
@@ -5640,14 +5747,22 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "laundry",
       "dry-cleaning"
     ],
     "related_records": [],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Self-service launderettes in Madrid",
+        "body": "Search 'lavandería autoservicio Madrid' for self-service launderettes. Typical cost: €4-6 wash (7kg), €3-6 dry (20 min cycles). Onda Blu chain has multiple locations. Some launderettes offer WiFi while you wait. Hotel laundry service is much more expensive.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "locksmiths-madrid",
@@ -5691,7 +5806,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "moving",
@@ -5701,7 +5816,15 @@
     "related_records": [
       "post-office-madrid"
     ],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "International shipping to Madrid",
+        "body": "For international moves to Madrid: Lamaignere (Barajas Airport cargo, lamaignere.es) and Space Cargo Export handle shipping. For domestic moves within Madrid: search 'mudanzas Madrid' online. Get 3 quotes before choosing. Verify insurance coverage.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "translating-services-madrid",
@@ -5763,7 +5886,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "barber",
@@ -5771,7 +5894,15 @@
       "salon"
     ],
     "related_records": [],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Barbers & hairdressers in Madrid",
+        "body": "Madrid has barbershops and hair salons everywhere. Budget: Jofer chain (multiple locations, no appointment needed, €12-18). Mid-range: independent salons €20-40. Luxury: salons in Salamanca district €50-100+. Men's traditional barber: Peluquería de Caballeros (Cuchilleros 15, claim to be one of Madrid's oldest shops, founded 1900).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "sol-gran-via-neighborhood",
@@ -6726,7 +6857,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "neighborhood",
       "tetuan",
@@ -6738,7 +6869,15 @@
       "chamberi-neighborhood",
       "metro-de-madrid"
     ],
-    "subsubcategory": "Upscale & Residential"
+    "subsubcategory": "Upscale & Residential",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Diverse, local, affordable",
+        "body": "Tetuán and Cuatro Caminos (north Madrid, Metro Tetuán/Cuatro Caminos) are diverse, multicultural neighborhoods with authentic local markets, cheap eats, and lower rents. Less touristy than central barrios. Strong West African and Latin American communities.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "bus-tours-madrid",
@@ -7353,7 +7492,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "water-park",
@@ -7364,7 +7503,35 @@
       "parque-de-atracciones-madrid",
       "zoo-aquarium-madrid"
     ],
-    "subsubcategory": "Water Parks"
+    "subsubcategory": "Water Parks",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Locations",
+            "value": "Villanueva de la Cañada + San Fernando de Henares"
+          },
+          {
+            "label": "Season",
+            "value": "Summer only (June-September)"
+          },
+          {
+            "label": "Cost",
+            "value": "€19-28"
+          },
+          {
+            "label": "Free bus",
+            "value": "From Madrid (check website for routes)"
+          },
+          {
+            "label": "Best for",
+            "value": "Families with kids 6-16"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "zoo-aquarium-madrid",
@@ -7479,7 +7646,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "imax",
@@ -7490,6 +7657,34 @@
     "related_records": [
       "parque-de-atracciones-madrid",
       "zoo-aquarium-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Parque Tierno Galván (Metro Méndez Álvaro)"
+          },
+          {
+            "label": "Planetarium cost",
+            "value": "€3-4 adults, €1.50 kids"
+          },
+          {
+            "label": "IMAX cost",
+            "value": "€6-8"
+          },
+          {
+            "label": "Planetarium shows",
+            "value": "Tue-Fri 5:30pm + 6:45pm. Sat-Sun 11:30am, 12:45pm, 5:30pm, 6:45pm, 8pm"
+          },
+          {
+            "label": "Closed",
+            "value": "Mondays"
+          }
+        ]
+      }
     ]
   },
   {
@@ -7604,7 +7799,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "museum",
@@ -7616,6 +7811,30 @@
     "related_records": [
       "museo-del-prado",
       "museo-reina-sofia"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best museums for kids in Madrid",
+        "items": [
+          {
+            "title": "CosmoCaixa",
+            "body": "Science museum. Interactive exhibits, planetarium, rainforest. €6. Alcobendas."
+          },
+          {
+            "title": "Museo de Cera (Wax Museum)",
+            "body": "Paseo de Recoletos. Spanish + international figures. €18."
+          },
+          {
+            "title": "Museo del Ferrocarril (Train Museum)",
+            "body": "Delicias station. Real steam trains. Kids love it. €6."
+          },
+          {
+            "title": "Natural Sciences Museum",
+            "body": "Dinosaurs! See natural-sciences-museum-madrid record."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8043,7 +8262,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "banking",
       "fintech",
@@ -8055,7 +8274,27 @@
       "banking-spain",
       "transfers-spain"
     ],
-    "subsubcategory": "Digital Banks"
+    "subsubcategory": "Digital Banks",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Digital banks popular with expats",
+        "items": [
+          {
+            "title": "N26",
+            "body": "German digital bank. Spanish IBAN. Free basic account. English app. No physical branches."
+          },
+          {
+            "title": "Revolut",
+            "body": "Multi-currency. Free exchange on weekdays. English app. Premium €10/month."
+          },
+          {
+            "title": "Bunq",
+            "body": "Dutch digital bank. Spanish IBAN. Eco-friendly. English app."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "spanish-iban-explained",
@@ -8863,7 +9102,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "traditions",
       "chotis",
@@ -8874,7 +9113,15 @@
       "verbenas-festivals",
       "san-isidro-festival"
     ],
-    "subsubcategory": "Folk Dance & Music"
+    "subsubcategory": "Folk Dance & Music",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's traditional dance",
+        "body": "Chotis is Madrid's signature folk dance — slow, graceful, and danced in pairs. Originated in Prague (1838), came to Madrid in the 19th century. Danced at verbenas (street festivals) especially during San Isidro (May) and La Paloma (August). Men place a scarf on their shoulder; women hold the other end.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "san-isidro-festival",
@@ -10690,7 +10937,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "education",
       "language",
@@ -10702,7 +10949,15 @@
       "language-schools-madrid",
       "universities-madrid"
     ],
-    "subsubcategory": "Language Learning"
+    "subsubcategory": "Language Learning",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "EOI — Spain's public language schools",
+        "body": "The Escuela Oficial de Idiomas (EOI) is Spain's network of public language schools. Very cheap (€200-300/year) but spots fill fast — registration opens September. Spanish for foreigners, English, French, German, Chinese, and more. Instruction in Spanish. See eoidiomas.com.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "museo-arqueologico-madrid",
@@ -11507,7 +11762,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "the-local",
@@ -11519,7 +11774,15 @@
       "el-pais-english",
       "madrid-english-radio"
     ],
-    "subsubcategory": "Newspapers"
+    "subsubcategory": "Newspapers",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Expat-focused English news",
+        "body": "The Local Spain (thelocal.es) is an English-language news site focused on expat life in Spain. Practical articles on visas, taxes, lifestyle, news. Free. Good for keeping up with Spanish news in English.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "madrid-english-radio",
@@ -11532,7 +11795,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "radio",
@@ -11544,7 +11807,15 @@
       "el-pais-english",
       "the-local-spain"
     ],
-    "subsubcategory": "Radio"
+    "subsubcategory": "Radio",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "English-language radio",
+        "body": "RTVE's English Language Broadcast airs on RNE Radio 5. Also available as podcast at rtve.es/play/audios/english-language-broadcast. Overnight BBC World Service on some frequencies.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "madrid-today-events",
@@ -12265,7 +12536,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "basketball",
@@ -12276,6 +12547,14 @@
     "related_records": [
       "real-madrid-bernabeu",
       "madrid-open-tennis"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's basketball scene",
+        "body": "Real Madrid Baloncesto (multi-time Euroleague champions) and Movistar Estudiantes are Madrid's two ACB League teams. Tickets €15-40. Games at WiZink Center (formerly Palacio de Deportes). See real-madrid-bernabeu and estudiantes-basketball records.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -12403,7 +12682,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "fashion",
@@ -12415,7 +12694,15 @@
       "salamanca-luxury-shopping",
       "photoespana-festival"
     ],
-    "subsubcategory": "Cultural Festivals"
+    "subsubcategory": "Cultural Festivals",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "MBFWMadrid — Spain's fashion week",
+        "body": "Mercedes-Benz Fashion Week Madrid (MBFWMadrid) happens twice yearly (February + September) at IFEMA. Spanish designers showcase. International press + buyers. Some shows open to public. Check mbfwmadrid.com for schedule.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "gastrofestival-madrid",
@@ -13521,7 +13808,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "hammam",
@@ -13534,7 +13821,31 @@
       "terrazas-rooftop-bars-madrid",
       "yoga-madrid"
     ],
-    "subsubcategory": "Wellness & Relaxation"
+    "subsubcategory": "Wellness & Relaxation",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Hammam Al Ándalus",
+            "value": "Calle de Atocha 14 (Metro Sol/Tirso). €35-70. Steam, pools, massage."
+          },
+          {
+            "label": "Hours",
+            "value": "Daily 10am-10pm (sessions timed)"
+          },
+          {
+            "label": "Book ahead",
+            "value": "Yes — popular, especially weekends"
+          },
+          {
+            "label": "Best for",
+            "value": "Relaxing after sightseeing. Couples."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "flamenco-madrid",
@@ -13654,7 +13965,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "comedy",
@@ -13667,6 +13978,14 @@
       "teatro-real-madrid",
       "movie-theaters-madrid",
       "madrid-music-festivals"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "English-language comedy in Madrid",
+        "body": "The Giggling Guiri Comedy Club pioneered English-language stand-up in Madrid. For magic, Houdini Sala de Magia (García Luna 13) offers intimate magic shows. Check current schedules — comedy nights are typically weekly.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -13715,7 +14034,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "internet",
@@ -13727,7 +14046,15 @@
     "related_records": [
       "sim-cards-madrid"
     ],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish phone/internet/TV providers",
+        "body": "Movistar (largest, most expensive), Vodafone, Orange, MásMóvil (budget), Digi (cheapest). Fiber internet €35-50/month. Mobile €10-25/month. TV packages €50-100/month. Most providers offer bundle deals (fiber + mobile + TV). English customer service varies — Movistar and Vodafone have the most English speakers.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "satellite-tv-madrid",
@@ -13740,7 +14067,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "satellite",
@@ -13754,7 +14081,15 @@
       "phone-tv-internet-providers-madrid",
       "movie-theaters-madrid"
     ],
-    "subsubcategory": "Daily Practical"
+    "subsubcategory": "Daily Practical",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "UK TV in Spain",
+        "body": "UK satellite TV (Sky) is available in Spain with a large dish (1.2-2.4m depending on location). BBC/ITV may require a VPN or streaming service as an alternative. Many British expats now use IPTV services or VPN + UK streaming. The old Madrid Insider listed satellite TV installers — verify current providers.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "computer-electronics-stores-madrid",
@@ -15175,7 +15510,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "city",
@@ -15187,6 +15522,14 @@
       "metro-map-pdf",
       "interactive-maps-madrid",
       "madrid-tourist-offices"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Free official city map",
+        "body": "Download the official esMadrid city map PDF (free) before you arrive. Works offline on your phone. Available at esmadrid.com. Also pick up printed maps at any tourist office (Plaza Mayor, Atocha, airport).",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -15236,7 +15579,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "cercanias",
@@ -15249,6 +15592,14 @@
       "metro-map-pdf",
       "cercanias-madrid",
       "emt-bus-map"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Cercanías commuter rail map",
+        "body": "The Cercanías Madrid network has 9 lines (C1-C10) connecting Madrid to suburbs + nearby cities (El Escorial, Toledo direction, Guadalajara). Download the map from renfe.com. Key stations: Atocha, Chamartín, Nuevos Ministerios, Príncipe Pío.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -15498,7 +15849,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "left-luggage",
@@ -15510,6 +15861,34 @@
       "madrid-barajas-airport",
       "left-luggage",
       "left-luggage-atocha"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Barajas Airport — T1 only"
+          },
+          {
+            "label": "Hours",
+            "value": "24 hours / 7 days"
+          },
+          {
+            "label": "Small locker",
+            "value": "€2.85 1st day, €3.58/day after"
+          },
+          {
+            "label": "Large locker",
+            "value": "€2.85 1st day, €5.00/day after"
+          },
+          {
+            "label": "Special (skis/boards)",
+            "value": "€3.58/day"
+          }
+        ]
+      }
     ]
   },
   {
@@ -15583,7 +15962,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "left-luggage",
@@ -15595,6 +15974,30 @@
       "chamartin-station",
       "left-luggage",
       "left-luggage-atocha"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Chamartín Station (Metro Chamartín)"
+          },
+          {
+            "label": "Hours",
+            "value": "6am-11pm daily"
+          },
+          {
+            "label": "Cost",
+            "value": "€3.90-5.50/bag/day"
+          },
+          {
+            "label": "Max stay",
+            "value": "15 days, then warehouse"
+          }
+        ]
+      }
     ]
   },
   {
@@ -15660,7 +16063,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "storage",
@@ -15671,6 +16074,14 @@
     "related_records": [
       "left-luggage",
       "moving-shipping-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Trasteros = storage units",
+        "body": "Trasteros are individual storage units (like mini-storage) available for rent in Madrid. Useful for expats between apartments, storing seasonal items, or keeping luggage long-term. Search 'trasteros Madrid' online. €30-100/month depending on size + location.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16006,7 +16417,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "optical",
@@ -16016,6 +16427,14 @@
     ],
     "related_records": [
       "english-speaking-doctors-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Optical shops (ópticas) in Madrid",
+        "body": "Optical shops (ópticas) are everywhere in Madrid. Major chains: Óptica Universitaria, Multiópticas, Alain Afflelou. Eye exam often free with purchase of glasses. Glasses €80-300. Contact lenses €30-60/month. Many ópticas accept private health insurance.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16030,7 +16449,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "music",
@@ -16042,6 +16461,22 @@
       "bookstores-madrid",
       "bookstores-madrid-detail",
       "shopping-madrid-overview"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Music stores in Madrid",
+        "items": [
+          {
+            "title": "Adagio",
+            "body": "Carrera de San Jerónimo 26 (Metro Sevilla). Spanish guitars, amps, pianos, sheet music. Since old Madrid Insider era."
+          },
+          {
+            "title": "El Corte Inglés",
+            "body": "Multiple locations. Mainstream music + instruments section."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16256,7 +16691,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "ice-skating",
@@ -16266,6 +16701,14 @@
     "related_records": [
       "skiing-snowboarding-madrid",
       "swimming-pools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Ice skating in Madrid",
+        "body": "Palacio de Hielo (Silvano 77, Metro Canillas) is Madrid's main ice rink — open year-round. Part of a larger entertainment complex with bowling, shopping, and cinema. €8-12 for skating session + skate rental.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16279,7 +16722,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "pool",
@@ -16289,6 +16732,14 @@
     ],
     "related_records": [
       "bowling-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Pool & billiards in Madrid",
+        "body": "Pool halls in Madrid: No Se Lo Digas a Nadie (Ventura de la Vega 7, Metro Sevilla) — 6 pool tables, 2 floors, bar atmosphere, open until 6am. Search 'billar Madrid' for more halls. €6-10/hour per table.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16302,7 +16753,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "bowling",
@@ -16313,6 +16764,14 @@
     "related_records": [
       "pool-billiards-madrid",
       "ice-skating-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Bowling in Madrid",
+        "body": "Bowling alleys in Madrid: Palacio de Hielo (Canillas, 24 lanes), Diversia (Alcobendas). Part of entertainment complexes. €6-10/game + shoe rental. Good rainy day family activity.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16326,7 +16785,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "karting",
@@ -16336,6 +16795,14 @@
     ],
     "related_records": [
       "bowling-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Go-kart racing near Madrid",
+        "body": "Karting Feliz Vía (Ctra El Pardo km 3.4, Somontes Sports Complex) — electric karts for kids 4+ and adults. 10 min from Madrid. Outdoor track. Book ahead on weekends.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16471,7 +16938,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "jazz",
@@ -16482,6 +16949,30 @@
     "related_records": [
       "jazz-blues-madrid",
       "cafe-central-jazz"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Calle Alburquerque 14 (Metro Alonso Martínez)"
+          },
+          {
+            "label": "Cover",
+            "value": "€12-20 (includes drink)"
+          },
+          {
+            "label": "Music",
+            "value": "Jazz, blues, Latin jazz. Nightly."
+          },
+          {
+            "label": "Atmosphere",
+            "value": "Intimate, underground, classic Madrid jazz"
+          }
+        ]
+      }
     ]
   },
   {
@@ -16548,7 +17039,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "water-park",
@@ -16560,6 +17051,34 @@
       "aquopolis-water-park",
       "warner-park-madrid",
       "parque-de-atracciones-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "San Martín de la Vega (30km south of Madrid)"
+          },
+          {
+            "label": "Season",
+            "value": "Summer only (June-September)"
+          },
+          {
+            "label": "Cost",
+            "value": "€20-28"
+          },
+          {
+            "label": "Getting there",
+            "value": "Shuttle from Méndez Álvaro or drive"
+          },
+          {
+            "label": "Best for",
+            "value": "Families with kids 6-14"
+          }
+        ]
+      }
     ]
   },
   {
@@ -16675,7 +17194,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "puppet",
@@ -16688,6 +17207,14 @@
       "retiro-park",
       "imax-planetarium-madrid",
       "madrid-kids-museums"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Puppet shows for kids",
+        "body": "El Retiro Park has a historic puppet theater (Teatro de Títeres) with weekend shows for children. Casa de Titeres de El Retiro. Free or low-cost. Also check Cultural Center San Blas and other civic centers for children's theater programming.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16701,7 +17228,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "family",
       "museum",
@@ -16713,6 +17240,14 @@
     "related_records": [
       "madrid-kids-museums",
       "museo-arqueologico-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Dinosaurs in Madrid!",
+        "body": "The Natural Sciences Museum (Calle José Gutiérrez Abascal 2, Metro Gregorio Marañón) has an excellent dinosaur collection including a Megatherium skeleton and T-Rex replica. Kids love it. €6. Free on Sunday mornings. See family-attractions record.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16955,7 +17490,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "bingo",
@@ -16964,6 +17499,14 @@
     ],
     "related_records": [
       "casinos-gambling-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Bingo halls in Madrid",
+        "body": "Bingo is popular in Spain, particularly with older adults. Bingo halls (salas de bingo) exist across Madrid. Buy cards (cartones), mark numbers as called. Small prizes per game, larger for full card. Check 'bingo Madrid' for current locations.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16978,7 +17521,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "rooftop",
@@ -16991,6 +17534,34 @@
       "terrazas-rooftop-bars-madrid",
       "gran-via",
       "puerta-de-alcala"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Address",
+            "value": "Calle de Alcalá 42 (Metro Banco de España)"
+          },
+          {
+            "label": "Rooftop entry",
+            "value": "€5 (includes terrace access)"
+          },
+          {
+            "label": "Bar/restaurant",
+            "value": "Tartan Roof — cocktails + food"
+          },
+          {
+            "label": "Views",
+            "value": "Cibeles, Gran Vía, skyline — 360°"
+          },
+          {
+            "label": "Best time",
+            "value": "Sunset (arrive 30 min early)"
+          }
+        ]
+      }
     ]
   },
   {
@@ -17061,7 +17632,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "department-store",
@@ -17073,6 +17644,14 @@
       "shopping-madrid-overview",
       "salamanca-luxury-shopping",
       "bookstores-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's department store institution",
+        "body": "El Corte Inglés Castellana is the flagship of Spain's largest department store chain. 8 floors of everything: food, fashion, electronics, books, souvenirs, supermarket, travel agency. Price-matches competitors. Open Sundays (unusual in Spain). Gourmet floor is excellent for food gifts.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17087,7 +17666,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "luxury",
@@ -17100,6 +17679,14 @@
       "salamanca-luxury-shopping",
       "vat-refund-spain",
       "el-corte-ingles-castellana"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Casa Loewe — Spanish luxury since 1846",
+        "body": "Loewe is Spain's oldest luxury brand (founded 1846 in Madrid). The Casa Loewe flagship at Calle Serrano 7 is a design gallery + store — worth visiting even if you're not buying. Leather goods, fashion, perfume. Part of LVMH group since 1996.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17114,7 +17701,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "antiques",
@@ -17127,6 +17714,14 @@
       "el-rastro-flea-market",
       "la-latina-neighborhood",
       "la-latina-tapas-nightlife"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Antiques at El Rastro",
+        "body": "The upper end of Ribera de Curtidores (toward Plaza de Cascorro) has the best antiques stalls at El Rastro. Look for vintage Spanish fans, Toledo steel, old maps, antique jewelry. Arrive before 10am for best selection. Bargaining expected.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17140,7 +17735,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "basketball",
@@ -17150,6 +17745,14 @@
     "related_records": [
       "basketball-madrid",
       "real-madrid-bernabeu"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's second basketball team",
+        "body": "Movistar Estudiantes is Madrid's historic basketball club (founded 1948). Plays in ACB League. Games at Palacio de Deportes (WiZink Center). Tickets €15-30. Less expensive than Real Madrid basketball.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17163,7 +17766,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "running",
@@ -17176,6 +17779,34 @@
       "running-madrid",
       "casa-de-campo",
       "cycling-mtb-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "When",
+            "value": "Every Saturday 9am"
+          },
+          {
+            "label": "Where",
+            "value": "Retiro Park (main event)"
+          },
+          {
+            "label": "Distance",
+            "value": "5K"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (register at parkrun.es first)"
+          },
+          {
+            "label": "Level",
+            "value": "All levels — walkers welcome"
+          }
+        ]
+      }
     ]
   },
   {
@@ -17190,7 +17821,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "tourist",
@@ -17203,6 +17834,14 @@
       "official-madrid-city-map",
       "interactive-maps-madrid",
       "metro-map-pdf"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Printable tourist map",
+        "body": "Download a printable PDF tourist map from esmadrid.com before your trip. Shows major attractions, Metro stations, and tourist offices. Also available in print at all tourist offices.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17253,7 +17892,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "retiro",
@@ -17266,6 +17905,14 @@
       "retiro-park",
       "walking-maps-madrid",
       "official-madrid-city-map"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Retiro Park self-guided walk",
+        "body": "Key Retiro Park highlights: Estanque (rowing lake), Palacio de Cristal (glass palace), Rosaleda (rose garden), Paseo de las Estatuas (statue walk), Fuente de la Alcachofa (artichoke fountain). Allow 2 hours for a full loop. Free.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17315,7 +17962,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "neighborhood",
       "street-art",
@@ -17328,6 +17975,14 @@
       "lavapies-neighborhood",
       "malasana-neighborhood",
       "walking-tours-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's street art scene",
+        "body": "Lavapiés is Madrid's street art capital — walk Calle de la Argumosa and surrounding streets. Also check Tabacalera (former tobacco factory, now cultural center with murals). CaixaForum vertical garden (living wall by Patrick Blanc) on Paseo del Prado is a must-see.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17481,7 +18136,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "practical",
@@ -17492,6 +18147,14 @@
     "related_records": [
       "useful-information-madrid",
       "el-corte-ingles-castellana"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Free public toilets are rare in Madrid",
+        "body": "Use: El Corte Inglés (clean, free), museums (free with entry), McDonald's/Burger King (buy something), Metro stations (some have toilets), hotel lobbies (walk in confidently). Cafés legally must let you use the toilet if you've purchased something.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17935,7 +18598,7 @@
     "status": "legacy",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "magazine",
@@ -17948,6 +18611,14 @@
       "madrid-metropolitan",
       "expat-publications-madrid",
       "el-pais-english"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Historical English magazine (defunct)",
+        "body": "The Broadsheet was Madrid's premium English-language monthly magazine. It merged with Madrid Metropolitan. See english-publications-history-madrid and madrid-metropolitan records for the continuation.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17962,7 +18633,7 @@
     "status": "legacy",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "magazine",
@@ -17975,6 +18646,14 @@
       "madrid-metropolitan",
       "the-broadsheet-madrid",
       "expat-publications-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Historical English magazine (defunct)",
+        "body": "In Madrid was a free English-language monthly newspaper distributed across Madrid for years. Ceased print publication. Its digital legacy continues through Madrid Metropolitan. See english-publications-history-madrid for full history.",
+        "tone": "info"
+      }
     ]
   },
   {
