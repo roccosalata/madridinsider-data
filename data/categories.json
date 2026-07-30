@@ -2,7 +2,7 @@
   {
     "id": "essentials",
     "title": "Madrid Essentials",
-    "description": "Everything you need before you arrive and during your stay — visas, money, transport, maps, tourist information, language, safety, and connectivity. The practical foundation for your Madrid visit.",
+    "description": "Everything you need before you arrive and during your stay — visas, money, transport (metro, buses, airport, trains), tourist information (maps, apps, SIM cards, WiFi), Spanish language, and safety. The practical foundation for your Madrid visit.",
     "emoji": "🎒",
     "color": "red",
     "subcategories": [
@@ -67,24 +67,8 @@
         "slug": "tourist-info",
         "title": "Tourist Information",
         "icon": "ℹ️",
-        "summary": "Tourist offices, Madrid City Card, essential apps, airport info desks, audio guides.",
-        "tips": "Start at the Plaza Mayor Tourist Office (free maps, English advice, 9:30am-8:30pm daily). The Madrid City Card (€48-108) bundles transport + museums + bus tour — worth it if you plan 4+ museums. Download the Metro de Madrid and EMT apps before you arrive."
-      },
-      {
-        "id": "connectivity",
-        "slug": "connectivity",
-        "title": "Connectivity",
-        "icon": "📶",
-        "summary": "SIM cards, eSIMs, public Wi-Fi, coworking spaces, and internet cafés.",
-        "tips": "For short visits, get an eSIM (Airalo, $5 for 1GB) before you land — no store visit needed. For longer stays, a prepaid SIM from Vodafone/Orange/Movistar costs €10-20. Free public Wi-Fi: 'Madrid_Free_WiFi' network (600+ hotspots), cafés, and Metro stations."
-      },
-      {
-        "id": "maps",
-        "slug": "maps",
-        "title": "Maps",
-        "icon": "🗺️",
-        "summary": "Official city map, Metro map, Cercanías map, bus map, bike map, walking routes, and digital maps.",
-        "tips": "Download the official Metro map PDF to your phone (works offline). For self-guided walking, esMadrid offers 7 free audio-guided routes (1-3 hours each). Google Maps offline download covers all of Madrid in ~200MB. Citymapper is best for real-time transit."
+        "summary": "Tourist offices, Madrid City Card, essential apps, airport info desks, audio guides, city maps, walking routes, SIM cards, eSIMs, WiFi, and connectivity.",
+        "tips": "Start at the Plaza Mayor Tourist Office (free maps, English advice, 9:30am-8:30pm daily). The Madrid City Card (€48-108) bundles transport + museums + bus tour — worth it if you plan 4+ museums. Download the Metro de Madrid and EMT apps before you arrive. For connectivity: get an eSIM (Airalo, $5 for 1GB) before you land — no store visit needed. For longer stays, a prepaid SIM from Vodafone/Orange/Movistar costs €10-20. Free public Wi-Fi: 'Madrid_Free_WiFi' network (600+ hotspots), cafés, and Metro stations."
       }
     ]
   },
