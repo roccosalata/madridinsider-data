@@ -1033,7 +1033,37 @@
     ],
     "official_url": "https://www.esmadrid.com/en/practical-information",
     "subsubcategory": "Budgeting",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Daily Budget Ranges (2026)",
+        "items": [
+          {
+            "label": "Budget traveler",
+            "value": "€40-70/day (hostel, menú del día, free attractions, Metro)"
+          },
+          {
+            "label": "Mid-range traveler",
+            "value": "€100-180/day (hotel, restaurants, paid attractions, some tours)"
+          },
+          {
+            "label": "Luxury traveler",
+            "value": "€250-500+/day (5-star, fine dining, private tours, VIP)"
+          },
+          {
+            "label": "Digital nomad",
+            "value": "€50-80/day living cost (monthly: €1,500-2,500 including rent)"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "See also",
+        "body": "For comprehensive monthly cost breakdown (rent, food, transport, healthcare), see cost-of-living-madrid record.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "survival-spanish",
@@ -1811,7 +1841,49 @@
     ],
     "official_url": "https://www.esmadrid.com/en/areas",
     "subsubcategory": "Finding a Place",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Which Madrid neighborhood is right for you?",
+        "body": "Madrid's neighborhoods (barrios) each have distinct characters. Pick 2-3 to explore per day — they're all walkable. Best first walk: Sol → Plaza Mayor → La Latina (tapas).",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Neighborhoods by vibe",
+        "items": [
+          {
+            "title": "Tourist center",
+            "body": "Sol, Gran Vía, Plaza Mayor. Hotels, shops, crowds. Best for first-time visitors."
+          },
+          {
+            "title": "Hipster/alternative",
+            "body": "Malasaña. Vintage shops, craft beer, indie music. Best for under-35s."
+          },
+          {
+            "title": "LGBTQ+ & chic",
+            "body": "Chueca. Fashion boutiques, cocktail bars, Madrid Pride."
+          },
+          {
+            "title": "Tapas & tradition",
+            "body": "La Latina. Cava Baja, El Rastro flea market. Best Sunday afternoon."
+          },
+          {
+            "title": "Multicultural",
+            "body": "Lavapiés. Indian, Senegalese, Mexican food. Alternative arts."
+          },
+          {
+            "title": "Upscale",
+            "body": "Salamanca. Calle Serrano luxury. Embassies. Most expensive."
+          },
+          {
+            "title": "Local/authentic",
+            "body": "Chamberí. Tapas on Calle Ponzano. Andén 0 ghost metro museum."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "rental-contracts",
@@ -3498,7 +3570,43 @@
     ],
     "official_url": "https://www.esmadrid.com/en/culture",
     "subsubcategory": "Overview",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Key Madrid traditions to experience",
+        "items": [
+          {
+            "title": "Flamenco",
+            "body": "Cardamomo, Corral de la Morería. See flamenco-madrid record."
+          },
+          {
+            "title": "Verbenas (street festivals)",
+            "body": "San Isidro (May), La Paloma (August). See verbenas-festivals record."
+          },
+          {
+            "title": "Chotis",
+            "body": "Traditional Madrid dance. Slow, graceful. Danced at verbenas."
+          },
+          {
+            "title": "Bullfighting",
+            "body": "Las Ventas (March-October). Controversial but culturally significant. See bullfights-madrid."
+          },
+          {
+            "title": "Tapas culture",
+            "body": "Going from bar to bar, eating small plates. See la-latina-tapas-nightlife."
+          },
+          {
+            "title": "Vermouth (vermut)",
+            "body": "Pre-lunch aperitif. See vermouth-madrid."
+          },
+          {
+            "title": "El Rastro flea market",
+            "body": "Every Sunday 9am-3pm in La Latina. Madrid institution."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "veranos-de-la-villa",
@@ -6383,7 +6491,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tour",
       "bus",
@@ -6396,7 +6504,31 @@
       "sol-gran-via-neighborhood",
       "walking-tours-madrid"
     ],
-    "subsubcategory": "Bus Tours"
+    "subsubcategory": "Bus Tours",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Madrid City Tour",
+            "value": "€22/24h. 2 routes. Hop-on hop-off. Audio in 14 languages."
+          },
+          {
+            "label": "Best for",
+            "value": "Day 1 orientation — see the city layout"
+          },
+          {
+            "label": "Cheapest option",
+            "value": "Metro + walking (€21.50 for 10 trips)"
+          },
+          {
+            "label": "Meeting point",
+            "value": "Felipe IV statue, Paseo del Prado"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "walking-tours-madrid",
@@ -6522,7 +6654,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tour",
       "segway",
@@ -6534,7 +6666,35 @@
       "retiro-park",
       "retiro-neighborhood"
     ],
-    "subsubcategory": "Segway Tours"
+    "subsubcategory": "Segway Tours",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€35-65 per person"
+          },
+          {
+            "label": "Duration",
+            "value": "1.5-3 hours"
+          },
+          {
+            "label": "Best for",
+            "value": "Retiro Park (flat, scenic, no traffic)"
+          },
+          {
+            "label": "Age requirement",
+            "value": "Usually 12+ (varies by operator)"
+          },
+          {
+            "label": "Book ahead",
+            "value": "Yes — especially weekends"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "food-tours-madrid",
@@ -6660,7 +6820,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tour",
       "bike",
@@ -6673,7 +6833,35 @@
       "bicimad",
       "retiro-park"
     ],
-    "subsubcategory": "Bike Tours"
+    "subsubcategory": "Bike Tours",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€25-40 per person"
+          },
+          {
+            "label": "Duration",
+            "value": "2-4 hours"
+          },
+          {
+            "label": "Best routes",
+            "value": "Retiro Park, Madrid Río, Casa de Campo"
+          },
+          {
+            "label": "BiciMAD",
+            "value": "€0.50/30min electric bike share (self-guided)"
+          },
+          {
+            "label": "Best season",
+            "value": "April-June, September-November (avoid summer heat)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "day-tours-from-madrid",
@@ -7841,7 +8029,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "royal",
       "monastery",
@@ -7855,7 +8043,57 @@
       "ave-high-speed-trains",
       "monastery-stays-spain"
     ],
-    "subsubcategory": "Royal Monastery"
+    "subsubcategory": "Royal Monastery",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "San Lorenzo de El Escorial (45km NW of Madrid)"
+          },
+          {
+            "label": "Getting there",
+            "value": "1hr by Cercanías C8 from Atocha/Chamartín (€5.60)"
+          },
+          {
+            "label": "Ticket",
+            "value": "€12 (€6 reduced). Free for EU under 18"
+          },
+          {
+            "label": "Hours",
+            "value": "Tue-Sun 10am-6pm (winter) / 7pm (summer)"
+          },
+          {
+            "label": "UNESCO",
+            "value": "World Heritage Site since 1984"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "What to see at El Escorial",
+        "items": [
+          {
+            "title": "Royal Pantheon",
+            "body": "Burial chamber of Spanish kings. Gold and marble. Most kings since Charles V (1558) are here."
+          },
+          {
+            "title": "Library",
+            "body": "One of the world's most beautiful libraries. 40,000+ volumes. Vaulted ceiling frescoes."
+          },
+          {
+            "title": "Basilica",
+            "body": "Church with stunning dome. 86m long. Altar by Cellini."
+          },
+          {
+            "title": "Gardens",
+            "body": "Fray José de Sigüenza gardens. Free. Quieter than the monastery."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "sabatini-gardens",
@@ -7903,7 +8141,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "royal",
       "plaza",
@@ -7917,7 +8155,35 @@
       "almudena-cathedral",
       "sol-gran-via-neighborhood"
     ],
-    "subsubcategory": "Plazas"
+    "subsubcategory": "Plazas",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "East side of Royal Palace, west of Teatro Real"
+          },
+          {
+            "label": "Metro",
+            "value": "Ópera (L2, L5)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free"
+          },
+          {
+            "label": "Statues",
+            "value": "20 Gothic kings of Spain line the square"
+          },
+          {
+            "label": "Best for",
+            "value": "Photo spot with Royal Palace backdrop"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "el-rastro-flea-market",
@@ -8179,7 +8445,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "traditions",
       "verbena",
@@ -8193,7 +8459,37 @@
       "san-isidro-festival",
       "chotis-madrid"
     ],
-    "subsubcategory": "Festivals"
+    "subsubcategory": "Festivals",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's street festival tradition",
+        "body": "Verbenas are Madrid's neighborhood street festivals — free, crowded, fun. Each neighborhood has its own patron saint day. Streets fill with food stalls, music, dancing, and carnival rides. The biggest: San Isidro (May), San Cayetano, San Lorenzo, La Paloma (August).",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Major verbenas calendar",
+        "items": [
+          {
+            "title": "San Isidro (May 11-15)",
+            "body": "Madrid's biggest festival. 9 days. Patron saint of Madrid. Concerts, bullfights, street parties. City-wide."
+          },
+          {
+            "title": "San Cayetano (early August)",
+            "value": "La Latina/Cascorro. Street parties, live music, traditional dress."
+          },
+          {
+            "title": "San Lorenzo (August 9-11)",
+            "value": "Lavapiés area. Street festival. Multicultural atmosphere."
+          },
+          {
+            "title": "La Paloma (August 11-15)",
+            "value": "La Latina. Biggest August festival. Streets decorated. Dancing chotis."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chotis-madrid",
@@ -8457,7 +8753,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "now",
       "transit",
@@ -8471,6 +8767,14 @@
       "atocha-station",
       "chamartin-station",
       "metro-closures-summer-2026"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Check before you travel",
+        "body": "Cercanías delays are common, especially during rush hour (7:30-9:30am, 5:30-7:30pm). Check @CercaniasMadrid on Twitter or the Renfe app before traveling. Delays of 5-15 minutes are normal; 30+ minutes during incidents.",
+        "tone": "warning"
+      }
     ]
   },
   {
@@ -8498,7 +8802,15 @@
       "metro-de-madrid",
       "emt-buses"
     ],
-    "subsubcategory": "Taxi & Ride-Share"
+    "subsubcategory": "Taxi & Ride-Share",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Taxi strikes happen",
+        "body": "Madrid taxi drivers occasionally strike (usually over ride-sharing regulations). During strikes, use Metro (unaffected), walk, or rent a BiciMAD e-bike. Strike dates are announced in advance — check local news.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "airport-delays-madrid",
@@ -9171,7 +9483,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "money",
       "vat",
@@ -9186,7 +9498,59 @@
       "salamanca-luxury-shopping",
       "shopping-madrid-overview"
     ],
-    "subsubcategory": "Tax Free"
+    "subsubcategory": "Tax Free",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "VAT rate in Spain",
+            "value": "21% (standard), 10% (reduced), 4% (super-reduced)"
+          },
+          {
+            "label": "Minimum purchase",
+            "value": "€90.15 (incl. VAT) per store"
+          },
+          {
+            "label": "Refund amount",
+            "value": "15-21% of purchase price (minus processing fee)"
+          },
+          {
+            "label": "Who qualifies",
+            "value": "Non-EU residents only (EU residents don't qualify)"
+          },
+          {
+            "label": "Time limit",
+            "value": "3 months from purchase to exit EU"
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "How to claim VAT refund",
+        "items": [
+          {
+            "title": "Shop at tax-free stores",
+            "body": "Look for 'Tax Free' signage. Ask for the tax-free form (Global Blue or Planet) at checkout.",
+            "tip": "Bring your passport — required for the form."
+          },
+          {
+            "title": "Keep receipts + forms",
+            "body": "Store the tax-free form + original receipt together. You'll need both at the airport."
+          },
+          {
+            "title": "Validate at airport customs",
+            "body": "Before checking in, go to Customs (Aduanas) at the airport. Show purchases + forms + passport. Get stamp.",
+            "tip": "Arrive 30 min early — Customs lines can be long."
+          },
+          {
+            "title": "Collect refund",
+            "body": "After security, find the Global Blue / Planet refund desk. Choose cash or credit card refund. Cash has a small fee."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "spanish-learning-resources",
@@ -9199,7 +9563,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "language",
       "spanish",
@@ -9214,7 +9578,35 @@
       "spanish-immersion-adults-spain",
       "instituto-cervantes-accredited-schools-madrid"
     ],
-    "subsubcategory": "Learning"
+    "subsubcategory": "Learning",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best free + paid Spanish learning resources",
+        "items": [
+          {
+            "title": "Duolingo (free)",
+            "body": "Best app for beginners. Gamified lessons. 5-15 min/day. Covers vocabulary + grammar basics."
+          },
+          {
+            "title": "Pimsleur (paid)",
+            "body": "Audio-based. Best for pronunciation + speaking. 30 min/day. €20/month."
+          },
+          {
+            "title": "italki (paid)",
+            "body": "1-on-1 online tutoring with native speakers. €10-25/hour. Best for conversation practice."
+          },
+          {
+            "title": "Language Exchange (free)",
+            "body": "Meet native Spanish speakers in Madrid. See language-exchanges-madrid record."
+          },
+          {
+            "title": "Spanish TV + Netflix",
+            "body": "Watch 'La Casa de Papel' (Money Heist), 'Elite', or 'Las Chicas del Cable' with Spanish subtitles."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "language-exchanges-madrid",
@@ -9356,7 +9748,41 @@
       "pharmacies",
       "local-police-stations-madrid"
     ],
-    "subsubcategory": "Crime & Scams"
+    "subsubcategory": "Crime & Scams",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is safe — but pickpockets are skilled",
+        "body": "Violent crime is very rare in Madrid. The main risk is pickpocketing, especially in Sol, Plaza Mayor, El Rastro flea market, and on Metro Line 1. Stay alert and you'll be fine.",
+        "tone": "warning"
+      },
+      {
+        "type": "list",
+        "heading": "Common Madrid scams to avoid",
+        "items": [
+          {
+            "title": "Fake petition scam",
+            "body": "Someone with a clipboard asks you to sign a 'petition for the deaf/blind.' While you're distracted, an accomplice picks your pocket. Just wave them off."
+          },
+          {
+            "title": "Flower pushers",
+            "body": "Someone tries to hand you a flower or sprig of rosemary. Once you take it, they demand payment. Don't accept."
+          },
+          {
+            "title": "ATM 'helpers'",
+            "body": "Someone offers to help you use the ATM. They memorize your PIN, then an accomplice distracts you while they swap your card. Use bank ATMs inside branches."
+          },
+          {
+            "title": "Metro pickpockets",
+            "body": "Work in teams. One blocks the door while another grabs your phone/wallet. Keep valuables in front pockets. Be extra alert on Line 1 (Sol-Tirso de Molina)."
+          },
+          {
+            "title": "Restaurant bill scam",
+            "body": "Check your bill carefully — some tourist-area restaurants add items you didn't order. Always ask for 'la cuenta' (the bill)."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "english-speaking-doctors-madrid",
@@ -10301,7 +10727,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "tapas",
@@ -10316,7 +10742,41 @@
       "tipping-spain",
       "vermouth-madrid"
     ],
-    "subsubcategory": "Bars & Pubs"
+    "subsubcategory": "Bars & Pubs",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "The ultimate tapas crawl street",
+        "body": "Cava Baja is Madrid's most famous tapas street. Start at Plaza de la Cebada, work your way down Cava Baja, stopping at 3-4 bars. Order a drink + a tapa at each. Finish at Plaza de la Paja.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Cava Baja tapas crawl itinerary",
+        "items": [
+          {
+            "title": "Stop 1: Juana La Loca",
+            "body": "Plaza de la Paja. Famous for their tortilla de patatas (Spanish omelette). €4/slice."
+          },
+          {
+            "title": "Stop 2: Txakolina",
+            "body": "Cava Baja 26. Basque pintxos. Try the bacalao (cod). €3-4/pintxo."
+          },
+          {
+            "title": "Stop 3: Casa Lucas",
+            "body": "Cava Baja 30. Modern tapas. Try the oysters with cava."
+          },
+          {
+            "title": "Stop 4: El Almendro",
+            "body": "Almendro 13. Huevos estrellados (smashed eggs with potatoes + jamón). Must-try."
+          },
+          {
+            "title": "Stop 5: Los Huevos de Lucio",
+            "body": "Cava Baja 30. Another huevos estrellados spot. Classic Madrid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "teatro-real-madrid",
@@ -10924,7 +11384,51 @@
       "wine-certification-spain",
       "wine-tours-from-madrid"
     ],
-    "subsubcategory": "Food Culture & Basics"
+    "subsubcategory": "Food Culture & Basics",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Key Spanish Wine Regions",
+        "items": [
+          {
+            "label": "Rioja",
+            "value": "Reds (Tempranillo). Spain's most famous region. 3hr north of Madrid."
+          },
+          {
+            "label": "Ribera del Duero",
+            "value": "Bold reds (Tempranillo/Tinto Fino). 1.5hr north of Madrid."
+          },
+          {
+            "label": "Rías Baixas",
+            "value": "Crisp whites (Albariño). Galicia. Northwest Spain."
+          },
+          {
+            "label": "Cava",
+            "value": "Sparkling wine (Penedès, Catalonia). Spanish champagne."
+          },
+          {
+            "label": "Sherry (Jerez)",
+            "value": "Fortified wine (Andalusia). Fino, manzanilla, oloroso."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Ordering wine in Madrid",
+        "do": [
+          "Order 'vino tinto' (red) or 'vino blanco' (white) — simple",
+          "Try 'vermut' (vermouth) as a pre-lunch aperitif",
+          "Ask for 'la carta de vinos' (wine list) at restaurants",
+          "Try Rioja Crianza (€3-5/glass) — best value red",
+          "Visit a vinoteca (wine bar) for tastings"
+        ],
+        "dont": [
+          "Don't order 'sangria' in a good restaurant — it's for tourists",
+          "Don't skip Spanish whites — Albariño is excellent",
+          "Don't overpay — house wine (vino de la casa) is often great value"
+        ]
+      }
+    ]
   },
   {
     "id": "madrid-open-tennis",
@@ -11936,7 +12440,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "terrazas",
@@ -11952,7 +12456,50 @@
       "madrid-music-festivals",
       "outdoor-dining-terraces-madrid"
     ],
-    "subsubcategory": "Rooftops & Terraces"
+    "subsubcategory": "Rooftops & Terraces",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Best Rooftop Bars in Madrid",
+        "items": [
+          {
+            "label": "Riu Plaza España",
+            "value": "27th floor. Highest in Madrid. €10 entry. 360° views."
+          },
+          {
+            "label": "Círculo de Bellas Artes",
+            "value": "8th floor. €5 entry. Classic rooftop. Calle Alcalá 42."
+          },
+          {
+            "label": "Hotel Ritz",
+            "value": "Luxury. Expensive drinks. Mandarin Oriental. Plaza de la Lealtad."
+          },
+          {
+            "label": "Tartan Roof",
+            "value": "At Círculo de Bellas Artes. Restaurant + bar. Popular in summer."
+          },
+          {
+            "label": "Ginkgo Sky Bar",
+            "value": "VP Plaza de España. Modern. Great sunset views."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Rooftop bar tips",
+        "do": [
+          "Arrive 30 min before sunset for best photos",
+          "Dress smart-casual — hotel rooftops have dress codes",
+          "Go in spring/fall for best weather (summer is too hot at midday)",
+          "Bring cash for entry fees at some rooftops"
+        ],
+        "dont": [
+          "Don't wear flip-flops or sportswear — you'll be turned away",
+          "Don't expect cheap drinks — rooftop cocktails are €12-20",
+          "Don't go during midday summer heat (2-6pm, 40°C)"
+        ]
+      }
+    ]
   },
   {
     "id": "yoga-madrid",
@@ -15293,7 +15840,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "spa",
@@ -15308,6 +15855,33 @@
       "terrazas-rooftop-bars-madrid",
       "meditation-retreats-spain",
       "yoga-wellness-retreats-spain"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Top spas in Madrid",
+        "items": [
+          {
+            "title": "Four Seasons Spa",
+            "body": "Calle de Sevilla 3. Luxury. Massage, facial, pool. €150-300/treatment."
+          },
+          {
+            "title": "Hammam Al Ándalus",
+            "body": "Calle de Atocha 14. Arab baths. Steam, hot/cold pools, massage. €35-70.",
+            "meta": [
+              "See hammams-arab-baths-madrid"
+            ]
+          },
+          {
+            "title": "Ritz Spa",
+            "body": "Mandarin Oriental Ritz. Luxury. Pool, treatments. €200+."
+          },
+          {
+            "title": "Aquella Spa (Hotel Único)",
+            "body": "Calle de Claudio Coello 67. Boutique luxury. Natura Bissé products."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16080,7 +16654,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "guidebook",
@@ -16095,6 +16669,14 @@
       "madrid-apps",
       "official-madrid-city-map",
       "useful-information-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "No more Madrid Card",
+        "body": "The original Madrid Card has been discontinued. For current tourist passes, see madrid-city-card record (Paseo del Arte €28.80 for 3 museums, Madrid City Tour €22 for bus).",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16494,7 +17076,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "education",
       "academy",
@@ -16511,6 +17093,34 @@
       "teacher-training-madrid",
       "language-schools-madrid",
       "bilingual-schools-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Run by",
+            "value": "Rebecca Gaspar"
+          },
+          {
+            "label": "Location",
+            "value": "Calle Amalia 9, Madrid"
+          },
+          {
+            "label": "Classes",
+            "value": "Kids, teens, adults. English + Spanish"
+          },
+          {
+            "label": "Summer camps",
+            "value": "Kids English Club summer camps"
+          },
+          {
+            "label": "Website",
+            "value": "iberenglish.com"
+          }
+        ]
+      }
     ]
   },
   {
