@@ -1057,7 +1057,7 @@
     "official_url": "https://www.112.es/",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "safety",
       "emergency"
@@ -1069,7 +1069,8 @@
       "locksmiths-madrid",
       "lost-passport",
       "pharmacies",
-      "tourist-scams-madrid"
+      "tourist-scams-madrid",
+      "local-police-stations-madrid"
     ],
     "subsubcategory": "Emergency Services",
     "sections": [
@@ -1164,7 +1165,7 @@
     "official_url": "https://es.usembassy.gov",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "safety",
       "embassy"
@@ -1176,7 +1177,8 @@
       "schengen-visa-uk",
       "schengen-visa-us",
       "student-visa-spain",
-      "work-visa-spain"
+      "work-visa-spain",
+      "local-police-stations-madrid"
     ],
     "subsubcategory": "Official Help",
     "sections": [
@@ -1261,7 +1263,7 @@
     "content": "Lost or stolen passport in Madrid. STEP 1 — FILE A POLICE REPORT: File online at denuncias.policia.es (available in English, works for non-residents). Choose 'robo' (theft) or 'pérdida' (loss). For theft with violence, call 112 or go to a police station in person. Print the report — you'll need it for insurance and your embassy. STEP 2 — CONTACT YOUR EMBASSY: US Embassy (Serrano 75, 91 587 2200, appointment required at usais.usmission.gov). UK Embassy (Farfa 16, 91 714 6300). Canadian Embassy (Núñez de Balboa 35, 91 382 8400). Australian Embassy (Planelles 10, 91 353 6600). Bring: police report, passport photo (or they can take one), passport number (if you have a copy), travel itinerary, fee (€100-150 for emergency passport). STEP 3 — EMERGENCY PASSPORT: US: emergency passport in 1-2 business days, valid for 1 year. UK: emergency travel document in 1-2 business days, valid for single journey. Canada: emergency passport in 1-3 business days. STEP 4 — TRAVEL INSURANCE: Most travel insurance covers passport replacement costs. Keep all receipts and the police report for your claim. PREVENTION: (1) Leave your passport in the hotel safe — carry a photocopy. (2) Take photos of your passport and store in cloud. (3) Email yourself a copy. (4) Register with your embassy before traveling (STEP for US, LOCATE for UK). (5) Use a money belt in tourist areas. TIPS: (1) The police report is essential — don't skip this step. (2) Embassy appointments can be booked online — don't just show up. (3) If you have a flight in 24 hours, tell the embassy — they can expedite. (4) Emergency passports may not be accepted for all destinations — check with your airline.",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "safety",
       "passport"
@@ -1269,7 +1271,8 @@
     "related_records": [
       "embassies",
       "emergency-numbers",
-      "passport-requirements"
+      "passport-requirements",
+      "local-police-stations-madrid"
     ],
     "official_url": "https://denuncias.policia.es/OVD/?lang=en_GB",
     "subsubcategory": "Official Help",
@@ -2018,7 +2021,7 @@
     "official_url": "https://www.museodelprado.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "museums",
       "prado",
@@ -2032,7 +2035,8 @@
       "museo-thyssen-bornemisza-detail",
       "puerta-del-sol",
       "spanish-art-history-madrid",
-      "paseo-del-prado-fountains"
+      "paseo-del-prado-fountains",
+      "museo-thyssen-bornemisza"
     ],
     "subsubcategory": "Golden Triangle",
     "sections": [
@@ -2158,7 +2162,7 @@
     "official_url": "https://www.museoreinasofia.es/en",
     "status": "evergreen",
     "english_friendly": true,
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "museums",
       "reina-sofia",
@@ -2171,7 +2175,8 @@
       "museo-del-prado",
       "museo-thyssen-bornemisza-detail",
       "artist-residencies-madrid",
-      "spanish-art-history-madrid"
+      "spanish-art-history-madrid",
+      "museo-thyssen-bornemisza"
     ],
     "subsubcategory": "Golden Triangle",
     "sections": [
@@ -3522,7 +3527,7 @@
     "official_url": "https://www.museodelprado.es/en/whats-on/exhibitions",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "exhibitions",
       "prado"
@@ -3530,7 +3535,8 @@
     "related_records": [
       "museo-del-prado",
       "reina-sofia-current",
-      "thyssen-current"
+      "thyssen-current",
+      "museo-thyssen-bornemisza"
     ],
     "subsubcategory": "Museum Exhibitions",
     "sections": [
@@ -3620,7 +3626,7 @@
     "official_url": "https://www.museoreinasofia.es/en/exhibitions",
     "status": "dynamic",
     "english_friendly": true,
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "exhibitions",
       "reina-sofia"
@@ -3629,7 +3635,8 @@
       "museo-reina-sofia",
       "prado-current",
       "thyssen-current",
-      "artist-residencies-madrid"
+      "artist-residencies-madrid",
+      "museo-thyssen-bornemisza"
     ],
     "subsubcategory": "Museum Exhibitions",
     "sections": [
@@ -5300,7 +5307,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "neighborhood",
       "salamanca",
@@ -5310,7 +5317,8 @@
     "related_records": [
       "sol-gran-via-neighborhood",
       "metro-de-madrid",
-      "plaza-de-colon"
+      "plaza-de-colon",
+      "japanese-restaurants-madrid"
     ],
     "subsubcategory": "Upscale & Residential",
     "sections": [
@@ -8776,7 +8784,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "safety",
       "scam",
@@ -8788,7 +8796,8 @@
       "embassies",
       "emergency-numbers",
       "lost-passport",
-      "pharmacies"
+      "pharmacies",
+      "local-police-stations-madrid"
     ],
     "subsubcategory": "Crime & Scams"
   },
@@ -9315,7 +9324,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "day-trips",
       "el-escorial",
@@ -9328,7 +9337,8 @@
       "day-tours-from-madrid",
       "segovia-day-trip",
       "renfe-trains",
-      "monastery-stays-spain"
+      "monastery-stays-spain",
+      "boating-madrid"
     ],
     "subsubcategory": "El Escorial",
     "sections": [
@@ -10545,7 +10555,7 @@
     "status": "annual review",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "swimming",
@@ -10559,7 +10569,8 @@
       "running-madrid",
       "gyms-fitness-madrid",
       "scuba-diving-certification-madrid",
-      "surf-camps-spain-english"
+      "surf-camps-spain-english",
+      "boating-madrid"
     ]
   },
   {
@@ -10861,7 +10872,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "supermarket",
@@ -10871,7 +10882,8 @@
     ],
     "related_records": [
       "mercados-madrid",
-      "post-office-madrid"
+      "post-office-madrid",
+      "health-food-stores-madrid"
     ],
     "subsubcategory": "Daily Practical",
     "sections": [
@@ -11707,7 +11719,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "cheap",
@@ -11721,7 +11733,8 @@
       "la-latina-tapas-nightlife",
       "mercado-san-miguel",
       "tipping-spain",
-      "vermouth-madrid"
+      "vermouth-madrid",
+      "japanese-restaurants-madrid"
     ],
     "subsubcategory": "Food Culture & Basics",
     "sections": [
@@ -11780,7 +11793,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "vegetarian",
@@ -11791,7 +11804,8 @@
     "related_records": [
       "cheap-eats-madrid",
       "mercado-san-miguel",
-      "lavapies-neighborhood"
+      "lavapies-neighborhood",
+      "health-food-stores-madrid"
     ],
     "subsubcategory": "Food Culture & Basics",
     "sections": [
@@ -13471,7 +13485,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "grocery",
@@ -13482,7 +13496,8 @@
     "related_records": [
       "supermarkets-grocery-madrid",
       "mercados-madrid",
-      "lavapies-neighborhood"
+      "lavapies-neighborhood",
+      "health-food-stores-madrid"
     ],
     "sections": [
       {
@@ -14106,7 +14121,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "market",
@@ -14117,7 +14132,8 @@
     "related_records": [
       "mercado-san-miguel",
       "mercados-madrid",
-      "chueca-neighborhood"
+      "chueca-neighborhood",
+      "health-food-stores-madrid"
     ]
   },
   {
@@ -14158,7 +14174,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "gluten-free",
@@ -14169,7 +14185,8 @@
     "related_records": [
       "vegetarian-vegan-madrid",
       "cheap-eats-madrid",
-      "supermarkets-grocery-madrid"
+      "supermarkets-grocery-madrid",
+      "health-food-stores-madrid"
     ]
   },
   {
@@ -14820,7 +14837,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "food",
       "spanish",
@@ -14837,7 +14854,8 @@
       "churros-porras-madrid",
       "cheap-eats-madrid",
       "spanish-culture-madrid",
-      "outdoor-dining-terraces-madrid"
+      "outdoor-dining-terraces-madrid",
+      "japanese-restaurants-madrid"
     ]
   },
   {
@@ -21503,12 +21521,13 @@
       "open-water",
       "ssi"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "swimming-pools-madrid",
       "madrid-open-tennis",
-      "surf-camps-spain-english"
+      "surf-camps-spain-english",
+      "boating-madrid"
     ],
     "sections": [
       {
@@ -25264,7 +25283,7 @@
       "ies-abroad",
       "international-students"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "humanities-philosophy-summer-spain",
@@ -25272,7 +25291,8 @@
       "art-design-schools-madrid",
       "architecture-summer-programs-madrid",
       "museo-del-prado",
-      "museo-reina-sofia"
+      "museo-reina-sofia",
+      "museo-thyssen-bornemisza"
     ],
     "sections": [
       {
@@ -27891,7 +27911,7 @@
       "landmark",
       "ventura-rodriguez"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "cibeles-fountain-city-hall",
@@ -27899,7 +27919,8 @@
       "puerta-de-alcala",
       "atletico-madrid-wanda-metropolitano",
       "real-madrid-bernabeu",
-      "retiro-park"
+      "retiro-park",
+      "museo-thyssen-bornemisza"
     ],
     "sections": [
       {
@@ -28089,6 +28110,652 @@
         "heading": "The median tables",
         "body": "The wide pedestrian medians on Paseo de Recoletos, Paseo de la Castellana, and Calle de Alcalá are where Madrid restaurants put out tables during terraza season. These are the most distinctively Madrid outdoor dining experience — dining in the middle of a grand boulevard, under trees, with city life flowing on both sides. The Recoletos medians (between Cibeles and the National Library) are the most iconic and photogenic.",
         "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "museo-thyssen-bornemisza",
+    "category": "see",
+    "subcategory": "museums",
+    "title": "Museo Thyssen-Bornemisza",
+    "summary": "The Thyssen-Bornemisza Museum completes Madrid's Golden Triangle of Art. 8 centuries of European painting: Renaissance, Baroque, Impressionism, Expressionism, Pop Art. €13. Free Monday 12-4pm. Paseo del Prado 8.",
+    "content": "The Museo Nacional Thyssen-Bornemisza is the third museum in Madrid's Golden Triangle of Art (along with the Prado and Reina Sofía), and it's the one that fills the gaps the other two leave. Where the Prado covers Spanish/Italian masters (up to Goya) and the Reina Sofía covers 20th-century modern art (Picasso, Dalí, Miró), the Thyssen covers everything in between and beyond — 8 centuries of European painting from the 13th century to the late 20th century. The collection was assembled by Heinrich Thyssen-Bornemisza and his son Hans Heinrich, starting in the 1920s, and was purchased by the Spanish government in 1993 for $350 million (a fraction of its estimated value). The museum is housed in the Palacio de Villahermosa, an 18th-century palace near the Prado on the Paseo del Prado. The collection's strengths: Italian primitives (Duccio, Lorenzetti), Renaissance (Carpaccio, Holbein), Baroque (Caravaggio, Rubens, Van Dyck), Dutch masters (Rembrandt, Hals), Impressionism (Monet, Renoir, Degas, Pissarro), Post-Impressionism (Van Gogh, Gauguin, Cézanne), Expressionism (Kirchner, Nolde), Cubism (Picasso, Braque, Gris), Surrealism (Dalí, Magritte), and American art (Hopper, Rauschenberg, Lichtenstein) — the only significant American art collection in Spain. The Thyssen is particularly loved by art enthusiasts because it tells the complete story of European painting in chronological order, room by room, from medieval altarpieces to Pop Art. The Paseo del Arte card (€28.80) gives entry to all three Golden Triangle museums.",
+    "official_url": "https://www.museothyssen.org/en",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "museum",
+      "thyssen",
+      "bornemisza",
+      "golden-triangle",
+      "impressionism",
+      "renaissance",
+      "baroque",
+      "european-art",
+      "american-art",
+      "villahermosa"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "museo-del-prado",
+      "museo-reina-sofia",
+      "prado-current",
+      "reina-sofia-current",
+      "spanish-art-history-madrid",
+      "paseo-del-prado-fountains"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "The museum that completes the Golden Triangle",
+        "body": "The Thyssen fills the gaps the Prado and Reina Sofía leave — 8 centuries of European painting from medieval altarpieces to Pop Art. The only significant American art collection in Spain. Chronological layout makes it a walking art history lesson.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Address",
+            "value": "Paseo del Prado, 8 (Metro: Banco de España)"
+          },
+          {
+            "label": "Hours",
+            "value": "Tue-Sun 10am-7pm. Sat until 9pm. Mon 12-4pm (free)"
+          },
+          {
+            "label": "Ticket",
+            "value": "€13 permanent collection. €13 temporary. Combined €19"
+          },
+          {
+            "label": "Free entry",
+            "value": "Monday 12-4pm"
+          },
+          {
+            "label": "Paseo del Arte card",
+            "value": "€28.80 — all 3 Golden Triangle museums"
+          },
+          {
+            "label": "Founded",
+            "value": "1993 (government purchased collection for $350M)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Collection highlights by period",
+        "items": [
+          {
+            "title": "Italian primitives (13th-14th c.)",
+            "body": "Duccio, Lorenzetti. Rare early Italian panel paintings. Foundation of Western painting tradition."
+          },
+          {
+            "title": "Renaissance (15th-16th c.)",
+            "body": "Carpaccio, Holbein, Dürer. Portraiture and religious art from the Italian and Northern Renaissance."
+          },
+          {
+            "title": "Baroque (17th c.)",
+            "body": "Caravaggio, Rubens, Van Dyck, Rembrandt, Hals. Dramatic light, emotional intensity."
+          },
+          {
+            "title": "Impressionism (late 19th c.)",
+            "body": "Monet, Renoir, Degas, Pissarro, Sisley. The best Impressionist collection in Spain."
+          },
+          {
+            "title": "Post-Impressionism",
+            "body": "Van Gogh, Gauguin, Cézanne. Bridge between Impressionism and modernism."
+          },
+          {
+            "title": "Expressionism (early 20th c.)",
+            "body": "Kirchner, Nolde, Kokoschka. Bold colors, emotional distortion."
+          },
+          {
+            "title": "American art (20th c.)",
+            "body": "Hopper, Rauschenberg, Lichtenstein. Only significant American art collection in Spain."
+          }
+        ]
+      },
+      {
+        "type": "do_dont",
+        "heading": "Visiting the Thyssen",
+        "do": [
+          "Visit Monday 12-4pm for free entry",
+          "Buy the Paseo del Arte card (€28.80) if visiting all 3 Golden Triangle museums",
+          "Follow the chronological layout — start on the top floor (medieval) and work down",
+          "Allow 2-3 hours for the permanent collection",
+          "Check the temporary exhibition schedule — Thyssen has excellent loan shows"
+        ],
+        "dont": [
+          "Don't skip the Impressionist rooms — best in Spain",
+          "Don't miss the Hopper paintings — only place to see American art in Madrid",
+          "Don't confuse with the Prado (next door) or Reina Sofía (5 min walk)"
+        ]
+      },
+      {
+        "type": "callout",
+        "heading": "Golden Triangle of Art",
+        "body": "The Thyssen is within 10 minutes' walk of both the Prado (next door) and the Reina Sofía (5 min south). All three can be visited in one day with the Paseo del Arte card, but it's exhausting — better to do one per day. See museo-del-prado and museo-reina-sofia records for the other two.",
+        "tone": "info"
+      }
+    ]
+  },
+  {
+    "id": "local-police-stations-madrid",
+    "category": "essentials",
+    "subcategory": "safety",
+    "title": "Local Police Stations in Madrid (Policía Municipal)",
+    "summary": "Madrid's municipal police stations (Policía Municipal de Madrid) for non-emergency reports, lost property, noise complaints, and local enforcement. 21 district stations. For emergencies call 112 (or 092 for municipal police).",
+    "content": "Madrid has two main police forces: the Policía Nacional (national police, handle serious crime, immigration, passports — call 091) and the Policía Municipal (municipal police, handle local enforcement, traffic, noise complaints, lost property — call 092). For emergencies, always call 112 (free, multilingual, 24/7). This record focuses on the Policía Municipal stations, which are the ones tourists and expats are most likely to need for non-emergency matters: filing a denuncia (crime report) for theft, reporting lost property, noise complaints, or neighborhood issues. Madrid has 21 district police stations (jefaturas de policía municipal), one per district. The main central station is at Calle del Cidro 4 (Moratalaz district, but handles city-wide matters). For tourists, the most relevant stations are: Centro (Calle de la Unión 2), Retiro-Salamanca (Calle de Alcalá 50), Chamberí (Calle de Armenteros 13), and Tetuán (Calle de Bravo Murillo 379). Most stations are open 24/7 for filing denuncias. For lost property specifically, Madrid's Oficina Municipal de Objetos Perdidos (Lost Property Office) is at Calle de los Madrazo 12 (Metro: Sevilla), open Mon-Fri 9am-2pm. If you've been pickpocketed (common in Sol, Plaza Mayor, El Rastro, Metro Line 1), you need to file a denuncia at any police station — this is required for insurance claims. You can also file denuncias online at policia.es for certain non-violent crimes.",
+    "official_url": "https://www.madrid.es/portales/munimadrid/en/Inicio/Citizens/Security/Madrid-City-Council-Police",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "police",
+      "policia-municipal",
+      "police-station",
+      "denuncia",
+      "lost-property",
+      "crime-report",
+      "safety",
+      "comisaria"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "evergreen",
+    "related_records": [
+      "emergency-numbers",
+      "embassies",
+      "lost-passport",
+      "tourist-scams-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Which police to call?",
+        "body": "Emergency: 112 (free, multilingual). National Police (serious crime, immigration): 091. Municipal Police (local, noise, lost property): 092. For filing a denuncia (crime report), go to any police station.",
+        "tone": "warning"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Emergency (all)",
+            "value": "112 — free, multilingual, 24/7"
+          },
+          {
+            "label": "National Police",
+            "value": "091 (Policía Nacional — serious crime)"
+          },
+          {
+            "label": "Municipal Police",
+            "value": "092 (Policía Municipal — local)"
+          },
+          {
+            "label": "District stations",
+            "value": "21 (one per Madrid district)"
+          },
+          {
+            "label": "Most stations open",
+            "value": "24/7 for filing denuncias"
+          },
+          {
+            "label": "Lost Property Office",
+            "value": "Calle de los Madrazo 12, Mon-Fri 9am-2pm"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Key police stations for tourists",
+        "items": [
+          {
+            "title": "Central Station (Centro)",
+            "body": "Calle de la Unión 2 (Metro: Tirso de Molina). Handles Sol/Gran Vía/Huertas area. 24/7 for denuncias."
+          },
+          {
+            "title": "Retiro-Salamanca Station",
+            "body": "Calle de Alcalá 50 (Metro: Goya). Handles Retiro/Salamanca area. 24/7."
+          },
+          {
+            "title": "Chamberí Station",
+            "body": "Calle de Armenteros 13 (Metro: Bilbao). Handles Chamberí/Malasaña area. 24/7."
+          },
+          {
+            "title": "Lost Property Office (Objetos Perdidos)",
+            "body": "Calle de los Madrazo 12 (Metro: Sevilla). Mon-Fri 9am-2pm. For lost wallets, phones, keys, etc."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "heading": "Filing a denuncia (crime report)",
+        "items": [
+          {
+            "title": "Go to any police station",
+            "body": "Any Policía Nacional or Municipal station can take your denuncia. Bring your passport/ID.",
+            "tip": "24/7 at major stations."
+          },
+          {
+            "title": "Describe what happened",
+            "body": "When, where, what was stolen. If you don't speak Spanish, bring a friend or use Google Translate. Some stations have English-speaking officers."
+          },
+          {
+            "title": "Get your denuncia copy",
+            "body": "You'll receive a stamped copy of the report. This is essential for insurance claims.",
+            "tip": "Make 2 copies — one for insurance, one for your records."
+          },
+          {
+            "title": "For lost passports",
+            "body": "Take the denuncia to your embassy to get an emergency passport. See lost-passport record."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "health-food-stores-madrid",
+    "category": "living",
+    "subcategory": "services",
+    "title": "Health Food & Organic Stores in Madrid",
+    "summary": "Madrid's organic and health food stores: Planeta Biológico, Herbolario Navarro, Ecocentro, Vegan Books. Organic produce, supplements, natural cosmetics, gluten-free, vegan products.",
+    "content": "Madrid's health food and organic store ecosystem has grown significantly. Planeta Biológico (Calle de Cardenal Cisneros 27, Metro Bilbao) is one of Madrid's largest organic supermarkets — organic produce, bulk grains, supplements, natural cosmetics, eco-friendly household products. Herbolario Navarro (multiple locations including Calle de la Magdalena 14, Metro Antón Martín) is a chain of traditional herbalists with natural remedies, supplements, teas, and organic foods. Ecocentro (Calle de Espronceda 5, Metro Alvarado) is a 3-floor organic lifestyle center — supermarket, restaurant, bookshop, and natural beauty salon. Vegan Books (Calle del Espíritu Santo 18, Metro Noviciado — inside J&J Books and Coffee) offers vegan products alongside English books. El Corte Inglés supermarkets have growing organic sections ('biológico' aisle). For fresh organic produce markets, the Mercado de San Antón (Chueca) and Mercado de Vallehermoso (Chamberí) have organic stalls. Madrid's organic restaurant scene includes Ecocentro's restaurant, Vega (Centro), and Rayen Vegano (multiple locations). For supplements, Herbolario Navarro and Planeta Biológico have the best selection. Spanish organic certification: 'Agricultura Ecológica' (EU organic leaf logo + Spanish certification body code).",
+    "official_url": "https://www.planetabiologico.com",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "health-food",
+      "organic",
+      "biologico",
+      "vegan",
+      "vegetarian",
+      "supplements",
+      "natural-cosmetics",
+      "planeta-biologico",
+      "herbolario",
+      "ecocentro"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "vegetarian-vegan-madrid",
+      "gluten-free-madrid",
+      "supermarkets-grocery-madrid",
+      "international-grocery-madrid",
+      "mercado-san-anton",
+      "mercados-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Organic food scene growing in Madrid",
+        "body": "Planeta Biológico, Herbolario Navarro, Ecocentro are the main organic stores. El Corte Inglés has growing 'biológico' sections. Organic markets at San Antón (Chueca) and Vallehermoso (Chamberí).",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Largest organic supermarket",
+            "value": "Planeta Biológico (Bilbao)"
+          },
+          {
+            "label": "Herbalist chain",
+            "value": "Herbolario Navarro (multiple locations)"
+          },
+          {
+            "label": "Organic lifestyle center",
+            "value": "Ecocentro (Alvarado) — 3 floors"
+          },
+          {
+            "label": "Organic certification",
+            "value": "'Agricultura Ecológica' (EU organic logo)"
+          },
+          {
+            "label": "Best organic market stalls",
+            "value": "San Antón (Chueca), Vallehermoso (Chamberí)"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Verified health food stores in Madrid",
+        "items": [
+          {
+            "title": "Planeta Biológico",
+            "body": "Calle de Cardenal Cisneros 27 (Metro: Bilbao). Largest organic supermarket. Produce, bulk, supplements, cosmetics.",
+            "meta": [
+              "planetabiologico.com"
+            ]
+          },
+          {
+            "title": "Herbolario Navarro",
+            "body": "Multiple locations. Traditional herbalist chain. Supplements, teas, natural remedies, organic foods."
+          },
+          {
+            "title": "Ecocentro",
+            "body": "Calle de Espronceda 5 (Metro: Alvarado). 3-floor organic lifestyle center: supermarket, restaurant, bookshop, beauty salon.",
+            "meta": [
+              "ecocentro.com"
+            ]
+          },
+          {
+            "title": "El Corte Inglés (biológico section)",
+            "body": "Multiple locations. Growing organic section in their supermarkets. Good for one-stop organic shopping."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "japanese-restaurants-madrid",
+    "category": "do",
+    "subcategory": "food",
+    "title": "Japanese Restaurants in Madrid",
+    "summary": "Madrid's Japanese restaurant scene: from high-end sushi (Kirei, Kabuki) to ramen (Ramen Shifu, Ichi) to izakaya (Sushi Olé, Yatori). Sushi bars, ramen shops, and Japanese izakayas across the city.",
+    "content": "Madrid has a surprisingly strong Japanese restaurant scene, anchored by the Kabuki group (multiple locations, including the Michelin-starred Kabuki Wellington in Salamanca) and a growing number of authentic ramen shops. The old Madrid Insider site (2013) listed several Japanese restaurants, and the scene has only grown since. Key categories: high-end sushi/omakase (Kabuki Wellington, Kirei by Kabuki), mid-range sushi chains (Sushi Olé, Yatori), ramen specialists (Ramen Shifu, Ichi Ramen, Yakitoro), and izakaya-style casual dining. The Salamanca district has the highest concentration of premium Japanese restaurants. For budget Japanese, the ramen shops around Gran Vía and Malasaña offer bowls from €10-14. For all-you-can-eat sushi, chains like Sumo are popular (though quality is lower). Madrid's Japanese community is small but growing, and the restaurants reflect both traditional Japanese techniques and Spanish-influenced fusion (the Kabuki group is known for its 'Spanish-Japanese' fusion). Most Japanese restaurants in Madrid are in the €15-€40/person range for dinner. Reservations recommended for premium places.",
+    "official_url": "https://www.esmadrid.com/en/japanese-restaurants-madrid",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "japanese",
+      "sushi",
+      "ramen",
+      "izakaya",
+      "kabuki",
+      "asian-food",
+      "restaurants",
+      "omakase"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "spanish-food-basics",
+      "cheap-eats-madrid",
+      "menu-del-dia-guide",
+      "salamanca-neighborhood",
+      "mercado-san-miguel"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's Japanese scene is surprisingly strong",
+        "body": "From Michelin-starred Kabuki Wellington to authentic ramen shops. The Kabuki group pioneered Spanish-Japanese fusion. Ramen scene growing fast around Gran Vía.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Price range",
+            "value": "€10-14 (ramen) to €60-100 (omakase)"
+          },
+          {
+            "label": "Best area for premium",
+            "value": "Salamanca district"
+          },
+          {
+            "label": "Best area for ramen",
+            "value": "Gran Vía / Malasaña"
+          },
+          {
+            "label": "Michelin-starred",
+            "value": "Kabuki Wellington (Salamanca)"
+          },
+          {
+            "label": "Reservations",
+            "value": "Recommended for premium; ramen is walk-in"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Top Japanese restaurants by category",
+        "items": [
+          {
+            "title": "Premium sushi/omakase",
+            "body": "Kabuki Wellington (Salamanca, Michelin-starred), Kirei by Kabuki (Velázquez). €60-100/person. Spanish-Japanese fusion."
+          },
+          {
+            "title": "Mid-range sushi",
+            "body": "Sushi Olé (multiple), Yatori (multiple). €25-40/person. Good quality, accessible."
+          },
+          {
+            "title": "Ramen specialists",
+            "body": "Ramen Shifu (Malasaña), Ichi Ramen (various), Yakitoro (Gran Vía). €10-14/bowl. Walk-in."
+          },
+          {
+            "title": "All-you-can-eat",
+            "body": "Sumo (multiple). €15-20. Lower quality but good value for quantity."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cricket-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Cricket in Madrid (Madrid Cricket Club)",
+    "summary": "Madrid Cricket Club — looking for players of all levels and nationalities. One of Spain's few cricket clubs. Training and matches in Madrid. Expats from Commonwealth countries welcome.",
+    "content": "Madrid Cricket Club is one of the few cricket clubs in Spain, recruiting players of all levels and nationalities. Cricket is a niche sport in Spain (no historical tradition unlike football, basketball, or padel), but Madrid Cricket Club maintains an active presence with training sessions and matches against other Spanish clubs (Barcelona, Valencia, Alicante) and occasional touring teams from the UK and other countries. The club is primarily composed of expats from Commonwealth countries (UK, India, Pakistan, Australia, South Africa, Sri Lanka) living in Madrid, plus some Spanish players. The old Madrid Insider site listed the club with contact information: 'Looking for players of all levels and nationalities. Contact David: 670 087 637 or Manny: 627 557 572.' The club plays in the Liga Española de Cricket (Spanish Cricket League), which has a small but committed following. For English-speaking expats missing cricket, the Madrid Cricket Club is the only option in the city. Training is typically on weekends, with matches on Sundays during the cricket season (roughly April-October). The standard is recreational/club level — not professional, but competitive enough for committed players.",
+    "official_url": "https://www.cricketespain.com",
+    "english_friendly": true,
+    "english_level": "english-primary",
+    "tags": [
+      "cricket",
+      "madrid-cricket-club",
+      "expat-sports",
+      "niche-sports",
+      "commonwealth",
+      "spanish-cricket-league"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "running-madrid",
+      "parkrun-madrid",
+      "cycling-mtb-madrid",
+      "bowling-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's only cricket club",
+        "body": "Madrid Cricket Club recruits players of all levels and nationalities. Primarily expats from Commonwealth countries. Spanish Cricket League matches on Sundays, April-October.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Season",
+            "value": "April-October (Sunday matches)"
+          },
+          {
+            "label": "League",
+            "value": "Liga Española de Cricket"
+          },
+          {
+            "label": "Level",
+            "value": "Recreational/club"
+          },
+          {
+            "label": "Players",
+            "value": "All levels and nationalities welcome"
+          },
+          {
+            "label": "Other Spanish clubs",
+            "value": "Barcelona, Valencia, Alicante"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rugby-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Rugby in Madrid",
+    "summary": "Rugby clubs in Madrid: CRC Madrid (Canoe), CD Arquitectura, CD Cisneros. Spanish rugby has a small but passionate following. Primarily expat and university players. División de Honor (top league).",
+    "content": "Rugby in Madrid has a small but passionate following, with several clubs active in the Spanish rugby league system. The main clubs: CRC Madrid (also known as Canoe, based in Pozuelo de Alarcón) is the most prominent — has played in Spain's top division (División de Honor). CD Arquitectura (the Architecture School team, one of Madrid's oldest rugby clubs, founded 1961) plays in lower divisions but has a strong university tradition. CD Cisneros (also university-linked, from the Cisneros College) is another historic club. The Spanish national rugby team (Los Leones) occasionally plays internationals at the Estadio Nacional de la Universidad (UNED), and Madrid clubs host touring teams from the UK and France. Rugby in Spain is amateur/semi-professional — players have day jobs. The clubs welcome expat players, particularly from rugby-playing nations (UK, Ireland, France, Argentina, South Africa, Australia, New Zealand). Training is typically 2 evenings per week with matches on Sundays during the season (September-May). For English-speaking expats, CRC Madrid and CD Arquitectura are the most accessible clubs with international player traditions.",
+    "official_url": "https://www.ferugby.es",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "rugby",
+      "crc-madrid",
+      "canoe",
+      "arquitectura",
+      "cisneros",
+      "division-de-honor",
+      "expat-sports"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "cricket-madrid",
+      "running-madrid",
+      "parkrun-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Small but passionate rugby scene",
+        "body": "CRC Madrid (Canoe), CD Arquitectura, CD Cisneros are the main clubs. Amateur/semi-professional. Welcomes expat players from rugby nations. Season September-May.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Top club",
+            "value": "CRC Madrid (Canoe, Pozuelo)"
+          },
+          {
+            "label": "League",
+            "value": "División de Honor (top Spanish league)"
+          },
+          {
+            "label": "Season",
+            "value": "September-May (Sunday matches)"
+          },
+          {
+            "label": "Level",
+            "value": "Amateur/semi-professional"
+          },
+          {
+            "label": "Expat-friendly",
+            "value": "Yes — UK, Irish, French, Argentine players"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid rugby clubs",
+        "items": [
+          {
+            "title": "CRC Madrid (Canoe)",
+            "body": "Pozuelo de Alarcón. Most prominent Madrid rugby club. Has played in División de Honor. International player tradition."
+          },
+          {
+            "title": "CD Arquitectura",
+            "body": "Architecture School club, founded 1961. University tradition. Lower divisions but strong community."
+          },
+          {
+            "title": "CD Cisneros",
+            "body": "Cisneros College club. Historic. University-linked. Lower divisions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boating-madrid",
+    "category": "do",
+    "subcategory": "sports",
+    "title": "Boating & Sailing Near Madrid",
+    "summary": "Boating and sailing near Madrid: Embalse de San Juan (swimming + boating), Embalse de El Atazar (sailing club), Canal de Castilla. Madrid's reservoirs (embalses) offer the closest water sports.",
+    "content": "Madrid is landlocked, but the surrounding mountains have several large reservoirs (embalses) that offer boating, sailing, kayaking, and swimming. The closest and most popular is the Embalse de San Juan (also known as Playa de San Juan or Alberche Beach), about 50km west of Madrid near San Martín de Valdeiglesias — it's the only reservoir in the Madrid region where swimming is officially allowed, and it has a beach-like atmosphere in summer. The Embalse de El Atazar (northeast of Madrid, near Patones) is the largest reservoir in the Madrid region and home to the Club Náutico El Atazar sailing club. The Embalse de Valmayor (northwest, near El Escorial) has a sailing school and kayaking. For sailing lessons, the Club Náutico de Madrid (at the Embalse de San Juan) offers courses for beginners. Kayaking and paddleboarding are available at most reservoirs through adventure companies. The Canal de Castilla (a historic canal in Castilla y León, 2+ hours from Madrid) offers multi-day boat trips but is more of a niche interest. For Madrid residents wanting regular sailing, the closest option is the Embalse de San Juan (1 hour by car). For competitive sailing, the Club Náutico El Atazar is the most established. Boat rental (small motorboats, rowboats, kayaks) is available at most reservoirs in summer (June-September).",
+    "official_url": "https://www.esmadrid.com/en/pantano-san-juan",
+    "english_friendly": true,
+    "english_level": "english-available",
+    "tags": [
+      "boating",
+      "sailing",
+      "kayaking",
+      "paddleboarding",
+      "embalse",
+      "reservoir",
+      "san-juan",
+      "atazar",
+      "water-sports"
+    ],
+    "last_updated": "2026-07-30",
+    "status": "annual review",
+    "related_records": [
+      "swimming-pools-madrid",
+      "scuba-diving-certification-madrid",
+      "cycling-mtb-madrid",
+      "el-escorial-day-trip"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's reservoirs = closest water sports",
+        "body": "Embalse de San Juan (50km west) is the only reservoir where swimming is allowed. El Atazar has a sailing club. Kayaking and paddleboarding at most reservoirs in summer.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Closest swimming reservoir",
+            "value": "Embalse de San Juan (50km, 1hr drive)"
+          },
+          {
+            "label": "Largest reservoir",
+            "value": "Embalse de El Atazar (northeast)"
+          },
+          {
+            "label": "Sailing club",
+            "value": "Club Náutico El Atazar"
+          },
+          {
+            "label": "Season",
+            "value": "June-September for swimming/rentals"
+          },
+          {
+            "label": "Activities",
+            "value": "Sailing, kayaking, paddleboarding, swimming"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Madrid-area reservoirs for boating",
+        "items": [
+          {
+            "title": "Embalse de San Juan",
+            "body": "50km west (near San Martín de Valdeiglesias). Only reservoir with swimming allowed. Beach atmosphere in summer. Kayak + boat rental.",
+            "meta": [
+              "Most popular"
+            ]
+          },
+          {
+            "title": "Embalse de El Atazar",
+            "body": "Northeast (near Patones). Largest Madrid reservoir. Club Náutico El Atazar sailing club. 1.5hr from Madrid."
+          },
+          {
+            "title": "Embalse de Valmayor",
+            "body": "Northwest (near El Escorial). Sailing school + kayaking. Combine with El Escorial day trip."
+          }
+        ]
       }
     ]
   }
