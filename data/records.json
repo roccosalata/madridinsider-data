@@ -775,7 +775,15 @@
       "passport-requirements"
     ],
     "subsubcategory": "Schengen Visa",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "ETIAS — Coming Q4 2026",
+        "body": "ETIAS (European Travel Information and Authorisation System) is the EU's new electronic travel authorization for visa-exempt visitors. Similar to US ESTA. Cost: €7. Valid for 3 years. Required for US, UK, Australian, Canadian citizens. Apply online before travel. Not a visa — just a pre-screening.",
+        "tone": "warning"
+      }
+    ]
   },
   {
     "id": "schengen-visa-uk",
@@ -1009,7 +1017,39 @@
     ],
     "official_url": "https://www.bankinter.com/banca/en/home",
     "subsubcategory": "Cards & Payment",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Card Payment in Madrid",
+        "items": [
+          {
+            "label": "Visa/Mastercard",
+            "value": "Widely accepted everywhere"
+          },
+          {
+            "label": "Amex",
+            "value": "Accepted at hotels + large stores, not small bars"
+          },
+          {
+            "label": "Contactless",
+            "value": "Universal (€50 limit raised to €100+)"
+          },
+          {
+            "label": "Apple Pay / Google Pay",
+            "value": "Accepted at most contactless terminals"
+          },
+          {
+            "label": "Cash needed",
+            "value": "Small tapas bars, markets, taxis (though card increasingly accepted)"
+          },
+          {
+            "label": "Foreign card fees",
+            "value": "Check your bank — Wise/Revolut avoid FX fees"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "daily-budgets",
@@ -1816,7 +1856,35 @@
       "rental-contracts"
     ],
     "subsubcategory": "Finding a Place",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "What",
+            "value": "Spain's #2 property portal (after Idealista)"
+          },
+          {
+            "label": "Best for",
+            "value": "Renting + buying apartments"
+          },
+          {
+            "label": "Languages",
+            "value": "Spanish (use Google Translate)"
+          },
+          {
+            "label": "Filter",
+            "value": "Filter by 'habitaciones' (rooms) for shared flats"
+          },
+          {
+            "label": "Cost",
+            "value": "Free to browse"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "neighborhoods-guide",
@@ -14903,7 +14971,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "left-luggage",
@@ -14916,6 +14984,38 @@
       "left-luggage",
       "left-luggage-airport",
       "left-luggage-chamartin"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Behind the tropical garden (aviary), Atocha station"
+          },
+          {
+            "label": "Hours",
+            "value": "5:30am-10:30pm daily"
+          },
+          {
+            "label": "Small locker",
+            "value": "€3.90/day"
+          },
+          {
+            "label": "Medium locker",
+            "value": "€4.50/day"
+          },
+          {
+            "label": "Large locker",
+            "value": "€5.50/day"
+          },
+          {
+            "label": "Max stay",
+            "value": "15 days, then transferred to warehouse"
+          }
+        ]
+      }
     ]
   },
   {
@@ -14956,7 +15056,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "left-luggage",
@@ -14969,6 +15069,30 @@
       "coach-stations-madrid",
       "left-luggage",
       "left-luggage-atocha"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Estación Sur (Méndez Álvaro)"
+          },
+          {
+            "label": "Cost",
+            "value": "€3/bag/day"
+          },
+          {
+            "label": "Hours",
+            "value": "6am-midnight daily"
+          },
+          {
+            "label": "Metro",
+            "value": "Méndez Álvaro (L6)"
+          }
+        ]
+      }
     ]
   },
   {
@@ -15275,7 +15399,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "airport",
@@ -15288,6 +15412,33 @@
       "airport-express-bus-203",
       "airport-transfers-private",
       "taxis-madrid"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Door-to-door airport shuttle options",
+        "items": [
+          {
+            "title": "Aerocity",
+            "body": "24h door-to-door shared shuttle. Minivan. Book online at aerocity.com.",
+            "meta": [
+              "Shared shuttle"
+            ]
+          },
+          {
+            "title": "Private transfer",
+            "body": "Pre-booked private car. €35-60. See airport-transfers-private record."
+          },
+          {
+            "title": "Express Bus 203",
+            "body": "€5. 24h. Atocha ↔ Airport. Not door-to-door but cheapest option."
+          },
+          {
+            "title": "Taxi",
+            "value": "€30 flat rate to city center. White with red stripe."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15791,7 +15942,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "arts",
       "theater",
@@ -15804,6 +15955,32 @@
       "gran-via",
       "movie-theaters-madrid",
       "zarzuela-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's Broadway",
+        "body": "Gran Vía is Madrid's theater district — musicals, plays, and cinemas line both sides. The street is currently being pedestrianized, making it even more pleasant. Major theaters: Teatro Lope de Vega, Teatro Coliseum, Teatro Rialto. Tickets €20-60.",
+        "tone": "info"
+      },
+      {
+        "type": "list",
+        "heading": "Current shows (check for latest)",
+        "items": [
+          {
+            "title": "Teatro Lope de Vega",
+            "body": "Calle Gran Vía 57. Major musicals (Lion King, etc.). Check entradas.com."
+          },
+          {
+            "title": "Teatro Coliseum",
+            "body": "Calle Gran Vía 78. Musical theater + concerts."
+          },
+          {
+            "title": "Teatro Rialto",
+            "body": "Calle Gran Vía 54. Musicals + plays."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16010,6 +16187,34 @@
       "mercados-madrid",
       "chueca-neighborhood",
       "health-food-stores-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Calle Augusto Figueroa 24, Chueca (Metro Chueca L5)"
+          },
+          {
+            "label": "Ground floor",
+            "value": "Fresh produce + specialty foods"
+          },
+          {
+            "label": "2nd floor",
+            "value": "Tapas bars — cook what you buy"
+          },
+          {
+            "label": "Rooftop",
+            "value": "Grill restaurant — buy seafood downstairs, they cook it"
+          },
+          {
+            "label": "Hours",
+            "value": "Mon-Sat 10am-midnight, Sun 10am-6pm"
+          }
+        ]
+      }
     ]
   },
   {
@@ -16037,6 +16242,36 @@
       "cocido-madrileno",
       "vermouth-madrid",
       "cost-of-living-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spain's best lunch deal",
+        "body": "The menú del día is a 3-course lunch (starter + main + dessert) with bread, drink (water/wine/beer), and sometimes coffee. €10-14. Weekdays only at most places. The best value meal in Madrid — locals eat it every day.",
+        "tone": "success"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Price",
+            "value": "€10-14 (includes bread + drink)"
+          },
+          {
+            "label": "When",
+            "value": "Weekdays, lunch only (1-4pm)"
+          },
+          {
+            "label": "What's included",
+            "value": "Starter + main + dessert + bread + drink"
+          },
+          {
+            "label": "Weekend version",
+            "value": "'Menú del fin de semana' — €15-25, larger portions"
+          }
+        ]
+      }
     ]
   },
   {
@@ -16064,6 +16299,30 @@
       "cheap-eats-madrid",
       "supermarkets-grocery-madrid",
       "health-food-stores-madrid"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Gluten-free resources in Madrid",
+        "items": [
+          {
+            "title": "Madrid Sin Gluten",
+            "body": "madridsingluten.org — curated directory of GF restaurants + bakeries. English version available."
+          },
+          {
+            "title": "Celicioso",
+            "body": "Was Madrid's best GF bakery — domain expired. Check current GF bakeries via Madrid Sin Gluten."
+          },
+          {
+            "title": "El Corte Inglés",
+            "value": "Supermarket section 'sin gluten' (gluten-free aisle). All locations."
+          },
+          {
+            "title": "Restaurants",
+            "value": "Most restaurants understand 'celíaco' (celiac) — say 'sin gluten' (without gluten). Spanish law requires allergen labeling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16405,7 +16664,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "maps",
       "digital",
@@ -16419,6 +16678,14 @@
       "madrid-apps",
       "metro-map-pdf",
       "emt-bus-map"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Best all-in-one transit app",
+        "body": "Citymapper is the best transit app for Madrid — combines Metro, bus, walking, cycling, and ride-hailing in one interface. Real-time departures, route planning, and disruption alerts. Free. Download before you arrive.",
+        "tone": "success"
+      }
     ]
   },
   {
@@ -16460,7 +16727,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "accessibility",
@@ -16473,6 +16740,14 @@
       "emt-buses",
       "museo-del-prado",
       "retiro-park"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid is increasingly accessible",
+        "body": "All Metro stations have elevators (99%+). Most museums are wheelchair-friendly. Buses have low floors + ramps. Adapted swimming pools in summer. Visual and auditory accessibility improving at major cultural sites. esMadrid has a dedicated accessibility section.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -16611,6 +16886,34 @@
       "spanish-wines-madrid",
       "mercado-san-miguel",
       "malasana-neighborhood"
+    ],
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Madrid coffee culture guide",
+        "items": [
+          {
+            "title": "Café con leche",
+            "body": "Coffee with milk. The standard Madrid coffee. €1.50-2.50. Morning staple."
+          },
+          {
+            "title": "Café solo",
+            "body": "Espresso. Small, strong. €1-1.50. After lunch/dinner."
+          },
+          {
+            "title": "Café cortado",
+            "body": "Espresso with a splash of milk. €1.20-2. Mid-day."
+          },
+          {
+            "title": "Carajillo",
+            "body": "Espresso with a shot of brandy/whisky. €2.50-4. After lunch tradition."
+          },
+          {
+            "title": "Specialty coffee",
+            "body": "Growing scene: Toma Café (Malasaña), Hola Coffee (La Latina), Right Side (Conde Duque). €2.50-3.50."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17044,7 +17347,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "magazine",
@@ -17057,6 +17360,14 @@
       "the-local-spain",
       "expat-publications-madrid",
       "madrid-today-events"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's current English magazine",
+        "body": "Madrid Metropolitan (madridmetropolitan.com) is the continuation of the old 'In Madrid' and 'Broadsheet' English-language publications. Active online + occasional print. Covers news, events, and expat life.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17193,7 +17504,7 @@
     "status": "legacy",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "blog",
@@ -17208,6 +17519,14 @@
       "english-publications-history-madrid",
       "expat-publications-madrid",
       "hotels-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Historical English Madrid guide",
+        "body": "MadridMan.com was one of the first English-language Madrid guides (1990s-2010s). Started as a personal page about Madrid hotels. The site still exists at madridman.com but is less active. Part of Madrid's English-language internet history — see english-publications-history-madrid record.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17222,7 +17541,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "semana-santa",
@@ -17237,6 +17556,14 @@
       "verbenas-festivals",
       "madrid-pride",
       "bullfights-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Holy Week in Madrid",
+        "body": "Semana Santa (Holy Week, week before Easter) features religious processions through Madrid's streets. Less spectacular than Seville's, but still atmospheric. Key days: Maundy Thursday (procession from Iglesia del Salvador), Good Friday (multiple processions). Many businesses closed. Check esmadrid.com for procession schedules.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17251,7 +17578,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "carnaval",
@@ -17266,6 +17593,14 @@
       "san-isidro-festival",
       "verbenas-festivals",
       "madrid-pride"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid Carnival (February)",
+        "body": "Carnavales de Madrid (February, before Lent) is a family-friendly carnival with costumes, parades, and street parties. Less wild than Rio or Tenerife carnival. Main events around Plaza Mayor + Calle Arenal. Burial of the Sardine (Entierro de la Sardina) on Ash Wednesday is the quirky finale.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17310,7 +17645,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "blog",
@@ -17325,6 +17660,14 @@
       "madridman-com",
       "expat-publications-madrid",
       "english-publications-history-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Historical English Madrid guide",
+        "body": "WhatMadrid.com was an English-language Madrid guide that operated alongside MadridMan.com. Part of the early 2000s English-language Madrid web ecosystem. See english-publications-history-madrid record for the full history.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17370,7 +17713,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "education",
       "magazine",
@@ -17385,6 +17728,14 @@
       "teacher-training-madrid",
       "language-schools-madrid",
       "english-publications-history-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid-based English learning magazine",
+        "body": "Hot English Magazine (now learnhotenglish.com, originally learnhotenglish.com) is a Madrid-based English learning magazine published from Torrelodones. 260+ issues. Print + digital + audio/video. Active. One of Madrid's longest-running English-language publications.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -17415,6 +17766,14 @@
       "teach-english-spain",
       "teacher-training-madrid",
       "english-teacher-agencies-madrid"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "#1 global ESL job board with Spain section",
+        "body": "Dave's ESL Cafe (eslcafe.com) is the world's largest English teaching job board with a dedicated Spain forum. Free to browse, post, and search. The go-to resource for English teachers seeking work in Madrid/Spain. Also see english-teacher-agencies-madrid record for private academy contacts.",
+        "tone": "info"
+      }
     ]
   },
   {
