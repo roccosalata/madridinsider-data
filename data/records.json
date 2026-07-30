@@ -3592,7 +3592,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Jazz & Blues"
   },
   {
     "id": "real-madrid-bernabeu",
@@ -3683,7 +3684,8 @@
         "tone": "warning"
       }
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "subsubcategory": "Football"
   },
   {
     "id": "rayo-vallecas",
@@ -3713,7 +3715,8 @@
         "body": "Rayo Vallecano plays in Vallecas (southeast Madrid, Metro Portazgo). Smaller stadium (Campo de Fútbol de Vallecas, 14,000 seats) but passionate fanbase. Cheapest tickets of the three Madrid clubs (€15-40). Working-class club with cult following.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Football"
   },
   {
     "id": "traditions-summary",
@@ -4995,7 +4998,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Ground Transport"
   },
   {
     "id": "airport-transfers-private",
@@ -5043,7 +5047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Ground Transport"
   },
   {
     "id": "major-airlines-madrid",
@@ -5180,7 +5185,7 @@
         "tone": "info"
       }
     ],
-    "subsubcategory": "Intercity Buses"
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "bus-stations-madrid",
@@ -5270,7 +5275,7 @@
         "tone": "warning"
       }
     ],
-    "subsubcategory": "Driving"
+    "subsubcategory": "Driving & Parking"
   },
   {
     "id": "parking-madrid",
@@ -8374,7 +8379,7 @@
       "international-school-jobs-madrid",
       "work-visa-spain"
     ],
-    "subsubcategory": "Internships",
+    "subsubcategory": "Internships & Entry-Level",
     "sections": [
       {
         "type": "callout",
@@ -9508,7 +9513,8 @@
         "body": "Barajas Airport (MAD) occasionally experiences delays from ATC strikes, weather, or security incidents. Check AENA app or aena.es for real-time flight status. Spanish ATC strikes happen periodically — check news before travel days.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Airport Alerts"
   },
   {
     "id": "madrid-tourist-offices",
@@ -9769,7 +9775,8 @@
         "body": "AENA information desks at every Barajas terminal. Hotel booking, transport advice, tourist info. English-speaking. Open 24/7 at T1 and T4.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Airport Services"
   },
   {
     "id": "visitor-centers-madrid",
@@ -11532,7 +11539,8 @@
         "body": "No, you're not crazy — Atlético Madrid DID play at the Vicente Calderón Stadium (Paseo Virgen del Puerto 67, Metro Pirámides) until 2017. The Calderón was demolished and the site is being redeveloped as a residential/commercial complex. Atlético moved to the Metropolitano (Wanda/Estadio Cívitas Metropolitano) in the northeast of Madrid in 2017. The old Madrid Insider listed the Calderón as Atlético's home.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Football"
   },
   {
     "id": "malasana-bars-nightlife",
@@ -11771,7 +11779,8 @@
         "body": "No, you're not crazy — the old Madrid Insider listed these theaters that may have changed: Teatro Albéniz (Paz 11, Metro Sol) — closed for years, planned renovation; Teatro de la Comedia (Príncipe 14, Metro Sevilla) — still active (Spain's national theater company); Teatro Español (Príncipe 25, Metro Sevilla) — still active (on site of Corral del Príncipe, 1583). The Teatro de Madrid (Av. de la Ilustración, Metro Barrio del Pilar) was listed but has been renamed/reorganized.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Opera & Classical"
   },
   {
     "id": "the-local-spain",
@@ -12545,7 +12554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Tennis"
   },
   {
     "id": "basketball-madrid",
@@ -12577,7 +12587,8 @@
         "body": "Real Madrid Baloncesto (multi-time Euroleague champions) and Movistar Estudiantes are Madrid's two ACB League teams. Tickets €15-40. Games at WiZink Center (formerly Palacio de Deportes). See real-madrid-bernabeu and estudiantes-basketball records.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Basketball"
   },
   {
     "id": "running-madrid",
@@ -13608,7 +13619,8 @@
         "body": "No, you're not crazy — these V.O. (original version) cinemas from the old Madrid Insider DID exist: Alphaville (Martín de los Héros 14, Metro Plaza España) — classic art-house cinema, verify current status; Pequeño Cine Estudio (Magallanes 1) — small art-house; Cine Bellas Artes (Marqués de Casa Riera 2) — closed; Cine Princesa (Princesa 3, Metro Plaza España) — closed; California (Andrés Mellado 53, Metro Moncloa) — closed. The V.O. cinema scene has consolidated: Cinesa Manoteras and Yelmo Cines Ideal are now the main V.O. venues. The Cine Doré (Filmoteca Española) remains for classic films.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Cinema"
   },
   {
     "id": "casinos-gambling-madrid",
@@ -13634,7 +13646,7 @@
       "malasana-bars-nightlife",
       "chueca-bars-nightlife"
     ],
-    "subsubcategory": "Casinos",
+    "subsubcategory": "Casinos & Gaming",
     "sections": [
       {
         "type": "callout",
@@ -13706,7 +13718,7 @@
       "madrid-music-festivals",
       "outdoor-dining-terraces-madrid"
     ],
-    "subsubcategory": "Terraces",
+    "subsubcategory": "Rooftops & Terraces",
     "sections": [
       {
         "type": "stats",
@@ -14053,7 +14065,8 @@
         "body": "Every summer (July-August), Madrid hosts outdoor cinema screenings in parks and cultural centers. The main venue is the Cine de Verano in various parks. Films often in V.O. (original version). Check esmadrid.com for current summer schedule. Bring a blanket + picnic.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Cinema"
   },
   {
     "id": "phone-tv-internet-providers-madrid",
@@ -14078,7 +14091,7 @@
     "related_records": [
       "sim-cards-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Phone, TV & Internet",
     "sections": [
       {
         "type": "callout",
@@ -14189,15 +14202,15 @@
   {
     "id": "bookstores-madrid-detail",
     "title": "Bookstores & Stationery in Madrid",
-    "category": "living",
-    "subcategory": "services",
+    "category": "do",
+    "subcategory": "shopping",
     "summary": "Casa del Libro (largest), FNAC, La Central. English books at J&J Books, Coffee & Books. Book Depository for online.",
     "content": "Madrid bookstores. SPANISH-LANGUAGE: (1) Casa del Libro (Calle Gran Vía 29) — Spain's largest bookstore chain, 7 floors, excellent selection. Open Mon-Sat 10am-9:30pm, Sun 11am-9pm. (2) FNAC (Calle Marqués de Casa Riera 4 / Castellana 28) — French chain, books + electronics + music. Good selection. (3) La Central (Calle de Postigo de San Martín 8 / Calle del Doctor Cortezo) — beautiful independent bookstores, curated selection. (4) Cuspide (Calle de Alcalá 78) — large, well-organized. ENGLISH-LANGUAGE: (1) J&J Books and Coffee (Calle del Espíritu Santo 47, Malasaña) — English used bookstore with café. (2) Coffee & Books (Calle de León 12, Barrio de las Letras) — small English bookstore + café. (3) Books4Spain (online) — Spain-focused English books. (4) El Corte Inglés book sections (especially Castellana) — decent English section. SECOND-HAND: (1) El Rastro flea market (Sundays) — book stalls on Calle de la Mira. (2) Oxfam Books (Calle de Alcalá 67) — charity shop with English books. (3) Libros de Segunda Mano (online) — wallapop.com. STATIONERY: (1) ELCO (Calle de la Princesa) — premium stationery. (2) Staples (multiple) — office supplies. (3) Tobogán (Calle de la Colegiata) — design-focused stationery. ONLINE: (1) Amazon.es — fast delivery, large selection. (2) Book Depository (bookdepository.com) — free shipping worldwide, often cheaper than Amazon for English books. (3) Casa del Libro online. TIPS: (1) Book prices are fixed in Spain (Ley del Libro) — same price everywhere. (2) Amazon Prime in Spain (€20/year) includes free 1-day delivery. (3) Library cards at Bibliotecas Públicas Municipales are free for residents (bring ID and proof of address).",
     "official_url": "https://www.casadellibro.com/",
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "bookstore",
@@ -14210,7 +14223,7 @@
       "el-rastro-flea-market",
       "language-schools-madrid"
     ],
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Bookstores",
     "sections": [
       {
         "type": "table",
@@ -15291,7 +15304,7 @@
         ]
       }
     ],
-    "subsubcategory": "Bus Stations"
+    "subsubcategory": "Intercity Buses & Coaches"
   },
   {
     "id": "padel-madrid",
@@ -15304,7 +15317,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "padel",
@@ -15346,7 +15359,8 @@
         "body": "Padel is the best way to meet Spanish people. Join 'Madrid Pádel International' WhatsApp/Facebook groups. The game is doubles — very social. After 2-3 lessons you can play socially.",
         "tone": "success"
       }
-    ]
+    ],
+    "subsubcategory": "Padel & Racket Sports"
   },
   {
     "id": "madrid-clubs-electronic",
@@ -15481,7 +15495,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "jazz",
@@ -15531,7 +15545,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Jazz & Blues"
   },
   {
     "id": "official-madrid-city-map",
@@ -15925,14 +15940,15 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Airport Services"
   },
   {
     "id": "left-luggage-atocha",
     "title": "Left Luggage at Atocha Station",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "subsubcategory": "Left Luggage",
     "summary": "Left luggage at Atocha train station. €3.90-5.50/bag/day. Open 5:30am-10:30pm. Near the tropical garden.",
     "content": "Atocha Station has the most convenient left luggage in central Madrid. LOCATION: ground floor, near the tropical garden (the old station hall with 4,000 plants). Follow signs for 'Consignas'. PRICES: €3.90/bag/day (size S/M, up to 60cm), €5.50/bag/day (size L, over 60cm). Pay by cash or card. HOURS: 5:30am-10:30pm daily (last drop-off 10pm, last pickup 10:30pm). SECURITY: bags are X-rayed. ID required (passport or NIE). Staffed with CCTV. MAXIMUM STAY: 30 days (then bags are sent to lost property). TIPS: (1) Atocha is the best option for sightseeing — central location, near the Prado and Reina Sofía. (2) Arrive early (before 9am) to avoid lines — cruise ship groups and tour buses use this facility. (3) The tropical garden is free to visit while you wait. (4) Don't leave valuables or electronics. (5) Keep your claim ticket — losing it requires ID verification and a 30+ min wait. (6) For longer storage, see Public Storage (Trasteros). (7) Atocha also has a VIP luggage service (left luggage + delivery to your hotel) for €15-25.",
     "official_url": "https://www.adif.es/en/stations/atocha",
@@ -15989,9 +16005,9 @@
   {
     "id": "left-luggage-chamartin",
     "title": "Left Luggage at Chamartín Station",
-    "category": "living",
-    "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "category": "essentials",
+    "subcategory": "tourist-info",
+    "subsubcategory": "Left Luggage",
     "summary": "Left luggage at Chamartín train station. €3.90-5.50/bag/day. Open 6am-11pm. Near the VIPS café.",
     "content": "Chamartín Station (Madrid's second major train station, north of center) has left luggage facilities. LOCATION: ground floor, near the VIPS café. Follow signs for 'Consignas'. PRICES: same as Atocha — €3.90/bag/day (size S/M, up to 60cm), €5.50/bag/day (size L, over 60cm). HOURS: 6am-11pm daily (last drop-off 10:30pm, last pickup 11pm). SECURITY: bags are X-rayed. ID required (passport or NIE). Staffed with CCTV. MAXIMUM STAY: 30 days. TIPS: (1) Chamartín is less crowded than Atocha — usually no lines. (2) Chamartín is in the north of Madrid — use it if you're staying in Chamartín, Tetuán, or financial district. (3) For tourists staying in the center, Atocha is more convenient. (4) The station has good food options (VIPS, Starbucks) while you wait. (5) Don't leave valuables or electronics. (6) Keep your claim ticket. (7) Chamartín connects to Barajas Airport via Cercanías C1 (25 min) — if you have a layover, you could store bags at Chamartín and take the train to the airport.",
     "official_url": "https://www.adif.es/en/stations/chamartin",
@@ -16092,7 +16108,7 @@
     "title": "Public Storage (Trasteros) — Long-Term",
     "category": "living",
     "subcategory": "services",
-    "subsubcategory": "Daily Practical",
+    "subsubcategory": "Storage & Self-Storage",
     "summary": "Self-storage units (trasteros) for long-term storage. €50-150/month. Chains: Accessa, City Trastero, Trastero Madrid.",
     "content": "Trasteros are self-storage units — like Public Storage in the US or Access Self Storage in the UK. Used for long-term storage (weeks, months, or years) — much cheaper than left luggage for extended periods. MAIN CHAINS: (1) Accessa (accessa.es) — Spain's largest, 8 locations in Madrid area. Units from 1m² to 20m². €50-200/month depending on size. 24/7 access at most locations. (2) City Trastero (citytrastero.com) — 4 locations in Madrid. €60-150/month. Modern, clean. (3) Trastero Madrid (trasteromadrid.com) — local, 3 locations. €45-120/month. (4) Storage Madrid — small, central. (5) Ibertrastero — chain, multiple. PRICING: 1m² (a few boxes) €45-60/month. 3m² (small apartment contents) €80-120/month. 6m² (1-bedroom apartment) €120-180/month. 10m²+ (house) €180-300/month. First month often discounted (€1 promotions). WHAT'S INCLUDED: 24/7 access (most), CCTV, climate control (some), free truck + driver for move-in (some), packing supplies for sale. USES: (1) Between apartments (store furniture during a move). (2) For expats going home for summer. (3) For businesses storing inventory. (4) For students storing stuff between academic years. TIPS: (1) Compare prices — there's a big range. (2) Negotiate — ask for a discount, especially for 6+ month commitments. (3) Check access hours — some are 24/7, some 8am-8pm. (4) Insurance: usually €10-15/month extra. (5) Climate control matters for electronics, art, leather — ask if the unit has it. (6) Reserve 1-2 weeks ahead in summer (peak season for student storage).",
     "official_url": "https://www.accessa.es/",
@@ -17015,7 +17031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Jazz & Blues"
   },
   {
     "id": "gran-via-theaters-musicals",
@@ -17067,7 +17084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Theater & Musicals"
   },
   {
     "id": "warner-beach-water-park",
@@ -17223,7 +17241,8 @@
           "Don't miss the Night Zone — unique in Madrid"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Zoo & Aquarium"
   },
   {
     "id": "marionetas-titere-madrid",
@@ -17257,7 +17276,8 @@
         "body": "El Retiro Park has a historic puppet theater (Teatro de Títeres) with weekend shows for children. Casa de Titeres de El Retiro. Free or low-cost. Also check Cultural Center San Blas and other civic centers for children's theater programming.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Kids Shows & Theater"
   },
   {
     "id": "natural-sciences-museum-madrid",
@@ -17796,7 +17816,8 @@
         "body": "Movistar Estudiantes is Madrid's historic basketball club (founded 1948). Plays in ACB League. Games at Palacio de Deportes (WiZink Center). Tickets €15-30. Less expensive than Real Madrid basketball.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Basketball"
   },
   {
     "id": "parkrun-madrid",
@@ -17850,7 +17871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Running"
   },
   {
     "id": "madrid-tourist-map-pdf",
@@ -19418,7 +19440,7 @@
         ]
       }
     ],
-    "subsubcategory": "Community & Faith"
+    "subsubcategory": "Community & Expat Groups"
   },
   {
     "id": "devour-madrid-food-tours",
@@ -19440,7 +19462,7 @@
       "malasana",
       "lavapies"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "food-tours-madrid",
@@ -19530,7 +19552,8 @@
           "Don't eat a big meal before the tour — most tours include 5-7 substantial tastings"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Food Tours"
   },
   {
     "id": "moving2madrid-relocation",
@@ -19806,7 +19829,7 @@
       "depression",
       "couples"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "english-speaking-doctors-madrid",
@@ -19913,7 +19936,8 @@
         "body": "If you are in immediate danger, call 112 (Spanish emergency services, English-speaking operators). For mental health crises, Teléfono de la Esperanza (717 003 717) is a Spanish-language helpline; English-language crisis support is available via the Samaritans English-speaking line (+44 116 123 from Spain).",
         "tone": "danger"
       }
-    ]
+    ],
+    "subsubcategory": "Mental Health"
   },
   {
     "id": "international-chambers-madrid",
@@ -20052,7 +20076,7 @@
       "church-of-england",
       "expat"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "churches-religion-madrid",
@@ -20157,7 +20181,7 @@
         ]
       }
     ],
-    "subsubcategory": "Community & Faith"
+    "subsubcategory": "Religion & Faith"
   },
   {
     "id": "english-speaking-vets-madrid",
@@ -20180,7 +20204,7 @@
       "expat",
       "house-calls"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "english-speaking-doctors-madrid",
@@ -20285,7 +20309,7 @@
         "tone": "warning"
       }
     ],
-    "subsubcategory": "Community & Faith"
+    "subsubcategory": "Pet Services"
   },
   {
     "id": "english-summer-camps-madrid",
@@ -20307,7 +20331,7 @@
       "family",
       "international-school"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "bilingual-schools-madrid",
@@ -20426,7 +20450,8 @@
         "body": "Madrid in July and August regularly exceeds 38°C (100°F). For day camps, verify the facility has air-conditioned indoor space for the hottest hours (1-5pm). For residential camps, prefer those in the Madrid mountains (Sierra de Guadarrama) where temperatures are 5-8°C cooler.",
         "tone": "warning"
       }
-    ]
+    ],
+    "subsubcategory": "Summer Camps (English)"
   },
   {
     "id": "aupair-spain-madrid",
@@ -20878,7 +20903,7 @@
       "residential",
       "international"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "english-summer-camps-madrid",
@@ -20984,7 +21009,8 @@
           "Don't assume English-only — camps are bilingual, basic Spanish helps kids integrate"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Football/Soccer Camps"
   },
   {
     "id": "yoga-teacher-training-spain",
@@ -21008,7 +21034,7 @@
       "wellness",
       "english-taught"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "yoga-madrid",
@@ -21103,7 +21129,8 @@
           "Don't expect to teach immediately after — YTT is foundational, practice required"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Yoga & Wellness Training"
   },
   {
     "id": "camino-de-santiago-services",
@@ -21126,7 +21153,7 @@
       "northern-spain",
       "english-speaking"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "day-tours-from-madrid",
@@ -21229,7 +21256,8 @@
           "Don't skip the Pilgrim's Mass at Santiago Cathedral — emotional endpoint"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Pilgrimage & Long-Distance"
   },
   {
     "id": "culinary-schools-madrid",
@@ -21375,7 +21403,7 @@
       "english-speaking-clinics",
       "international-patients"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "english-speaking-doctors-madrid",
@@ -21474,7 +21502,8 @@
         "body": "Spain is Europe's IVF capital: permissive laws (embryo donation, no age limit up to 50), high success rates, English-speaking clinics, and lower costs. Madrid has 15+ fertility clinics. Eugin, IVI, Bernabeu all have Madrid offices.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Medical Tourism"
   },
   {
     "id": "spain-golden-visa-ended",
@@ -21495,7 +21524,7 @@
       "real-estate",
       "investment"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "legacy",
     "related_records": [
       "digital-nomad-visa-spain-services",
@@ -21572,7 +21601,8 @@
         "body": "If you obtained your Golden Visa before April 3, 2025, your residency rights are preserved. You can renew under the previous rules. Contact an immigration lawyer (see english-speaking-lawyers-madrid) for renewal questions.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Investor Visas (Historical)"
   },
   {
     "id": "international-school-jobs-madrid",
@@ -22057,7 +22087,7 @@
       "stott-pilates",
       "wellness"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "yoga-teacher-training-spain",
@@ -22154,7 +22184,8 @@
           "Don't enroll without verifying the certifying organization's international recognition"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Yoga & Wellness Training"
   },
   {
     "id": "music-summer-programs-madrid",
@@ -23786,7 +23817,7 @@
       "residential",
       "sports-academy"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "soccer-camps-madrid",
@@ -23909,7 +23940,8 @@
         "body": "Madrid residents reach Sánchez-Casal (Barcelona) in 2.5 hours by AVE train or 1-hour flight. Rafa Nadal Academy (Manacor, Mallorca) is 1.5-hour flight from Madrid-Barajas + 45-min drive. Madrid also has its own tennis infrastructure at Caja Mágica (Madrid Open venue).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Tennis & Padel Camps"
   },
   {
     "id": "golf-academies-spain",
@@ -23931,7 +23963,7 @@
       "international-students",
       "summer-camp"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "tennis-academies-spain",
@@ -24053,7 +24085,8 @@
           "Don't forget sun protection — Spanish golf is year-round but summer is brutal"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Golf Camps"
   },
   {
     "id": "equestrian-camps-madrid",
@@ -24195,7 +24228,7 @@
       "eugin",
       "medical-tourism"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "medical-tourism-madrid",
@@ -24348,7 +24381,8 @@
         "body": "Embryo donation allowed (not in all countries). No age limit up to 50 (UK limit is 42). Donor anonymity (means large donor pool, no waitlist). Same-sex couples and single women eligible. Surrogacy NOT allowed in Spain (illegal).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Medical Tourism"
   },
   {
     "id": "art-design-schools-madrid",
@@ -24486,7 +24520,7 @@
   {
     "id": "fashion-summer-courses-madrid",
     "category": "do",
-    "subcategory": "shopping",
+    "subcategory": "arts-education",
     "title": "Fashion Summer Courses in Madrid (English)",
     "summary": "IED Madrid offers English-taught fashion summer courses: Fashion Experience Junior (ages 15-17), Global Design Summer, Design Experience. 2-3 week intensives, €1,300+. Madrid Fashion Week access.",
     "content": "Madrid has a small but growing English-taught fashion summer course market, anchored by IED Madrid (Istituto Europeo di Design). The Fashion Experience Junior course (30 June - 11 July 2026) is designed for ages 15-17, immersing them in fashion design, styling, and art direction — taught in English at IED Madrid. The 3-week Global Design Summer Course covers the four fundamental areas of design (Fashion, Product, Interior, Graphic), allowing students to develop a total design proposal. The Design Experience summer course explores how one concept can be developed into visual identity, physical object, wearable piece, and spatial experience. All IED Madrid summer courses are taught in English by industry professionals. Madrid's fashion scene is anchored by Mercedes-Benz Fashion Week Madrid (IFEMA exhibition center, February and September), which attracts international press and buyers. Beyond IED, fashion summer options include TAI's fashion communication program, and various independent styling and design workshops. Madrid is also home to major Spanish fashion brands (Inditex/Zara headquarters in Arteixo but design offices in Madrid; Loewe flagship and design team in Madrid; Mango design team in Barcelona but retail presence in Madrid). For international fashion students wanting a Spanish alternative to Milan or Paris, Madrid offers lower costs, growing international recognition, and access to Spanish-language fashion industry. IED Madrid fashion summer courses typically cost €1,300-€2,500 for 2-3 week intensives.",
@@ -24503,7 +24537,7 @@
       "art-direction",
       "junior-program"
     ],
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "art-design-schools-madrid",
@@ -24614,7 +24648,8 @@
           "Don't underestimate Madrid summer heat (40°C+) — choose morning classes"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "cooking-classes-tourists-madrid",
@@ -24785,7 +24820,7 @@
       "wine-tourism",
       "tempranillo"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "day-tours-from-madrid",
@@ -24910,7 +24945,8 @@
         "body": "day-tours-from-madrid (general day trips), wine-certification-spain (WSET courses in Madrid), spanish-wines-madrid (Spanish wine basics), devour-madrid-food-tours (food tours in Madrid).",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Food Tours"
   },
   {
     "id": "gap-year-programs-madrid",
@@ -25355,7 +25391,8 @@
           "Don't expect warm water at Spanish coast in winter (12-15°C)"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Water Sports Certification"
   },
   {
     "id": "rock-climbing-courses-madrid",
@@ -25376,7 +25413,7 @@
       "outdoor-sports",
       "mountain"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "cycling-mtb-madrid",
@@ -25495,7 +25532,8 @@
           "Don't skip the safety briefing — Spanish climbing has specific conventions"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Outdoor Adventure"
   },
   {
     "id": "ski-school-spain-english",
@@ -25516,7 +25554,7 @@
       "granada",
       "instructor"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "rock-climbing-courses-madrid",
@@ -25633,7 +25671,8 @@
           "Don't skip lunch — Spanish ski culture includes long midday meals"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Outdoor Adventure"
   },
   {
     "id": "pre-university-summer-madrid",
@@ -25782,7 +25821,7 @@
       "five-star",
       "spain"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "soccer-camps-madrid",
@@ -25887,7 +25926,8 @@
           "Don't book a 'beginner' camp for an experienced player — too basic"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Basketball Camps"
   },
   {
     "id": "guitar-luthier-schools-spain",
@@ -27346,7 +27386,7 @@
       "altitude-training",
       "international-cyclists"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "cycling-mtb-madrid",
@@ -27469,7 +27509,8 @@
           "Don't skip the recovery meals — Spanish cycling food is excellent"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Cycling & Endurance Camps"
   },
   {
     "id": "altitude-running-camps-spain",
@@ -27490,7 +27531,7 @@
       "navacerrada",
       "international-athletes"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "cycling-training-camps-spain",
@@ -27608,7 +27649,8 @@
           "Don't skip hydration — altitude increases fluid loss"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Cycling & Endurance Camps"
   },
   {
     "id": "startup-accelerators-madrid",
@@ -27891,7 +27933,8 @@
           "Don't skip the industry forums — that's where real business happens"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Film Festivals"
   },
   {
     "id": "robotics-stem-camps-madrid",
@@ -27914,7 +27957,7 @@
       "video-games",
       "international-students"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "english-summer-camps-madrid",
@@ -28012,7 +28055,8 @@
           "Don't book without confirming language of instruction"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer Camps (English)"
   },
   {
     "id": "cooking-holidays-spain",
@@ -28184,7 +28228,7 @@
       "international-audience",
       "english-language"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "acting-schools-madrid",
@@ -28292,7 +28336,8 @@
           "Don't underestimate Madrid theater scene — major year-round programming"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Theater & Musicals"
   },
   {
     "id": "business-spanish-executives-madrid",
@@ -28724,7 +28769,7 @@
       "author-signings",
       "literary-quarter"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "creative-writing-workshops-madrid",
@@ -28845,7 +28890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Literary Events"
   },
   {
     "id": "spanish-family-immersion-madrid",
@@ -29294,7 +29340,7 @@
       "canary-islands",
       "summer-camp"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "scuba-diving-certification-madrid",
@@ -29401,7 +29447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Water Sports Certification"
   },
   {
     "id": "volleyball-camps-spain",
@@ -29423,7 +29470,7 @@
       "isc-spain",
       "slam-international"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "soccer-camps-madrid",
@@ -29498,7 +29545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Team Sports Camps"
   },
   {
     "id": "equestrian-holidays-spain",
@@ -29520,7 +29568,7 @@
       "spanish-horses",
       "international"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "equestrian-camps-madrid",
@@ -29629,7 +29677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Equestrian & Animal Camps"
   },
   {
     "id": "science-summer-programs-spain",
@@ -30067,7 +30116,7 @@
       "festival",
       "live-music"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "nightlife-etiquette-madrid",
@@ -30177,12 +30226,13 @@
           "Don't drive to the festival — parking impossible"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Music Festivals"
   },
   {
     "id": "yoga-wellness-retreats-spain",
     "category": "do",
-    "subcategory": "sports",
+    "subcategory": "sports-camps",
     "title": "Yoga & Wellness Retreats in Spain (English-Speaking)",
     "summary": "Spain yoga + wellness retreats recruiting international guests: BookYogaRetreats (top 10), BookRetreats (580 wellness), yoga + massage + meditation. From €500-€2,500/week. Andalusia, Canary Islands, Mallorca strongest.",
     "content": "Spain is one of Europe's premier yoga and wellness retreat destinations, with hundreds of operators recruiting international guests through English-language marketing. BookYogaRetreats lists the top 10 yoga retreats in Spain for 2026/2027 — including 8-day Yoga and Wellness Relaxation Holidays, plus festivals that include yoga workshops and meditation sessions. BookRetreats lists 580 best wellness retreats around Spain with 21,131 reviews — covering rejuvenation of mind, body, and soul. Condé Nast Traveller documents Europe's best affordable yoga retreats including Spanish options. Responsible Travel covers yoga vacations in Spain — from daily yoga, massage, and meditation classes to authentic Spanish experiences. The Spanish yoga retreat market is concentrated in: Andalusia (Cabo de Gata, Tarifa, Granada), Canary Islands (Tenerife, Lanzarote, Fuerteventura), Mallorca, and Ibiza (luxury wellness). Madrid itself has fewer residential yoga retreats but is the gateway city — most international guests fly into Madrid-Barajas then transfer. The yoga retreat market targets: (1) stressed professionals wanting decompression, (2) solo female travelers wanting safe wellness travel, (3) couples wanting active + spiritual vacation, (4) experienced yogis wanting daily practice in beautiful settings. Programs typically run 3-8 days with costs €500-€2,500/person including accommodation, all meals (usually vegetarian/vegan), 2x daily yoga, meditation sessions, and often massage/treatments. Most Spanish retreats follow a similar daily schedule: 7-8am meditation, 8-10am yoga, 10am brunch, free time/excursion, 4-5pm workshop, 6-8pm yoga, 8pm dinner. Spain is particularly attractive for yoga retreats because of: sunny climate year-round, lower cost than Italy/France, established wellness infrastructure, and Mediterranean diet supporting healthy eating.",
@@ -30200,7 +30250,7 @@
       "andalusia",
       "canary-islands"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "yoga-teacher-training-spain",
@@ -30336,7 +30386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Yoga & Wellness Training"
   },
   {
     "id": "kids-music-summer-camps-madrid",
@@ -30358,7 +30409,7 @@
       "st-george-madrid",
       "reina-sofia"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "music-summer-programs-madrid",
@@ -30468,7 +30519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Summer Camps (English)"
   },
   {
     "id": "madrid-law-summer-programs",
@@ -30748,7 +30800,7 @@
       "international-poets",
       "versopolis"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "madrid-book-fair-literary-events",
@@ -30846,7 +30898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Literary Events"
   },
   {
     "id": "paddle-tennis-camps-madrid",
@@ -30868,7 +30921,7 @@
       "madrid",
       "international-players"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "tennis-academies-spain",
@@ -30989,7 +31042,8 @@
           "Don't book without verifying English-speaking coaches (most clubs are Spanish-only)"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Tennis & Padel Camps"
   },
   {
     "id": "andalusian-horses-dance-show",
@@ -31012,7 +31066,7 @@
       "performing-arts",
       "royal-school"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "equestrian-holidays-spain",
@@ -31102,7 +31156,8 @@
         "body": "For equestrian holidays (trail riding, dressage training, horse + yoga retreats) where you PARTICIPATE, see equestrian-holidays-spain (Equitours, Equus Journeys, Far and Ride) in Do → Theme Parks & Active Family Fun. For kids' equestrian camps, see equestrian-camps-madrid.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Equestrian Shows"
   },
   {
     "id": "zarzuela-madrid",
@@ -31125,7 +31180,7 @@
       "performing-arts",
       "royal-palace"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "teatro-real-madrid",
@@ -31225,7 +31280,8 @@
         "body": "The Sabatini Gardens (next to Royal Palace) and nearby Plaza de Oriente host outdoor cultural events throughout summer (July-August), including zarzuela performances, concerts, and dance shows. These are organized by Madrid's municipal culture department and are often free. Check esmadrid.com for current summer programming. See sabatini-gardens record for garden details.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Opera & Classical"
   },
   {
     "id": "plaza-de-espana-madrid",
@@ -31249,7 +31305,7 @@
       "rooftop",
       "landmark"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "gran-via",
@@ -31318,7 +31374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Plazas"
   },
   {
     "id": "plaza-de-colon",
@@ -31340,7 +31397,7 @@
       "castellana",
       "landmark"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "salamanca-neighborhood",
@@ -31411,7 +31468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Plazas"
   },
   {
     "id": "cibeles-fountain-city-hall",
@@ -31435,7 +31493,7 @@
       "landmark",
       "cybele"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "puerta-de-alcala",
@@ -31509,7 +31567,8 @@
         "body": "When Real Madrid wins La Liga, Champions League, or Copa del Rey, thousands of fans gather at Cibeles Fountain. Players appear on the City Hall balcony. If you're visiting during a championship celebration, Cibeles is the place to be — but be prepared for massive crowds.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Fountains & Monuments"
   },
   {
     "id": "madrid-historic-gates",
@@ -31533,7 +31592,7 @@
       "landmark",
       "monument"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "evergreen",
     "related_records": [
       "puerta-de-alcala",
@@ -31620,7 +31679,8 @@
           "Don't try to drive to them — traffic is heavy and parking impossible"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Fountains & Monuments"
   },
   {
     "id": "paseo-del-prado-fountains",
@@ -31723,7 +31783,8 @@
         "body": "The two Madrid football clubs have rival fountain celebration points: Real Madrid fans gather at Cibeles (goddess of nature), Atlético Madrid fans at Neptuno (god of the sea). When both teams win on the same weekend, Madrid's Paseo del Prado becomes a sea of white (Real) and red-and-white (Atlético) fans. The rivalry is friendly but passionate.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Fountains & Monuments"
   },
   {
     "id": "outdoor-dining-terraces-madrid",
@@ -32615,7 +32676,8 @@
         "body": "The old Madrid Insider (2013) listed these hidden parks. They all still exist but hours may have changed. The Crystal Palace of Arganzuela (not to be confused with the Crystal Palace in Retiro Park) is particularly magical — a massive tropical greenhouse few tourists know about. El Capricho is worth the trip to the suburbs for its 18th-century romantic atmosphere.",
         "tone": "info"
       }
-    ]
+    ],
+    "subsubcategory": "Hidden Gems"
   },
   {
     "id": "version-original-cinemas-madrid",
@@ -33301,7 +33363,8 @@
           "Don't forget Modelo 720 (foreign asset declaration) — €10,000+ penalties"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Budgeting"
   },
   {
     "id": "moving-to-madrid-guide",
@@ -33469,7 +33532,8 @@
           }
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Practical Guides"
   },
   {
     "id": "madrid-for-families-guide",
@@ -33586,6 +33650,7 @@
           "Don't forget — August is emptiest (locals on holiday) = fewer crowds"
         ]
       }
-    ]
+    ],
+    "subsubcategory": "Family Guides"
   }
 ]
