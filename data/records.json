@@ -1022,7 +1022,7 @@
       "spanish-bank-accounts",
       "tipping-spain"
     ],
-    "official_url": "https://www.bankinter.com/banca/en/home",
+    "official_url": "https://www.bde.es/wbe/en/sistemas-de-pago/sistemas-de-pago-en-espana/",
     "subsubcategory": "Cards & Payment",
     "english_level": "english-available",
     "sections": [
@@ -22439,8 +22439,8 @@
   },
   {
     "id": "artist-residencies-madrid",
-    "category": "see",
-    "subcategory": "neighborhoods",
+    "category": "do",
+    "subcategory": "arts-education",
     "title": "Artist Residencies & Writer Retreats in Madrid",
     "summary": "Madrid hosts multiple artist residencies recruiting English-speaking artists: ROOSTERGNN (Madrid), Matadero Madrid residencies, ArtConnect Madrid directory. From 1-week intensives to 6-month programs. Most actively recruit international artists.",
     "content": "Madrid has a growing artist residency ecosystem that actively recruits international (English-speaking) artists, writers, and creative practitioners. These residencies provide studio space, accommodation, and often a stipend in exchange for engaging with the local artistic community. ROOSTERGNN Artist Residency is one of the most established Madrid-based programs recruiting international artists — they run collaborative residencies for cross-arts practice development with text in English or Spanish. Matadero Madrid, the city's contemporary arts center in Legazpi, runs residencies and is the largest public-funded residency host. ArtConnect maintains a directory of Madrid's top artist residencies, including most active programs. The Res Artis network (global residency association) lists open calls for Spanish residencies. A newer development is the writer + artist residency model launched in Madrid (Reddit r/writers references an August launch) where writers and artists work in the same space — explicitly English-language. Residencies typically run 1-6 months, with costs ranging from fully funded (competitive) to €800-€2,500/month (self-funded). Madrid's growing international arts community, lower cost of living than London/Berlin, and excellent transport links make it increasingly attractive to international artists seeking residency experiences.",
@@ -22457,7 +22457,7 @@
       "matadero",
       "artconnect"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "lavapies-neighborhood",
@@ -22552,7 +22552,7 @@
         ]
       }
     ],
-    "subsubcategory": "Overview & Creative"
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "internship-services-madrid",
@@ -26773,8 +26773,8 @@
   },
   {
     "id": "writer-residencies-spain",
-    "category": "see",
-    "subcategory": "neighborhoods",
+    "category": "do",
+    "subcategory": "arts-education",
     "title": "Writer Residencies & Writing Retreats in Spain (English)",
     "summary": "Spain writer residencies recruiting English-language writers: Casa Ana (Alpujarra), NN Madrid (literary residency), Madrid writer+artist residency. From €900 (2 weeks) to €3,800 (longer).",
     "content": "Spain has a small but growing writer residency and writing retreat ecosystem, with multiple programs recruiting English-language writers through English-language marketing. Casa Ana in the Alpujarra (Andalusia) is one of the most established — writing retreats designed to help writers achieve success with novels, short stories, poetry, plays, or non-fiction. The Alpujarra setting (mountain villages south of Granada) provides quiet, inspiration, and natural beauty. NN (Nueva Narrativa) holds residencies in Madrid, Spain, and Havana, Cuba — with accommodations provided and a bilingual orientation coordinator. The Madrid Writer + Artist Residency (Reddit r/writers references an August launch) is a newer concept where writers and artists work in the same space, explicitly English-language. Audrey Gidman's Substack maintains a non-exhaustive list of international writing and art residencies including Spanish options — typical costs €3,500-€3,800 for longer programs, €900 for two weeks, €1,500 for one month. Art Omi: Writers (international but referenced for Spanish participants) hosts authors and translators from around the world for residencies throughout spring and fall. Aspiring Author maintains a list of unique and inspiring international writing residencies including the Madrid options. For English-language writers, Spain offers: (1) lower cost than UK/US residencies, (2) Mediterranean climate, (3) rich literary tradition (Cervantes, Lope de Vega, Lorca), (4) quiet rural settings (Alpujarra, Pyrenees) for focused writing. Most residencies provide private accommodation, writing space, and often meals. Some offer stipends; most are self-funded. Application is competitive — typical 3-6 month lead time.",
@@ -26791,7 +26791,7 @@
       "literary",
       "creative-writing"
     ],
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "status": "annual review",
     "related_records": [
       "artist-residencies-madrid",
@@ -26886,7 +26886,7 @@
         ]
       }
     ],
-    "subsubcategory": "Overview & Creative"
+    "subsubcategory": "Arts Education"
   },
   {
     "id": "jazz-music-workshops-madrid",
