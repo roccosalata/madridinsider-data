@@ -2606,7 +2606,35 @@
       "english-speaking-wedding-planners-madrid"
     ],
     "subsubcategory": "Cathedral",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Calle de Bailén 10, next to Royal Palace (Metro Ópera)"
+          },
+          {
+            "label": "Cost",
+            "value": "Free (cathedral). Crypt €6. Museum €6."
+          },
+          {
+            "label": "Hours",
+            "value": "Daily 9am-9pm (tourist hours may vary)"
+          },
+          {
+            "label": "Consecrated",
+            "value": "1993 by Pope John Paul II"
+          },
+          {
+            "label": "Style",
+            "value": "Neo-Gothic exterior, Neo-Romanesque crypt, Neo-Byzantine interior"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "retiro-park",
@@ -2891,7 +2919,35 @@
       "madrid-rio"
     ],
     "subsubcategory": "Attractions",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Route",
+            "value": "Rosales (Argüelles) ↔ Casa de Campo"
+          },
+          {
+            "label": "Duration",
+            "value": "11 min each way"
+          },
+          {
+            "label": "Cost",
+            "value": "€5.70 one-way, €8.20 round-trip"
+          },
+          {
+            "label": "Views",
+            "value": "Royal Palace, Plaza de España, Temple of Debod, skyline"
+          },
+          {
+            "label": "Metro",
+            "value": "Argüelles (L3, L4, L6) or Plaza de España (L3, L10)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "plaza-mayor",
@@ -3501,7 +3557,35 @@
       "malasana-bars-nightlife",
       "teatro-real-madrid"
     ],
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Plaza del Ángel 10 (Metro Huertas/Tirso de Molina)"
+          },
+          {
+            "label": "Cover charge",
+            "value": "€15-25 (includes drink)"
+          },
+          {
+            "label": "Shows",
+            "value": "Nightly. Multiple sets from 9pm."
+          },
+          {
+            "label": "Cash only",
+            "value": "Yes — bring cash for cover + drinks"
+          },
+          {
+            "label": "Atmosphere",
+            "value": "Intimate, underground, smoky (in a good way)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "real-madrid-bernabeu",
@@ -3760,7 +3844,15 @@
     ],
     "official_url": "https://www.esmadrid.com/en/whats-on/august-fiestas-madrid",
     "subsubcategory": "Summer Festivals",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "August = verbena season in Madrid",
+        "body": "Three consecutive verbenas in August: San Cayetano (first week, La Latina/Cascorro), San Lorenzo (Aug 9-11, Lavapiés), La Paloma (Aug 11-15, La Latina). Streets fill with music, dancing, food stalls, and traditional dress. Madrid's most festive month.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "madrid-pride",
@@ -4203,7 +4295,15 @@
       "reina-sofia-current"
     ],
     "subsubcategory": "Museum Exhibitions",
-    "english_level": "english-available"
+    "english_level": "english-available",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Thyssen temporary exhibitions",
+        "body": "The Thyssen hosts 3-4 major temporary exhibitions per year, typically running 3-4 months. Check museothyssen.org for current exhibitions. Past shows have included Sorolla, Cézanne, Hopper, and Renaissance portraits. Often the best temporary exhibitions in Madrid.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "el-pais-english",
@@ -4793,7 +4893,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "airport",
@@ -4804,6 +4904,34 @@
       "madrid-barajas-airport",
       "emt-buses",
       "atocha-station"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€5 (one of cheapest airport options)"
+          },
+          {
+            "label": "Route",
+            "value": "Airport T1-T2-T3-T4 ↔ Atocha ↔ Cibeles"
+          },
+          {
+            "label": "Hours",
+            "value": "24 hours (frequency varies: 15min daytime, 35min night)"
+          },
+          {
+            "label": "Duration",
+            "value": "30-40 min to Atocha"
+          },
+          {
+            "label": "Luggage",
+            "value": "Under-bus storage included"
+          }
+        ]
+      }
     ]
   },
   {
@@ -4817,7 +4945,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "airport",
@@ -4828,6 +4956,30 @@
       "madrid-barajas-airport",
       "taxis-madrid",
       "ride-sharing-madrid"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Cost",
+            "value": "€35-60 (private car, up to 4 passengers)"
+          },
+          {
+            "label": "Booking",
+            "value": "Pre-book online. Driver meets you at arrivals with sign."
+          },
+          {
+            "label": "Advantage",
+            "value": "Door-to-door, no waiting, English-speaking drivers"
+          },
+          {
+            "label": "Best for",
+            "value": "Families with luggage, business travelers, late arrivals"
+          }
+        ]
+      }
     ]
   },
   {
@@ -5008,7 +5160,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "transport",
       "driving",
@@ -5018,6 +5170,14 @@
       "parking-madrid",
       "metro-de-madrid",
       "madrid-barajas-airport"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Don't drive in central Madrid if you can avoid it",
+        "body": "Madrid has a Low Emission Zone (ZBE) in the center — older cars are banned. Parking is expensive (€2-4/hour) and nearly impossible in the center. Public transport is faster, cheaper, and less stressful. Only rent a car for day trips outside Madrid.",
+        "tone": "warning"
+      }
     ]
   },
   {
@@ -5393,7 +5553,7 @@
     "status": "legacy",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "connectivity",
       "calling",
@@ -5405,7 +5565,15 @@
       "esim-madrid",
       "internet-cafes-madrid"
     ],
-    "subsubcategory": "Mobile"
+    "subsubcategory": "Mobile",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Calling cards are outdated — use apps instead",
+        "body": "The old Madrid Insider listed calling cards and locutorios (call centers). These are now largely obsolete. Use WhatsApp (free), Skype, or your Spanish SIM's international rates (€0.05-0.15/min to US/UK). Locutorios still exist in Lavapiés for cheap international calls.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "post-office-madrid",
@@ -5546,7 +5714,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "services",
       "translation",
@@ -5558,7 +5726,31 @@
       "empadronamiento",
       "post-office-madrid"
     ],
-    "subsubcategory": "Translating & Interpreting"
+    "subsubcategory": "Translating & Interpreting",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Sworn translators (traductores jurados) in Madrid",
+        "items": [
+          {
+            "title": "Sworn translation needed for",
+            "body": "Legal documents (birth certificates, marriage certificates, academic records, contracts). Only sworn translators (traductores jurados) can produce legally valid translations."
+          },
+          {
+            "title": "How to find",
+            "body": "Ministry of Foreign Affairs maintains the official list: exteriores.gob.es. Search 'traductores jurados'."
+          },
+          {
+            "title": "Cost",
+            "value": "€30-60 per page (varies by language + complexity)"
+          },
+          {
+            "title": "English-Spanish",
+            "value": "Most common. Many translators in Madrid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "barbers-hairdressers-madrid",
@@ -7556,7 +7748,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "bureaucracy",
       "residencia",
@@ -7568,7 +7760,15 @@
       "empadronamiento",
       "social-security-number-spain"
     ],
-    "subsubcategory": "Foreigner ID"
+    "subsubcategory": "Foreigner ID",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Residencia = Residence Permit",
+        "body": "The residencia (Tarjeta de Residencia) is the physical residence card for non-EU residents who have a long-term visa (work, student, family reunion, etc.). EU citizens get a green certificate instead. Apply at the Oficina de Extranjería after your visa is approved.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "modelo-720",
@@ -7790,7 +7990,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "banking",
       "transfers",
@@ -7803,7 +8003,34 @@
       "fintech-banking-spain",
       "english-speaking-financial-advisors-madrid"
     ],
-    "subsubcategory": "Transfers"
+    "subsubcategory": "Transfers",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Best money transfer options for Spain",
+        "items": [
+          {
+            "title": "Wise (formerly TransferWise)",
+            "body": "Best rates. 0.35% fee. Mid-market exchange rate. English app. wise.com",
+            "meta": [
+              "Best overall"
+            ]
+          },
+          {
+            "title": "Revolut",
+            "body": "Multi-currency account. Free exchange on weekdays. English app. revolut.com"
+          },
+          {
+            "title": "Remitly",
+            "body": "Fast transfers. Good for non-EU countries. remitly.com"
+          },
+          {
+            "title": "Western Union",
+            "body": "Cash pickup. More expensive but ubiquitous."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "fintech-banking-spain",
@@ -7841,7 +8068,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "banking",
       "iban",
@@ -7853,7 +8080,15 @@
       "transfers-spain",
       "fintech-banking-spain"
     ],
-    "subsubcategory": "Transfers"
+    "subsubcategory": "Transfers",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish IBAN format",
+        "body": "Spanish IBANs start with ES + 22 digits. Format: ES + 2 check digits + 4 bank code + 4 branch code + 2 check digits + 10 account number. SEPA transfers within eurozone are free and arrive same day or next business day.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "internships-spain",
@@ -8264,7 +8499,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "flea-market",
@@ -8277,7 +8512,41 @@
       "mercado-san-miguel",
       "vat-refund-spain"
     ],
-    "subsubcategory": "Markets"
+    "subsubcategory": "Markets",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's most famous Sunday tradition",
+        "body": "El Rastro is Madrid's weekly flea market, every Sunday 9am-3pm in La Latina. Calle Ribera de Curtidores + surrounding streets. Antiques, clothes, electronics, junk, art. Watch your wallet — pickpockets work the crowds.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "When",
+            "value": "Every Sunday 9am-3pm (rain or shine)"
+          },
+          {
+            "label": "Where",
+            "value": "Ribera de Curtidores, La Latina (Metro Tirso de Molina)"
+          },
+          {
+            "label": "What to buy",
+            "value": "Antiques, vintage, art, books, electronics, clothing"
+          },
+          {
+            "label": "What to bring",
+            "value": "Cash (no cards), small bills, comfortable shoes"
+          },
+          {
+            "label": "Pickpocket warning",
+            "value": "HIGH — keep wallets in front pockets, bags zipped"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "salamanca-luxury-shopping",
@@ -8290,7 +8559,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "shopping",
       "luxury",
@@ -8303,7 +8572,31 @@
       "salamanca-neighborhood",
       "vat-refund-spain"
     ],
-    "subsubcategory": "Luxury"
+    "subsubcategory": "Luxury",
+    "sections": [
+      {
+        "type": "list",
+        "heading": "Calle Serrano — Madrid's Golden Mile",
+        "items": [
+          {
+            "title": "Loewe (Casa Loewe)",
+            "body": "Calle Serrano 7. Spanish luxury brand founded 1846. Flagship store + design gallery."
+          },
+          {
+            "title": "Hermès",
+            "body": "Calle de Villanueva 2. French luxury. Corner of Serrano."
+          },
+          {
+            "title": "Prada",
+            "body": "Calle de José Ortega y Gasset 16. Italian luxury."
+          },
+          {
+            "title": "Cartier",
+            "body": "Calle de José Ortega y Gasset 10. Fine jewelry + watches."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "mercados-madrid",
@@ -8594,7 +8887,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "traditions",
       "festival",
@@ -8606,7 +8899,41 @@
       "verbenas-festivals",
       "chotis-madrid"
     ],
-    "subsubcategory": "Festivals"
+    "subsubcategory": "Festivals",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's biggest festival (May 11-15)",
+        "body": "San Isidro is Madrid's patron saint festival — 9 days of concerts, bullfights, street parties, and cultural events. The city erupts. Free events in Plaza Mayor, Las Vistillas, and Príncipe Pío. Book hotels months ahead.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Dates",
+            "value": "May 11-15 (plus surrounding days)"
+          },
+          {
+            "label": "Patron saint",
+            "value": "San Isidro Labrador (Madrid's farmer saint)"
+          },
+          {
+            "label": "Key events",
+            "value": "Concerts at Las Vistillas, bullfights at Las Ventas"
+          },
+          {
+            "label": "Tradition",
+            "value": "Eat rosquillas (ring-shaped pastries) at San Isidro Meadow"
+          },
+          {
+            "label": "Free",
+            "value": "Most outdoor events free"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "metro-closures-summer-2026",
@@ -8891,7 +9218,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "now",
       "transit",
@@ -8904,6 +9231,14 @@
       "madrid-barajas-airport",
       "major-airlines-madrid",
       "airport-express-bus-203"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Check flight status before heading to airport",
+        "body": "Barajas Airport (MAD) occasionally experiences delays from ATC strikes, weather, or security incidents. Check AENA app or aena.es for real-time flight status. Spanish ATC strikes happen periodically — check news before travel days.",
+        "tone": "warning"
+      }
     ]
   },
   {
@@ -9145,7 +9480,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "airport",
@@ -9157,6 +9492,14 @@
       "madrid-barajas-airport",
       "madrid-tourist-offices",
       "airport-express-bus-203"
+    ],
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Airport information desks",
+        "body": "AENA information desks at every Barajas terminal. Hotel booking, transport advice, tourist info. English-speaking. Open 24/7 at T1 and T4.",
+        "tone": "info"
+      }
     ]
   },
   {
@@ -9212,7 +9555,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "tourist-info",
       "audio-guide",
@@ -9225,7 +9568,15 @@
       "madrid-tourist-offices",
       "walking-madrid"
     ],
-    "subsubcategory": "Apps"
+    "subsubcategory": "Apps",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Free official audio guides",
+        "body": "esMadrid offers 7 free audio-guided walking routes (1-3 hours each). Download from esmadrid.com/en/audio-guides. Topics: Habsburg Madrid, Bourbon Madrid, Literary Quarter, and more. Bring headphones.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "student-visa-spain",
@@ -9994,7 +10345,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "healthcare",
       "dentist",
@@ -10006,7 +10357,35 @@
       "pharmacies",
       "public-healthcare"
     ],
-    "subsubcategory": "Dentists"
+    "subsubcategory": "Dentists",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Consultation",
+            "value": "€30-60 (private)"
+          },
+          {
+            "label": "Cleaning",
+            "value": "€40-80"
+          },
+          {
+            "label": "Implant",
+            "value": "€1,200-1,800 (vs €3,500-5,000 US)"
+          },
+          {
+            "label": "Insurance",
+            "value": "Sanitas/Adeslas often cover dental"
+          },
+          {
+            "label": "English-speaking",
+            "value": "Several clinics — see english-speaking-doctors-madrid"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "hospitals-madrid",
@@ -10336,7 +10715,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "museums",
       "archaeology",
@@ -10349,7 +10728,31 @@
       "museo-reina-sofia",
       "salamanca-neighborhood"
     ],
-    "subsubcategory": "Other Museums"
+    "subsubcategory": "Other Museums",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Calle Serrano 13 (Metro Serrano L4)"
+          },
+          {
+            "label": "Cost",
+            "value": "€3. Free Sat afternoon + Sun morning."
+          },
+          {
+            "label": "Star exhibit",
+            "value": "Dama de Elche (Iberian sculpture, 4th century BC)"
+          },
+          {
+            "label": "Covers",
+            "value": "Prehistoric Iberia, Roman Spain, Visigothic, Moorish, medieval"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "museo-sorolla",
@@ -10362,7 +10765,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "museums",
       "sorolla",
@@ -10375,7 +10778,37 @@
       "chamberi-neighborhood",
       "retiro-park"
     ],
-    "subsubcategory": "Other Museums"
+    "subsubcategory": "Other Museums",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Hidden gem: painter's house-museum",
+        "body": "Museo Sorolla is the house + studio of Impressionist painter Joaquín Sorolla (1863-1923). Beautiful small museum with Andalusian garden courtyard. Free on Sunday mornings. One of Madrid's most charming hidden museums.",
+        "tone": "info"
+      },
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Location",
+            "value": "Paseo del General Martínez Campos 37 (Metro Iglesia L1)"
+          },
+          {
+            "label": "Cost",
+            "value": "€3. Free Sat afternoon + Sun morning."
+          },
+          {
+            "label": "Hours",
+            "value": "Tue-Sat 9:30am-8pm, Sun 10am-3pm. Closed Mon."
+          },
+          {
+            "label": "Garden",
+            "value": "Andalusian-style courtyard garden. Photo-worthy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "museo-thyssen-bornemisza-detail",
@@ -11124,7 +11557,7 @@
     "status": "dynamic",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "news",
       "events",
@@ -11137,7 +11570,15 @@
       "the-local-spain",
       "madrid-tourist-offices"
     ],
-    "subsubcategory": "What's On"
+    "subsubcategory": "What's On",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "What's on in Madrid today",
+        "body": "For current events, check: esMadrid.com (official, English), Madrid Secreto (Spanish, hidden gems), and the Madrid Insider Madrid Now section. Major annual events: San Isidro (May), Madrid Pride (June-July), Mad Cool (July), Veranos de la Villa (July-August).",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "restaurant-spanish",
@@ -11531,7 +11972,15 @@
       "job-search-spain",
       "teach-english-spain"
     ],
-    "subsubcategory": "Job Search & Career"
+    "subsubcategory": "Job Search & Career",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Spanish CV format differs from US/UK",
+        "body": "Spanish CVs include: photo (ID-size, upper right), personal details (age, marital status, nationality — normal in Spain), education, work experience, languages. 2-3 pages is normal. Cover letter = 'carta de presentación'. Interview: formal but warm. Punctuality expected.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "plaza-de-la-villa",
@@ -11600,7 +12049,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "parks",
       "cherry-blossom",
@@ -11614,7 +12063,15 @@
       "madrid-rio",
       "casa-de-campo"
     ],
-    "subsubcategory": "Gardens"
+    "subsubcategory": "Gardens",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Cherry blossoms in February-March",
+        "body": "Quinta de los Molinos is famous for its almond tree blossoms (almendros) in February-March. The park explodes with pink and white flowers for about 2 weeks. Instagram gold. Metro Suanzes (L5). Free.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "parque-juan-carlos-i",
@@ -11627,7 +12084,7 @@
     "status": "evergreen",
     "english_friendly": false,
     "english_level": "spanish-only",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "parks",
       "modern",
@@ -11641,7 +12098,35 @@
       "casa-de-campo",
       "bicimad"
     ],
-    "subsubcategory": "Large Parks"
+    "subsubcategory": "Large Parks",
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Size",
+            "value": "160 hectares (modern park, east Madrid)"
+          },
+          {
+            "label": "Metro",
+            "value": "Campo de las Naciones (L8)"
+          },
+          {
+            "label": "Highlights",
+            "value": "Lake with boat rentals, sculptures, olive grove garden, walking paths"
+          },
+          {
+            "label": "Best for",
+            "value": "Running, cycling, family picnics — less crowded than Retiro"
+          },
+          {
+            "label": "Cost",
+            "value": "Free"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "spanish-wines-madrid",
@@ -11726,7 +12211,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-primary",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "tennis",
@@ -11739,6 +12224,34 @@
       "real-madrid-bernabeu",
       "atletico-madrid-wanda-metropolitano",
       "tennis-academies-spain"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "When",
+            "value": "Late April - early May annually"
+          },
+          {
+            "label": "Venue",
+            "value": "Caja Mágica (Manzanares Park, south Madrid)"
+          },
+          {
+            "label": "Tickets",
+            "value": "€20-200+ (book months ahead)"
+          },
+          {
+            "label": "Surface",
+            "value": "Clay (warmup for French Open)"
+          },
+          {
+            "label": "Metro",
+            "value": "San Fermín-Orcasur (L12)"
+          }
+        ]
+      }
     ]
   },
   {
@@ -11855,7 +12368,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-available",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-30",
     "tags": [
       "events",
       "festival",
@@ -11869,7 +12382,15 @@
       "madrid-pride",
       "prado-current"
     ],
-    "subsubcategory": "Cultural Festivals"
+    "subsubcategory": "Cultural Festivals",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid's photography festival (June-July)",
+        "body": "PhotoEspaña is one of Europe's largest photography festivals, held annually in June-July. 70+ venues across Madrid. International + Spanish photographers. Many exhibitions free. Check photoespagna.com for current program.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "madrid-fashion-week",
@@ -12618,7 +13139,7 @@
     "status": "annual review",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-30",
     "tags": [
       "sports",
       "skiing",
@@ -12631,6 +13152,30 @@
       "running-madrid",
       "el-escorial-day-trip",
       "segovia-day-trip"
+    ],
+    "sections": [
+      {
+        "type": "stats",
+        "heading": "Madrid-area ski resorts",
+        "items": [
+          {
+            "label": "Valdesquí",
+            "value": "1hr north. Closest. €39-45/day. 20km slopes. Dec-Mar."
+          },
+          {
+            "label": "Navacerrada",
+            "value": "1hr north. Higher altitude. Often windy."
+          },
+          {
+            "label": "Xanadú",
+            "value": "Indoor ski slope at shopping mall. Arroyomolinos. Year-round."
+          },
+          {
+            "label": "Season",
+            "value": "December-March (outdoor). Year-round (Xanadú indoor)."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12794,7 +13339,7 @@
     "status": "evergreen",
     "english_friendly": true,
     "english_level": "english-partial",
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-30",
     "tags": [
       "nightlife",
       "salsa",
@@ -12808,7 +13353,15 @@
       "la-latina-neighborhood",
       "chueca-bars-nightlife"
     ],
-    "subsubcategory": "Dancing & Clubs"
+    "subsubcategory": "Dancing & Clubs",
+    "sections": [
+      {
+        "type": "callout",
+        "heading": "Madrid salsa scene",
+        "body": "Madrid has an active salsa/Latin dance scene. Clubs tend to open late (midnight+) and dance until 5-6am. Lessons often available before the social dancing starts. Check current venues — salsa clubs change frequently.",
+        "tone": "info"
+      }
+    ]
   },
   {
     "id": "terrazas-rooftop-bars-madrid",
